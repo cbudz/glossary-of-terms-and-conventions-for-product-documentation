@@ -1,0 +1,16 @@
+tmp
+.swp
+.swo
+.swn
+.*.swp
+.*.swo
+.*.swn
+*.patch
+docbook_viewer.sh
+*.html
+test
+.*.png
+build
+
+
+
