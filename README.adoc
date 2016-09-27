@@ -1,0 +1,7 @@
+= Documentation Conventions
+
+TBA
+
+== Contributing
+
+See xref:contributing[] for details.
