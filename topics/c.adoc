@@ -8,7 +8,7 @@
 
 **See also**: xref:red-hat-ceph-storage[Red Hat Ceph Storage]
 
-=== cannot
+.cannot
 [[cannot]]
 **Description**: This is the correct spelling. Do not use can not or can't
 
