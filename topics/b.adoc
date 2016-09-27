@@ -7,3 +7,13 @@
 **Incorrect forms**: boot disk
 
 **See also**:
+
+.⁠bottleneck
+[[⁠bottleneck]]
+**Description**: A bottleneck refers to the delay in transmission of data through the circuits of a computer's microprocessor or over a TCP/IP network. The delay typically occurs when a system's bandwidth cannot support the amount of information being relayed at the speed it is being processed. There are, however, many factors that can create a bottleneck in a system.
+
+**Class**: noun
+
+**Incorrect forms**: bottle neck, bottle-neck
+
+**See also**:
