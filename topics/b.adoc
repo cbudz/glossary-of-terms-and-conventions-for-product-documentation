@@ -1,0 +1,9 @@
+.boot disk
+[[boot-disk]]
+**Description**: TBA
+
+**Class**: noun
+
+**Incorrect forms**: boot disk
+
+**See also**:
