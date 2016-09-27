@@ -1,0 +1,9 @@
+.Ceph
+[[ceph]]
+**Description**: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage.
+
+**Class**: noun
+
+**Incorrect forms**: CEPH, ceph
+
+**See also**: xref:red-hat-ceph-storage[Red Hat Ceph Storage]

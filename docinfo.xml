@@ -1,0 +1,17 @@
+<title>Documentation Conventions</title>
+<productname>Internal Documentation</productname>
+<productnumber>1.0</productnumber>a
+<subtitle>Glossary of technical terms</subtitle>
+<abstract>
+    <para>
+        TBA
+    </para>
+</abstract>
+<authorgroup>
+  <org>
+    <orgname>Red Hat Documentation Team</orgname>
+    <email>TBA</email>
+  </org>
+</authorgroup>
+
+

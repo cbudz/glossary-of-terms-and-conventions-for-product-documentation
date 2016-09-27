@@ -1,0 +1,41 @@
+Use the following template to describe particular entries:
+
+The AsciiDoc source:
+
+----
+.<term>
+[[<anchor-tag>]]
+**Description**: <description>
+
+**Class**: <class>
+
+**Incorrect forms**: <incorrect-form>
+
+**See also**: xref:<another-anchor-tag>[<another-term>]
+----
+
+Replace:
+
+* `<term>` with the term to be described
+* `<anchor-tag>` with the term in lowercase, if the term consists of more than one word, separate them with a hyphen ("-")
+* `<description>` with the description of the term
+* `<class>` with the class of the term (noun, adjective, verb, ...)
+* `<incorrect-form>` with the form of the term that we should not use. If there are more than one, separate them with a comma (",")
+* `<another-anchor-tag>` with the anchor tag of the another term related to this one
+* `<another-term>` with the term related to this one
+
+For example:
+
+----
+.Ceph
+[[ceph]]
+**Description**: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage.
+
+**Class**: noun
+
+**Incorrect forms**: CEPH, ceph
+
+**See also**: xref:red-hat-ceph-storage[Red Hat Ceph Storage]
+----
+
+For the rendered output see xref:ceph[Ceph].
