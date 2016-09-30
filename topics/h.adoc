@@ -1,4 +1,4 @@
- .host name
+.host name
 [[host-name]]
 **Description**: Two words, and only capitalize the initial "H" at the beginning of a sentence. See The IBM Style Guide for more information. 
 
