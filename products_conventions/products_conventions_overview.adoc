@@ -1,1 +1,4 @@
 [[product-conventions-overview]]
+
+The following sections contain conventions specific to particular Red Hat
+products. Product documentation teams are responsible for these sections.

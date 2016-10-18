@@ -1,3 +1,9 @@
 [[faq]]
 
-TBA
+_work in progress_
+
+I want to update this guide, how can I do that?::
+    See xref:how-to-update-this-document[] for details.
+
+I see an issue with the guide but i don't want to fix it myself:: 
+    Open an issue. See xref:[TBA] for details.

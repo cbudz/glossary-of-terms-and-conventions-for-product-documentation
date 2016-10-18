@@ -1,3 +1,43 @@
 [[how-to-update-this-document]]
 
-TBD
+This guide is written in the AsciiDoc markup language and hosted in a git repository at https://gitlab.cee.redhat.com/ccs-internal-documentation/documentation-conventions[GitLab].
+
+.Editing the Guide in GUI
+
+NOTE: Before you start, ensure that you are logged in to GitLab.
+
+To edit this guide:
+
+. Create a new branch.
+
+    .. On the main repository page (https://gitlab.cee.redhat.com/ccs-internal-documentation/documentation-conventions/tree/master) click the plus button and select "New branch".
+
+    .. Specify the name of the branch. Use the "wip-<name-of-the-entry>" form when adding a new entry, for example "wip-host-name" or "wip-<name-of-the-entry-edits>" when updating an existing entry, for example "wip-host-name-edits".
+
+    .. Click "Create branch".
+
+. Make edits in the guide.
+
+    .. Navigate to the topics directory and select the file you want to add the entry to.
+
+    .. Click "Edit".
+
+    .. Make the changes. Use this xref:template[template] when adding a new entry.
+
+. Commit the changes
+
+    .. Update the commit message. Be descriptive enough, "Updated the <filename> file." is not a good commit message. Use something like "Added the <entry-name> entry or "Fixed a typo in the <entry-name> entry.
+
+    .. Click "Commit Changes"
+
+. If you want to make additional changes, edit the file again and commit the changes.
+
+. Once you are done updating the file, create a merge request.
+
+    .. Click "Create Merge Request".
+
+    .. Click "Remove the WIP: prefix from the title".
+
+    .. Optionally, write a description of your change.
+
+    .. Click "Submit merge request".

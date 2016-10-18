@@ -1,3 +1,4 @@
+[[template]]
 Use the following template to describe particular entries:
 
 The AsciiDoc source:
