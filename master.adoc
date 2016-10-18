@@ -2,90 +2,98 @@
 
 :includedir: .
 
-== How to Update This Document
-include::{includedir}/topics/updating.adoc[]
+== General Information
 
-=== Template for Entries
-include::{includedir}/topics/template.adoc[]
+=== How to Update This Document
+include::{includedir}/general_information/updating.adoc[]
 
-== General Guidelines
+==== Template for Entries
+include::{includedir}/general_information/template.adoc[]
+
+=== FAQ
+include::{includedir}/general_information/faq.adoc[]
+
+== General Conventions
 
 === A
-include::{includedir}/topics/a.adoc[]
+include::{includedir}/general_conventions/a.adoc[]
 
 === B
-include::{includedir}/topics/b.adoc[]
+include::{includedir}/general_conventions/b.adoc[]
 
 === C
-include::{includedir}/topics/c.adoc[]
+include::{includedir}/general_conventions/c.adoc[]
 
 === D
-include::{includedir}/topics/d.adoc[]
+include::{includedir}/general_conventions/d.adoc[]
 
 === E
-include::{includedir}/topics/e.adoc[]
+include::{includedir}/general_conventions/e.adoc[]
 
 === F
-include::{includedir}/topics/f.adoc[]
+include::{includedir}/general_conventions/f.adoc[]
 
 === G
-include::{includedir}/topics/g.adoc[]
+include::{includedir}/general_conventions/g.adoc[]
 
 === H
-include::{includedir}/topics/h.adoc[]
+include::{includedir}/general_conventions/h.adoc[]
 
 === I
-include::{includedir}/topics/i.adoc[]
+include::{includedir}/general_conventions/i.adoc[]
 
 === J
-include::{includedir}/topics/j.adoc[]
+include::{includedir}/general_conventions/j.adoc[]
 
 === K
-include::{includedir}/topics/k.adoc[]
+include::{includedir}/general_conventions/k.adoc[]
 
 === L
-include::{includedir}/topics/l.adoc[]
+include::{includedir}/general_conventions/l.adoc[]
 
 === M
-include::{includedir}/topics/m.adoc[]
+include::{includedir}/general_conventions/m.adoc[]
 
 === N
-include::{includedir}/topics/n.adoc[]
+include::{includedir}/general_conventions/n.adoc[]
 
 === O
-include::{includedir}/topics/o.adoc[]
+include::{includedir}/general_conventions/o.adoc[]
 
 === P
-include::{includedir}/topics/p.adoc[]
+include::{includedir}/general_conventions/p.adoc[]
 
 === Q
-include::{includedir}/topics/q.adoc[]
+include::{includedir}/general_conventions/q.adoc[]
 
 === R
-include::{includedir}/topics/r.adoc[]
+include::{includedir}/general_conventions/r.adoc[]
 
 === S
-include::{includedir}/topics/s.adoc[]
+include::{includedir}/general_conventions/s.adoc[]
 
 === T
-include::{includedir}/topics/t.adoc[]
+include::{includedir}/general_conventions/t.adoc[]
 
 === U
-include::{includedir}/topics/u.adoc[]
+include::{includedir}/general_conventions/u.adoc[]
 
 === V
-include::{includedir}/topics/v.adoc[]
+include::{includedir}/general_conventions/v.adoc[]
 
 === W
-include::{includedir}/topics/w.adoc[]
+include::{includedir}/general_conventions/w.adoc[]
 
 === X
-include::{includedir}/topics/x.adoc[]
+include::{includedir}/general_conventions/x.adoc[]
 
 === Y
-include::{includedir}/topics/y.adoc[]
+include::{includedir}/general_conventions/y.adoc[]
 
 === Z
-include::{includedir}/topics/z.adoc[]
+include::{includedir}/general_conventions/z.adoc[]
 
-== Product-specific Guidelines
+== Product-specific Conventions
+include::{includedir}/products_conventions/products_conventions_overview.adoc[]
+
+

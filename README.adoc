@@ -4,6 +4,8 @@ TBA
 
 == Contributing
 
+NOTE: Before you start, ensure that you are logged in to GitLab.
+
 To edit this guide:
 
 . Create a new branch.
