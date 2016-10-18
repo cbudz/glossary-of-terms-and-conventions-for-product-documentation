@@ -22,7 +22,7 @@ To edit this guide:
 
     .. Click "Edit".
 
-    .. Make the changes. Use the https://gitlab.cee.redhat.com/ccs-internal-documentation/documentation-conventions/blob/master/topics/template.adoc[template] when adding a new entry.
+    .. Make the changes. Use the https://gitlab.cee.redhat.com/ccs-internal-documentation/documentation-conventions/blob/master/general_information/template.adoc[template] when adding a new entry.
 
 . Commit the changes
 
