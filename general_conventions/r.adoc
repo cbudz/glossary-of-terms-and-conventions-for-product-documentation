@@ -1,11 +1,13 @@
 .Red Hat Ceph Storage
 [[red-hat-ceph-storage]]
 
-**Description**: Red Hat Ceph Storage is a Red Hat offering of the Ceph Storage upstream project.
+*Description*: Red Hat Ceph Storage is a Red Hat offering of the Ceph Storage upstream project. Always use the full name, do not use the abbreviated form ("RHCS").
 
-**Class**: noun
+*Use it*: yes
 
-**Incorrect forms**: RHCS
+*Class*: noun
 
-**See also**: xref:ceph[Ceph]
+*Incorrect forms*: RHCS
+
+*See also*: xref:ceph[Ceph]
 

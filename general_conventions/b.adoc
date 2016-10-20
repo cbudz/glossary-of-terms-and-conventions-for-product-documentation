@@ -1,20 +1,24 @@
 .boot disk
 [[boot-disk]]
-**Description**: TBA
+*Description*: _TBA_
 
-**Class**: noun
+*Use it*: yes
 
-**Incorrect forms**: boot diskette
+*Class*: noun
 
-**See also**:
+*Incorrect forms*: boot diskette
+
+*See also*:
 
 
 .⁠bottleneck
 [[bottleneck]]
-**Description**: A bottleneck refers to the delay in transmission of data through the circuits of a computer's microprocessor or over a TCP/IP network. The delay typically occurs when a system's bandwidth cannot support the amount of information being relayed at the speed it is being processed. There are, however, many factors that can create a bottleneck in a system.
+*Description*: A bottleneck refers to the delay in transmission of data through the circuits of a computer's microprocessor or over a TCP/IP network. The delay typically occurs when a system's bandwidth cannot support the amount of information being relayed at the speed it is being processed. There are, however, many factors that can create a bottleneck in a system. Preferred spelling is "bottleneck", do not use "bottle neck" or "bottle-neck". 
 
-**Class**: noun
+*Use it*: yes
 
-**Incorrect forms**: bottle neck, bottle-neck
+*Class*: noun
 
-**See also**:
+*Incorrect forms*: bottle neck, bottle-neck
+
+*See also*:

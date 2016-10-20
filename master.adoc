@@ -95,5 +95,3 @@ include::{includedir}/general_conventions/z.adoc[]
 
 == Product-specific Conventions
 include::{includedir}/products_conventions/products_conventions_overview.adoc[]
-
-

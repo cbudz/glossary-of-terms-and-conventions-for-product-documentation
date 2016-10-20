@@ -1,9 +1,11 @@
 .QCOW2
 [[qcow2]]
-**Description**: QCOW2 stands for QEMU Copy On Write version 2. QCOW2 is a file format for disk image files used by QEMU, a hosted virtual machine monitor.
+*Description*: QCOW2 stands for QEMU Copy On Write version 2. QCOW2 is a file format for disk image files used by QEMU, a hosted virtual machine monitor. Always write this term in uppercase because it is an acronym. Do not use "qcow2" or "Qcow2".
 
-**Class**: adjective
+*Use it*: yes
 
-**Incorrect forms**: qcow2, Qcow2
+*Class*: adjective
 
-**See also**:
+*Incorrect forms*: qcow2, Qcow2
+
+*See also*:

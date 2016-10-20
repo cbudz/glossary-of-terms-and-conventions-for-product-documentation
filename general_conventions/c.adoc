@@ -1,19 +1,23 @@
 .cannot
 [[cannot]]
-**Description**: This is the correct spelling. Do not use can not or can't
+*Description*: "cannot" is the correct spelling. Do not use "can not" or "can't".
 
-**Class**: verb
+*Use it*: yes
 
-**Incorrect forms**: can not, can't
+*Class*: verb
 
-**See also**:
+*Incorrect forms*: can not, can't
+
+*See also*:
 
 .Ceph
 [[ceph]]
-**Description**: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage.
+*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
 
-**Class**: noun
+*Use it*: yes
 
-**Incorrect forms**: CEPH, ceph
+*Class*: noun
 
-**See also**: xref:red-hat-ceph-storage[Red Hat Ceph Storage]
+*Incorrect forms*: CEPH, ceph
+
+*See also*: xref:red-hat-ceph-storage[Red Hat Ceph Storage]

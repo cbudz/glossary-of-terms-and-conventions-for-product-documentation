@@ -2,8 +2,6 @@
 
 This guide is written in the AsciiDoc markup language and hosted in a git repository at https://gitlab.cee.redhat.com/ccs-internal-documentation/documentation-conventions[GitLab].
 
-.Editing the Guide in GUI
-
 NOTE: Before you start, ensure that you are logged in to GitLab.
 
 To edit this guide:

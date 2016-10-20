@@ -1,9 +1,11 @@
 .air gap
 [[air-gap]]
-**Description**: "Air gap" describes systems that are separated, not by software, but physically. Do not use "air wall". "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
+*Description*: "Air gap" describes systems that are separated, not by software, but physically. Do not use "air wall". "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
 
-**Class**: noun
+*Use it*: yes
 
-**Incorrect forms**: air wall
+*Class*: noun
 
-**See also**:
+*Incorrect forms*: air wall
+
+*See also*:

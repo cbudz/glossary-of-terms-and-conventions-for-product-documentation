@@ -6,20 +6,23 @@ The AsciiDoc source:
 ----
 .<term>
 [[<anchor-tag>]]
-**Description**: <description>
+*Description*: <description>
 
-**Class**: <class>
+*Use it*: <yes/no/with caution>
 
-**Incorrect forms**: <incorrect-form>
+*Class*: <class>
 
-**See also**: xref:<another-anchor-tag>[<another-term>]
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
 ----
 
 Replace:
 
 * `<term>` with the term to be described
 * `<anchor-tag>` with the term in lowercase, if the term consists of more than one word, separate them with a hyphen ("-")
-* `<description>` with the description of the term
+* `<description>` with the description of the term and why should we use it in this form and why are the incorrect forms incorrect, or why we should not use the term
+* `<yes/no/with caution>` with `yes`, `no`, or `with caution` depending on whether the term should be used, not be used, or used with caution. Always explain why in the *Description* field
 * `<class>` with the class of the term (noun, adjective, verb, ...)
 * `<incorrect-form>` with the form of the term that we should not use. If there are more than one, separate them with a comma (",")
 * `<another-anchor-tag>` with the anchor tag of the another term related to this one
@@ -30,13 +33,22 @@ For example:
 ----
 .Ceph
 [[ceph]]
-**Description**: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage.
+*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
 
-**Class**: noun
+*Use it*: yes
 
-**Incorrect forms**: CEPH, ceph
+*Class*: noun
 
-**See also**: xref:red-hat-ceph-storage[Red Hat Ceph Storage]
+*Incorrect forms*: CEPH, ceph
+
+*See also*: xref:red-hat-ceph-storage[Red Hat Ceph Storage]
 ----
 
 For the rendered output see xref:ceph[Ceph].
+
+[NOTE]
+====
+If the term has the correct and incorrect form, always use the correct form instead of `<term>` and list the incorrect form in the *Incorrect forms* field. Remember to explain why is the incorrect form incorrect in the *Description* field.
+
+If you want to add a term that we should not use and that does not have a correct form, use the incorrect version instead of `<term>` and add "no" to the *Use it* field. Explain why we should not use that term in the *Description* field.
+====
