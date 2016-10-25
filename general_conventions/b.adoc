@@ -1,6 +1,253 @@
+.back end
+[[back-end]]
+*Description*: "Back end" is a noun, "back-end" is an adjective. Refers to software that performs the final stages of a process, or tasks that are not visible to the user.
+
+* Adjective: "When the back-end database processes a search operation..."
+* Noun: "Each back end provides a set of calls."
+
+*Use it*: yes
+
+*Class*: adjective, noun
+
+*Incorrect forms*: Backend, backend
+
+*See also*:
+
+.backup
+[[backup]]
+*Description*: Depending on usage, this could appear in either of two ways:
+
+* Adjective: "Store the backup copies of important files in a secure location."
+* Noun: "Create a backup of your important files."
+
+*Use it*: yes
+
+*Class*: adjective, noun
+
+*Incorrect forms*: back-up
+
+*See also*: xref:back-up[]
+
+.back-up
+[[back-up]]
+*Description*: To back up data.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: backup
+
+*See also*: xref:backup[]
+
+.backtrace
+[[backtrace]]
+*Description*: "Backtrace" is the most common term used to refer to a stack trace (or stack backtrace), which is a report of the active stack frames (that is, function calls) at a certain point in time during the execution of a program. In contrast, the Python programming language calls its stack trace a "traceback," possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*:
+
+.backwards compatibility
+[[backwards]]
+*Description*: To be compatible with an earlier release of software or hardware.
+
+*Use it*: no
+
+*Class*: noun
+
+*Incorrect forms*: backwards compatibility
+
+*See also*:
+
+.bandwith
+[[bandwith]]
+*Description*: A range within a band of frequencies or wavelengths, or the amount of data that can be transmitted in a fixed amount of time. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+.bare metal
+[[bare-metal]]
+*Description*: Physical hardware as opposed to virtual hardware.
+
+* Adjective: "Bare-metal servers."
+* Noun: "Install on bare metal."
+
+*Use it*: yes
+
+*Class*: adjective, noun
+
+*Incorrect forms*: baremetal
+
+*See also*:
+
+.basically
+[[basically]]
+*Description*: In principle. Fundamentally. 
+
+*Use it*: no
+
+*Class*: adverb
+
+*Incorrect forms*: basically
+
+*See also*:
+
+.because
+[[because]]
+*Description*: Do not use "since" to mean "because"; it is ambiguous. Use "because" to refer to a reason. Use "since" to indicate the passage of time. 
+
+*Use it*: yes
+
+*Class*: conjunction
+
+*Incorrect forms*: because
+
+*See also*:
+
+.below
+[[below]]
+*Description*: Do not use to refer to information mentioned "below"; or later in a document. When documents are converted to online format, the information may no longer be "below". Use a cross-reference instead. 
+
+*Use it*: no
+
+*Class*: adverb
+
+*Incorrect forms*: below
+
+*See also*:
+
+.big data
+[[big-data]]
+*Description*: Extremely large sets of data that can be analyzed to determine trends and other information. Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red Hat product, service, solution, or business unit name. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Big Data, Big-Data, big-data
+
+*See also*:
+
+.bimodal IT
+[[bimodal-it]]
+*Description*: Gartner phrase for the combination of traditional (mode 1 or type 1) and modern (mode 2 or type 2) IT infrastructure and resources. There are many ways to talk about this combination approach; be sure you use the right phrase for your audience. Using only the Gartner term can alienate other analysts or those not familiar with Gartner's phrasing.
+
+The practice of having both modes together is often referred to as hybrid, agile, or modern IT. 
+
+[NOTE]
+====
+Hybrid IT is a more general term, e.g. it could mean on-premise plus public cloud. Agile and modern IT can both carry an implication of "mode 2"--so when using those terms, be specific about the exact technology combination you mean.
+====
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+.bimonthly
+[[bimonthly]]
+*Description*: Every other month. 
+
+*Use it*: yes
+
+*Class*: adverb
+
+*Incorrect forms*: bi-monthly
+
+*See also*:
+
+.biweekly
+[[biweekly]]
+*Description*: Every other week. 
+
+*Use it*: yes
+
+*Class*: adverb
+
+*Incorrect forms*: bi-weekly
+
+*See also*:
+
+.BIND
+[[bind]]
+*Description*: This is correct when referring to the DNS software.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Bind, bind
+
+*See also*:
+
+.BIOS
+[[bios]]
+*Description*: An abbreviation for basic input and output system. The plural form is BIOSes.
+
+*Use it*: yes
+
+*Class*: abbreviation
+
+*Incorrect forms*: Bios
+
+*See also*:
+
+.bit rate
+[[bit-rate]]
+*Description*: The number of bits per second that can be transmitted or processed.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: bitrate
+
+*See also*:
+
+.Boolean
+[[boolean]]
+*Description*: Named after George Boole, who first developed the concept of a data type with two values often represented as "True" and "False". According to The IBM Style Guide, it is acceptable to use "boolean" in programming when it refers to a primitive type. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: boolean
+
+*See also*: 
+
+.boot
+[[boot]]
+*Description*: To start a computer or load a piece of software.
+
+* Noun: Refers to the starting-up of a computer, which involves loading the operating system and other basic software. A cold boot refers to starting a computer that is turned off. A warm boot refers to resetting a computer that is already running.
+* Verb: To load the first piece of software that starts a computer. Because the operating system is essential for running all other programs, it is usually the first piece of software loaded during the boot process.
+
+*Use it*: yes
+
+*Class*: noun, verb
+
+*Incorrect forms*: 
+
+*See also*:
+
 .boot disk
 [[boot-disk]]
-*Description*: _TBA_
+*Description*: A disk used to start a computer.
 
 *Use it*: yes
 
@@ -8,12 +255,23 @@
 
 *Incorrect forms*: boot diskette
 
-*See also*:
+*See also*: xref:boot[]
 
+.boot loader
+[[boot-loader]]
+*Description*: Software used to load an operating system when a computer is started.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: bootloader
+
+*See also*: xref:boot[]
 
 .⁠bottleneck
 [[bottleneck]]
-*Description*: A bottleneck refers to the delay in transmission of data through the circuits of a computer's microprocessor or over a TCP/IP network. The delay typically occurs when a system's bandwidth cannot support the amount of information being relayed at the speed it is being processed. There are, however, many factors that can create a bottleneck in a system. Preferred spelling is "bottleneck", do not use "bottle neck" or "bottle-neck". 
+*Description*: A limitation in the capacity of software or hardware caused by a single component. 
 
 *Use it*: yes
 
@@ -22,3 +280,122 @@
 *Incorrect forms*: bottle neck, bottle-neck
 
 *See also*:
+
+.bpp
+[[bpp]]
+*Description*: Initialism for bits per pixel. All letters are lowercase, unless at the beginning of a sentence. Use a non-breaking space between the numeral and the units. For example, "16 bpp," not "16bpp."   
+
+*Use it*: yes
+
+*Class*: initialism
+
+*Incorrect forms*:
+
+*See also*:
+
+.Bps
+[[Bps]]
+*Description*: Initialism for bytes per second. 
+
+*Use it*: yes
+
+*Class*: initialism
+
+*Incorrect forms*: bps
+
+*See also*:
+
+.bps
+[[bps]]
+*Description*: Initialism for bits per second.
+
+*Use it*: yes
+
+*Incorrect forms*: Bps
+
+*See also*:
+
+.bring up
+[[bring-up]]
+*Description*: To open a window or application.
+
+*Use it*: no
+
+*Class*: verb
+
+*Incorrect forms*: bring up
+
+*See also*: 
+
+.broadcast
+[[broadcast]]
+*Description*: To simultaneously send the same message to multiple recipients. Broadcasting is a useful feature in email systems. It is also supported by some fax systems. In networking, a distinction is made between broadcasting and multicasting. Broadcasting sends a message to everyone on the network whereas multicasting sends a message to a select list of recipients. 
+
+*Use it*: yes
+
+*Class*: noun, verb
+
+*Incorrect forms*: broad cast, broad-cast
+
+*See also*:
+
+.Btrfs
+[[btrfs]]
+*Description*: A copy-on-write file system for Linux. Use a capital "B" when referring to the file system. When referring to tools, commands, and other utilities related to the file system, be faithful to those utilities. See http://en.wikipedia.org/wiki/Btrfs for more information on this file system. See http://en.wikipedia.org/wiki/List_of_file_systems for a list of file system names and how to present them. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: btrfs
+
+*See also*: 
+
+.bug fix
+[[bug-fix]]
+*Description*: The resolution to a bug.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: bugfix
+
+*See also*: 
+
+.built-in
+[[built-in]]
+*Description*: Included or incorporated into a larger unit.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: builtin
+
+*See also*: 
+
+.bunches of
+[[bunches-of]]
+*Description*: Do not use unless "bunch" is a specific term used in the software being documented. Use "many" or some other alternative instead. 
+
+*Use it*: no
+
+*Class*:
+
+*Incorrect forms*: bunches of
+
+*See also*:
+
+.button
+[[button]]
+*Description*: Describe a GUI button as a "button", not a "pushbutton" or "push-button". The text "button" does not need to be included in a procedure or description. For example, "Click *OK* to continue" as opposed to "Click the *OK* button to proceed". However, it may be necessary to distinguish between buttons and links; for example, "Click the *Unload* button". 
+
+*Use it*: with caution
+
+*Class*: 
+
+*Incorrect forms*: push button, push-button, pushbutton
+
+*See also*:
+
