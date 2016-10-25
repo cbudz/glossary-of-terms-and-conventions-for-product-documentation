@@ -1,6 +1,30 @@
+.can
+[[can]]
+*Description*: Use "can" to describe actions or conditions that are possible. If either "can," "could," or "may" apply, use "can"; it is less tentative.
+
+*Use it*: yes
+
+*Class*: auxiliary verb
+
+*Incorrect forms*: may, could, might 
+
+*See also*:
+
+.canceled
+[[canceled]]
+*Description*: The past tense of "cancel". This is the preferred en-US spelling.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: cancelled
+
+*See also*:
+
 .cannot
 [[cannot]]
-*Description*: "cannot" is the correct spelling. Do not use "can not" or "can't".
+*Description*: The opposite of "can". This is the correct spelling.
 
 *Use it*: yes
 
@@ -10,9 +34,82 @@
 
 *See also*:
 
+.CapEx
+[[cap-ex]]
+*Description*: Stands for "capital expenditures".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Capex, capex, capEx
+
+*See also*:
+
+.cd
+[[cd-command]]
+*Description*: Refers to the "change directory" command.
+
+*Use it*: yes
+
+*Class*: command
+
+*Incorrect forms*: CD
+
+*See also*: xref:compact-disk[CD]
+
+.CD
+[[compact-disk]]
+*Description*: Stands for "compact disk".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: cd
+
+*See also*: xref:cd-command[cd]
+
+.CD #1
+[[cd-one]]
+*Description*: When referring to a specific CD in the Red Hat Enterprise Linux CD set, it is correct to refer to it as "Red Hat Enterprise Linux CD #1". Avoid using "Red Hat Enterprise Linux CD 1".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: CD 1
+
+*See also*:
+
+.CDs
+[[cds]]
+*Description*: The plural form of "CD". Use this to describe multiple compact disks.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: CDS, Cds
+
+*See also*: xref:compact-disk[CD]
+
+.ceph
+[[ceph-command]]
+*Description*: Ceph is a unified, distributed storage system designed for performance, reliability and scalability. Use only when referring to the `ceph` command, and ensure the term is marked up properly.
+
+*Use it*: yes
+
+*Class*: command
+
+*Incorrect forms*: CEPH, Ceph
+
+*See also*: xref:ceph[Ceph]
+
+
 .Ceph
 [[ceph]]
-*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
+*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH", because it is not an acronym. Use "ceph" only when referring to the `ceph` command, and ensure that the term is marke up properly.
 
 *Use it*: yes
 
@@ -21,3 +118,353 @@
 *Incorrect forms*: CEPH, ceph
 
 *See also*: xref:red-hat-ceph-storage[Red Hat Ceph Storage]
+
+.cgroup
+[[cgroup]]
+*Description*: This term is a contraction of "control group". Cgroups allow you to allocate resources — such as CPU time, system memory, network bandwidth, or combinations of these resources — among user-defined groups of tasks (processes) running on a system.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: CGroup, c group
+
+*See also*:
+
+.check box
+[[check-box]]
+*Description*: A small box that, when selected by the user, shows that a particular feature has been enabled or a particular option chosen. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: checkbox
+
+*See also*:
+
+.chip set
+[[chip-set]]
+*Description*: A collection of integrated circuits which are designed to function together as a unit, especially to perform a particular task within a computer system.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: chipset
+
+*See also*:
+
+.ciphertext
+[[ciphertext]]
+*Description*: In cryptography, ciphertext is the result of encryption performed on plaintext using an algorithm, called a cipher.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: cipher text, cyphertext, cypher text, cipher-text, cypher-text
+
+*See also*:
+
+.click
+[[click]]
+*Description*: Use when referring to a GUI button. For example, "Click *OK*".
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: push, hit
+
+*See also*:
+
+.client side
+[[client-side-noun]]
+*Description*: Refers to the client side in a client-server relationship. Use the two word form as a noun. For example, "This happens on the client side of the relationship."
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: client-side
+
+*See also*: xref:client-side-adjective[client-side]
+
+.client-side
+[[client-side-adjective]]
+*Description*: Refers to operations that are performed by the client in a client-server relationship. Use the one word form as an adjective. For example, "This is a client-side service."
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: client side
+
+*See also*: xref:client-side-noun[client-side-noun]
+
+.cloud
+[[cloud-adjective]]
+*Description*: Use a lowercase “c” when referring to cloud in a general sense.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: Cloud
+
+*See also*:
+
+.cloud
+[[cloud-noun]]
+*Description*: Use a lowercase “c” when referring to cloud computing in a general sense.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Cloud
+
+*See also*:
+
+.cloudbursting
+[[cloudbursting]]
+*Description*: Refers to the event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: cloud-bursting
+
+*See also*: 
+
+.cloudwashing
+[[cloudwashing]]
+*Description*: Refers to the process of rebranding legacy products to include the term "cloud" to increase their appeal to the cloud market.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: cloud-washing
+
+*See also*:
+
+.cluster
+[[cluster]]
+*Description*: Refers to a collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+.code
+[[code]]
+*Description*: Refers to programming statements and a set of instructions for a computer. The verb form is not to be used.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*:
+
+.comma-delimited
+[[comma-delimited]]
+*Description*: Refers to a data format in which each piece of data is separated by a comma.
+
+*Use it*: yes
+
+*Class*: compound adjective
+
+*Incorrect forms*: comma delimited, commadelimited
+
+*See also*:
+
+.comma-separated values
+[[comma-separated-values]]
+*Description*: Refers to a set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: comma-delimited values, comma separated values
+
+*See also*: xref:csv[CSV]
+
+
+.command-driven
+[[command-driven]]
+*Description*: Refers to programs and operating systems that accept commands in the form of special words or letters.
+
+*Use it*: yes
+
+*Class*: compound adjective
+
+*Incorrect forms*: command driven, commanddriven
+
+*See also*:
+
+.command language
+[[command-language]]
+*Description*: Refers to the programming language through which a user communicates with an operating system or an application.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: command-language
+
+*See also*:
+
+.connectivity
+[[connectivity]]
+*Description*: Refers to the ability of a program or device to link with other programs and devices.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+.container-based
+[[container-based]]
+*Description*: Refers to applications made up of multiple services that are distributed in containers. Can be used interchangeably with "containerized".
+
+*Use it*: yes
+
+*Class*: compound adjective
+
+*Incorrect forms*: container based
+
+*See also*: xref:containerized[containerized]
+
+.containerized
+[[containerized]]
+*Description*: Refers to applications made up of multiple services that are distributed in containers. Can be used interchangeably with "container-based".
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: containerised
+
+*See also*: xref:container-based[container-based]
+
+.control program
+[[control-program]]
+*Description*: Refers to a program that enhances an operating system by creating an environment in which you can run other programs.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:container-based[container-based]
+
+.convert
+[[convert]]
+*Description*: To change data from one format to another.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: 
+
+*See also*:
+
+.cookie
+[[cookie]]
+*Description*: Refers to a message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+.corrupted
+[[corrupted]]
+*Description*: Refers to data that has been damaged in some way. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+.cross-platform
+[[cross-platform]]
+*Description*: Refers to the capability of software or hardware to run identically on different platforms.     
+
+*Use it*: yes
+
+*Class*: compound adjective
+
+*Incorrect forms*: crossplatform, cross platform
+
+*See also*:
+
+.cross-site scripting
+[[cross-site-scripting]]
+*Description*: Refers to cross-site scripting attacks. Acceptable use is also "cross-site scripting (XSS) attack". 
+
+*Use it*: yes
+
+*Class*: compound adjective
+
+*Incorrect forms*: cross site scripting
+
+*See also*:
+
+.CSV
+[[csv]]
+*Description*: Refers to a set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: csv
+
+*See also*: xref:comma-separated-values[comma-separated values]
+
+.Ctrl
+[[ctrl]]
+*Description*: Refers to the `Ctrl` key on a keyboard.
+
+*Use it*: yes
+
+*Class*: keystroke
+
+*Incorrect forms*: control key, ctrl
+
+*See also*:
+
+.Cygmon
+[[cygmon]]
+*Description*: Refers to a type of ROM monitor.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: CygMon, cygmon, CYGMON
+
+*See also*:
+
