@@ -1,0 +1,239 @@
+.g&plus;&plus; or G&plus;&plus;
+[[gplusplus]]
+*Description*: When referring to the command, use g&plus;&plus;. When referring to the program, use G&plus;&plus;.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*:
+
+.gas or GAS
+[[gas]]
+*Description*: When referring to the command, use gas. When referring to the program, use GAS
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: 
+
+.GB
+[[gb]]
+*Description*: Abbreviation of gigabyte. Use a space between the value and the abbreviation. For example, "a 2 GB file."
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: gb, Gb
+
+*See also*:
+
+.Gbps
+[[gbps]]
+*Description*: Short for Gigabits per second, a data transfer speed measurement for high-speed networks such as Gigabit Ethernet. When used to describe data transfer rates, a gigabit equals 1,000,000,000 bits.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: gbps, GBPS
+
+*See also*: 
+
+.gcc or GCC
+[[gcc]]
+*Description*: When referring to the command, use gcc. When referring to the program, use GCC.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: 
+
+.gcj or GCJ
+[[gcj]]
+*Description*: When referring to the command, use gcj. When referring to the program, use GCJ. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: 
+
+.gdb or GDB
+[[gdb]]
+*Description*: When referring to the command, use gdb. When referring to the program, use GDB. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: 
+
+.GID
+[[gid]]
+*Description*: Acronym for Group ID. Do not use "gid." 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: gid, Gid
+
+*See also*:
+
+.gigabyte
+[[gigabyte]]
+*Description*: 2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB." 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: 
+
+.GIMP
+[[gimp]]
+*Description*: Acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp." 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Gimp, gimp
+
+*See also*: 
+
+.GNOME
+[[gnome]]
+*Description*: An open-source desktop environment for Unix systems. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Gnome, gnome
+
+*See also*: xref:gnome-clasic[Gnome Classic]
+
+.GNOME Classic
+[[gnome-classic]]
+*Description*: Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GDM login screen, that is, "GNOME Classic". The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere). 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: classic mode
+
+*See also*: 
+
+.GNU
+[[gnu]]
+*Description*: Recursive initialism for "GNU's Not UNIX." Do not use "Gnu" or "gnu." 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Gnu, gnu
+
+*See also*:
+
+.GNUPro
+[[gnupro]]
+*Description*: When referring to the Red Hat product, use GNUPro. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: 
+
+.got
+[[got]]
+*Description*: Just an ugly word.
+
+*Use it*: no
+
+*Class*: verb
+
+*Incorrect forms*: 
+
+*See also*:
+
+.GPL
+[[gpl]]
+*Description*: Initialism for General Public License. Do not use "Gpl" or "gpl."
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Gpl, gpl
+
+*See also*: 
+
+.grayscale
+[[grayscale]]
+*Description*: Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: gray-scale, gray scale
+
+*See also*: 
+
+.GRUB
+[[grub]]
+*Description*: Boot loader package. Short for "GRand Unified Bootloader".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Grub
+
+*See also*: 
+
+.GTK&plus;
+[[gtkplus]]
+*Description*: Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk." 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: GTK, Gtk, gtk
+
+*See also*:
+
+.guest operating system
+[[guest-operating-system]]
+*Description*: Refers to the operating system that is installed in a virtual machine. Do not use "guest" by itself because it is ambiguous. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: guest
+
+*See also*:
