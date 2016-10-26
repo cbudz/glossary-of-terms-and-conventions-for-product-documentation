@@ -1,0 +1,185 @@
+.LAN
+[[lan]]
+*Description*: "LAN" is an acronym for Local Area Network.
+
+*Use it*: yes
+
+*Class*:
+
+*Incorrect forms*: Lan, lan
+
+*See also*:
+
+.latency
+[[latency]]
+*Description*: 
+* In general, the period of time that one component in a system is waiting for another component. Latency, therefore, is wasted time. For example, in accessing data on a disk, latency is defined as the time it takes to position the proper sector under the read/write head.
+
+* In networking, latency is the amount of time it takes a packet to travel from source to destination. Together, latency and bandwidth define the speed and capacity of a network.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: TODO add bandwidth xref
+
+.later
+[[later]]
+*Description*: Use to refer to later or more recent releases of products. Do not use "newer" or related terms.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: newer
+
+*See also*: TODO add earlier xref
+
+.left-click
+[[left-click]]
+*Description*: Left-click means clicking the left button of the mouse.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: left click
+
+*See also*: TODO add right-click xref
+
+.license
+[[license-n]]
+*Description*: A official document that gives someone permissions to do or use something.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:license-v[license (verb)]
+
+.license
+[[licence-v]]
+*Description*: To give someone permissions to do something.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*:
+
+*See also*: xref:license-n[license (noun)]
+
+.Linux
+[[linux]]
+*Description*: Unix-like operating system. Do not use "LINUX" because it is not an acronym. Do not use "linux", unless referring to a command, such as "To start Linux, type `linux`. In that case, mark it properly. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: LINUX, linux
+
+*See also*:
+
+.load
+[[load]]
+*Description*:
+* To copy a program from a storage device into memory. Every program must be loaded into memory before it can be executed. Usually the loading process is performed invisibly by a part of the operating system called the loader. *In programming, load means to copy data from main memory into a data register.
+* In programming, load means to copy data from main memory into a data register.
+* In networking, load refers to the amount of data (traffic) being carried by the network.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*:
+
+*See also*:
+
+.load balancing
+[[load-balancing]]
+*Description*: Distributing processing and communications activity evenly across a computer network so that no single device is overwhelmed. Load balancing is especially important for networks where it is difficult to predict the number of requests that will be issued to a server. Busy websites typically employ two or more web servers in a load balancing scheme. If one server starts to get swamped, requests are forwarded to another server with more capacity. Load balancing can also refer to the communications channels themselves.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+.logical topology
+[[logical-topology]]
+*Description*: Also called signal topology. Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The way that the workstations are connected to the network through the actual cables that transmit data - the physical structure of the network - is called the physical topology. The logical topology, in contrast, is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices.
+
+*Use it*: yes
+
+*Class*:
+
+*Incorrect forms*:
+
+*See also*: TODO add an xref to physical topology and signal topology
+
+.lookup
+[[lookup-n]]
+*Description*: TODO add proper description
+
+*Use it*: with caution
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:look-up-v[look up], xref:look-up-ad[look-up]
+
+.look up
+[[look-up-v]]
+*Description*: TODO add proper description
+
+*Use it*: with caution
+
+*Class*: verb
+
+*Incorrect forms*:
+
+*See also*: xref:lookup-n[lookup], xref:look-up-ad[look-up]
+
+.look-up
+[[look-up-ad]]
+*Description*: TODO add proper description
+
+*Use it*: with caution
+
+*Class*: adjective
+
+*Incorrect forms*:
+
+*See also*: xref:look-up-v[look up], xref:lookup-n[lookup]
+
+.loopback address
+[[loopback-address]]
+*Description*: The loopback address is a special IP address (127.0.0.1 for IPv4, ::1 for IPv6) that is designated for the software loopback interface of a machine. The loopback interface has no hardware associated with it, and it is not physically connected to a network. The loopback interface allows IT professionals to test IP software without worrying about broken or corrupted drivers or hardware. 
+
+*Use it*: yes
+
+*Class*:
+
+*Incorrect forms*: 
+
+*See also*:
+
+.LPAR
+[[lpar]]
+*Description*: Short for logical partitioning, a system of taking a computer's total resources — processors, memory and storage — and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions or systems that serve multiple time zones and/or languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Since the partitions in effect act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
+
+*Use it*: yes
+
+*Class*:
+
+*Incorrect forms*:
+
+*See also*:
