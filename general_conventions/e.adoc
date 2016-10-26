@@ -114,6 +114,18 @@ Another term for environment in this sense is platform.
 
 *See also*:
 
+.examine
+[[examine]]
+*Description*: Use instead of "look at".
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: look at
+
+*See also*:
+
 .exclamation points (!)
 [[exclamation-points]]
 *Description*: Do not use at the end of sentences. An exclamation point can be used when referring to a command, such as the bang (!) command. 
