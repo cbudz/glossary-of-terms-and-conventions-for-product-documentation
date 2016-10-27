@@ -1,26 +1,50 @@
-.fail back (v.), failback (n.)
-[[fail-back-failback]]
-*Description*: One word for a noun, two words for a verb. No hyphenated form is currently recognized.
+.failback
+[[failback-n]]
+*Description*: Use one word when used as a noun. No hyphenated form is currently recognized.
 
 *Use it*: yes
 
-*Class*: verb, noun
+*Class*: noun
 
 *Incorrect forms*: fail-back
 
-*See also*: 
+*See also*: xref:fail-back-vback[fail back]
 
-.fail over (v.), failover (n., adj.)
-[[fail-over-failover]]
-*Description*: One word for a noun or an adjective (for example, "the failover host"), two words for a verb. No hyphenated form is currently recognized.
+.fail back 
+[[fail-back-v]]
+*Description*: Use two words when used as a verb. No hyphenated form is currently recognized.
 
 *Use it*: yes
 
-*Class*: verb, noun, adjective
+*Class*: verb
+
+*Incorrect forms*: fail-back
+
+*See also*: xref:failback-n[failback]
+
+.failover
+[[failover-n-adj]]
+*Description*: Use one word when used as a noun or as an adjective (for example, "the failover host"). No hyphenated form is currently recognized.
+
+*Use it*: yes
+
+*Class*: noun, adjective
 
 *Incorrect forms*: fail-over
 
-*See also*: 
+*See also*: xref:fail-over-v[fail over]
+
+.fail over
+[[fail-over-v]]
+*Description*: Use two words when used as a verb. No hyphenated form is currently recognized.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: fail-over
+
+*See also*: xref:failover-n-adj[failover]
 
 .FAQ
 [[faq]]
@@ -34,17 +58,33 @@
 
 *See also*: 
 
-.fault tolerance (n.), fault-tolerant (adj.)
-[[fault-tolerance-fault-tolerant]]
+.fault tolerance
+[[fault-tolerance-n]]
 *Description*: The ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations; that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over. 
+
+Use two words when used as a noun. 
 
 *Use it*: yes
 
-*Class*: noun, adjective
+*Class*: noun
 
-*Incorrect forms*: fault-tolerance, fault tolerant (as an adjective)
+*Incorrect forms*: fault-tolerance
 
-*See also*:
+*See also*: xref:fault-tolerant-adj[fault-tolerant]
+
+.fault-tolerant
+[[fault-tolerant-adj]]
+*Description*: The ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations; that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over. 
+
+Use one hyphenated word when used as an adjective.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: fault tolerant
+
+*See also*: xref:fault-tolerance-n[fault tolerance]
 
 .Fedora™ Project
 [[fedora-project]]
@@ -84,7 +124,19 @@ FC-AL was designed for new mass storage devices and other peripheral devices tha
 
 *See also*: 
 
-.file mode, file name, file system, file type
+.file mode
+[[file-mode]]
+*Description*: Write as two words, unless used as a variable. See _The IBM Style Guide_ for more information.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: filemode
+
+*See also*:
+
+.file name
 [[file-name]]
 *Description*: Write as two words, unless used as a variable. See _The IBM Style Guide_ for more information.
 
@@ -92,7 +144,31 @@ FC-AL was designed for new mass storage devices and other peripheral devices tha
 
 *Class*: noun
 
-*Incorrect forms*: filemode, filename, filesystem, filetype
+*Incorrect forms*: filename
+
+*See also*:
+
+.file system
+[[file-system]]
+*Description*: Write as two words, unless used as a variable. See _The IBM Style Guide_ for more information.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: filesystem
+
+*See also*:
+
+.file type
+[[file-type]]
+*Description*: Write as two words, unless used as a variable. See _The IBM Style Guide_ for more information.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: filetype
 
 *See also*:
 
@@ -188,21 +264,33 @@ A FQDN always starts with a host name and continues all the way up to the top-le
 
 *See also*:
 
-.front end (n.), front-end (adj.)
-[[front-end]]
-*Description*: Example of noun: "PRCS is a front end for a version control toolset."
-
-Example of adjective: "This chapter explains how to use the front-end API functions."
+.front-end
+[[front-end-adj]]
+*Description*: Example of adjective: "This chapter explains how to use the front-end API functions."
     
 Do not use "frontend" as noun or adjective. 
 
 *Use it*: yes
 
-*Class*: noun, adjective
+*Class*: adjective
 
 *Incorrect forms*: frontend
 
-*See also*:
+*See also*: xref:front-end-n[front end]
+
+.front end
+[[front-end-n]]
+*Description*: Example of noun: "PRCS is a front end for a version control toolset."
+
+Do not use "frontend" as noun or adjective. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: frontend
+
+*See also*: xref:front-end-adj[front-end]
 
 .FTP
 [[ftp]]
