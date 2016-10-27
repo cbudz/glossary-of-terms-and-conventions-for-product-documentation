@@ -26,7 +26,7 @@
 [[agile]]
 *Description*: A project management style that emphasizes the delivery of value in increments or iterations. Use only as an adjective. Not a proper noun, nor is it owned or a trademark, and should not be capitalized. 
 
-*Use it*: yes
+*Use it*: with caution
 
 *Class*: adjective
 
@@ -36,7 +36,7 @@
 
 .air gap
 [[air-gap]]
-*Description*: "Air gap" describes systems that are separated, not by software, but physically.
+*Description*: The physical segregation and isolation of a system as a security measure.
 
 *Use it*: yes
 
@@ -48,7 +48,7 @@
 
 .AMD64
 [[AMD64]]
-*Description*: The correct term for AMD's implementation of this architecture is "AMD64".
+*Description*: The AMD implementation of the the x86 architecture.
 
 *Use it*: yes
 
@@ -77,8 +77,8 @@ For more information about Intel® trademarks, see http://www.intel.com/content/
 *See also*:
 
 .above
-[[Above]]
-*Description*: Do not use to refer to information mentioned previously. When documents are converted to online format, the information may no longer be "above". Use a cross-reference instead. 
+[[above]]
+*Description*: Do not use to refer to information mentioned previously in a document. When documents are converted to online format, the information may no longer be "above". Use a cross-reference instead. 
 
 *Use it*: no
 
@@ -86,11 +86,11 @@ For more information about Intel® trademarks, see http://www.intel.com/content/
 
 *Incorrect forms*: above
 
-*See also*:
+*See also*: xref:below[]
 
 .alright
 [[alright]]
-*Description*: Avoid if at all possible. These terms carry a more familiar or colloquial tone than is expected in Red Hat documentation. Use more formal alternatives such as "correct" or "as expected" in accordance with the context. 
+*Description*: The colloquial form of "correct" or "as expected". 
 
 *Use it*: no
 
@@ -100,21 +100,9 @@ For more information about Intel® trademarks, see http://www.intel.com/content/
 
 *See also*: 
 
-.alternate
-[[alternate]]
-*Description*: Do not use this to mean "an alternative to something". "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something", use "an alternative method is to..."
-
-*Use it*: no
-
-*Class*: adjective
-
-*Incorrect forms*: alternate
-
-*See also*: 
-
 .and/or
 [[and-or]]
-*Description*: Rewrite to make the available options explicit and clear. Do not write "this and/or that". Write "this or that or both". 
+*Description*: One or both of two options. Re-write to make the available options explicit and clear. Do not write "this and/or that". Write "this or that or both". 
 
 *Use it*: no
 
@@ -138,7 +126,7 @@ For more information about Intel® trademarks, see http://www.intel.com/content/
 
 .as well as
 [[as-well-as]]
-*Description*: Not interchangeable with "and". "As well as" used in a series places more emphasis on the items preceding it, whereas "and" places equal weight on all items in the series. For example, "We sell kitchen electronics and china, as well as some gourmet foods." But "We sell kitchen electronics, china, and silverware." 
+*Description*: Not interchangeable with "and". "As well as" used in a series places more emphasis on the items preceding it, whereas "and" places equal weight on all items in the series. For example, "We sell kitchen electronics and china, as well as some gourmet foods." But "We sell kitchen electronics, china, and silverware."
 
 *Use it*: no
 
@@ -159,5 +147,4 @@ For more information about Intel® trademarks, see http://www.intel.com/content/
 *Incorrect forms*: autodetect
 
 *See also*:
-
 
