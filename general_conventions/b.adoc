@@ -1,6 +1,6 @@
 .back end
 [[back-end]]
-*Description*: "Back end" is a noun, "back-end" is an adjective. Refers to software that performs the final stages of a process, or tasks that are not visible to the user.
+*Description*: Software that performs the final stages of a process, or tasks that are not visible to the user.
 
 * Adjective: "When the back-end database processes a search operation..."
 * Noun: "Each back end provides a set of calls."
@@ -9,40 +9,37 @@
 
 *Class*: adjective, noun
 
-*Incorrect forms*: Backend, backend
+*Incorrect forms*: backend
 
 *See also*:
 
-.backup
-[[backup]]
-*Description*: Depending on usage, this could appear in either of two ways:
-
-* Adjective: "Store the backup copies of important files in a secure location."
-* Noun: "Create a backup of your important files."
-
-*Use it*: yes
-
-*Class*: adjective, noun
-
-*Incorrect forms*: back-up
-
-*See also*: xref:back-up[]
-
-.back-up
+.back up
 [[back-up]]
-*Description*: To back up data.
+*Description*: To create a copy of data or other information that can be used to preserve the state of that data or information in the event that the original copy is lost or destroyed.
 
-*Use it*: yes
+*Use it*: yes 
 
 *Class*: verb
 
-*Incorrect forms*: backup
+*Incorrect forms*: back-up, backup
 
 *See also*: xref:backup[]
 
+.backup
+[[backup]]
+*Description*: A copy of data or other information that can be used to preserve the state of that data or information in the event that the original copy is lost or destroyed.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: back up , back-up
+
+*See also*: xref:back-up[]
+
 .backtrace
 [[backtrace]]
-*Description*: "Backtrace" is the most common term used to refer to a stack trace (or stack backtrace), which is a report of the active stack frames (that is, function calls) at a certain point in time during the execution of a program. In contrast, the Python programming language calls its stack trace a "traceback," possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace. 
+*Description*: A stack trace (or stack backtrace), which is a report of the active stack frames (function calls) at a certain point in time during the execution of a program. The Python programming language uses the term "traceback", possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace. 
 
 *Use it*: yes
 
@@ -54,7 +51,7 @@
 
 .backwards compatibility
 [[backwards]]
-*Description*: To be compatible with an earlier release of software or hardware.
+*Description*: To be compatible with an earlier version of software or hardware.
 
 *Use it*: no
 
@@ -64,8 +61,8 @@
 
 *See also*:
 
-.bandwith
-[[bandwith]]
+.bandwidth
+[[bandwidth]]
 *Description*: A range within a band of frequencies or wavelengths, or the amount of data that can be transmitted in a fixed amount of time. 
 
 *Use it*: yes
@@ -105,19 +102,19 @@
 
 .because
 [[because]]
-*Description*: Do not use "since" to mean "because"; it is ambiguous. Use "because" to refer to a reason. Use "since" to indicate the passage of time. 
+*Description*: Do not use "since" to mean "because". Use "because" to refer to a reason. Use "since" to indicate the passage of time. 
 
-*Use it*: yes
+*Use it*: with caution
 
 *Class*: conjunction
 
-*Incorrect forms*: because
+*Incorrect forms*: since
 
 *See also*:
 
 .below
 [[below]]
-*Description*: Do not use to refer to information mentioned "below"; or later in a document. When documents are converted to online format, the information may no longer be "below". Use a cross-reference instead. 
+*Description*: Do not use to refer to information mentioned later in a document. When documents are converted to online format, the information may no longer be "below". Use a cross-reference instead. 
 
 *Use it*: no
 
@@ -125,11 +122,11 @@
 
 *Incorrect forms*: below
 
-*See also*:
+*See also*: xref:above[]
 
 .big data
 [[big-data]]
-*Description*: Extremely large sets of data that can be analyzed to determine trends and other information. Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red Hat product, service, solution, or business unit name. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
+*Description*: Extremely large sets of data that can be analyzed to determine trends and other information. 
 
 *Use it*: yes
 
@@ -141,20 +138,20 @@
 
 .bimodal IT
 [[bimodal-it]]
-*Description*: Gartner phrase for the combination of traditional (mode 1 or type 1) and modern (mode 2 or type 2) IT infrastructure and resources. There are many ways to talk about this combination approach; be sure you use the right phrase for your audience. Using only the Gartner term can alienate other analysts or those not familiar with Gartner's phrasing.
+*Description*: The Gartner phrase for the combination of traditional (mode 1 or type 1) and modern (mode 2 or type 2) IT infrastructure and resources. There are many ways to talk about this combination approach. Using only the Gartner term can alienate other analysts or those not familiar with Gartner's phrasing.
 
-The practice of having both modes together is often referred to as hybrid, agile, or modern IT. 
+The practice of having both modes together is often referred to as hybrid, agile, or modern IT.
 
 [NOTE]
 ====
 Hybrid IT is a more general term, e.g. it could mean on-premise plus public cloud. Agile and modern IT can both carry an implication of "mode 2"--so when using those terms, be specific about the exact technology combination you mean.
 ====
 
-*Use it*: yes
+*Use it*: with caution
 
 *Class*: noun
 
-*Incorrect forms*:
+*Incorrect forms*: bimodal IT
 
 *See also*:
 
@@ -283,7 +280,7 @@ Hybrid IT is a more general term, e.g. it could mean on-premise plus public clou
 
 .bpp
 [[bpp]]
-*Description*: Initialism for bits per pixel. All letters are lowercase, unless at the beginning of a sentence. Use a non-breaking space between the numeral and the units. For example, "16 bpp," not "16bpp."   
+*Description*: Initialism for bits per pixel. All letters are lowercase, unless at the beginning of a sentence. Use a non-breaking space between the numeral and the units. For example, "16 bpp", not "16bpp".   
 
 *Use it*: yes
 
