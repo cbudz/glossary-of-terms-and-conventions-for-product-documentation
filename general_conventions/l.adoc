@@ -62,7 +62,7 @@
 *See also*: xref:license-v[license (verb)]
 
 .license
-[[licence-v]]
+[[license-v]]
 *Description*: To give someone permissions to do something.
 
 *Use it*: yes
