@@ -10,13 +10,13 @@
 
 *See also*:
 
-.e.g., i.e.
-[[e.g.-i.e.]]
-*Description*: Red Hat technical documentation always expands these abbreviations.
+.e.g.
+[[e.g.]]
+*Description*: Red Hat technical documentation always expands this abbreviation.
 
 *Use it*: no
 
-*Class*: contraction
+*Class*: abbreviation
 
 *Incorrect forms*: 
 
