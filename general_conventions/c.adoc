@@ -383,7 +383,7 @@
 
 *Incorrect forms*:
 
-*See also*: xref:container-based[container-based]
+*See also*:
 
 .convert
 [[convert]]
