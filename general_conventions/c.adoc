@@ -82,6 +82,19 @@
 
 *See also*:
 
+.CD writer
+[[cd-writer]]
+*Description*: A device that records data into the CD format.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: CD burner, burner
+
+*See also*:
+
+
 .CDs
 [[cds]]
 *Description*: The plural form of "CD". Use this to describe multiple compact disks.
@@ -109,7 +122,7 @@
 
 .Ceph
 [[ceph]]
-*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH", because it is not an acronym. Use "ceph" only when referring to the `ceph` command, and ensure that the term is marke up properly.
+*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH", because it is not an acronym. Use "ceph" only when referring to the `ceph` command, and ensure that the term is marked up properly.
 
 *Use it*: yes
 
