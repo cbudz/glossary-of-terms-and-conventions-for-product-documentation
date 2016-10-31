@@ -1,0 +1,326 @@
+.daisy chain
+[[daisy-chain-noun]]
+*Description*: A hardware configuration in which devices are connected to each other in a series.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: daisy-chain, daisychain
+
+*See also*: xref:daisy-chain-verb[daisy chain]
+
+.daisy chain
+[[daisy-chain-verb]]
+*Description*: To connect devices in a daisy chain pattern.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: daisy-chain, daisychain
+
+*See also*: xref:daisy-chain-noun[daisy chain]
+
+
+.data center
+[[data-center]]
+*Description*: A large group of networked computer servers used for the remote storage, processing, or distribution of large amounts of data. Note that marketing publications use the one-word form.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: datacenter, data-center, data centre, datacentre
+
+*See also*: 
+
+.data mirroring
+[[data-mirroring]]
+*Description*: The act of copying data from one location to a storage device in real time.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: datamirroring, data-mirroring
+
+*See also*: 
+
+.data sheet
+[[data-sheet]]
+*Description*: A document containing a summary of the specifications for a particular product. Note that marketing publications use the one-word form.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: datasheet, data-sheet
+
+*See also*: 
+
+.data store
+[[data-store]]
+*Description*: A repository for persistently storing and managing collections of data. Note that marketing publications use the one-word form.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: datastore, data-store
+
+*See also*:
+
+.data type
+[[data-type]]
+*Description*: The classification of particular kinds of data. Data types define the values that data can take, the programming language used, or the operations that can be performed on the data.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: datatype, data-type
+
+*See also*:
+
+.debug
+[[debug-adjective]]
+*Description*: A type of command or script that is used to find and remove errors from a program or design. For example, a "debug script".
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: de-bug
+
+*See also*: xref:debug-verb[debug]
+
+.debug
+[[debug-verb]]
+*Description*: To find and remove errors from a program or design.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: de-bug
+
+*See also*: xref:debug-adjective[debug]
+
+.denial of service
+[[denial-of-service]]
+*Description*: An interruption in a user's access to a computer network, usually caused deliberately and with malicious intent. Use "denial of service (DoS)" on first use, and "DoS" thereafter.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: denial-of-service, Denial of Service
+
+*See also*:
+
+.desktop
+[[desktop-adjective]]
+*Description*: A type of computer.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: desk top, desk-top
+
+*See also*: xref:desktop-noun[desktop]
+
+.desktop
+[[desktop-noun]]
+*Description*: A type of computer, or the working area of a computer screen.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: desk top, desk-top
+
+*See also*: xref:desktop-adjective[desktop]
+
+.device
+[[device]]
+*Description*: Any machine or component that attaches to a computer.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+.DevOps
+[[devops-adjective]]
+*Description*: A combination of "development" and "operations". A specific method or organizational approach where developers and IT operations work together to create the applications that run the business.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: devops, Devops, Dev-Ops, Dev Ops 
+
+*See also*: xref:devops-noun[DevOps]
+
+.DevOps
+[[devops-noun]]
+*Description*: A combination of "development" and "operations". A specific method or organizational approach where developers and IT operations work together to create the applications that run the business. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: devops, Devops, Dev-Ops, Dev Ops
+
+*See also*: xref:devops-adjective[DevOps]
+
+.different from
+[[different]]
+*Description*: Used when comparing two things. Use when the next part of the sentence is a noun or pronoun.
+
+*Use it*: yes
+
+*Class*: 
+
+*Incorrect forms*: different than, different to
+
+*See also*:
+
+.Disk Druid
+[[disk-druid]]
+*Description*: A partitioning tool incorporated into Red Hat Enterprise Linux.
+
+*Use it*: yes
+
+*Class*: proper noun
+
+*Incorrect forms*: Disk druid, disk druid, diskdruid
+
+*See also*: 
+
+.disk label
+[[disk-label]]
+*Description*: A record that contains information about the location of the partitions on the disk.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: disklabel, disk-label
+
+*See also*:
+
+.DNS
+[[dns]]
+*Description*: Initialism of "Domain Name System" or "Domain Name Service", an Internet Service that translates domain names into IP addresses.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: dns
+
+*See also*:
+
+.domain name
+[[domain-name]]
+*Description*: A name that identifies one or more IP addresses. For example, "redhat.com".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: domainname, domain-name
+
+*See also*:
+
+.double-click
+[[double-click]]
+*Description*: To press a mouse button twice in quick succession.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: double click
+
+*See also*:
+
+.downstream
+[[downstream]]
+*Description*: Data sent from a network service provider to a customer.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: down-stream, down stream
+
+*See also*:
+
+.downtime
+[[downtime]]
+*Description*: The period during which a server, service, or other resource is unavailable.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: down-time, down time
+
+*See also*:
+
+.download
+[[download-noun]]
+*Description*: An act or process of downloading data.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: down-load, down load
+
+*See also*: xref:download-verb[download]
+
+.download
+[[download-verb]]
+*Description*: To copy data from one computer system to another.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: down-load, down load
+
+*See also*: xref:download-noun[download]
+
+.dual-boot
+[[dual-boot]]
+*Description*: A system in which two operating systems are installed on the same hard drive.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: dualboot, dual boot
+
+*See also*:
+
+.DVD writer
+[[DVD-writer]]
+*Description*: A device that records data into the DVD format.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: DVD burner, burner
+
+*See also*: 
+
+
