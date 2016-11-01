@@ -1,0 +1,121 @@
+.VAR
+[[var]]
+*Description*: Acronym for value-added reseller. Same as OEM (original equipment manufacturer).
+
+*Use it*: <yes/no/with caution>
+
+*Class*: noun
+
+*Incorrect forms*: var
+
+*See also*: xref:oem[OEM]
+
+.⁠VDSM
+[[vdsm]]
+*Description*: Initialism for Virtual Desktop Server Management. DO NOT spell out this initialism. Using the term "virtual desktop" in this context has negative marketing implications. Use VDSM without expansion.
+
+*Use it*: with caution
+
+*Class*: noun
+
+*Incorrect forms*: Virtual Desktop Server Management
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.vi
+[[vi]]
+*Description*: Correct; use all lowercase letters. Do not use "VI" (all caps).
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: VI
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.Vim
+[[vim]]
+*Description*: Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIX-based operating systems in 1992.) Despite being an acronym, and despite the first word of the "About" text that is displayed when you launch the editor, the standard, proper noun-derived, mixed-case spelling has been in use since its release on the Amiga.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: VIM, vim
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.video mode
+[[video-mode]]
+*Description*: The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: video-mode, videomode
+
+
+.⁠virtual console
+[[virtual-console]]
+*Description*: Can be abbreviated to "VC" as long as the term has been introduced in the same content in its full version first, such as "A virtual console (VC) is a shell prompt in a non-graphical environment. Multiple VCs can be accessed simultaneously."
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: virtual-console, Virtual Console
+
+.⁠virtual machine
+[[virtual-machine]]
+*Description*: Refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" unless you want to specifically emphasize the fact that it is a guest.
+Can be abbreviated to "VM" as long as the term has been introduced in the same content in its full version first, and provided there is no possibility of confusion with other terms, such as "virtual memory." Author discretion is recommended.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.virtualized guest
+[[virtualized-guest]]
+*Description*: The term "virtualized guest" should be used only when comparing a "fully virtualized guest" with a "paravirtualized guest."
+
+*Use it*: with caution
+
+*Class*: noun
+
+*See also*: xref:<guest-operating-system>[guest operating system]
+
+.virtual router
+[[virtual-router]]
+*Description*: An abstract object managed by VRRP (virtual router redundancy protocol) that acts as a default router for hosts on a shared LAN. It consists of a Virtual Router Identifier and a set of associated IP addresses across a common LAN.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: <incorrect-form>
+
+.⁠VNIC
+[[vnic]]
+*Description*: Abbreviation for virtual network interface card. Use all uppercase characters for the abbreviation, but all lowercase for the expansion, except at the beginning of a sentence.
+
+*Use it*: with caution
+
+*Class*: noun
+
+*Incorrect forms*: <incorrect-form>
+
+.VPN
+[[vpn]]
+*Description*: Initialism for virtual private network, a network that is constructed by using public wires to connect nodes. For example, there are a number of systems that enable you to create networks using the Internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: <incorrect-form>
