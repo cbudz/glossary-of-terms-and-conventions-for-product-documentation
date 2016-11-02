@@ -16,7 +16,9 @@ To edit this guide:
 
 . Make edits in the guide.
 
-    .. Navigate to the topics directory and select the file you want to add the entry to.
+    .. Navigate to the `general_conventions` directory and select the file you want to add the entry to.
+
+    .. Ensure that you are in the correct branch. The branch name is listed at the beginning of the path to the file. If you are not in the correct branch, select it from the menu.
 
     .. Click "Edit".
 
