@@ -1,0 +1,71 @@
+.X
+[[x]]
+*Description*: An alternative reference to the "X Window System." Do not use X by itself when referring to "XEmacs."
+
+*Use it*: with caution
+
+*Class*: noun
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.XEmacs
+[[xemacs]]
+*Description*: Correct. Do not use "Xemacs." Use "xemacs" only when referring to a command, such as, "To start XEmacs, type xemacs."
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Xemacs
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.Xen
+[[xen]]
+*Description*: Use where it accurately refers to the original Xen version of the package. If the Xen package we distribute is for all practical purposes the same as the upstream code, we can refer to the package we distribute as "Xen" in a referential way.
+A referential use is one that describes another entity's goods or services, not our own, such as referring to Microsoft Windows as a technology we compete and integrate with. When referring to another entity's trademark, always use good trademark practices; that is, only use the trademark as an adjective followed by the noun, do not use a logo form of the trademark, do not make it more prominent than our own marks, and do not incorporate the trademark into our own product names. Here, the proper use would be "Xen hypervisor."
+The Xen Trademark Policy is available at http://www.xenproject.org/trademark-policy.html.
+
+*Use it*: with caution
+
+*Class*: <class>
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.xterm
+[[xterm]]
+*Description*: Correct. Do not use "Xterm" unless the word is used at the beginning of a sentence.
+
+*Use it*: yes
+
+*Class*: <class>
+
+*Incorrect forms*: Xterm
+
+.⁠X Windows
+[[x-windows]]
+*Description*: Do not use. This is an incorrect reference to the X Window System (or X).
+
+*Use it*: no
+
+*Class*: noun
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<x-window-system>[X Window System]
+
+.X Window System
+[[x-window-system]]
+*Description*: Also referred to as X. When making multiple references to the X Window System, the complete reference must appear first, with shortened references following. For example, "Reinstalling the X Window System, or X, is not necessary if... To start an X session, from the shell prompt..."
+
+*Use it*: yes
+
+*Class*: <class>
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<x>[<X>]
