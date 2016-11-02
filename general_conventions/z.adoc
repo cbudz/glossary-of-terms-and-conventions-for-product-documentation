@@ -1,0 +1,23 @@
+.zip
+[[zip]]
+*Description*: See the Word Usage appendix of The IBM Style Guide.
+
+*Use it*: <yes/no/with caution>
+
+*Class*: verb
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.zSeries
+[[z-series]]
+*Description*: "IBM System z" is correct for the first reference; use "System z" for subsequent references. Do not use "S/390x," "s390x," "IBM zSeries," or "zSeries."
+
+*Use it*: no
+
+*Class*: noun
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
