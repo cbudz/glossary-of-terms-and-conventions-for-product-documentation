@@ -1,0 +1,23 @@
+.YAML
+[[yaml]]
+*Description*: Recursive acronym for "YAML Ain't Markup Language." Expand on first use only.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: yaml
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.you
+[[you]]
+*Description*: Correct. Do not use "I," "he," or "she."
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
