@@ -1,0 +1,191 @@
+.Objective C
+[[ObjectiveC]]
+*Description*: Programming language name.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Objective-C
+
+.object-oriented
+[[object-oriented]]
+*Description*: Programming language model.
+
+*Use it*: yes
+
+*Class*: noun, modifier
+
+*Incorrect forms*: object oriented, objectoriented
+
+.OEM
+[[OEM]]
+*Description*: Stands for original equipment manufacturer, which is a misleading
+ term for a company that has a special relationship with computer producers. 
+ OEMs buy computers in bulk and customize them for a particular application. 
+ They then sell the customized computer under their own name. The term is really
+ a misnomer because OEMs are not the original manufacturers - they are the 
+ customizers. 
+
+*Use it*: yes
+
+*Class*: noun
+
+.⁠offline
+⁠[[offline]]
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: off-line
+
+*See also*: xref:online[online]
+
+.offline backup
+[[offline_backup]]
+*Description*: Use this term to refer to backing up a database while the database is not being accessed by applications
+
+*Use it*: yes
+
+*Incorrect forms*: cold backup or any other variations 
+
+*See also*: xref:online backup[online backup]
+
+.OK
+[[OK]]
+*Description*: When referring to the OK button, it is not necessary to use "button" in the sentence.
+
+*Use it*: yes
+
+*Incorrect forms*: OK button
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+.on-board (adj.), onboard (v.)
+[[on-board,onboard]]
+*Description*: Always hyphenate when used as an adjective. The term "on board" is also valid, for example, "They are on board with the idea," but try to reword to avoid it. 
+Onboard is usually used to describe the process of introducing a new employee to the company.
+
+*Use it*: with caution
+
+*Class*: on-board - adjective, onboard - verb
+
+.⁠online
+[[online]]
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: on-line
+
+*See also*: xref:offline[offline]
+
+.on-premise
+[[on-premise]]
+*Description*: Substitute "on-site" or "in-house" whenever possible. Although "on-premises" is grammatically correct, "on-premise" is preferred by the industry and the Red Hat Cloud business unit. Only capitalize when used as part of the name of the Red Hat product "Red Hat Storage Server for On-premise."
+
+*Use it*: with caution
+
+*Class*: adjective
+
+*Incorrect forms*: on premise
+
+*See also*: xref:on-site[on-site], xref:in-house[in-house]
+
+.on-site
+[[on-site]]
+*Description*: Hyphenate when used as an adjective, as in "on-site labs." 
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: onsite
+
+*See also*: xref:in-house[in-house]
+
+.on-the-fly
+[[on-the-fly]]
+*Description*: Idiom meaning "as you go" or "in real time". Do not use as it is not universally understood. 
+
+*Use it*: no
+
+*See also*: xref:in real time[in real time]
+
+.⁠oops
+[[⁠oops]]
+*Description*: A kernel oops is an error message generated as a result of a bug in the kernel. Do not use "oops" on its own. Also, avoid using "kernel oops" at the beginning of a sentence.
+
+*Use it*: with caution
+
+*See also*: xref:kernel panic[kernel panic]
+
+.⁠opcodes
+[⁠[opcodes]]
+*Description*: An opcode is the portion of a machine language instruction that specifies the operation to be performed.  
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: op-code
+
+.open architecture
+[[open architecture]]
+*Description*: An architecture whose specifications are public. This includes officially approved standards as well as privately designed architectures whose specifications are made public by the designers. The opposite of open is closed or proprietary. 
+
+*Use it*: yes
+
+*Class*: noun
+
+.Open InfiniBand
+[[Open InfiniBand]]
+*Description*: Open InfiniBand" is deprecated and should not be used. See "InfiniBand" for usage rules regarding the current preferred term for this switched fabric network topology. 
+
+*Use it*: no
+
+*See also*: xref:InfiniBand[InfiniBand]
+
+.open source
+[[open source]]
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: open-source, OpenSource, opensource
+
+.operating system
+[[operating system]]
+*Description*: <description>
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: OS, Operating System
+
+.⁠orientate
+[[orientate]]
+*Description*: A user becomes "oriented" to an environment. Try a synonym such as "familiarize," as in "This section helps familiarize you with the environment." 
+
+*Use it*: no
+
+.output device
+[[output device]]
+*Description*: Any machine capable of representing information from a computer. This includes display screens, printers, plotters, and synthesizers. 
+
+*Use it*: yes
+
+*Class*: noun
+
+.override
+[[override]]
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: over-ride, over ride
+
