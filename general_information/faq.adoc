@@ -10,8 +10,9 @@ I see an issue with the guide but i don't want to fix it myself::
 
 Open an issue. See xref:[TBA] for details.
 
+[[two-entries-with-same-anchor-tag]]
 What to do if two entries have the same anchor tag?::
-    
+ 
 It can happen sometimes that two entries will have the same anchor tag when
 creating the anchor tags according to the rules described in xref:template[].
 For example, the "kernel space" and "kernel-space" entries or the "kB" and "KB"
