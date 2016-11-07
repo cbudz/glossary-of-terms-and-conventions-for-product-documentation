@@ -1,4 +1,5 @@
-.KB
+[discrete]
+==== KB
 [[KB]]
 *Description*: KB is the initialism of kilobyte, equal to 1024 bytes. 
 
@@ -10,7 +11,8 @@
 
 *See also*: xref:kB[kB]
 
-.kB
+[discrete]
+==== kB
 [[kB]]
 *Description*: kB is the initialism of kilobyte, equal to 1000 bytes. 
 
@@ -22,7 +24,8 @@
 
 *See also*: xref:KB[KB]
 
-.kbps
+[discrete]
+==== kbps
 [[kbps]]
 *Description*: Initialism for kilobits per second, or 1000 bits per second.
 
@@ -34,7 +37,8 @@
 
 *See also*:
 
-.kerberize
+[discrete]
+==== kerberize
 [[kerberize]]
 *Description*: Do not use "kerberize" or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled," or rewrite the sentence.
 
@@ -46,7 +50,8 @@
 
 *See also*: xref:kerberized[kerberized]
 
-.kerberized
+[discrete]
+==== kerberized
 [[kerberized]]
 *Description*: Do not use "kerberized" or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled," or rewrite the sentence.
 
@@ -58,7 +63,8 @@
 
 *See also*: xref:kerberize[kerberize]
 
-.kernel
+[discrete]
+==== kernel
 [[kernel]]
 *Description*: The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management. Do not capitalize the first letter.
 
@@ -70,7 +76,8 @@
 
 *See also*: xref:kernel-panic[kernel panic], xref:kernel-space-n[kernel space], xref:kernel-space-ad[kernel-space] 
 
-.Kernel-based Virtual Machine
+[discrete]
+==== Kernel-based Virtual Machine
 [[kernel-based-virtual-machine]]
 *Description*: Kernel-based Virtual Machine is a loadable kernel module that converts the Linux kernel into a bare metal hypervisor. Spell out on first use, capitalized. Use the initialism KVM thereafter. It is an industry standard, and a proper noun. 
 
@@ -82,7 +89,8 @@
 
 *See also*: xref:kvm[KVM]
 
-.kernel panic
+[discrete]
+==== kernel panic
 [[kernel-panic]]
 *Description*: Numerous circumstances can cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches. 
 
@@ -94,7 +102,8 @@
 
 *See also*: xref:kernel[kernel]
 
-.kernel space
+[discrete]
+==== kernel space
 [[kernel-space-n]]
 *Description*: Kernel space is the part of the system memory where the kernel executes and provides its services.
 
@@ -106,7 +115,8 @@
 
 *See also*: xref:kernel[kernel], xref:kernel-space-ad[kernel-space]
 
-.kernel-space
+[discrete]
+==== kernel-space
 [[kernel-space-ad]]
 *Description*: Kernel space is that part of the system memory where the kernel executes and provides its services. When used as modifier, use the hyphenated form "kernel-space". Do not use "kernelspace"
 
@@ -118,7 +128,8 @@
 
 *See also*: xref:kernel[kernel], xref:kernel-space-n[kernel space]
 
-.Kickstart
+[discrete]
+==== Kickstart
 [[kickstart]]
 *Description*: A network installation system for some Linux distributions. 
 
@@ -130,7 +141,8 @@
 
 *See also*:
 
-.kill
+[discrete]
+==== kill
 [[kill]]
 *Description*: If terminating a UNIX process, use "kill". For example, to terminate the process, type `kill -9 <PID>`. 
 
@@ -142,7 +154,8 @@
 
 *See also*:
 
-.knowledge base
+[discrete]
+==== knowledge base
 [[knowledge-base]]
 *Description*: Use the two-word form unless referring specifically to the "Red Hat Knowledgebase."
 
@@ -154,7 +167,8 @@
 
 *See also*: xref:knowledgebase[Knowledgebase]
 
-.Knowledgebase
+[discrete]
+==== Knowledgebase
 [[knowledgebase]]
 *Description*: https://access.redhat.com/search/#/knowledgebase[Red Hat Knowledgebase] includes solutions and articles written mainly by GSS support engineers. Proper spelling is "Knowledgebase" not "KnowledgeBase".
 
@@ -166,7 +180,8 @@
 
 *See also*: xref:knowledge-base[knowledge base]
 
-.KVM
+[discrete]
+==== KVM
 [[kvm]]
 *Description*: Initialism for Kernel-based Virtual Machine. Do not use "kvm".
 
