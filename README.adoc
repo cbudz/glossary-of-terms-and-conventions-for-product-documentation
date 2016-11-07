@@ -1,4 +1,4 @@
-= Documentation Conventions
+= Glossary of Terms and Conventions for Product Documentation
 
 TBA
 
