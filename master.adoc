@@ -1,4 +1,4 @@
-= Glossary of Technical Terms
+= Glossary of Terms and Conventions for Product Documentation
 
 :includedir: .
 
