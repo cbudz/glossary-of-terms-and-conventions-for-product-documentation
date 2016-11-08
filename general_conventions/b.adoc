@@ -1,42 +1,3 @@
-.back end
-[[back-end]]
-*Description*: Software that performs the final stages of a process, or tasks that are not visible to the user.
-
-* Adjective: "When the back-end database processes a search operation..."
-* Noun: "Each back end provides a set of calls."
-
-*Use it*: yes
-
-*Class*: adjective, noun
-
-*Incorrect forms*: backend
-
-*See also*:
-
-.back up
-[[back-up]]
-*Description*: To create a copy of data or other information that can be used to preserve the state of that data or information in the event that the original copy is lost or destroyed.
-
-*Use it*: yes 
-
-*Class*: verb
-
-*Incorrect forms*: back-up, backup
-
-*See also*: xref:backup[]
-
-.backup
-[[backup]]
-*Description*: A copy of data or other information that can be used to preserve the state of that data or information in the event that the original copy is lost or destroyed.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: back up , back-up
-
-*See also*: xref:back-up[]
-
 .backtrace
 [[backtrace]]
 *Description*: A stack trace (or stack backtrace), which is a report of the active stack frames (function calls) at a certain point in time during the execution of a program. The Python programming language uses the term "traceback", possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace. 
@@ -46,18 +7,6 @@
 *Class*: noun
 
 *Incorrect forms*: 
-
-*See also*:
-
-.backwards compatibility
-[[backwards]]
-*Description*: To be compatible with an earlier version of software or hardware.
-
-*Use it*: no
-
-*Class*: noun
-
-*Incorrect forms*: backwards compatibility
 
 *See also*:
 
@@ -111,18 +60,6 @@
 *Incorrect forms*: since
 
 *See also*:
-
-.below
-[[below]]
-*Description*: Do not use to refer to information mentioned later in a document. When documents are converted to online format, the information may no longer be "below". Use a cross-reference instead. 
-
-*Use it*: no
-
-*Class*: adverb
-
-*Incorrect forms*: below
-
-*See also*: xref:above[]
 
 .big data
 [[big-data]]
@@ -215,33 +152,6 @@ Hybrid IT is a more general term, e.g. it could mean on-premise plus public clou
 
 *See also*:
 
-.Boolean
-[[boolean]]
-*Description*: Named after George Boole, who first developed the concept of a data type with two values often represented as "True" and "False". According to The IBM Style Guide, it is acceptable to use "boolean" in programming when it refers to a primitive type. 
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: boolean
-
-*See also*: 
-
-.boot
-[[boot]]
-*Description*: To start a computer or load a piece of software.
-
-* Noun: Refers to the starting-up of a computer, which involves loading the operating system and other basic software. A cold boot refers to starting a computer that is turned off. A warm boot refers to resetting a computer that is already running.
-* Verb: To load the first piece of software that starts a computer. Because the operating system is essential for running all other programs, it is usually the first piece of software loaded during the boot process.
-
-*Use it*: yes
-
-*Class*: noun, verb
-
-*Incorrect forms*: 
-
-*See also*:
-
 .boot disk
 [[boot-disk]]
 *Description*: A disk used to start a computer.
@@ -252,7 +162,7 @@ Hybrid IT is a more general term, e.g. it could mean on-premise plus public clou
 
 *Incorrect forms*: boot diskette
 
-*See also*: xref:boot[]
+*See also*:
 
 .boot loader
 [[boot-loader]]
@@ -264,7 +174,7 @@ Hybrid IT is a more general term, e.g. it could mean on-premise plus public clou
 
 *Incorrect forms*: bootloader
 
-*See also*: xref:boot[]
+*See also*:
 
 .⁠bottleneck
 [[bottleneck]]
@@ -311,18 +221,6 @@ Hybrid IT is a more general term, e.g. it could mean on-premise plus public clou
 *Incorrect forms*: Bps
 
 *See also*:
-
-.bring up
-[[bring-up]]
-*Description*: To open a window or application.
-
-*Use it*: no
-
-*Class*: verb
-
-*Incorrect forms*: bring up
-
-*See also*: 
 
 .broadcast
 [[broadcast]]
@@ -381,18 +279,6 @@ Hybrid IT is a more general term, e.g. it could mean on-premise plus public clou
 *Class*:
 
 *Incorrect forms*: bunches of
-
-*See also*:
-
-.button
-[[button]]
-*Description*: Describe a GUI button as a "button", not a "pushbutton" or "push-button". The text "button" does not need to be included in a procedure or description. For example, "Click *OK* to continue" as opposed to "Click the *OK* button to proceed". However, it may be necessary to distinguish between buttons and links; for example, "Click the *Unload* button". 
-
-*Use it*: with caution
-
-*Class*: 
-
-*Incorrect forms*: push button, push-button, pushbutton
 
 *See also*:
 
