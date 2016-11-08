@@ -47,42 +47,6 @@
 
 *See also*: 
 
-.data sheet
-[[data-sheet]]
-*Description*: A document containing a summary of the specifications for a particular product. Note that marketing publications use the one-word form.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: datasheet, data-sheet
-
-*See also*: 
-
-.data store
-[[data-store]]
-*Description*: A repository for persistently storing and managing collections of data. Note that marketing publications use the one-word form.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: datastore, data-store
-
-*See also*:
-
-.data type
-[[data-type]]
-*Description*: The classification of particular kinds of data. Data types define the values that data can take, the programming language used, or the operations that can be performed on the data.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: datatype, data-type
-
-*See also*:
-
 .debug
 [[debug-adjective]]
 *Description*: A type of command or script that is used to find and remove errors from a program or design. For example, a "debug script".
@@ -239,18 +203,6 @@
 
 *See also*:
 
-.double-click
-[[double-click]]
-*Description*: To press a mouse button twice in quick succession.
-
-*Use it*: yes
-
-*Class*: verb
-
-*Incorrect forms*: double click
-
-*See also*:
-
 .downstream
 [[downstream]]
 *Description*: Data sent from a network service provider to a customer.
@@ -260,18 +212,6 @@
 *Class*: adjective
 
 *Incorrect forms*: down-stream, down stream
-
-*See also*:
-
-.downtime
-[[downtime]]
-*Description*: The period during which a server, service, or other resource is unavailable.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: down-time, down time
 
 *See also*:
 
