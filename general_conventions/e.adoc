@@ -1,6 +1,8 @@
 .Emacs
 [[emacs]]
-*Description*: If referring to the program, use "Emacs." For example, "Source-Navigator supports Emacs or vi commands." If referring to the shell prompt command, use "emacs." For example, "At the prompt, type emacs." The complete and correct name is "GNU Emacs." 
+*Description*: Emacs is a text editor available in UNIX. Like vi, Emacs is a screen editor. Unlike vi, Emacs is not an insertion mode editor, meaning that any character typed in Emacs is automatically inserted into the file, unless it includes a command prefix.
+
+If referring to the program, use "Emacs". For example, "Source-Navigator supports Emacs or vi commands." If referring to the shell prompt command, use `emacs`. The command should always be properly marked up. For example, "At the prompt, type `emacs`." The complete and correct name is "GNU Emacs." 
 
 *Use it*: yes
 
@@ -12,7 +14,7 @@
 
 .e.g.
 [[e.g.]]
-*Description*: Red Hat technical documentation always expands this abbreviation.
+*Description*: "Exempli gratia". Commonly used to mean "for example". Red Hat technical documentation always expands this abbreviation.
 
 *Use it*: no
 
@@ -36,7 +38,7 @@
 
 .ensure
 [[ensure]]
-*Description*: This means "to make sure, certain, or safe; to guarantee." For example, "Perform the following steps to ensure a network and serial connection."
+*Description*: This means "to make sure, certain, or safe; to guarantee". For example, "Perform the following steps to ensure a network and serial connection."
 
 *Use it*: yes
 
@@ -47,20 +49,30 @@
 *See also*: 
 
 .enter
-[[enter]]
-*Description*: When referring to the keyboard key, use *Enter*. If referring to the keyboard key on Solaris, use *Return*.
+[[enter-v]]
+*Description*: When referring to typing a command, use "type" instead, such as "To open Source-Navigator from the command line, type *snavigator*."
 
-When referring to typing a command, use "type" instead, such as "To open Source-Navigator from the command line, type *snavigator*."
-
-When typing information into a single-field dialog box, "enter" means "type and press *Enter*." An example is "enter the license number." For multi-field dialog boxes, see "type." 
+When typing information into a single-field dialog box, "enter" means "type and press *Enter*". An example is "enter the license number." For multi-field dialog boxes, see "type". 
 
 *Use it*: with caution
 
-*Class*: noun, verb
+*Class*: verb
 
 *Incorrect forms*: 
 
-*See also*: xref:type[type], xref:return[return]
+*See also*: xref:type[type]
+
+.Enter
+[[enter-n]]
+*Description*: When referring to the keyboard key, use *Enter*. If referring to the keyboard key on Solaris, use *Return*.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: xref:return[return]
 
 .environment
 [[environment]]
@@ -92,7 +104,7 @@ Another term for environment in this sense is platform.
 
 .Ethernet
 [[ethernet]]
-*Description*: Uppercase "E" at all times. 
+*Description*: "Ethernet" is a family of computer networking technologies commonly used in local area networks (LANs) and metropolitan area networks (MANs). Use an uppercase "E" at all times. 
 
 *Use it*: yes
 
@@ -152,7 +164,7 @@ Another term for environment in this sense is platform.
 
 .execute
 [[execute]]
-*Description*: Has the same meaning as run. Execute means to perform an action, as in executing a program or a command.
+*Description*: Has the same meaning as "run". Execute means to perform an action, as in executing a program or a command.
 
 *Use it*: yes
 
@@ -164,7 +176,7 @@ Another term for environment in this sense is platform.
 
 .Exif
 [[exif]]
-*Description*: Correct. Do not use "EXIF." Exif is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF and RIFF files. Sometimes to referred to as "Exif Print."
+*Description*: Correct. Do not use "EXIF". Exif is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF and RIFF files. Sometimes to referred to as "Exif Print".
 
 *Use it*: yes
 
