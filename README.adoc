@@ -10,7 +10,7 @@ To edit this guide:
 
 . Create a new branch.
 
-    .. On the main repository page (https://gitlab.cee.redhat.com/ccs-internal-documentation/documentation-conventions/tree/master) click the plus button and select "New branch".
+    .. On the main repository page (https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/tree/master) click the plus button and select "New branch".
 
     .. Specify the name of the branch. Use the "wip-<name-of-the-entry>" form when adding a new entry, for example "wip-host-name" or "wip-<name-of-the-entry-edits>" when updating an existing entry, for example "wip-host-name-edits".
 
@@ -24,7 +24,7 @@ To edit this guide:
 
     .. Click "Edit".
 
-    .. Make the changes. Use the https://gitlab.cee.redhat.com/ccs-internal-documentation/documentation-conventions/blob/master/general_information/template.adoc[template] when adding a new entry.
+    .. Make the changes. Use the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/template.adoc[template] when adding a new entry.
 
 . Commit the changes
 
