@@ -25,6 +25,19 @@
 *See also*: xref:manual-page[manual page]
 
 [discrete]
+==== many
+[[many]]
+*Description*: Use "many" to indicate number of objects. Do not use "lots of" or "bunches of".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: lots of, bunches of 
+
+*See also*:
+
+[discrete]
 ==== Master Boot Record
 [[master-boot-record]]
 *Description*: Master Boot Record (MBR) is a small program that is executed when a computer boots up. Typically, the MBR resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process.
