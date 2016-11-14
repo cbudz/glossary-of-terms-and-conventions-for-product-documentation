@@ -120,18 +120,6 @@
 *See also*:
 
 .DevOps
-[[devops-adjective]]
-*Description*: A combination of "development" and "operations". A specific method or organizational approach where developers and IT operations work together to create the applications that run the business.
-
-*Use it*: yes
-
-*Class*: adjective
-
-*Incorrect forms*: devops, Devops, Dev-Ops, Dev Ops 
-
-*See also*: xref:devops-noun[DevOps]
-
-.DevOps
 [[devops-noun]]
 *Description*: A combination of "development" and "operations". A specific method or organizational approach where developers and IT operations work together to create the applications that run the business. 
 
@@ -141,7 +129,7 @@
 
 *Incorrect forms*: devops, Devops, Dev-Ops, Dev Ops
 
-*See also*: xref:devops-adjective[DevOps]
+*See also*:
 
 .different from
 [[different]]
@@ -169,7 +157,7 @@
 
 .disk label
 [[disk-label]]
-*Description*: A record that contains information about the location of the partitions on the disk.
+*Description*: A record that contains information about the location of the partitions on a disk.
 
 *Use it*: yes
 
@@ -181,7 +169,7 @@
 
 .DNS
 [[dns]]
-*Description*: Initialism of "Domain Name System" or "Domain Name Service", an Internet Service that translates domain names into IP addresses.
+*Description*: Initialism of "Domain Name System" or "Domain Name Service", a service that translates domain names into IP addresses and vice versa.
 
 *Use it*: yes
 
@@ -217,7 +205,7 @@
 
 .download
 [[download-noun]]
-*Description*: An act or process of downloading data.
+*Description*: The act or process of downloading data.
 
 *Use it*: yes
 
