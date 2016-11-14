@@ -9,5 +9,5 @@
 
 *Incorrect forms*: RHCS
 
-*See also*: xref:ceph[Ceph]
+*See also*: xref:ceph-command[ceph], xref:ceph[Ceph]
 

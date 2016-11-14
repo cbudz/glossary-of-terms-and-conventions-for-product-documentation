@@ -12,7 +12,7 @@
 
 .cd
 [[cd-command]]
-*Description*: Refers to the "change directory" command.
+*Description*: The "change directory" command.
 
 *Use it*: yes
 
@@ -32,7 +32,7 @@
 
 *Incorrect forms*: cd
 
-*See also*: xref:cd-command[cd]
+*See also*: xref:cd-command[cd], xref:cds[CDs]
 
 .CD #1
 [[cd-one]]
@@ -81,7 +81,7 @@
 
 *Incorrect forms*: CEPH, Ceph
 
-*See also*: xref:ceph[Ceph]
+*See also*: xref:ceph[Ceph], xref:red-hat-ceph-storage[Red Hat Ceph Storage]
 
 
 .Ceph
@@ -94,11 +94,11 @@
 
 *Incorrect forms*: CEPH, ceph
 
-*See also*: xref:red-hat-ceph-storage[Red Hat Ceph Storage]
+*See also*: xref:ceph-command[ceph], xref:red-hat-ceph-storage[Red Hat Ceph Storage]
 
 .cgroup
 [[cgroup]]
-*Description*: This term is a contraction of "control group". Cgroups allow you to allocate resources — such as CPU time, system memory, network bandwidth, or combinations of these resources — among user-defined groups of tasks (processes) running on a system.
+*Description*: This term is a contraction of "control group". Cgroups allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
 
 *Use it*: yes
 
@@ -110,7 +110,7 @@
 
 .ciphertext
 [[ciphertext]]
-*Description*: In cryptography, ciphertext is the result of encryption performed on plaintext using an algorithm, called a cipher.
+*Description*: In cryptography, ciphertext is the result of encryption performed on plain text using an algorithm, called a cipher.
 
 *Use it*: yes
 
@@ -122,7 +122,7 @@
 
 .client side
 [[client-side-noun]]
-*Description*: Refers to the client side in a client-server relationship. Use the two word form as a noun. For example, "This happens on the client side of the relationship."
+*Description*: The client side in a client-server relationship. Use the two-word form as a noun. For example, "This happens on the client side of the relationship."
 
 *Use it*: yes
 
@@ -134,7 +134,7 @@
 
 .client-side
 [[client-side-adjective]]
-*Description*: Refers to operations that are performed by the client in a client-server relationship. Use the one word form as an adjective. For example, "This is a client-side service."
+*Description*: Operations that are performed by the client in a client-server relationship. Use the one-word form as an adjective. For example, "This is a client-side service."
 
 *Use it*: yes
 
@@ -146,7 +146,7 @@
 
 .cloud
 [[cloud-adjective]]
-*Description*: Use a lowercase “c” when referring to cloud in a general sense.
+*Description*: Use a lowercase "c" when referring to cloud in a general sense.
 
 *Use it*: yes
 
@@ -158,7 +158,7 @@
 
 .cloud
 [[cloud-noun]]
-*Description*: Use a lowercase “c” when referring to cloud computing in a general sense.
+*Description*: Use a lowercase "c" when referring to cloud computing in a general sense.
 
 *Use it*: yes
 
@@ -170,7 +170,7 @@
 
 .cloudbursting
 [[cloudbursting]]
-*Description*: Refers to the event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources.
+*Description*: The event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources.
 
 *Use it*: yes
 
@@ -182,7 +182,7 @@
 
 .cloudwashing
 [[cloudwashing]]
-*Description*: Refers to the process of rebranding legacy products to include the term "cloud" to increase their appeal to the cloud market.
+*Description*: The process of rebranding legacy products to include the term "cloud" to increase their appeal to the cloud market.
 
 *Use it*: yes
 
@@ -194,7 +194,7 @@
 
 .cluster
 [[cluster]]
-*Description*: Refers to a collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later.
+*Description*: A collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later.
 
 *Use it*: yes
 
@@ -206,7 +206,7 @@
 
 .code
 [[code]]
-*Description*: Refers to programming statements and a set of instructions for a computer. The verb form is not to be used.
+*Description*: Programming statements and a set of instructions for a computer. The verb form is not to be used.
 
 *Use it*: yes
 
@@ -218,7 +218,7 @@
 
 .comma-delimited
 [[comma-delimited]]
-*Description*: Refers to a data format in which each piece of data is separated by a comma.
+*Description*: A data format in which each piece of data is separated by a comma.
 
 *Use it*: yes
 
@@ -230,20 +230,20 @@
 
 .comma-separated values
 [[comma-separated-values]]
-*Description*: Refers to a set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
+*Description*: A set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
 
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: comma-delimited values, comma separated values
+*Incorrect forms*: comma-delimited values, comma delimited values, comma separated values
 
 *See also*: xref:csv[CSV]
 
 
 .command-driven
 [[command-driven]]
-*Description*: Refers to programs and operating systems that accept commands in the form of special words or letters.
+*Description*: Programs and operating systems that accept commands in the form of special words or letters.
 
 *Use it*: yes
 
@@ -255,7 +255,7 @@
 
 .command language
 [[command-language]]
-*Description*: Refers to the programming language through which a user communicates with an operating system or an application.
+*Description*: The programming language through which a user communicates with an operating system or an application.
 
 *Use it*: yes
 
@@ -267,7 +267,7 @@
 
 .connectivity
 [[connectivity]]
-*Description*: Refers to the ability of a program or device to link with other programs and devices.
+*Description*: The ability of a program or device to link with other programs and devices.
 
 *Use it*: yes
 
@@ -279,7 +279,7 @@
 
 .container-based
 [[container-based]]
-*Description*: Refers to applications made up of multiple services that are distributed in containers. Can be used interchangeably with "containerized".
+*Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "containerized".
 
 *Use it*: yes
 
@@ -291,7 +291,7 @@
 
 .containerized
 [[containerized]]
-*Description*: Refers to applications made up of multiple services that are distributed in containers. Can be used interchangeably with "container-based".
+*Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "container-based".
 
 *Use it*: yes
 
@@ -303,7 +303,7 @@
 
 .control program
 [[control-program]]
-*Description*: Refers to a program that enhances an operating system by creating an environment in which you can run other programs.
+*Description*: A program that enhances an operating system by creating an environment in which you can run other programs.
 
 *Use it*: yes
 
@@ -327,7 +327,7 @@
 
 .cookie
 [[cookie]]
-*Description*: Refers to a message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
+*Description*: A message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
 
 *Use it*: yes
 
@@ -339,7 +339,7 @@
 
 .cross-platform
 [[cross-platform]]
-*Description*: Refers to the capability of software or hardware to run identically on different platforms.     
+*Description*: The capability of software or hardware to run identically on different platforms.     
 
 *Use it*: yes
 
@@ -351,7 +351,7 @@
 
 .cross-site scripting
 [[cross-site-scripting]]
-*Description*: Refers to cross-site scripting attacks. Acceptable use is also "cross-site scripting (XSS) attack". 
+*Description*: Cross-site scripting attacks. Acceptable use is also "cross-site scripting (XSS) attack". 
 
 *Use it*: yes
 
@@ -363,7 +363,7 @@
 
 .CSV
 [[csv]]
-*Description*: Refers to a set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
+*Description*: A set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
 
 *Use it*: yes
 
@@ -375,7 +375,7 @@
 
 .Ctrl
 [[ctrl]]
-*Description*: Refers to the `Ctrl` key on a keyboard.
+*Description*: The `Ctrl` key on a keyboard.
 
 *Use it*: yes
 
@@ -387,7 +387,7 @@
 
 .Cygmon
 [[cygmon]]
-*Description*: Refers to a type of ROM monitor.
+*Description*: A type of ROM monitor.
 
 *Use it*: yes
 
