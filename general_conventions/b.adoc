@@ -219,7 +219,7 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Incorrect forms*: bps
 
-*See also*:
+*See also*: xref:bps[bps]
 
 .bps
 [[bps]]
@@ -229,7 +229,7 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Incorrect forms*: Bps
 
-*See also*:
+*See also*: xref:Bps[Bps]
 
 .broadcast
 [[broadcast-n]]
