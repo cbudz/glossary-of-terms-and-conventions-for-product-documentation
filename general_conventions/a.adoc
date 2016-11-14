@@ -1,6 +1,30 @@
+.&
+[[ampersand]]
+*Description*: Ampersands can be used in design elements and graphics when space is limited, and when either referring to or quoting third-party content that uses them. Do not use in original body copy. 
+
+*Use it*: with caution
+
+*Class*: symbol
+
+*Incorrect forms*: 
+
+*See also*:
+
+.+
+[[plus-symbol]]
+*Description*: Plus symbols can be used in design elements and graphics when space is limited, and when either referring to or quoting third-party content that uses them. Do not use in original body copy. 
+
+*Use it*: with caution
+
+*Class*: symbol
+
+*Incorrect forms*: 
+
+*See also*:
+
 .air gap
 [[air-gap]]
-*Description*: "Air gap" describes systems that are separated, not by software, but physically. Do not use "air wall". "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
+*Description*: The physical segregation and isolation of a system as a security measure.
 
 *Use it*: yes
 
@@ -9,3 +33,70 @@
 *Incorrect forms*: air wall
 
 *See also*:
+
+.AMD64
+[[AMD64]]
+*Description*: The AMD implementation of the the x86 architecture.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Hammer, x86_64, x86-64, x64, 64-bit x86
+
+*See also*: 
+
+[NOTE]
+====
+The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the AMD Trademark Information page at http://www.amd.com/us/aboutamd/Pages/trademarks.aspx.
+For more information about Intel® trademarks, see http://www.intel.com/content/www/us/en/legal/trademarks.html and http://www.intel.com/content/www/us/en/trademarks/trademarks.html. 
+====
+
+.ATM
+[[ATM]]
+*Description*: Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies. 
+
+*Use it*: yes
+
+*Class*: initialism
+
+*Incorrect forms*:
+
+*See also*:
+
+.alright
+[[alright]]
+*Description*: The colloquial form of "correct" or "as expected". 
+
+*Use it*: no
+
+*Class*: adjective
+
+*Incorrect forms*: alright, all right
+
+*See also*: 
+
+.Applixware
+[[applixware]]
+*Description*: A suite of proprietary modular applications for Linux.
+
+*Use it*: yes
+
+*Class*: proper noun
+
+*Incorrect forms*: Applix, ApplixWare
+
+*See also*:
+
+.auto-detect
+[[auto-detect]]
+*Description*: To automatically detect threats, new hardware, software updates, etc.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: autodetect
+
+*See also*:
+
