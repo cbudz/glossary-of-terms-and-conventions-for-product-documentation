@@ -12,56 +12,6 @@ If referring to the program, use "Emacs". For example, "Source-Navigator support
 
 *See also*:
 
-.e.g.
-[[e.g.]]
-*Description*: "Exempli gratia". Commonly used to mean "for example". Red Hat technical documentation always expands this abbreviation.
-
-*Use it*: no
-
-*Class*: abbreviation
-
-*Incorrect forms*: 
-
-*See also*: 
-
-.earlier
-[[earlier]]
-*Description*: Use to refer to earlier releases of products. Do not use "older" or related terms.
-
-*Use it*: yes
-
-*Class*: adjective
-
-*Incorrect forms*: older
-
-*See also*: xref:later[later]
-
-.ensure
-[[ensure]]
-*Description*: This means "to make sure, certain, or safe; to guarantee". For example, "Perform the following steps to ensure a network and serial connection."
-
-*Use it*: yes
-
-*Class*: verb
-
-*Incorrect forms*: make sure, make certain, check
-
-*See also*: 
-
-.enter
-[[enter-v]]
-*Description*: When referring to typing a command, use "type" instead, such as "To open Source-Navigator from the command line, type *snavigator*."
-
-When typing information into a single-field dialog box, "enter" means "type and press *Enter*". An example is "enter the license number." For multi-field dialog boxes, see "type". 
-
-*Use it*: with caution
-
-*Class*: verb
-
-*Incorrect forms*: 
-
-*See also*: xref:type[type]
-
 .Enter
 [[enter-n]]
 *Description*: When referring to the keyboard key, use *Enter*. If referring to the keyboard key on Solaris, use *Return*.
@@ -79,8 +29,6 @@ When typing information into a single-field dialog box, "enter" means "type and 
 *Description*: The state of a computer, usually determined by which programs are running and basic hardware and software characteristics. For example, when one speaks of running a program in a UNIX environment, it means running a program on a computer that has the UNIX operating system.
 
 One ingredient of an environment, therefore, is the operating system. But operating systems include a number of different parameters. For example, many operating systems allow you to choose your command prompt or a default command path. All these parameters taken together constitute the environment.
-
-Another term for environment in this sense is platform. 
 
 *Use it*: yes
 
@@ -101,18 +49,6 @@ Another term for environment in this sense is platform.
 *Incorrect forms*: 
 
 *See also*: 
-
-.Ethernet
-[[ethernet]]
-*Description*: "Ethernet" is a family of computer networking technologies commonly used in local area networks (LANs) and metropolitan area networks (MANs). Use an uppercase "E" at all times. 
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: ethernet
-
-*See also*:
 
 .event
 [[event]]
@@ -157,18 +93,6 @@ Another term for environment in this sense is platform.
 *Use it*: yes
 
 *Class*: noun
-
-*Incorrect forms*: 
-
-*See also*:
-
-.execute
-[[execute]]
-*Description*: Has the same meaning as "run". Execute means to perform an action, as in executing a program or a command.
-
-*Use it*: yes
-
-*Class*: verb
 
 *Incorrect forms*: 
 
