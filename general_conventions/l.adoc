@@ -28,19 +28,6 @@
 *See also*: TODO add bandwidth xref
 
 [discrete]
-==== left-click
-[[left-click]]
-*Description*: Left-click means clicking the left button of the mouse.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: left click
-
-*See also*: TODO add right-click xref
-
-[discrete]
 ==== license
 [[license-n]]
 *Description*: A official document that gives someone permissions to do or use something.
