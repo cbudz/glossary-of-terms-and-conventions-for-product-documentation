@@ -52,7 +52,9 @@ Use one hyphenated word when used as an adjective.
 
 .FireWire
 [[firewire]]
-*Description*: Do not use "Firewire" or "firewire." Although FireWire is a trademark of Apple Computer, it does not need to be listed with a trademark symbol when mentioned. Only when talking about Apple's FireWire software license or specific logos should the symbol be used (which is almost never). See http://developer.apple.com/softwarelicensing/agreements/firewire.html for full details. 
+*Description*: FireWire is Apple's name for the IEEE 1394 High Speed Serial Bus, a serial bus architecture for high-speed data transfer.
+
+Do not use "Firewire" or "firewire." Although FireWire is a trademark of Apple Computer, it does not need to be listed with a trademark symbol when mentioned. Only use the trademark symbol when talking about Apple's FireWire software license or specific logos. See http://developer.apple.com/softwarelicensing/agreements/firewire.html for full details. 
 
 *Use it*: yes
 
@@ -64,7 +66,7 @@ Use one hyphenated word when used as an adjective.
 
 .firmware
 [[firmware]]
-*Description*: Software (programs or data) that has been written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs, and EPROMs that have data or programs recorded on them are firmware.
+*Description*: Software (programs or data) that has been written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs (programmable ROMs), and EPROMs (erasable PROMs) that have data or programs recorded on them are firmware.
 
 *Use it*: yes
 
@@ -116,18 +118,6 @@ For later versions beginning with Fortran 90, use "Fortran".
 
 *See also*:
 
-.forward
-[[forward]]
-*Description*: Avoid using "forwards." 
-
-*Use it*: yes
-
-*Class*: adjective, adverb
-
-*Incorrect forms*: forwards
-
-*See also*: 
-
 .FQDN
 [[fqdn]]
 *Description*: A fully qualified domain name consists of a host and domain name, including top-level domain. For example, www.redhat.com is a fully qualified domain name. www is the host, redhat is the second-level domain, and .com is the top level domain.
@@ -170,7 +160,19 @@ Do not use "frontend" as noun or adjective.
 
 *See also*: xref:front-end-adj[front-end] 
 
-.Futexes
+.futex
+[[futex]]
+*Description*: A futex (short for "fast userspace mutex") is a Linux kernel system call that programmers can use to implement basic locking, or as a building block for higher-level locking abstractions.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:futexes[futexes], xref:mutex[mutex]
+
+.futexes
 [[futexes]]
 *Description*: "Futex" is an abbreviation of "fast user-space mutex." Consequently, "futexes" is the correct plural form. 
 
@@ -180,11 +182,11 @@ Do not use "frontend" as noun or adjective.
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:futex[futex], xref:mutexes[mutexes]
 
 .fuzzy
 [[fuzzy]]
-*Description*: Correct only when referring to fuzzy searches. See http://www.stylepedia.net/#chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language[Avoiding Slang, Metaphors, and Misleading Language] for details and examples. 
+*Description*: Correct only when referring to fuzzy searches (the technique of finding strings that match a pattern approximately, rather than exactly). See http://www.stylepedia.net/#chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language[Avoiding Slang, Metaphors, and Misleading Language] for details and examples. 
 
 *Use it*: with caution
 
