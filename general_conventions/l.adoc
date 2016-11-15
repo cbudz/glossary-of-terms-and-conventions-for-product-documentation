@@ -28,19 +28,6 @@
 *See also*: TODO add bandwidth xref
 
 [discrete]
-==== later
-[[later]]
-*Description*: Use to refer to later or more recent releases of products. Do not use "newer" or related terms.
-
-*Use it*: yes
-
-*Class*: adjective
-
-*Incorrect forms*: newer
-
-*See also*: TODO add earlier xref
-
-[discrete]
 ==== left-click
 [[left-click]]
 *Description*: Left-click means clicking the left button of the mouse.
