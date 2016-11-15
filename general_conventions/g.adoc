@@ -56,7 +56,7 @@ When referring to the command, use `gas`, marked up appropriately.
 
 .GB
 [[gb]]
-*Description*: Abbreviation of gigabyte. Use a space between the value and the abbreviation. For example, "a 2 GB file."
+*Description*: Abbreviation of gigabyte. Use a space between the value and the abbreviation. For example, "a 2 GB file".
 
 *Use it*: yes
 
@@ -165,7 +165,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 .GID
 [[gid]]
-*Description*: Acronym for Group ID. Do not use "gid." 
+*Description*: Acronym for Group ID. Do not use "gid". 
 
 *Use it*: yes
 
@@ -177,7 +177,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 .gigabyte
 [[gigabyte]]
-*Description*: 2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB." 
+*Description*: 2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB". 
 
 *Use it*: yes
 
@@ -189,7 +189,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 .GIMP
 [[gimp]]
-*Description*: Acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp." 
+*Description*: Acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp". 
 
 *Use it*: yes
 
@@ -251,7 +251,7 @@ When referring to the Red Hat product, use GNUPro.
 
 .GPL
 [[gpl]]
-*Description*: Initialism for General Public License. Do not use "Gpl" or "gpl."
+*Description*: Initialism for General Public License. Do not use "Gpl" or "gpl".
 
 *Use it*: yes
 
@@ -263,7 +263,7 @@ When referring to the Red Hat product, use GNUPro.
 
 .grayscale
 [[grayscale]]
-*Description*: Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized. 
+*Description*: Do not use "gray-scale" or "gray scale". Only the noun form is currently recognized. 
 
 *Use it*: yes
 
@@ -287,7 +287,7 @@ When referring to the Red Hat product, use GNUPro.
 
 .GTK&plus;
 [[gtkplus]]
-*Description*: Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk." 
+*Description*: Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk". 
 
 *Use it*: yes
 
