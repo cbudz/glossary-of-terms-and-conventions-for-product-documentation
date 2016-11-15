@@ -1,6 +1,8 @@
-.g&plus;&plus; or G&plus;&plus;
+.G&plus;&plus;
 [[gplusplus]]
-*Description*: When referring to the command, use g&plus;&plus;. When referring to the program, use G&plus;&plus;.
+*Description*: G&plus;&plus; is a C&plus;&plus; compiler usually operated via the command line. 
+
+When referring to the program, use "G&plus;&plus;".
 
 *Use it*: yes
 
@@ -8,11 +10,27 @@
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:gplusplus-command[g&plus;&plus;]
 
-.gas or GAS
+.g&plus;&plus;
+[[gplusplus-command]]
+*Description*: G&plus;&plus; is a C&plus;&plus; compiler usually operated via the command line. 
+
+When referring to the command, use `g&plus;&plus;`, marked up appropriately.
+
+*Use it*: yes
+
+*Class*: command
+
+*Incorrect forms*: 
+
+*See also*: xref:gplusplus[G&plus;&plus;]
+
+.GAS
 [[gas]]
-*Description*: When referring to the command, use gas. When referring to the program, use GAS
+*Description*: Short for "GNU Assembler", the assembler used by the GNU Project. 
+
+When referring to the program, use "GAS".
 
 *Use it*: yes
 
@@ -20,7 +38,21 @@
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:gas-command[gas]
+
+.gas
+[[gas-command]]
+*Description*: Short for "GNU Assembler", the assembler used by the GNU Project. 
+
+When referring to the command, use `gas`, marked up appropriately.
+
+*Use it*: yes
+
+*Class*: command
+
+*Incorrect forms*: 
+
+*See also*: xref:gas[GAS]
 
 .GB
 [[gb]]
@@ -32,7 +64,7 @@
 
 *Incorrect forms*: gb, Gb
 
-*See also*:
+*See also*: xref:gigabyte[gigabyte]
 
 .Gbps
 [[gbps]]
@@ -46,9 +78,11 @@
 
 *See also*: 
 
-.gcc or GCC
+.GCC
 [[gcc]]
-*Description*: When referring to the command, use gcc. When referring to the program, use GCC.
+*Description*: The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. 
+
+When referring to the program, use "GCC".
 
 *Use it*: yes
 
@@ -56,11 +90,27 @@
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:gcc-command[gcc]
 
-.gcj or GCJ
+.gcc
+[[gcc-command]]
+*Description*: The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. 
+
+When referring to the command, use `gcc`, marked up appropriately. 
+
+*Use it*: yes
+
+*Class*: command
+
+*Incorrect forms*: 
+
+*See also*: xref:gcc[GCC]
+
+.GCJ
 [[gcj]]
-*Description*: When referring to the command, use gcj. When referring to the program, use GCJ. 
+*Description*: The GNU Compiler for Java (GCJ) was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from GCJ. In 2016, GCJ was removed from GCC.
+
+When referring to the program, use "GCJ". 
 
 *Use it*: yes
 
@@ -68,11 +118,28 @@
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:gcj-command[gcj]
 
-.gdb or GDB
+.gcj
+[[gcj-command]]
+
+*Description*: The GNU Compiler for Java (GCJ) was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from GCJ. In 2016, GCJ was removed from GCC.
+
+When referring to the command, use `gcj`, marked up appropriately.  
+
+*Use it*: yes
+
+*Class*: command
+
+*Incorrect forms*: 
+
+*See also*: xref:gcj[GCJ]
+
+.GDB
 [[gdb]]
-*Description*: When referring to the command, use gdb. When referring to the program, use GDB. 
+*Description*: The GNU Debugger (GDB), is the standard debugger for the GNU operating system. It is a portable debugger that runs on many UNIX-like systems and works for many programming languages.
+
+When referring to the program, use "GDB". 
 
 *Use it*: yes
 
@@ -80,7 +147,21 @@
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:gdb-command[gdb]
+
+.gdb
+[[gdb-command]]
+*Description*: The GNU Debugger (GDB), is the standard debugger for the GNU operating system. It is a portable debugger that runs on many UNIX-like systems and works for many programming languages.
+
+When referring to the command, use `gdb`, marked up appropriately.
+
+*Use it*: yes
+
+*Class*: command
+
+*Incorrect forms*: 
+
+*See also*: xref:gdb[GDB]
 
 .GID
 [[gid]]
@@ -104,7 +185,7 @@
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:gb[GB]
 
 .GIMP
 [[gimp]]
@@ -120,7 +201,7 @@
 
 .GNOME
 [[gnome]]
-*Description*: An open-source desktop environment for Unix systems. 
+*Description*: An open-source desktop environment for UNIX systems. 
 
 *Use it*: yes
 
@@ -132,7 +213,7 @@
 
 .GNOME Classic
 [[gnome-classic]]
-*Description*: Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GDM login screen, that is, "GNOME Classic". The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere). 
+*Description*: Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GNOME Display Manager (GDM) login screen, that is, "GNOME Classic". The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere). 
 
 *Use it*: yes
 
@@ -144,7 +225,7 @@
 
 .GNU
 [[gnu]]
-*Description*: Recursive initialism for "GNU's Not UNIX." Do not use "Gnu" or "gnu." 
+*Description*: Recursive initialism for "GNU's Not UNIX". GNU is a UNIX-like, open source operating system. Do not use "Gnu" or "gnu". 
 
 *Use it*: yes
 
@@ -156,7 +237,9 @@
 
 .GNUPro
 [[gnupro]]
-*Description*: When referring to the Red Hat product, use GNUPro. 
+*Description*: GNUPro Toolkit for Linux is designed for developing both commercial and noncommercial Linux applications on native Linux platforms. It is a set of tested and certified, open-source, GNU standard C, C++ and assembly language development tools. 
+
+When referring to the Red Hat product, use GNUPro. 
 
 *Use it*: yes
 
@@ -165,18 +248,6 @@
 *Incorrect forms*: 
 
 *See also*: 
-
-.got
-[[got]]
-*Description*: Just an ugly word.
-
-*Use it*: no
-
-*Class*: verb
-
-*Incorrect forms*: 
-
-*See also*:
 
 .GPL
 [[gpl]]
@@ -204,7 +275,7 @@
 
 .GRUB
 [[grub]]
-*Description*: Boot loader package. Short for "GRand Unified Bootloader".
+*Description*: Linux boot loader. Short for "GRand Unified Bootloader".
 
 *Use it*: yes
 
@@ -228,12 +299,12 @@
 
 .guest operating system
 [[guest-operating-system]]
-*Description*: Refers to the operating system that is installed in a virtual machine. Do not use "guest" by itself because it is ambiguous. 
+*Description*: Refers to the operating system that is installed in a virtual machine. Do not use "guest" by itself, because it is ambiguous. 
 
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: guest
+*Incorrect forms*:
 
 *See also*:
