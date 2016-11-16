@@ -7,7 +7,7 @@
 
 *Incorrect forms*: Ram, ram 
 
-*See also*:
+*See also*: xref:ram-disk[RAM disk]
 
 [discrete]
 ==== RAM disk (noun)
@@ -18,7 +18,7 @@
 
 *Incorrect forms*: RAMdisk, ramdisk, RAM-disk
 
-*See also*:
+*See also*: xref:ram[RAM]
 
 [discrete]
 ==== raw (adjective)
@@ -29,7 +29,7 @@
 
 *Incorrect forms*: RAW 
 
-*See also*:
+*See also*: xref:cooked[cooked]
 
 [discrete]
 ==== raw data (noun)
@@ -57,7 +57,7 @@
 [discrete]
 ==== read (noun)
 [[read-n]]
-*Description*: The act of reading. For example, a fast disk drive performs 100 reads per second. 
+*Description*: The act of reading. For example, a fast disk drive performs 100 reads per second.
 
 *Use it*: yes
 
@@ -66,32 +66,9 @@
 *See also*: xref:read-v[read (verb)]
 
 [discrete]
-==== read-only (adjective)
-[[readonly]]
-*Description*: Read-only means something is capable of being displayed, but not modified or deleted. All operating systems allow you to protect objects (disks, files, and directories) with a read-only attribute that prevents other users from modifying the object. 
-
-*Use it*: yes
-
-*Incorrect forms*: 
-
-*See also*:
-
-[discrete]
-==== read-write (adjective)
-[[read-write]]
-*Description*: Read-write means something is capable of being displayed (read) and modified (written to). Most objects (disks, files, and directories) are read/write, but operating systems also allow you to protect objects with a read-only attribute that prevents other users from modifying the object.
-
-*Use it*: yes
-
-*Incorrect forms*: read-write 
-
-*See also*:
-
-[discrete]
 ==== real time (noun)
 [[real-time-n]]
-*Description*: If used as a noun, it is the actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March." If used as an adjective, "real-time" is appropriate. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
-
+*Description*: If used as a noun, it is the actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
 *Use it*: yes
 
 *Incorrect forms*: realtime
@@ -186,7 +163,7 @@
 
 *Incorrect forms*: remote-access
 
-*See also*:
+*See also*: xref:remote-access-server[remote access server]
 
 [discrete]
 ==== remote access server (noun)
@@ -197,15 +174,15 @@
 
 *Incorrect forms*: remote-access server
 
-*See also*:
+*See also*: xref:remote-access[remote access]
 
 [discrete]
-==== required
+==== required (adjective)
 [[required]]
 
-*Description*: 
+*Description*: Required can mean needed, essential, or obligatory. Example 1: "The module is missing essential parts." Example 2: "Filling in the Class field is obligatory."
 
-*Use it*: no
+*Use it*: yes
 
 *Incorrect forms*: 
 
@@ -215,7 +192,7 @@
 ==== return (verb)
 [[return]]
 
-*Description*: When referring to the keyboard key on Solaris or Mac, use **Return** or **return**, respectively. See "enter" for other platforms. 
+*Description*: When referring to the keyboard key on Solaris or Mac, use "Return" or "return", respectively. See "enter" for other platforms. 
 
 *Use it*: yes
 
@@ -224,20 +201,9 @@
 *See also*: xref:enter-n[enter]
 
 [discrete]
-==== right now (adverb)
-[[right-now]]
-*Description*: A term to indicate some action should occur immediately. Use _now_ instead.
-
-*Use it*: no
-
-*Incorrect forms*: 
-
-*See also*:
-
-[discrete]
 ==== ROM (noun)
 [[rom]]
-*Description*: ROM is an acronym for read-only memory, that is, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read. A variation of a ROM is a PROM (programmable read-only memory). PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer. 
+*Description*: ROM is an acronym for read-only memory, that is, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read. 
 
 *Use it*: yes 
 
@@ -250,7 +216,7 @@
 [[prom]]
 *Description*: PROM (programmable read-only memory) is a variation of ROM. PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer. 
 
-*Use it*: yes 
+*Use it*: yes
 
 *Incorrect forms*: prom, Prom
 
@@ -258,34 +224,36 @@
 
 [discrete]
 ==== roundtable (noun)
-[[roundtable-n]]
-*Description*: Use _roundtable_ when referring to a type of event or gathering. Use _round table_ when referring to a circular table.
+[[roundtable]]
+*Description*: Use "roundtable" when referring to a type of event or gathering.
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: round table
 
-*See also*:
-
-[discrete]
-==== roundtable (adjective)
-[[roundtable-adj]]
-*Description*: Use _roundtable_ when referring to a type of event or gathering. Use _round table_ when referring to a circular table.
-
-*Use it*: yes
-
-*Incorrect forms*: 
-
-*See also*:
+*See also*: xref:round-table[round table]
 
 [discrete]
 ==== round table (noun)
 [[round-table]]
-*Description*: Use _round table_ when referring to a circular table.
+
+*Description*: Use "round table" when referring to a circular table.
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: roundtable
+
+*See also*: xref:roundtable[roundtable]
+
+[discrete]
+==== routine (noun)
+[[routine]]
+
+*Description*: A routine is a set of programming instructions designed to perform a specific limited task.
+
+*Use it*: yes
+
+*Incorrect forms*:
 
 *See also*:
 

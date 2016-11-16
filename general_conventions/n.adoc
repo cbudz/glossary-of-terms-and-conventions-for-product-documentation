@@ -9,4 +9,4 @@
 
 *Incorrect forms*: right now
 
-*See also*: xref:right-now[right-now]
+*See also*:
