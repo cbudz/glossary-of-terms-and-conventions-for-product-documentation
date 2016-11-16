@@ -1,0 +1,172 @@
+[discrete]
+==== S/390
+[[s/390]]
+*Description*: Use the full description "IBM S/390." The IBM S/390 is IBM's large server (or mainframe) line of computer systems.
+
+*Use it*: no
+
+*Class*: noun
+
+*Incorrect forms*: S/390, S90, or any other variations
+
+*See also*: xref:ibm-s-390 [IBM S/390]
+
+[discrete]
+==== Samba
+[[samba]]
+*Description*: Samba is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including: Linux, most common UNIX platforms, OpenVMS, and OS/2. U
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: samba, SAMBA
+
+[discrete]
+==== ⁠S-record
+[[s-record]]
+*Description*: Motorola S-record is a file format that stores binary information in ASCII hex text form. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: s-record, S-Record, s-Record, SREC, or any other variation
+
+*See also*: xref:SREC [SREC]
+
+⁠S-record
+    Correct. Do not use "s-record," "S-Record," "s-Record," or any other variations. 
+⁠screen capture (n.)
+    Correct. Do not use "screen shot," "screenshot," or other terms or variations. See the relevant entry in The IBM Style Guide. 
+⁠screen saver (n.)
+    Correct. Do not use "screensaver." 
+⁠scrollbar (n.)
+    Correct. Do not use "scroll bar" or "scroll-bar." 
+⁠see
+    Use to refer readers to another resource. Avoid using "refer to" in this context. 
+⁠segmentation fault (n.)
+    Correct. Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
+    See also "What is a segfault?" on the Red Hat Customer Portal for more information. 
+⁠select (vb.)
+    Use when referring to menu options. For example, "Select Save from the File menu." 
+⁠SELinux
+    Short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
+⁠sends out
+    Do not use. Instead, use "emits" or "issues." 
+⁠server farm
+    Also referred to as server cluster, computer farm or ranch. A server farm is a group of networked servers that are housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm and expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks and scheduling and rescheduling them depending on priority and demand that users put on the network. When one server in the farm fails, another can step in as a backup. 
+⁠server-side/server side
+    See "client-side/client side." 
+⁠setup/set up
+    "Setup" is a noun. "Set up" is a verb. 
+⁠SHA-1, SHA-2
+    Correct. SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are considered correct when referring to these specific hash functions. 
+⁠Shadowman
+    Correct. Do not use "Shadow Man" or "ShadowMan." The Red Hat Shadowman logo is a trademark of Red Hat, Inc., registered in the United States and other countries. 
+⁠shadow passwords
+    Not a proper noun, so capitalize "Shadow" at the beginning of a sentence only.
+    Shadow passwords are a method of improving system security by moving the encrypted passwords (normally found in /etc/passwd) to /etc/shadow, which is readable only by root. This option is available during installation and is part of the shadow utilities package. 
+⁠shadow utilities
+    Not a proper noun, so capitalize "Shadow" at the beginning of a sentence only. 
+⁠share name
+    Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as "smbclient -L." 
+⁠shell
+    A "shell" is a software application, for example, /bin/bash or /bin/sh, that provides an interface to a computer. Do not use this term to describe where to type commands. 
+⁠shell prompt
+    Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt," "terminal," or "shell." 
+⁠should
+    Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also "must." 
+⁠shut down (vb.)
+    Correct. Do not use "shut-down." Only use "shutdown" when referring to the /sbin/shutdown system command. 
+⁠simply
+    Do not use. See "basically." 
+⁠since or because
+    Do not use "since" to mean "because," it is ambiguous. Use "because" to refer to a reason. Use "since" to refer to the passage of time. 
+⁠skill set, skills, knowledge (n.)
+    Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective (because it is a noun). Do not use "skill-set knowledge;" it is redundant. See the following examples:
+    ⁠
+
+    Example 27.1. Example Use of Term "Skillset" Versus "Skills"
+    Incorrect: Do you have the right skillset to be an RHCE?
+    Correct: Do you have the right skills to be an RHCE?
+    ⁠
+
+    Example 27.2. Example Use of Term "Knowledge"
+    Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
+    Correct: This course gives you the knowledge to complete your RHCT exam successfully. 
+⁠smart card
+    Correct. Do not use smartcard or smart-card. 
+⁠snippet
+    Do not use snippet or tidbit to refer to short or small sections of information. Use "piece" instead. Use "excerpt" to refer to samples taken from a more extensive section of text. 
+⁠SOCKS
+    Correct. Do not use "socks." When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5." 
+⁠softcopy
+    Do not use. Instead, use "online." For example, "To view the online documentation..." 
+⁠sound card
+    Correct. Do not use "soundcard" or "sound-card." 
+⁠Source-Navigator™
+    Correct. Do not use "Source Navigator." Source-Navigator™ is a trademark of Red Hat. 
+⁠space
+    Use when referring to white space, such as "Ensure there is a space between each command." Use "Spacebar" when referring to the keyboard key. 
+⁠Spacebar
+    Use when referring to the keyboard key, such as "Press the Spacebar key to continue." 
+⁠spec file
+    Correct. When referring to the RPM spec file, do not use "specfile." 
+⁠specific
+    When used as a modifier, put a hyphen before specific, such as "MIPS-specific," "Linux-specific," and "chip-specific." 
+⁠spelt
+    Incorrect. Use "spelled" instead.
+    "Spelt" is the standard spelling in Commonwealth English but US English prefers "spelled," although "spelt" is occasionally seen in US English. 
+⁠SQL
+    When referring to the ISO standard (ISO 9075 and its descendants), this is pronounced as an initialism: "ess queue ell." Consequently, it takes "an" as in indefinite article.
+    When referring to Microsoft's proprietary product, SQL Server, this is pronounced as a word: "sequel." In this case, therefore, it takes "a" as an indefinite article.
+    NB: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
+    More generally, avoid using "SQL" as a generic marker if at all possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced "postgress queue ell"), write "PostgreSQL." 
+⁠SR-IOV
+    Correct. SR-IOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV. 
+⁠SSH
+    Initialism for Secure Shell, a network protocol that allows data exchange using a secure channel. When referring to the protocol, do not use "ssh," "Ssh," or other variants. When referring to the command, use ssh.
+    Do not use as a verb. For example, instead of "ssh to the remote server," write "Use SSH to connect to the remote server," or something similar. 
+⁠SSL
+    Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the Internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. The majority of web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http:. 
+⁠stand-alone (adj.)
+    Correct. Do not use "standalone."
+    Refers to something that is self-contained, or that does not require any other devices to function. For example, a fax machine is a stand-alone device because it does not require a computer, printer, modem, or other device. A printer, on the other hand, is not a stand-alone device because it requires a computer to feed it data. 
+⁠StarOffice
+    A Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office." 
+⁠starts up
+    Do not use. Instead, use "activates" or "invokes." 
+⁠startx
+    Correct. Do not use StartX or other variants. 
+⁠straightforward (adj., adv.)
+    Correct. Accepted references prescribe the use of the one-word form in all cases. 
+⁠su
+    Correct. Linux command to change to the root user. Do not use SU (all caps). 
+⁠subcommand
+    Correct. Do not use "sub-command." A subcommand refers to a "secondary" or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
+
+    hammer import organization --help
+
+    In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. --help is an option. 
+⁠subdirectory
+    Correct. Do not use "sub-directory." 
+⁠submenu
+    Correct. Do not use "sub-menu." 
+⁠subpackage
+    Correct. do not use "sub-package."
+    This word has a specific, specialized meaning in Red Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages."
+    Any other use of this word is strongly discouraged.
+    NB: subpackages are not the same as dependencies and should not be treated as such. 
+⁠superuser
+    A synonym for the root user. More common in Solaris documentation than Linux. If and when used, this is the correct spelling. Do not use "super user" or "super-user." 
+⁠swap space
+    Correct. Do not use "swapspace." If starting the beginning of a sentence, "Swap space" is allowed. 
+⁠Sybase Adaptive Server Enterprise (ASE)
+    Use SAP Sybase Adaptive Server Enterprise (ASE) in the first instance. Subsequent entries can use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
+    See http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise for more information. 
+⁠SysV
+    Correct. Do not use Sys V or System V. 
+⁠symmetric encryption
+    A type of encryption where the same key is used to encrypt and decrypt the message. This differs from asymmetric (or public-key) encryption, which uses one key to encrypt a message and another to decrypt the message. 
+
