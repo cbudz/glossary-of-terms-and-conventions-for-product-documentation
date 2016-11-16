@@ -325,6 +325,18 @@
 
 *See also*:
 
+.cooked
+[[cooked]]
+*Description*: Cooked refers to data that is processed before being passed to the I/O device. 
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: 
+
+*See also*: xref:raw[raw]
+
 .cookie
 [[cookie]]
 *Description*: A message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
