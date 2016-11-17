@@ -50,6 +50,7 @@
 ==== ⁠scrollbar
 [[scrollbar]]
 *Description*: A scrollbar is a long, thin rectangle on the edge of the screen that allows a user to view information that does not fit on a single screen display.
+
 *Use it*: yes
 
 *Class*: noun
@@ -73,18 +74,30 @@
 
 [discrete]
 ==== ⁠segmentation fault
-[[ceph]]
-*Description*: Segmentation fault is an error caused by attempting to access protected memory. The error occurs to prevent you from corrupting the memory. Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
+[[segmentation fault]]
+*Description*:  A segmentation fault occurs when a process tries to access a memory location that it is not allowed to access, or tries to access a memory location in a way that is not allowed (for example, if the process tries to write to a read-only location, or to overwrite part of the operating system). 
+Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
 
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: segfault
+*Incorrect forms*: segfault as a verb
 
-*See also*: xref:https://access.redhat.com/articles/372743 [A Guide for Troubleshooting a Segfault] on the Customer Portal.
+*See also*: xref:https://access.redhat.com/articles/372743 [A Guide for Troubleshooting a Segfault] on the Customer Portal for more information.
 
+[discrete]
+==== Ceph
+[[ceph]]
+*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: CEPH, ceph
+
+*See also*: xref:red-hat-ceph-storage[Red Hat Ceph Storage]
 ⁠SELinux
     Short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
 ⁠sends out
