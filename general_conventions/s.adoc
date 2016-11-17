@@ -82,7 +82,7 @@
 
 *Incorrect forms*: segfault
 
-*See also*: xref:_______ [What is a segfault?] on the Customer Portal.
+*See also*: xref:https://access.redhat.com/articles/372743 [A Guide for Troubleshooting a Segfault] on the Customer Portal.
 
 
 ⁠SELinux
