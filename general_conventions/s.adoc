@@ -35,21 +35,56 @@
 
 *See also*: xref:SREC [SREC]
 
-⁠S-record
-    Correct. Do not use "s-record," "S-Record," "s-Record," or any other variations. 
-⁠screen capture (n.)
-    Correct. Do not use "screen shot," "screenshot," or other terms or variations. See the relevant entry in The IBM Style Guide. 
-⁠screen saver (n.)
-    Correct. Do not use "screensaver." 
-⁠scrollbar (n.)
-    Correct. Do not use "scroll bar" or "scroll-bar." 
-⁠see
-    Use to refer readers to another resource. Avoid using "refer to" in this context. 
-⁠segmentation fault (n.)
-    Correct. Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
-    See also "What is a segfault?" on the Red Hat Customer Portal for more information. 
-⁠select (vb.)
-    Use when referring to menu options. For example, "Select Save from the File menu." 
+[discrete]
+==== ⁠screen saver
+[[screen saver]]
+*Description*: A screen saver is an image or animation that replaces a computer's display after a set amount of time without user activity.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: screensaver
+
+[discrete]
+==== ⁠scrollbar
+[[scrollbar]]
+*Description*: A scrollbar is a long, thin rectangle on the edge of the screen that allows a user to view information that does not fit on a single screen display.
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: scroll bar
+
+[discrete]
+==== see
+[[see]]
+*Description*: Use to refer readers to another resource. Avoid using "refer to" in this context. 
+
+*Example*: See the **Red Hat Enterprise Linux Installation Guide** for more information.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: refer to
+
+*See also*: xref:refer-to [refer to]
+
+[discrete]
+==== ⁠segmentation fault
+[[ceph]]
+*Description*: Segmentation fault is an error caused by attempting to access protected memory. The error occurs to prevent you from corrupting the memory. Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: segfault
+
+*See also*: xref:_______ [What is a segfault?] on the Customer Portal.
+
+
 ⁠SELinux
     Short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
 ⁠sends out
