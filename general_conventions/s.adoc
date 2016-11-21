@@ -99,9 +99,9 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 *Incorrect forms*: SE-Linux, S-E Linux, SE Linux 
 
 [discrete]
-==== ⁠sends out
-[[sends-out]]
-*Description*: Sends out is too informal and inaccurate. Use emits or issues instead.
+==== ⁠send out
+[[send-out]]
+*Description*: Send out means to emit or issue. The term is too informal and inaccurate. Use emit or issue instead.
 
 *Use it*: no
 
@@ -110,6 +110,17 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 *Incorrect forms*: sends out
 
 *See also*: xref:emits [emits], xref:issues [issues]
+
+[discrete]
+==== server farm 
+[[server-farm]]
+*Description*: A server farm is a group of networked servers housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm. It also expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the farm fails, another can step in as a backup. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: server cluster, computer farm, computer ranch
 
 ⁠server farm
     Also referred to as server cluster, computer farm or ranch. A server farm is a group of networked servers that are housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm and expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks and scheduling and rescheduling them depending on priority and demand that users put on the network. When one server in the farm fails, another can step in as a backup. 
