@@ -89,17 +89,16 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 [discrete]
 ==== ⁠SELinux
 [[⁠SELinux]]
-*Description*: SELinux is short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
+*Description*: SELinux is short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. 
+Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
 
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: CEPH, ceph
+*Incorrect forms*: SE-Linux, S-E Linux, SE Linux 
 
-*See also*: xref:red-hat-ceph-storage[Red Hat Ceph Storage]
-⁠SELinux
-    Short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
+
 ⁠sends out
     Do not use. Instead, use "emits" or "issues." 
 ⁠server farm
