@@ -62,6 +62,14 @@ NOTE: Before you start, ensure that you are logged in to GitLab.
 
     .. Make the changes. Use the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/template.adoc[template] when adding a new entry. Entries must be added in alphabetical order.
 
+    .. If you created a new file, add the file as an include in the `master.adoc` file. Add the file in alphabetical order under the `== Product-specific Conventions` heading. For example:
++
+[source]
+----
+ include::{includedir}/products_conventions/red-hat-virtualization.adoc[]
+----
++
+
 . Commit the changes
 
     .. Update the commit message. Be descriptive enough, "Updated the <filename> file." is not a good commit message. Use something like "Added the <entry-name> entry or "Fixed a typo in the <entry-name> entry".
