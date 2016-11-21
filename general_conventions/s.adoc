@@ -87,9 +87,9 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 *See also*: xref:https://access.redhat.com/articles/372743 [A Guide for Troubleshooting a Segfault] on the Customer Portal for more information.
 
 [discrete]
-==== Ceph
-[[ceph]]
-*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
+==== ⁠SELinux
+[[⁠SELinux]]
+*Description*: SELinux is short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
 
 *Use it*: yes
 
