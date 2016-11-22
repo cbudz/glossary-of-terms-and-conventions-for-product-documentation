@@ -254,10 +254,6 @@ Do not use "command prompt," "terminal," or "shell."
 
 *See also*: xref:shell [shell]
 
-⁠should
-    Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also "must." 
-⁠shut down (vb.)
-    Correct. Do not use "shut-down." Only use "shutdown" when referring to the /sbin/shutdown system command. 
 ⁠simply
     Do not use. See "basically." 
 ⁠since or because
