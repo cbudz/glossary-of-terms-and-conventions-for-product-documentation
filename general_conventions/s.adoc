@@ -37,7 +37,7 @@
 
 [discrete]
 ==== ⁠screen saver
-[[screen saver]]
+[[screen-saver]]
 *Description*: A screen saver is an image or animation that replaces a computer's display after a set amount of time without user activity.
 
 *Use it*: yes
@@ -74,7 +74,7 @@
 
 [discrete]
 ==== ⁠segmentation fault
-[[segmentation fault]]
+[[segmentation-fault]]
 *Description*:  A segmentation fault occurs when a process tries to access a memory location that it is not allowed to access, or tries to access a memory location in a way that is not allowed (for example, if the process tries to write to a read-only location, or to overwrite part of the operating system). 
 Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
 
@@ -126,7 +126,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 [discrete]
 ==== server side 
-[[server side]]
+[[server-side-noun]]
 *Description*: The server side in a client-server relationship. Use this form when "server side" is a noun.
 
 *Example*: She does most of her programming on the server side, that is, directly on the web server.
@@ -141,7 +141,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 [discrete]
 ==== server-side 
-[[server-side]]
+[[server-side-adjective]]
 *Description*: Operations performed by the server in a client-server relationship. Use the hyphenated form (server-side) as an adjective.
 
 *Example*: Her specialty is server-side programming.
