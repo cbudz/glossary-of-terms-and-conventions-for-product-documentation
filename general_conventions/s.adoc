@@ -88,7 +88,7 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 
 [discrete]
 ==== ⁠SELinux
-[[⁠SELinux]]
+[[selinux]]
 *Description*: SELinux is short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. 
 Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
 
