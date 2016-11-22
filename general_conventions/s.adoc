@@ -155,32 +155,6 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 *See also*: xref:server-side-noun [server side]
 
 [discrete]
-==== set up 
-[[set-up-verb]]
-*Description*: To install and configure hardware or software. Use the two-word form "set up" as a verb.
-
-*Use it*: yes
-
-*Class*: verb
-
-*Incorrect forms*: set up as a noun
-
-*See also*: xref:setup-noun [setup]
-
-[discrete]
-==== setup 
-[[setup-noun]]
-*Description*: The installation and configuration of hardware or software. Use the single-word form "setup" as a noun.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: setup as a verb
-
-*See also*: xref:set-up-verb [set up]
-
-[discrete]
 ==== SHA-1
 [[sha-1]]
 *Description*: SHA stands for Secure Hash Algorithm and is a cryptographic hash function. SHA-1 is an earlier hashing algorithm that is being replaced by SHA-2.
@@ -220,6 +194,7 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 
 *See also*: xref:http://brand.redhat.com/logos/shadowman/ [Red Hat Brand Standards: Shadowman]
 
+[discrete]
 ==== shadow passwords
 [[shadow-passwords]]
 *Description*: Shadow passwords are a method of improving system security by moving the encrypted passwords (normally found in /etc/passwd) to /etc/shadow, which is readable only by root. This option is available during installation and is part of the shadow utilities package. Not a proper noun. Capitalize only at the beginning of sentences.
@@ -243,23 +218,42 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 
 [discrete]
 ==== share name
-[[shadow-utilities]]
-*Description*: Shadow utilities are the specific system programs that operate on the shadow password files. Not a proper noun. Capitalize only at the beginning of sentences.
+[[share-name]]
+*Description*: The name of a shared resource. Use as two words, unless you are quoting the output of commands, such as "smbclient -L." 
 
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: Shadow utilities (capitalized)
+*Incorrect forms*: sharename, Sharename
 
-*See also*: xref:http://brand.redhat.com/logos/shadowman/ [Red Hat Brand Standards: Shadowman]
+[discrete]
+==== shell
+[[shell]]
+*Description*: A "shell" is a software application, for example, /bin/bash or /bin/sh, that provides an interface to a computer. Do not use this term to describe the prompt where you type commands. 
 
-⁠share name
-    Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as "smbclient -L." 
-⁠shell
-    A "shell" is a software application, for example, /bin/bash or /bin/sh, that provides an interface to a computer. Do not use this term to describe where to type commands. 
-⁠shell prompt
-    Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt," "terminal," or "shell." 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:shell-prompt [shell prompt]
+
+[discrete]
+==== shell prompt
+[[shell-prompt]]
+*Description*:  The shell prompt is the character at the beginning of the command line, and indicates that the shell is ready to accept commands. 
+Do not use "command prompt," "terminal," or "shell." 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: command prompt, terminal, shell
+
+*See also*: xref:shell [shell]
+
 ⁠should
     Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also "must." 
 ⁠shut down (vb.)
