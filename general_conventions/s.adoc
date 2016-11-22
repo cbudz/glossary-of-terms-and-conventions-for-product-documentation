@@ -254,10 +254,6 @@ Do not use "command prompt," "terminal," or "shell."
 
 *See also*: xref:shell [shell]
 
-⁠simply
-    Do not use. See "basically." 
-⁠since or because
-    Do not use "since" to mean "because," it is ambiguous. Use "because" to refer to a reason. Use "since" to refer to the passage of time. 
 ⁠skill set, skills, knowledge (n.)
     Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective (because it is a noun). Do not use "skill-set knowledge;" it is redundant. See the following examples:
     ⁠
