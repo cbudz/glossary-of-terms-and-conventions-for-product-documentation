@@ -94,14 +94,14 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Use it*: yes
 
-*Class*: noun
+*Class*: noun, acronym
 
 *Incorrect forms*: SE-Linux, S-E Linux, SE Linux 
 
 [discrete]
 ==== ⁠send out
 [[send-out]]
-*Description*: Send out means to emit or issue. The term is too informal and inaccurate. Use emit or issue instead.
+*Description*: Send out means to emit or issue. The term is too informal and imprecise. Use emit or issue instead.
 
 *Use it*: no
 
@@ -109,7 +109,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Incorrect forms*: sends out
 
-*See also*: xref:emits [emits], xref:issues [issues]
+*See also*: xref:emits [emit], xref:issues [issue]
 
 [discrete]
 ==== server farm 
@@ -139,12 +139,25 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *See also*: xref:server-side-adjective [server-side]
 
-⁠server-side/server side
-    See "client-side/client side." 
-    Operations that are performed by the client in a client-server relationship. Use the one-word form as an adjective. For example, "This is a client-side service."
-    
-⁠setup/set up
+[discrete]
+==== server-side 
+[[server-side]]
+*Description*: Operations performed by the server in a client-server relationship. Use the hyphenated form (server-side) as an adjective.
+
+*Example*: Her specialty is server-side programming.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: server side used as an adjective
+
+*See also*: xref:server-side-noun [server side]
+
+/set up
     "Setup" is a noun. "Set up" is a verb. 
+⁠setup
+
 ⁠SHA-1, SHA-2
     Correct. SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are considered correct when referring to these specific hash functions. 
 ⁠Shadowman
