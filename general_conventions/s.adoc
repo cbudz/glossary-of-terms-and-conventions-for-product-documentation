@@ -135,7 +135,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Class*: noun
 
-*Incorrect forms*: server-side used as a noun
+*Incorrect forms*: server-side as a noun
 
 *See also*: xref:server-side-adjective [server-side]
 
@@ -150,12 +150,37 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Class*: adjective
 
-*Incorrect forms*: server side used as an adjective
+*Incorrect forms*: server side as an adjective
 
 *See also*: xref:server-side-noun [server side]
 
-/set up
-    "Setup" is a noun. "Set up" is a verb. 
+[discrete]
+==== set up 
+[[set-up-verb]]
+*Description*: To install and configure hardware or software. Use the two-word form "set up" as a verb.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*: set up as a noun
+
+*See also*: xref:set-up-verb [set up]
+
+[discrete]
+==== setup 
+[[setup-noun]]
+*Description*: The installation and configuration of hardware or software. Use the single-word form "setup" as a noun.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: setup as a ver
+
+*See also*: xref:set-up-noun [setup]
+
+
 ⁠setup
 
 ⁠SHA-1, SHA-2
