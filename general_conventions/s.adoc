@@ -176,15 +176,54 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Class*: noun
 
-*Incorrect forms*: setup as a ver
+*Incorrect forms*: setup as a verb
 
 *See also*: xref:set-up-verb [set up]
 
+[discrete]
+==== SHA-1
+[[sha-1]]
+*Description*: SHA stands for Secure Hash Algorithm and is a cryptographic hash function. SHA-1 is an earlier hashing algorithm that is being replaced by SHA-2.
 
-⁠setup
+*Use it*: yes
 
-⁠SHA-1, SHA-2
-    Correct. SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are considered correct when referring to these specific hash functions. 
+*Class*: acronym
+
+*Incorrect forms*: 
+
+*See also*: xref:sha2 [SHA-2]
+
+[discrete]
+==== SHA-2
+[[sha-1]]
+*Description*: SHA stands for Secure Hash Algorithm and is a cryptographic hash function. The encryption hash used in SHA-2 is significantly stronger and not subject to the same vulnerabilities as SHA-1.
+SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are all correct when referring to these specific hash functions. 
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: 
+
+*See also*: xref:sha1 [SHA-1]
+
+[discrete]
+==== Shadowman
+[[shadowman]]
+*Description*: Shadowman is Red Hat's corporate logo and is a trademark of Red Hat, Inc., registered in the United States and other countries.
+
+SHA stands for Secure Hash Algorithm and is a cryptographic hash function. The encryption hash used in SHA-2 is significantly stronger and not subject to the same vulnerabilities as SHA-1.
+SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are all correct when referring to these specific hash functions. 
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: 
+
+*See also*: xref:sha1 [SHA-1]
+
+
 ⁠Shadowman
     Correct. Do not use "Shadow Man" or "ShadowMan." The Red Hat Shadowman logo is a trademark of Red Hat, Inc., registered in the United States and other countries. 
 ⁠shadow passwords
