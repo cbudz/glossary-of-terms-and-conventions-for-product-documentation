@@ -212,25 +212,48 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 [[shadowman]]
 *Description*: Shadowman is Red Hat's corporate logo and is a trademark of Red Hat, Inc., registered in the United States and other countries.
 
-SHA stands for Secure Hash Algorithm and is a cryptographic hash function. The encryption hash used in SHA-2 is significantly stronger and not subject to the same vulnerabilities as SHA-1.
-SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are all correct when referring to these specific hash functions. 
+*Use it*: yes
+
+*Class*: logo
+
+*Incorrect forms*: Shadow Man, ShadowMan
+
+*See also*: xref:http://brand.redhat.com/logos/shadowman/ [Red Hat Brand Standards: Shadowman]
+
+==== shadow passwords
+[[shadow-passwords]]
+*Description*: Shadow passwords are a method of improving system security by moving the encrypted passwords (normally found in /etc/passwd) to /etc/shadow, which is readable only by root. This option is available during installation and is part of the shadow utilities package. Not a proper noun. Capitalize only at the beginning of sentences.
+⁠
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Shadow passwords (capitalized)
+
+[discrete]
+==== shadow utilities
+[[shadow-utilities]]
+*Description*: Shadow utilities are the specific system programs that operate on the shadow password files. Not a proper noun. Capitalize only at the beginning of sentences.
 
 *Use it*: yes
 
-*Class*: acronym
+*Class*: noun
 
-*Incorrect forms*: 
+*Incorrect forms*: Shadow utilities (capitalized)
 
-*See also*: xref:sha1 [SHA-1]
+[discrete]
+==== share name
+[[shadow-utilities]]
+*Description*: Shadow utilities are the specific system programs that operate on the shadow password files. Not a proper noun. Capitalize only at the beginning of sentences.
 
+*Use it*: yes
 
-⁠Shadowman
-    Correct. Do not use "Shadow Man" or "ShadowMan." The Red Hat Shadowman logo is a trademark of Red Hat, Inc., registered in the United States and other countries. 
-⁠shadow passwords
-    Not a proper noun, so capitalize "Shadow" at the beginning of a sentence only.
-    Shadow passwords are a method of improving system security by moving the encrypted passwords (normally found in /etc/passwd) to /etc/shadow, which is readable only by root. This option is available during installation and is part of the shadow utilities package. 
-⁠shadow utilities
-    Not a proper noun, so capitalize "Shadow" at the beginning of a sentence only. 
+*Class*: noun
+
+*Incorrect forms*: Shadow utilities (capitalized)
+
+*See also*: xref:http://brand.redhat.com/logos/shadowman/ [Red Hat Brand Standards: Shadowman]
+
 ⁠share name
     Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as "smbclient -L." 
 ⁠shell
