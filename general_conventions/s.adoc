@@ -165,7 +165,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Incorrect forms*: set up as a noun
 
-*See also*: xref:set-up-verb [set up]
+*See also*: xref:setup-noun [setup]
 
 [discrete]
 ==== setup 
@@ -178,7 +178,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Incorrect forms*: setup as a ver
 
-*See also*: xref:set-up-noun [setup]
+*See also*: xref:set-up-verb [set up]
 
 
 ⁠setup
