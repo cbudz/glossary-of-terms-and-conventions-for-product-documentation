@@ -14,10 +14,7 @@
 [discrete]
 ==== latency
 [[latency]]
-*Description*: 
-* In general, the period of time that one component in a system is waiting for another component. Latency, therefore, is wasted time. For example, in accessing data on a disk, latency is defined as the time it takes to position the proper sector under the read/write head.
-
-* In networking, latency is the amount of time it takes a packet to travel from source to destination. Together, latency and bandwidth define the speed and capacity of a network.
+*Description*: (1) In general, the period of time that one component in a system is waiting for another component. Latency, therefore, is wasted time. For example, in accessing data on a disk, latency is defined as the time it takes to position the proper sector under the read/write head. (2) In networking, latency is the amount of time it takes a packet to travel from source to destination. Together, latency and bandwidth define the speed and capacity of a network.
 
 *Use it*: yes
 
