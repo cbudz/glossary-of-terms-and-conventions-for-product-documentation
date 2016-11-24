@@ -239,7 +239,7 @@
 
 *Use it*: yes
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*: multi-processing
 
@@ -252,7 +252,7 @@
 
 *Use it*: yes
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*:
 
@@ -265,7 +265,7 @@
 
 *Use it*: yes
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*:
 
@@ -278,7 +278,7 @@
 
 *Use it*:
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*:
 
