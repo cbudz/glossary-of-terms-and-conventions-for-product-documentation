@@ -142,19 +142,6 @@
 *See also*:
 
 [discrete]
-==== metadata
-[[metadata]]
-*Description*: Data information that provides information about other data. Correct spelling is "metadata", do not use "meta data" or "meta-data".
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: meta data, meta-data
-
-*See also*:
-
-[discrete]
 ==== Microsoft
 [[Microsoft]]
 *Description*: A technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics and personal computers and services.
