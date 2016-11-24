@@ -259,19 +259,6 @@
 *See also*:
 
 [discrete]
-==== must
-[[must]]
-*Description*: Use when referring to a task that is necessary for the user to do. For example, "You must make a backup" is a requirement, while "You should make a backup" is a suggestion.
-
-*Use it*:
-
-*Class*:
-
-*Incorrect forms*:
-
-*See also*: TODO add xref for should
-
-[discrete]
 ==== mutual exclusion
 [[mutual-exclusion]]
 *Description*: In computer science, mutual exclusion is a property of concurrency control, which is instituted for the purpose of preventing race conditions; it is the requirement that one thread of execution never enter its critical section at the same time that another concurrent thread of execution enters its own critical section.
