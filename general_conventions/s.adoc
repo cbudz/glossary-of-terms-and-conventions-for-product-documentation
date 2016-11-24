@@ -254,28 +254,104 @@ Do not use "command prompt," "terminal," or "shell."
 
 *See also*: xref:shell [shell]
 
-⁠skill set, skills, knowledge (n.)
-    Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective (because it is a noun). Do not use "skill-set knowledge;" it is redundant. See the following examples:
-    ⁠
+[discrete]
+==== skill set
+[[skill-set]]
+*Description*:  Avoid using "skill set" as much as possible. Use "skills" or "knowledge" instead. Do not use the phrase "skill set knowledge" or "skill-set knowledge"; they are redundant.
 
-    Example 27.1. Example Use of Term "Skillset" Versus "Skills"
+*Examples*: 
     Incorrect: Do you have the right skillset to be an RHCE?
     Correct: Do you have the right skills to be an RHCE?
-    ⁠
 
-    Example 27.2. Example Use of Term "Knowledge"
     Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
-    Correct: This course gives you the knowledge to complete your RHCT exam successfully. 
-⁠smart card
-    Correct. Do not use smartcard or smart-card. 
-⁠snippet
-    Do not use snippet or tidbit to refer to short or small sections of information. Use "piece" instead. Use "excerpt" to refer to samples taken from a more extensive section of text. 
-⁠SOCKS
-    Correct. Do not use "socks." When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5." 
-⁠softcopy
-    Do not use. Instead, use "online." For example, "To view the online documentation..." 
-⁠sound card
-    Correct. Do not use "soundcard" or "sound-card." 
+    Correct: This course gives you the knowledge to complete your RHCT exam successfully.   ⁠
+
+*Use it*: no
+
+*Class*: noun
+
+*Incorrect forms*: skill-set knowledge, skill set knowledge
+
+*See also*: xref:knowlege [knowledge], xref:skills [skills]
+
+[discrete]
+==== skills
+[[skills]]
+*Description*: Use "skills" or "knowledge" instead of "skill set" as much as possible.  
+
+*Examples*: 
+    Incorrect: Do you have the right skillset to be an RHCE?
+    Correct: Do you have the right skills to be an RHCE?
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: skill set
+
+*See also*: xref:knowlege [knowledge], xref:skill-set [skills]
+
+[discrete]
+==== snippet
+[[snippet]]
+*Description*: A snippet is small piece or brief extract. Do not use it. Use "piece" instead. Use excerpt to refer to samples taken from a more extensive section of text.
+
+*Use it*: no
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+[discrete]
+==== SOCKS
+[[skills]]
+*Description*: Socket Secure (SOCKS) is an Internet protocol that exchanges network packets between a client and server through a proxy server. When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: socks
+
+[discrete]
+==== softcopy
+[[softcopy]]
+*Description*: Softcopy is an electronic copy of some type of data, for example, a file viewed on a computer screen. Do not use. Use "online" instead.
+
+*Example:*
+    Incorrect: To view a softcopy of the manual . . .
+    Correct: To view the online documentation . . .
+
+*Use it*: no
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+==== softcopy
+[[softcopy]]
+*Description*: Softcopy is an electronic copy of some type of data, for example, a file viewed on a computer screen. Do not use. Use "online" instead.
+
+*Example:*
+    Incorrect: To view a softcopy of the manual . . .
+    Correct: To view the online documentation . . .
+
+*Use it*: no
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+==== sound card
+[[sound-card]]
+*Description*: A sound card is a device that can be slotted into a computer to allow the use of audio components for multimedia applications.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: soundcard, sound-card
+
 ⁠Source-Navigator™
     Correct. Do not use "Source Navigator." Source-Navigator™ is a trademark of Red Hat. 
 ⁠space
