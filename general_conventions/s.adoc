@@ -415,7 +415,7 @@ Press the spacebar, and type the correct number.
 * The ISO standard (ISO 9075 and its descendants), this is pronounced "ess queue ell" and takes "an" as in indefinite article.
 * Microsoft's proprietary product, SQL Server is pronounced as a word: "sequel" and takes "a" as an indefinite article.
 * Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
-* Avoid using "SQL" as a generic name. Instead, use out "MySQL" for Microsoft SQL Server,  PostgreSQL, write "PostgreSQL." 
+* Avoid using "SQL" as a generic name. Instead, use "MySQL" when referring to Microsoft SQL Server, use "PostgreSQL" for PostgreSQL, and use the full name for other SQL variants.
 
 *Use it*: yes
 
@@ -425,7 +425,6 @@ Press the spacebar, and type the correct number.
 
 *See also*: xref:MySQL [MySQL]
 
-    More generally, avoid using "SQL" as a generic marker if at all possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced "postgress queue ell"), write "PostgreSQL." 
 ⁠SR-IOV
     Correct. SR-IOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV. 
 ⁠SSH
