@@ -384,15 +384,47 @@ Press the spacebar, and type the correct number.
 
 *Incorrect forms*: specfile
 
-⁠specific
-    When used as a modifier, put a hyphen before specific, such as "MIPS-specific," "Linux-specific," and "chip-specific." 
-⁠spelt
-    Incorrect. Use "spelled" instead.
-    "Spelt" is the standard spelling in Commonwealth English but US English prefers "spelled," although "spelt" is occasionally seen in US English. 
-⁠SQL
-    When referring to the ISO standard (ISO 9075 and its descendants), this is pronounced as an initialism: "ess queue ell." Consequently, it takes "an" as in indefinite article.
-    When referring to Microsoft's proprietary product, SQL Server, this is pronounced as a word: "sequel." In this case, therefore, it takes "a" as an indefinite article.
-    NB: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
+[discrete]
+==== specific
+[[specific]]
+*Description*: When used as a modifier, put a hyphen before specific.
+
+*Examples:* MIPS-specific, Linux-specific, chip-specific 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: MIPS specific, Linux specific, chip specific, etc.
+
+[discrete]
+==== spelt
+[[spelt]]
+*Description*: Past tense of "to spell" in Commonwealth English. Use "spelled," the past tense in US English, instead of "spelt." In general, Red Hat uses US English standard spellings and punctuation.
+
+*Use it*: no
+
+*Class*: verb
+
+*Incorrect forms*: 
+
+[discrete]
+==== SQL
+[[sql]]
+*Description*: SQL stands for Structured Query Language. 
+* The ISO standard (ISO 9075 and its descendants), this is pronounced "ess queue ell" and takes "an" as in indefinite article.
+* Microsoft's proprietary product, SQL Server is pronounced as a word: "sequel" and takes "a" as an indefinite article.
+* Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
+* Avoid using "SQL" as a generic name. Instead, use out "MySQL" for Microsoft SQL Server,  PostgreSQL, write "PostgreSQL." 
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: 
+
+*See also*: xref:MySQL [MySQL]
+
     More generally, avoid using "SQL" as a generic marker if at all possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced "postgress queue ell"), write "PostgreSQL." 
 ⁠SR-IOV
     Correct. SR-IOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV. 
