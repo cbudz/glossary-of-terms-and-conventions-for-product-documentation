@@ -66,10 +66,7 @@
 [discrete]
 ==== load
 [[load]]
-*Description*:
-* To copy a program from a storage device into memory. Every program must be loaded into memory before it can be executed. Usually the loading process is performed invisibly by a part of the operating system called the loader. *In programming, load means to copy data from main memory into a data register.
-* In programming, load means to copy data from main memory into a data register.
-* In networking, load refers to the amount of data (traffic) being carried by the network.
+*Description*: (1) To copy a program from a storage device into memory. Every program must be loaded into memory before it can be executed. Usually the loading process is performed invisibly by a part of the operating system called the loader. (2) In programming, load means to copy data from main memory into a data register. (3) In networking, load refers to the amount of data (traffic) being carried by the network.
 
 *Use it*: yes
 
