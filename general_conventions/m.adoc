@@ -53,7 +53,7 @@
 [discrete]
 ==== matrixes
 [[matrixes]]
-*Description*: Correct plural from for US English spelling.
+*Description*: In mathematics, a matrix is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns. The correct plural form from US English spelling is matrixes. Do not use "matrices".
 
 *Use it*: yes
 
