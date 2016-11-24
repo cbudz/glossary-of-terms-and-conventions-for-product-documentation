@@ -21,7 +21,7 @@ The AsciiDoc source:
 Replace:
 
 * `<term>` with the term to be described
-* `<anchor-tag>` with the term in lowercase, if the term consists of more than one word, separate them with a hyphen ("-"). If two entries would have a same anchor tag, see xref:two-entries-with-same-anchor-tag[What to do if two entries have the same anchor tag?.]
+* `<anchor-tag>` with the term in lowercase, if the term consists of more than one word, separate them with a hyphen ("-"). Don't use spaces, capital letters, or special characters (e.g., slash /) in this name. If two entries would have a same anchor tag, see xref:two-entries-with-same-anchor-tag[What to do if two entries have the same anchor tag?.]
 * `<description>` with the description of the term and why should we use it in this form and why are the incorrect forms incorrect, or why we should not use the term
 * `<yes/no/with caution>` with `yes`, `no`, or `with caution` depending on whether the term should be used, not be used, or used with caution. Always explain why in the *Description* field
 * `<class>` with the class of the term (noun, adjective, verb, ...)
