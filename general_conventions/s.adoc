@@ -413,7 +413,7 @@ Press the spacebar, and type the correct number.
 [[sql]]
 *Description*: SQL stands for Structured Query Language. 
 
-- The ISO standard (ISO 9075 and its descendants), this is pronounced "ess queue ell" and takes "an" as in indefinite article.
+- The ISO-standard SQL (ISO 9075 and its descendants) is pronounced "ess queue ell" and takes "an" as its indefinite article.
 - Microsoft's proprietary product, SQL Server is pronounced as a word: "sequel" and takes "a" as an indefinite article.
 - Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
 - Avoid using "SQL" as a generic name. Instead, use "MySQL" when referring to Microsoft SQL Server, use "PostgreSQL" for PostgreSQL, and use the full name for other SQL variants.
