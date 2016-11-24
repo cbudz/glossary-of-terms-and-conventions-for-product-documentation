@@ -131,7 +131,7 @@
 [discrete]
 ==== menu-driven
 [[menu-driven]]
-*Description*: Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program. Preferred spelling is "menu-drive", do not use "menu driven" or "menudriven"
+*Description*: Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program. Preferred spelling is "menu-driven", do not use "menu driven" or "menudriven"
 
 *Use it*: yes
 
