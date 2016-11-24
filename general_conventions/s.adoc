@@ -260,11 +260,11 @@ Do not use "command prompt," "terminal," or "shell."
 *Description*:  Avoid using "skill set" as much as possible. Use "skills" or "knowledge" instead. Do not use the phrase "skill set knowledge" or "skill-set knowledge"; they are redundant.
 
 *Examples*: 
-    Incorrect: Do you have the right skillset to be an RHCE?
-    Correct: Do you have the right skills to be an RHCE?
+Incorrect: Do you have the right skillset to be an RHCE?
+Correct: Do you have the right skills to be an RHCE?
 
-    Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
-    Correct: This course gives you the knowledge to complete your RHCT exam successfully.   ⁠
+Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
+Correct: This course gives you the knowledge to complete your RHCT exam successfully.   ⁠
 
 *Use it*: no
 
@@ -319,8 +319,8 @@ Do not use "command prompt," "terminal," or "shell."
 *Description*: Softcopy is an electronic copy of some type of data, for example, a file viewed on a computer screen. Do not use. Use "online" instead.
 
 *Example:*
-    Incorrect: To view a softcopy of the manual . . .
-    Correct: To view the online documentation . . .
+Incorrect: To view a softcopy of the manual . . .
+Correct: To view the online documentation . . .
 
 *Use it*: no
 
@@ -328,20 +328,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: 
 
-==== softcopy
-[[softcopy]]
-*Description*: Softcopy is an electronic copy of some type of data, for example, a file viewed on a computer screen. Do not use. Use "online" instead.
-
-*Example:*
-    Incorrect: To view a softcopy of the manual . . .
-    Correct: To view the online documentation . . .
-
-*Use it*: no
-
-*Class*: noun
-
-*Incorrect forms*: 
-
+[discrete]
 ==== sound card
 [[sound-card]]
 *Description*: A sound card is a device that can be slotted into a computer to allow the use of audio components for multimedia applications.
@@ -352,14 +339,51 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: soundcard, sound-card
 
-⁠Source-Navigator™
-    Correct. Do not use "Source Navigator." Source-Navigator™ is a trademark of Red Hat. 
-⁠space
-    Use when referring to white space, such as "Ensure there is a space between each command." Use "Spacebar" when referring to the keyboard key. 
-⁠Spacebar
-    Use when referring to the keyboard key, such as "Press the Spacebar key to continue." 
-⁠spec file
-    Correct. When referring to the RPM spec file, do not use "specfile." 
+[discrete]
+==== space
+[[space]]
+*Description*: Use "space" to refer to white space. Use "spacebar" when referring to the keyboard key.
+
+*Examples:*
+Ensure there is a space between each command.
+Press the spacebar, and type the correct number.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: xref:spacebar [spacebar]
+
+[discrete]
+==== spacebar
+[[spacebar]]
+*Description*: Use "spacebar" when referring to the keyboard key. Use "space" to refer to white space. 
+
+*Examples:*
+Ensure there is a space between each command.
+Press the spacebar, and type the correct number.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: xref:space [space]
+
+[discrete]
+==== spec file
+[[specfile]]
+*Description*: Spec files are used as part of rebuilding RPMs. The spec file outlines how to configure and compile the RPM, as well as how to install the files later.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: specfile
+
 ⁠specific
     When used as a modifier, put a hyphen before specific, such as "MIPS-specific," "Linux-specific," and "chip-specific." 
 ⁠spelt
