@@ -118,14 +118,14 @@ When referring to the program, use "GCJ".
 
 *Incorrect forms*: 
 
-*See also*: xref:gcj-command[gcj]
+*See also*: xref:gcj-command[gcj], xref:gcc[GCC]
 
 .gcj
 [[gcj-command]]
 
 *Description*: The GNU Compiler for Java (GCJ) was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from GCJ. In 2016, GCJ was removed from GCC.
 
-When referring to the command, use `gcj`, marked up appropriately.  
+When referring to the command, use `gcj`, marked up appropriately.
 
 *Use it*: yes
 
@@ -133,7 +133,7 @@ When referring to the command, use `gcj`, marked up appropriately.
 
 *Incorrect forms*: 
 
-*See also*: xref:gcj[GCJ]
+*See also*: xref:gcj[GCJ], xref:gcc-command[gcc]
 
 .GDB
 [[gdb]]
@@ -263,7 +263,9 @@ When referring to the Red Hat product, use GNUPro.
 
 .grayscale
 [[grayscale]]
-*Description*: Do not use "gray-scale" or "gray scale". Only the noun form is currently recognized. 
+*Description*: A range of gray shades from white to black, as used in a monochrome display or printout. 
+
+Do not use "gray-scale" or "gray scale". Only the noun form is currently recognized. 
 
 *Use it*: yes
 
