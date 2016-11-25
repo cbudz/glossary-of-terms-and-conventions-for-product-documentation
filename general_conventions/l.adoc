@@ -105,7 +105,7 @@
 [discrete]
 ==== lookup
 [[lookup-n]]
-*Description*: TODO add proper description
+*Description*: A lookup means an act of searching. The correct noun form is "lookup".
 
 *Use it*: with caution
 
@@ -118,7 +118,7 @@
 [discrete]
 ==== look up
 [[look-up-v]]
-*Description*: TODO add proper description
+*Description*: To look up means to search something. The correct verb form is "look up".
 
 *Use it*: with caution
 
@@ -131,7 +131,7 @@
 [discrete]
 ==== look-up
 [[look-up-ad]]
-*Description*: TODO add proper description
+*Description*: To look up means to search something. When used as a modifier, hyphenate it.
 
 *Use it*: with caution
 
