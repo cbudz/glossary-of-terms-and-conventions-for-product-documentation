@@ -599,12 +599,42 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 *Incorrect forms*: swapspace
 
 *See also*:
- 
-⁠Sybase Adaptive Server Enterprise (ASE)
-    Use SAP Sybase Adaptive Server Enterprise (ASE) in the first instance. Subsequent entries can use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
-    See http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise for more information. 
-⁠SysV
-    Correct. Do not use Sys V or System V. 
-⁠symmetric encryption
-    A type of encryption where the same key is used to encrypt and decrypt the message. This differs from asymmetric (or public-key) encryption, which uses one key to encrypt a message and another to decrypt the message. 
 
+[discrete]
+==== ⁠Sybase Adaptive Server Enterprise (ASE)
+[[ase]]
+*Description*: This relational model database server product for businesses was developed by Sybase Corporation and then became part of SAP AG. Use SAP Sybase Adaptive Server Enterprise (ASE) the first time you mention it. In subsequent entries, use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: 
+ 
+ [discrete]
+==== SysV
+[[sysv]]
+*Description*: The SysV init runlevel system provides a standard process for controlling which programs init launches or halts when initializing a runlevel.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Sys V, System V
+
+*See also*: 
+ 
+  [discrete]
+==== symmetric encryption
+[[symm-encrypt]]
+*Description*: ⁠A type of encryption where the same key encrypts and decrypts the message. In contrast, asymmetric (or public-key) encryption uses one key to encrypt a message and another to decrypt the message. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Sys V, System V
+
+*See also*: 
