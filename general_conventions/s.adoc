@@ -14,7 +14,7 @@
 [discrete]
 ==== Samba
 [[samba]]
-*Description*: Samba is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including: Linux, most common UNIX platforms, OpenVMS, and OS/2. U
+*Description*: Samba is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including: Linux, most common UNIX platforms, OpenVMS, and OS/2. 
 
 *Use it*: yes
 
