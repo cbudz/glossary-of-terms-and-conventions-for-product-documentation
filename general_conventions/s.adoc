@@ -206,7 +206,7 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 ==== shadow passwords
 [[shadow-passwords]]
 *Description*: Shadow passwords are a method of improving system security by moving the encrypted passwords (normally found in /etc/passwd) to /etc/shadow, which is readable only by root. This option is available during installation and is part of the shadow utilities package. Not a proper noun. Capitalize only at the beginning of sentences.
-⁠
+
 *Use it*: yes
 
 *Class*: noun
