@@ -617,7 +617,7 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 [discrete]
 ==== ⁠Sybase Adaptive Server Enterprise (ASE)
 [[ase]]
-*Description*: Sybase Corporations developed this relational database management system that then became part of SAP AG. Use SAP Sybase Adaptive Server Enterprise (ASE) the first time you mention it. In subsequent entries, use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
+*Description*: Sybase Corporation developed this relational database management system that then became part of SAP AG. Use SAP Sybase Adaptive Server Enterprise (ASE) the first time you mention it. In subsequent entries, use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
 
 *Use it*: yes
 
