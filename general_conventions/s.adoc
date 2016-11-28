@@ -547,13 +547,48 @@ Do not use as a verb.
 
 *See also*:
 
-⁠submenu
-    Correct. Do not use "sub-menu." 
-⁠subpackage
-    Correct. do not use "sub-package."
-    This word has a specific, specialized meaning in Red Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages."
-    Any other use of this word is strongly discouraged.
-    NB: subpackages are not the same as dependencies and should not be treated as such. 
+[discrete]
+==== submenu
+[[submenu]]
+*Description*: A submenu is a secondary menu contained within another menu.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: sub-menu
+
+*See also*:
+
+[discrete]
+==== subpackage
+[[subpackage]]
+*Description*: Subpackage has a specific, specialized meaning in Red Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages."
+CCS strongly discourages any other use of subpackage. *Subpackages are not the same as dependencies.* Do not treat them as if they are.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: sub-package
+
+*See also*:
+
+[discrete]
+==== superuser
+[[superuser]]
+*Description*: Subpackage has a specific, specialized meaning in Red Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages."
+CCS strongly discourages any other use of subpackage. *Subpackages are not the same as dependencies.* Do not treat them as if they are.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: sub-package
+
+*See also*:
+
+
 ⁠superuser
     A synonym for the root user. More common in Solaris documentation than Linux. If and when used, this is the correct spelling. Do not use "super user" or "super-user." 
 ⁠swap space
