@@ -577,22 +577,29 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 [discrete]
 ==== superuser
 [[superuser]]
-*Description*: Subpackage has a specific, specialized meaning in Red Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages."
-CCS strongly discourages any other use of subpackage. *Subpackages are not the same as dependencies.* Do not treat them as if they are.
+*Description*: Superuser is the same as the root user. The term is more common in Solaris documentation than Linux. 
 
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: sub-package
+*Incorrect forms*: sub-user, super user
 
 *See also*:
 
+[discrete]
+==== swap space
+[[swapspace]]
+*Description*:  A Linux system uses swap space when it needs more memory resources and the RAM is full. The system moves inactive pages to the swap space to free memory.
 
-⁠superuser
-    A synonym for the root user. More common in Solaris documentation than Linux. If and when used, this is the correct spelling. Do not use "super user" or "super-user." 
-⁠swap space
-    Correct. Do not use "swapspace." If starting the beginning of a sentence, "Swap space" is allowed. 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: swapspace
+
+*See also*:
+ 
 ⁠Sybase Adaptive Server Enterprise (ASE)
     Use SAP Sybase Adaptive Server Enterprise (ASE) in the first instance. Subsequent entries can use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
     See http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise for more information. 
