@@ -426,11 +426,36 @@ Press the spacebar, and type the correct number.
 
 *See also*: xref:MySQL [MySQL]
 
-⁠SR-IOV
-    Correct. SR-IOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV. 
-⁠SSH
-    Initialism for Secure Shell, a network protocol that allows data exchange using a secure channel. When referring to the protocol, do not use "ssh," "Ssh," or other variants. When referring to the command, use ssh.
-    Do not use as a verb. For example, instead of "ssh to the remote server," write "Use SSH to connect to the remote server," or something similar. 
+[discrete]
+==== ⁠SR-IOV
+[[ser-iov]]
+*Description*: SR-IOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. 
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: SR/IOV
+
+[discrete]
+==== SSH
+[[ssh]]
+*Description*: SSH is an abbreviation for Secure Shell, a network protocol that allows data exchange using a secure channel. 
+
+- For the protocol, use "SSH," "ssh," "Ssh," or other variants. 
+- For the command, use ssh.
+
+Do not use as a verb. 
+
+*Example*: Instead of "ssh to the remote server," write "Use SSH to connect to the remote server."
+
+*Use it*: yes
+
+*Class*: abbreviation
+
+*Incorrect forms*: SSH as a verb
+
+
 ⁠SSL
     Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the Internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. The majority of web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http:. 
 ⁠stand-alone (adj.)
