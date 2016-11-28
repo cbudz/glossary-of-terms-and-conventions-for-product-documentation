@@ -535,24 +535,18 @@ Do not use as a verb.
 *See also*:
 
 [discrete]
-==== subcommand
+==== subdirectory
 [[subdirectory]]
-*Description*: A subcommand is a secondary or even tertiary command used with a primary command. Do not confuse subcommands with options or arguments; subcommands operate on ever more focused objects or entities. 
-
-*Example:* In the following command, "hammer" is the main or primary command. "import" and "organization" are subcommands. "--help" is an option.
-
-    hammer import organization --help
+*Description*: A subdirectory is a directory located within another directory, similar to a folder beneath another folder in a graphical user interface (GUI).
 
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: sub-command
+*Incorrect forms*: sub-directory
 
 *See also*:
 
-⁠subdirectory
-    Correct. Do not use "sub-directory." 
 ⁠submenu
     Correct. Do not use "sub-menu." 
 ⁠subpackage
