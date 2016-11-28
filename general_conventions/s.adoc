@@ -22,6 +22,8 @@
 
 *Incorrect forms*: samba, SAMBA
 
+*See also*:
+
 [discrete]
 ==== ⁠S-record
 [[s-record]]
@@ -46,6 +48,8 @@
 
 *Incorrect forms*: screensaver
 
+*See also*:
+
 [discrete]
 ==== ⁠scrollbar
 [[scrollbar]]
@@ -56,6 +60,8 @@
 *Class*: noun
 
 *Incorrect forms*: scroll bar
+
+*See also*:
 
 [discrete]
 ==== see
@@ -97,6 +103,8 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 *Class*: noun, acronym
 
 *Incorrect forms*: SE-Linux, S-E Linux, SE Linux 
+
+*See also*:
 
 [discrete]
 ==== ⁠send out
@@ -205,6 +213,8 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 
 *Incorrect forms*: Shadow passwords (capitalized)
 
+*See also*:
+
 [discrete]
 ==== shadow utilities
 [[shadow-utilities]]
@@ -216,6 +226,8 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 
 *Incorrect forms*: Shadow utilities (capitalized)
 
+*See also*:
+
 [discrete]
 ==== share name
 [[share-name]]
@@ -226,6 +238,8 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 *Class*: noun
 
 *Incorrect forms*: sharename, Sharename
+
+*See also*:
 
 [discrete]
 ==== shell
@@ -255,43 +269,6 @@ Do not use "command prompt," "terminal," or "shell."
 *See also*: xref:shell [shell]
 
 [discrete]
-==== skill set
-[[skill-set]]
-*Description*:  Avoid using "skill set" as much as possible. Use "skills" or "knowledge" instead. Do not use the phrase "skill set knowledge" or "skill-set knowledge"; they are redundant.
-
-*Examples*: 
-Incorrect: Do you have the right skillset to be an RHCE?
-Correct: Do you have the right skills to be an RHCE?
-
-Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
-Correct: This course gives you the knowledge to complete your RHCT exam successfully.   ⁠
-
-*Use it*: no
-
-*Class*: noun
-
-*Incorrect forms*: skill-set knowledge, skill set knowledge
-
-*See also*: xref:knowlege [knowledge], xref:skills [skills]
-
-[discrete]
-==== skills
-[[skills]]
-*Description*: Use "skills" or "knowledge" instead of "skill set" as much as possible.  
-
-*Examples*: 
-    Incorrect: Do you have the right skillset to be an RHCE?
-    Correct: Do you have the right skills to be an RHCE?
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: skill set
-
-*See also*: xref:knowlege [knowledge], xref:skill-set [skills]
-
-[discrete]
 ==== snippet
 [[snippet]]
 *Description*: A snippet is small piece or brief extract. Do not use it. Use "piece" instead. Use excerpt to refer to samples taken from a more extensive section of text.
@@ -301,6 +278,8 @@ Correct: This course gives you the knowledge to complete your RHCT exam successf
 *Class*: noun
 
 *Incorrect forms*: 
+
+*See also*:
 
 [discrete]
 ==== SOCKS
@@ -312,6 +291,8 @@ Correct: This course gives you the knowledge to complete your RHCT exam successf
 *Class*: acronym
 
 *Incorrect forms*: socks
+
+*See also*:
 
 [discrete]
 ==== softcopy
@@ -328,6 +309,8 @@ Correct: To view the online documentation . . .
 
 *Incorrect forms*: 
 
+*See also*:
+
 [discrete]
 ==== sound card
 [[sound-card]]
@@ -338,6 +321,8 @@ Correct: To view the online documentation . . .
 *Class*: noun
 
 *Incorrect forms*: soundcard, sound-card
+
+*See also*:
 
 [discrete]
 ==== space
@@ -384,6 +369,8 @@ Press the spacebar, and type the correct number.
 
 *Incorrect forms*: specfile
 
+*See also*:
+
 [discrete]
 ==== specific
 [[specific]]
@@ -397,6 +384,8 @@ Press the spacebar, and type the correct number.
 
 *Incorrect forms*: MIPS specific, Linux specific, chip specific, etc.
 
+*See also*:
+
 [discrete]
 ==== spelt
 [[spelt]]
@@ -407,6 +396,8 @@ Press the spacebar, and type the correct number.
 *Class*: verb
 
 *Incorrect forms*: 
+
+*See also*:
 
 [discrete]
 ==== SQL
@@ -437,13 +428,15 @@ Press the spacebar, and type the correct number.
 
 *Incorrect forms*: SR/IOV
 
+*See also*:
+
 [discrete]
 ==== SSH
 [[ssh]]
 *Description*: SSH is an abbreviation for Secure Shell, a network protocol that allows data exchange using a secure channel. 
 
-- For the protocol, use "SSH," "ssh," "Ssh," or other variants. 
-- For the command, use ssh.
+- For the protocol, use "SSH", "ssh", "Ssh", or other variants. 
+- For the command, use "ssh".
 
 Do not use as a verb. 
 
@@ -455,28 +448,109 @@ Do not use as a verb.
 
 *Incorrect forms*: SSH as a verb
 
+*See also*:
 
-⁠SSL
-    Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the Internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. The majority of web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http:. 
-⁠stand-alone (adj.)
-    Correct. Do not use "standalone."
-    Refers to something that is self-contained, or that does not require any other devices to function. For example, a fax machine is a stand-alone device because it does not require a computer, printer, modem, or other device. A printer, on the other hand, is not a stand-alone device because it requires a computer to feed it data. 
-⁠StarOffice
-    A Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office." 
-⁠starts up
-    Do not use. Instead, use "activates" or "invokes." 
-⁠startx
-    Correct. Do not use StartX or other variants. 
-⁠straightforward (adj., adv.)
-    Correct. Accepted references prescribe the use of the one-word form in all cases. 
-⁠su
-    Correct. Linux command to change to the root user. Do not use SU (all caps). 
-⁠subcommand
-    Correct. Do not use "sub-command." A subcommand refers to a "secondary" or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
+[discrete]
+==== SSL
+[[ssl]]
+*Description*: SSL is an abbreviation for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the Internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. The majority of web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http:. 
+
+*Use it*: yes
+
+*Class*: abbreviation
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== StarOffice
+[[staroffice]]
+*Description*: StarOffice is a Linux desktop suite. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Star, Staroffice, Star Office
+
+*See also*:
+
+[discrete]
+==== startx
+[[startx]]
+*Description*: "startx" begins the xsession, which provides a graphical interface for running the session.
+
+*Use it*: yes
+
+*Class*: command
+
+*Incorrect forms*: StartX
+
+*See also*:
+
+*See also*:
+
+[discrete]
+==== straightforward
+[[straightforward]]
+*Description*: Straightforward means uncomplicated and easy to understand.
+
+*Use it*: yes
+
+*Class*: adjective, adverb
+
+*Incorrect forms*: straight forward, straight-forward
+
+*See also*:
+
+[discrete]
+==== su
+[[su]]
+*Description*: "su" is a Linux command to change the root user. 
+
+*Use it*: yes
+
+*Class*: command
+
+*Incorrect forms*: SU
+
+*See also*:
+
+[discrete]
+==== subcommand
+[[subcommand]]
+*Description*: A subcommand is a secondary or even tertiary command used with a primary command. Do not confuse subcommands with options or arguments; subcommands operate on ever more focused objects or entities. 
+
+*Example:* In the following command, "hammer" is the main or primary command. "import" and "organization" are subcommands. "--help" is an option.
 
     hammer import organization --help
 
-    In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. --help is an option. 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: sub-command
+
+*See also*:
+
+[discrete]
+==== subcommand
+[[subdirectory]]
+*Description*: A subcommand is a secondary or even tertiary command used with a primary command. Do not confuse subcommands with options or arguments; subcommands operate on ever more focused objects or entities. 
+
+*Example:* In the following command, "hammer" is the main or primary command. "import" and "organization" are subcommands. "--help" is an option.
+
+    hammer import organization --help
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: sub-command
+
+*See also*:
+
 ⁠subdirectory
     Correct. Do not use "sub-directory." 
 ⁠submenu
