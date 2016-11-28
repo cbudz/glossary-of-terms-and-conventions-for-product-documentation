@@ -35,7 +35,7 @@
 
 *Incorrect forms*: s-record, S-Record, s-Record, SREC, or any other variation
 
-*See also*: xref:SREC [SREC]
+*See also*: xref:srec [SREC]
 
 [discrete]
 ==== ⁠screen saver
@@ -130,7 +130,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Incorrect forms*: server cluster, computer farm, computer ranch
 
-*See also*: xref:computer-farm [computer farm], xref:computer-ranch [computer ranch]
+*See also*: 
 
 [discrete]
 ==== server side 
@@ -284,7 +284,7 @@ Do not use "command prompt," "terminal," or "shell."
 [discrete]
 ==== SOCKS
 [[skills]]
-*Description*: Socket Secure (SOCKS) is an Internet protocol that exchanges network packets between a client and server through a proxy server. When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5
+*Description*: Socket Secure (SOCKS) is an Internet protocol that exchanges network packets between a client and server through a proxy server. When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5".
 
 *Use it*: yes
 
@@ -300,8 +300,9 @@ Do not use "command prompt," "terminal," or "shell."
 *Description*: Softcopy is an electronic copy of some type of data, for example, a file viewed on a computer screen. Do not use. Use "online" instead.
 
 *Example:*
-Incorrect: To view a softcopy of the manual . . .
-Correct: To view the online documentation . . .
+
+- Incorrect: To view a softcopy of the manual . . .
+- Correct: To view the online documentation . . .
 
 *Use it*: no
 
@@ -309,12 +310,12 @@ Correct: To view the online documentation . . .
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:online [online]
 
 [discrete]
 ==== sound card
 [[sound-card]]
-*Description*: A sound card is a device that can be slotted into a computer to allow the use of audio components for multimedia applications.
+*Description*: A sound card is a device slotted into a computer to allow the use of audio components for multimedia applications.
 
 *Use it*: yes
 
@@ -330,8 +331,9 @@ Correct: To view the online documentation . . .
 *Description*: Use "space" to refer to white space. Use "spacebar" when referring to the keyboard key.
 
 *Examples:*
-Ensure there is a space between each command.
-Press the spacebar, and type the correct number.
+
+- Ensure there is a space between each command.
+- Press the spacebar, and type the correct number.
 
 *Use it*: yes
 
@@ -347,8 +349,9 @@ Press the spacebar, and type the correct number.
 *Description*: Use "spacebar" when referring to the keyboard key. Use "space" to refer to white space. 
 
 *Examples:*
-Ensure there is a space between each command.
-Press the spacebar, and type the correct number.
+
+- Ensure there is a space between each command.
+- Press the spacebar, and type the correct number.
 
 *Use it*: yes
 
@@ -431,11 +434,24 @@ Press the spacebar, and type the correct number.
 *See also*:
 
 [discrete]
+==== SREC
+[[s-record]]
+*Description*: SREC is an abbreviation for Motorola S-record, which is a file format that stores binary information in ASCII hex text form. Use "S-record" instead of SREC. 
+
+*Use it*: no
+
+*Class*: abbreviation
+
+*Incorrect forms*: s-record, S-Record, s-Record, SREC, or any other variation
+
+*See also*: xref:s-record [S-record]
+
+[discrete]
 ==== SSH
 [[ssh]]
 *Description*: SSH is an abbreviation for Secure Shell, a network protocol that allows data exchange using a secure channel. 
 
-- For the protocol, use "SSH", "ssh", "Ssh", or other variants. 
+- For the protocol, do NOT use "SSH", "ssh", "Ssh", or other variants. 
 - For the command, use "ssh".
 
 Do not use as a verb. 
@@ -486,8 +502,6 @@ Do not use as a verb.
 *Class*: command
 
 *Incorrect forms*: StartX
-
-*See also*:
 
 *See also*:
 
@@ -583,7 +597,7 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 
 *Class*: noun
 
-*Incorrect forms*: sub-user, super user
+*Incorrect forms*: super-user, super user
 
 *See also*:
 
@@ -603,7 +617,7 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 [discrete]
 ==== ⁠Sybase Adaptive Server Enterprise (ASE)
 [[ase]]
-*Description*: This relational model database server product for businesses was developed by Sybase Corporation and then became part of SAP AG. Use SAP Sybase Adaptive Server Enterprise (ASE) the first time you mention it. In subsequent entries, use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
+*Description*: Sybase Corporations developed this relational database management system that then became part of SAP AG. Use SAP Sybase Adaptive Server Enterprise (ASE) the first time you mention it. In subsequent entries, use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
 
 *Use it*: yes
 
@@ -613,7 +627,7 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 
 *See also*: 
  
- [discrete]
+[discrete]
 ==== SysV
 [[sysv]]
 *Description*: The SysV init runlevel system provides a standard process for controlling which programs init launches or halts when initializing a runlevel.
@@ -626,7 +640,7 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 
 *See also*: 
  
-  [discrete]
+[discrete]
 ==== symmetric encryption
 [[symm-encrypt]]
 *Description*: ⁠A type of encryption where the same key encrypts and decrypts the message. In contrast, asymmetric (or public-key) encryption uses one key to encrypt a message and another to decrypt the message. 
