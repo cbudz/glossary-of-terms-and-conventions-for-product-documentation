@@ -70,7 +70,7 @@
 
 *Use it*: yes
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*:
 
@@ -276,7 +276,7 @@
 [[mutexes]]
 *Description*: Plural form of "mutex".
 
-*Use it*:
+*Use it*: yes
 
 *Class*: noun
 
