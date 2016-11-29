@@ -129,7 +129,7 @@
 
 *Incorrect forms*:re-boot 
 
-*See also*: //xref:restart[restart]
+*See also*:
 
 
 
@@ -204,7 +204,7 @@
 
 *Incorrect forms*: 
 
-*See also*: //xref:see[see]
+//*See also*: xref:see[see]
 
 
 
@@ -254,7 +254,7 @@
 
 
 .return
-[[retun]]
+[[return]]
 
 *Description*: When referring to the keyboard key on Solaris or Mac, use **Return** or **return**, respectively. See "enter" for other platforms. 
 
@@ -264,7 +264,7 @@
 
 *Incorrect forms*: 
 
-*See also*: xref:enter[enter-n]
+*See also*: xref:enter-n[enter]
 
 
 
@@ -277,7 +277,7 @@
 
 *Class*: verb
 
-*Incorrect forms*: right clicj 
+*Incorrect forms*: right click 
 
 *See also*:
 
