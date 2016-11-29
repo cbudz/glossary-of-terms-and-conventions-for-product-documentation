@@ -327,7 +327,7 @@
 
 .cooked
 [[cooked]]
-*Description*: Cooked refers to data that is processed before being passed to the I/O device. 
+*Description*: Data that is processed before being passed to the I/O device. 
 
 *Use it*: yes
 
