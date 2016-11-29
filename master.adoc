@@ -4,7 +4,7 @@
 
 == General Information
 
-This document outlines terms and conventions for technical language in Red Hat's product documentation and other technical content. These terms and conventions supplement those in The IBM Style Guide, which is the main reference for technical terms and conventions used at Red Hat.
+This document outlines terms and conventions for technical language in Red Hat's product documentation and other technical content. These terms and conventions supplement those in _The IBM Style Guide_, which is the main reference for technical terms and conventions used at Red Hat.
 
 === Guidelines for Contribution
 include::{includedir}/general_information/contribution_guidelines.adoc[]
