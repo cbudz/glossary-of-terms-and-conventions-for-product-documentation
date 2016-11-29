@@ -83,7 +83,7 @@
 
 *Use it*: yes
 
-*Class*: 
+*Class*: noun
 
 *Incorrect forms*:
 
@@ -96,7 +96,7 @@
 
 *Use it*: yes
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*:
 
@@ -109,7 +109,7 @@
 
 *Use it*: yes
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*:
 
