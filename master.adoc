@@ -4,6 +4,11 @@
 
 == General Information
 
+This document outlines terms and conventions for technical language in Red Hat's product documentation and other technical content. These terms and conventions supplement those in The IBM Style Guide, which is the main reference for technical terms and conventions used at Red Hat.
+
+=== Guidelines for Contribution
+include::{includedir}/general_information/contribution_guidelines.adoc[]
+
 === How to Update This Document
 include::{includedir}/general_information/updating.adoc[]
 
@@ -13,6 +18,7 @@ include::{includedir}/general_information/template.adoc[]
 === FAQ
 include::{includedir}/general_information/faq.adoc[]
 
+[[general-conventions]]
 == General Conventions
 
 === A
@@ -93,5 +99,6 @@ include::{includedir}/general_conventions/y.adoc[]
 === Z
 include::{includedir}/general_conventions/z.adoc[]
 
+[[product-specific-conventions]]
 == Product-specific Conventions
 include::{includedir}/products_conventions/products_conventions_overview.adoc[]
