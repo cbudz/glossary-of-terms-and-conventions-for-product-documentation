@@ -1,0 +1,298 @@
+[discrete]
+==== manual page
+[[manual-page]]
+*Description*: A form of a software documentation tied directly with packages providing that software. It is accessible by using the `man <utility>` command from the command line. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:man-page[man page]
+
+[discrete]
+==== man page
+[[man-page]]
+*Description*: A short form for manual page. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: manpage
+
+*See also*: xref:manual-page[manual page]
+
+[discrete]
+==== many
+[[many]]
+*Description*: Use "many" to indicate number of objects. Do not use "lots of" or "bunches of".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: lots of, bunches of 
+
+*See also*:
+
+[discrete]
+==== Master Boot Record
+[[master-boot-record]]
+*Description*: Master Boot Record (MBR) is a small program that is executed when a computer boots up. Typically, the MBR resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:mbr[MBR]
+
+[discrete]
+==== matrixes
+[[matrixes]]
+*Description*: In mathematics, a matrix is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns. The correct plural form from US English spelling is matrixes. Do not use "matrices".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: matrices
+
+*See also*:
+
+[discrete]
+==== MB
+[[MB]]
+*Description*: Short for megabyte. 1,000,000 or 1,048,576 bytes, depending on the context.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:Mb[Mb]
+
+[discrete]
+==== Mb
+[[Mb]]
+*Description*: Short for megabit. 1 megabit = 1000 kilobits or 1,000,000 bits.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:MB[MB]
+
+[discrete]
+==== MBps
+[[mbps]]
+*Description*: Initialism for megabytes per second, a measure of data transfer speed. Mass storage devices are generally measured in MBps.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== MBR
+[[mbr]]
+*Description*: Initialism for Master Boot Record.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:master-boot-record[Master Boot Record]
+
+[discrete]
+==== media
+[[media]]
+*Description*: (1) Objects on which data can be stored. These include hard disks, diskettes, CDs, and tapes. (2) In computer networks, media refers to the cables linking workstations together. There are many different types of transmission media, the most popular being twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fibre optic cable (cables made out of glass). (3) The form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== menu-driven
+[[menu-driven]]
+*Description*: Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program. Preferred spelling is "menu-driven", do not use "menu driven" or "menudriven"
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: menu driven, menudriven
+
+*See also*:
+
+[discrete]
+==== Microsoft
+[[Microsoft]]
+*Description*: A technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics and personal computers and services.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: MS, MSFT, MicroSoft
+
+*See also*: xref:ms-dos[MS-DOS]
+
+[discrete]
+==== misconfigure
+[[misconfigure]]
+*Description*: To configure something incorrectly. This term is in common use and does appear in some dictionaries, but try to avoid it if possible. Do not hyphenate.
+
+*Use it*: with caution
+
+*Class*: verb
+
+*Incorrect forms*: mis-configure
+
+*See also*:
+
+[discrete]
+==== mount
+[[mount]]
+*Description*: (1) To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy. (2) To install a device, such as a disk drive or expansion board.
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== mouse button
+[[mouse-button]]
+*Description*: Two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which mouse button, use "right," "left," or "center," such as "right mouse button." Do not hyphenate.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: mouse-button, mousebutton
+
+*See also*:
+
+[discrete]
+==== Mozilla Firefox
+[[mozilla-firefox]]
+*Description*: An open-source web browser. First reference must be "Mozilla Firefox". Subsequent references can be "Firefox". Do not use "firefox" unless you referring to the `firefox` command and as such, mark it properly
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: firefox
+
+*See also*: xref:mozilla-thunderbird[Mozilla Thunderbird]
+
+[discrete]
+==== Mozilla Thunderbird
+[[mozilla-thunderbird]]
+*Description*: Mozilla Thunderbird is a free, open-source, cross-platform email, news, RSS, and chat client. First reference must be "Mozilla Thunderbird". Subsequent references can be "Thunderbird". Do not use "thunderbird" unless you referring to the `thuderbird` command and as such, mark it properly.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: thunderbird
+
+*See also*: xref:mozilla-firefox[Mozilla Firefox]
+
+[discrete]
+==== MS-DOS
+[[ms-dos]]
+*Description*: MS-DOS is a operating system, mostly developed by Microsoft. Correct spelling is "MS-DOS", do not use "ms-dos", "MSDOS", or "msdos".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: ms-dos, MSDOS, msdos
+
+*See also*: xref:microsoft[Microsoft]
+
+[discrete]
+==== multiprocessing
+[[multiprocessing]]
+*Description*: Multiprocessing is the use of two or more central processing units within a single computer system. Correct spelling is "multiprocessing", do not use "multi-processing".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: multi-processing
+
+*See also*:
+
+[discrete]
+==== mutual exclusion
+[[mutual-exclusion]]
+*Description*: In computer science, mutual exclusion is a property of concurrency control, which is instituted for the purpose of preventing race conditions; it is the requirement that one thread of execution never enter its critical section at the same time that another concurrent thread of execution enters its own critical section.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:mutex[Mutex], xref:mutexes[Mutexes]
+
+[discrete]
+==== mutex
+[[mutex]]
+*Description*: "Mutex" is an abbreviation of "mutual exclusion."
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:mutual-exclusion[mutual exclusion], xref:mutexes[Mutexes]
+
+[discrete]
+==== mutexes
+[[mutexes]]
+*Description*: Plural form of "mutex".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:mutual-exclusion[mutual exclusion], xref:mutex[Mutex]
+
+[discrete]
+==== MySQL
+[[mysql]]
+*Description*: Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with a ® to denote a registered trademark. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: MYSQL, mySQL
+
+*See also*:
