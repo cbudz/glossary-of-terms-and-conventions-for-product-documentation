@@ -129,7 +129,7 @@
 
 *Incorrect forms*:re-boot 
 
-*See also*: xref:restart[restart]
+*See also*: //xref:restart[restart]
 
 
 
@@ -204,7 +204,7 @@
 
 *Incorrect forms*: 
 
-*See also*: xref:see[see]
+*See also*: //xref:see[see]
 
 
 
@@ -249,7 +249,7 @@
 
 *Incorrect forms*: 
 
-*See also*: xref:must[must]
+*See also*:
 
 
 
@@ -264,7 +264,7 @@
 
 *Incorrect forms*: 
 
-*See also*: xref:enter[enter]
+*See also*: xref:enter[enter-n]
 
 
 
