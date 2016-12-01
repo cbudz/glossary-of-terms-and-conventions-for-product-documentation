@@ -131,13 +131,13 @@
 [discrete]
 ==== Kickstart
 [[kickstart]]
-*Description*: A network installation system for some Linux distributions. 
+*Description*: A network installation system for some Linux distributions. Always capitalize the first letter.
 
 *Use it*: yes
 
 *Class*: adjective
 
-*Incorrect forms*:
+*Incorrect forms*: kickstart
 
 *See also*:
 
