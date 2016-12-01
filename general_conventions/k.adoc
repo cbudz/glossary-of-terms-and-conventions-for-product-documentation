@@ -90,6 +90,20 @@
 *See also*: xref:kvm[KVM]
 
 [discrete]
+==== kernel oops
+[[kernel-oops]]
+*Description*: An error in the Linux kernel.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:kernel[kernel], xref:kernel-panic[kernel panic]
+
+
+[discrete]
 ==== kernel panic
 [[kernel-panic]]
 *Description*: Numerous circumstances can cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches. 
@@ -100,7 +114,7 @@
 
 *Incorrect forms*:
 
-*See also*: xref:kernel[kernel]
+*See also*: xref:kernel[kernel], xref:kernel-oops[kernel-oops]
 
 [discrete]
 ==== kernel space
