@@ -1,0 +1,202 @@
+[[red-hat-virtualization-conventions]]
+
+Responsible person: Tahlia Richardson (trichard@redhat.com)
+
+[discrete]
+==== Cockpit user interface
+[[cockpit-user-interface]]
+*Description*: Cockpit is a server administrative user interface, and is not exclusive to Red Hat Virtualization. It can be used as a plug-in with either host type in Red Hat Virtualization (version 4.x).
+
+Refer to the menus within the interface as tabs and sub-tabs.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Cockpit web interface
+
+*See also*: xref:red-hat-enterprise-linux-host[Red Hat Enterprise Linux host], xref:red-hat-virtualization-host[Red Hat Virtualization Host]
+
+[discrete]
+==== Data Warehouse
+[[data-warehouse]]
+*Description*: TODO
+
+Always spell out in full and capitalize as shown here, unless part of a command. Use "Data Warehouse", not "the Data Warehouse".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: DWH, data warehouse, the Data Warehouse, Dataware House
+
+*See also*: 
+
+[discrete]
+==== host
+[[host]]
+*Description*: Hosts are servers that provide the processing capabilities and memory resources used to run virtual machines. There are two types of hosts: Red Hat Enterprise Linux hosts, and Red Hat Enterprise Virtualization Hypervisor (in version 3.x) or Red Hat Virtualization Host (in version 4.x).
+
+In 3.x, one host type has "Hypervisor" in its title, so avoid using "hypervisor" to mean either RHEV-H or hypervisors/hosts in general. In 4.x, one host type has "Host" in its title, but the UI and API also use "host" to mean hypervisors/hosts in general. Therefore, use "host" to refer to hosts in general, not "hypervisor", "hypervisor host", or "virtualization host".
+
+When referring to a specific type of host, use "Red Hat Enterprise Linux host", "Red Hat Enterprise Virtualization Hypervisor host", or "Red Hat Virtualization Host".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: hypervisor, hypervisor host, virtualization host
+
+*See also*: xref:red-hat-enterprise-linux-host[Red Hat Enterprise Linux host], xref:red-hat-virtualization-host[Red Hat Virtualization Host], xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor]
+
+[discrete]
+==== Red Hat Enterprise Linux host
+[[red-hat-enterprise-linux-host]]
+*Description*: Red Hat Enterprise Linux hosts subscribed to the appropriate entitlements can be used as hosts in both Red Hat Enterprise Virtualization (version 3.x) and Red Hat Virtualization (version 4.x). 
+
+Always spell out in full. Do not capitalize "host". 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: RHEL host, RHEL-H
+
+*See also*: xref:host[host]
+
+[discrete]
+==== Red Hat Enterprise Virtualization
+[[red-hat-enterprise-virtualization]]
+*Description*: Red Hat Enterprise Virtualization is an enterprise-grade server and desktop virtualization platform built on Red Hat Enterprise Linux. 
+
+Use "Red Hat Enterprise Virtualization" for version 3.x (including references to these versions in version 4.x guides). Always spell out in full, except as part of "RHEV-H".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: RHEV
+
+*See also*: xref:red-hat-virtualization[Red Hat Virtualization], xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor]
+
+[discrete]
+==== Red Hat Enterprise Virtualization Hypervisor
+[[red-hat-enterprise-virtualization-hypervisor]]
+*Description*: Red Hat Enterprise Virtualization Hypervisor is one of the types of host in Red Hat Enterprise Virtualization (3.x). It is a minimal operating system based on Red Hat Enterprise Linux, is distributed as an ISO file, and is a closed system. Filesystem access and root access are limited. Yum is disabled.
+
+Use "Red Hat Enterprise Virtualization Hypervisor (RHEV-H)" for the first instance in a section. "RHEV-H" can be used for subsequent instances. It can also be referred to as "the Hypervisor", as long as the H is capitalized to avoid confusion with hypervisors in general. 
+
+Do not use in Red Hat Virtualization 4.x; see xref:red-hat-virtualization-host[Red Hat Virtualization Host].
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: RHEVH, Red Hat Enterprise Virtualization Host, RHEV Hypervisor
+
+*See also*: xref:host[host], xref:red-hat-virtualization-host[Red Hat Virtualization Host]
+
+[discrete]
+==== Red Hat Enterprise Virtualization Manager
+[[red-hat-enterprise-virtualization-manager]]
+*Description*: The Red Hat Enterprise Virtualization Manager is a server that manages and provides access to the resources in the Red Hat Enterprise Virtualization environment. 
+
+Use "Red Hat Enterprise Virtualization Manager" for version 3.x. Always spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (downstream) term used by Engineering.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: RHEVM, RHEV-M, RHEV Manager, the engine
+
+*See also*: xref:red-hat-virtualization-manager[Red Hat Virtualization Manager]
+
+[discrete]
+==== Red Hat Enterprise Virtualization Manager Reports
+[[red-hat-enterprise-virtualization-manager-reports]]
+*Description*: TODO This component was removed in Red Hat Virtualization 4.0. 
+
+Spell out in full for the first instance in a section, and use "Reports" (always with a capital R) for subsequent instances. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: RHEVM Reports
+
+*See also*:
+
+[discrete]
+==== Red Hat Virtualization
+[[red-hat-virtualization]]
+*Description*: Red Hat Virtualization is an enterprise-grade server and desktop virtualization platform built on Red Hat Enterprise Linux. 
+
+Use "Red Hat Virtualization" for version 4.x. Always spell out in full, except as part of "RHVH".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: RHV
+
+*See also*: xref:red-hat-enterprise-virtualization[Red Hat Enterprise Virtualization], xref:red-hat-virtualization-host[Red Hat Virtualization Host]
+
+[discrete]
+==== Red Hat Virtualization Host
+[[red-hat-virtualization-host]]
+*Description*: Red Hat Virtualization Host is one of the types of host in Red Hat Virtualization (4.x). It is a minimal operating system based on Red Hat Enterprise Linux, is distributed as an ISO file from the Customer Portal, and contains only the packages required for the machine to act as a host. It is an improved version of Red Hat Enterprise Virtualization Hypervisor. 
+
+Use "Red Hat Virtualization Host (RHVH)" for the first instance in a section. "RHVH" can be used in subsequent instances. Do not use "the Host", even with a capital H. Do not use in Red Hat Enterprise Virtualization 3.x; see xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor].
+
+*Use it*: yes 
+
+*Class*: noun
+
+*Incorrect forms*: RHV-H, Red Hat Virtualization Hypervisor, RHV Host, the Host
+
+*See also*: xref:host[host], xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor]
+
+[discrete]
+==== Red Hat Virtualization Manager
+[[red-hat-virtualization-manager]]
+*Description*: The Red Hat Virtualization Manager is a server that manages and provides access to the resources in the Red Hat Virtualization environment. 
+
+Use "Red Hat Virtualization Manager" for version 4.x. Always spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (downstream) term used by Engineering.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: RHVM, RHV-M, RHV Manager, the engine
+
+*See also*: xref:red-hat-enterprise-virtualization-manager[Red Hat Enterprise Virtualization Manager]
+
+[discrete]
+==== self-hosted engine
+[[self-hosted-engine]]
+*Description*: A self-hosted engine is a virtualized environment in which the Manager, or engine, runs on a virtual machine on the hosts managed by that Manager. The virtual machine is created as part of the host configuration, and the Manager is installed and configured in parallel to the host configuration process. 
+
+Use all lower case, unless used in a title or at the beginning of a sentence. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: hosted engine, hosted-engine
+
+*See also*: xref:self-hosted-engine-host[self-hosted engine host]
+
+[discrete]
+==== self-hosted engine host
+[[self-hosted-engine-host]]
+*Description*: A self-hosted engine is a virtualized environment in which the Manager, or engine, runs on a virtual machine on the hosts managed by that Manager. A self-hosted engine host has been configured for a self-hosted engine environment, and can host the Manager virtual machine. Regular hosts can also be attached to a self-hosted engine environment, but they cannot be used to host the Manager virtual machine.
+
+Use all lower case, unless used in a title or at the beginning of a sentence.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: hosted engine host, hosted-engine host
+
+*See also*: xref:self-hosted-engine[self-hosted engine]
