@@ -1,25 +1,42 @@
 [[general-faq]]
 
-_work in progress_
+This section outlines answers to common questions about this document and the process for submitting contributions or suggesting changes. 
 
-I want to update this guide, how can I do that?::
+What kind of terms and conventions does this document describe?::
++
+This document describes two main types of terms and conventions:
++
+* *General Conventions*
++
+xref:general-conventions[] outlines conventions that are not specific to a product or solution, including general technical terminology and usage.
++
+* *Product-Specific Conventions*
++
+xref:product-specific-conventions[] outlines conventions that are specific to a product or solution, including variations on and guidelines regarding the use of product and component names. In principle, the terms and conventions in this chapter must be specific to Red Hat products.
++
 
-See xref:how-to-update-this-document[] for details.
+Who can contribute to this document?::
 
-I see an issue with the guide but i don't want to fix it myself:: 
+There are no restrictions on who is allowed to contribute to this document. All associates are welcome to contribute new terms or conventions, or suggest updates to or removal of existing terms and conventions at any time.
 
-Open an issue. See xref:[TBA] for details.
+How can I contribute to this document?::
+
+See xref:how-to-update-this-document[].
+
+How can I suggest an update to this document?:: 
+
+Open an issue. See xref:[TBA].
+
+Are there any reasons a contribution may not be accepted?::
+
+All contributions are welcome, but reviewers may decline contributions that fall under the following:
+
+* Terms or conventions that are considered part of the general sphere of professional writing, such as basic grammar and punctuation.
+* Terms or conventions that are already included in _The IBM Style Guide_.
 
 [[two-entries-with-same-anchor-tag]]
-What to do if two entries have the same anchor tag?::
+What if two entries have the same anchor tag?::
  
-It can happen sometimes that two entries will have the same anchor tag when
-creating the anchor tags according to the rules described in xref:template[].
-For example, the "kernel space" and "kernel-space" entries or the "kB" and "KB"
-entries will have the same anchor tag ("kernel-space" and "kb")
-+   
-However, AsciiDoc requires unique anchor tags otherwise, the it fails to build
-the book. To avoid this issue, use different anchor tags. For example, use
-"kernel-space-n" for the "kernel space" entry and "kernel-space-ad" for the
-"kernel-space" entry. Similarly, use "kb" for the "kB" entry and "KB" for the
-"KB" entry. Raise an issue if in doubts.
+When creating anchor tags in accordance with the rules described in xref:template[], the resulting anchor tags might be the same as those for separate entries. For example, the "kernel space" and "kernel-space" entries, or the "kB" and "KB" entries would have the same anchor tag ("kernel-space" and "kb"). If the anchor tags are not unique, however, it will cause an error in the document. 
++
+To avoid this issue, use different anchor tags. For example, use "kernel-space-n" for the "kernel space" entry and "kernel-space-ad" for the "kernel-space" entry. Similarly, use "kb" for the "kB" entry and "KB" for the "KB" entry. Raise an issue if in doubt.
