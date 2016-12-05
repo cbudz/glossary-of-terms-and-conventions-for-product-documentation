@@ -3,9 +3,24 @@
 Responsible person: Tahlia Richardson (trichard@redhat.com)
 
 [discrete]
+==== Administration Portal
+[[administration-portal]]
+*Description*: The Administration Portal is a graphical user interface provided by the Red Hat (Enterprise) Virtualization Manager. It can be used to manage all the administrative resources in the environment and can be accessed by any supported web browser.
+
+Always use "Administration Portal", including the capital P. When other departments (or upstream) say "webadmin" or "Administrator portal", this is what they are referring to. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Admin Portal, webadmin, webadmin portal, Administrator Portal, Administration portal
+
+*See also*: xref:user-portal[User Portal]
+
+[discrete]
 ==== Cockpit user interface
 [[cockpit-user-interface]]
-*Description*: Cockpit is a server administrative user interface, and is not exclusive to Red Hat Virtualization. It can be used as a plug-in with either host type in Red Hat Virtualization (version 4.x).
+*Description*: Cockpit is a server administrative user interface, and is not exclusive to Red Hat Virtualization. It can be used as a plug-in with either host type in Red Hat Virtualization (version 4.x). The plug-in is available by default on Red Hat Virtualization Host, but must be installed on Red Hat Enterprise Linux hosts.
 
 Refer to the menus within the interface as tabs and sub-tabs.
 
@@ -48,6 +63,66 @@ When referring to a specific type of host, use "Red Hat Enterprise Linux host", 
 *Incorrect forms*: hypervisor, hypervisor host, virtualization host
 
 *See also*: xref:red-hat-enterprise-linux-host[Red Hat Enterprise Linux host], xref:red-hat-virtualization-host[Red Hat Virtualization Host], xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor]
+
+[discrete]
+==== LUN
+[[lun]]
+*Description*: A LUN (logical unit number), is a number used to identify a logical unit, which is a device addressed by the SCSI protocol, or Storage Area Network protocols which encapsulate SCSI, such as Fibre Channel or iSCSI.
+
+Always capitalize as shown, with the exception of UI content.
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: Lun, lun
+
+*See also*:
+
+[discrete]
+==== MOM
+[[mom]]
+*Description*: The Memory Overcommitment Manager is a policy-driven tool that can be used to manage overcommitment on hosts.
+
+Use "Memory Overcommitment Manager (MOM)" for the first instance in a section, and "MOM" for subsequent instances.
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: MoM, Mom, mom
+
+*See also*:
+
+[discrete]
+==== QCOW2
+[[qcow2]]
+*Description*: QEMU Copy On Write version 2 is a disk image file format that uses a disk storage optimization strategy that delays allocation of storage until it is actually needed (thin provisioning).
+
+Always use "QCOW2", with the exception of UI content.
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: QCOW 2, QCow2, Qcow2, qcow2
+
+*See also*:
+
+[discrete]
+==== RAW
+[[raw]]
+*Description*: TODO
+
+Always capitalize as shown, with the exception of UI content.
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: Raw, raw
+
+*See also*:
 
 [discrete]
 ==== Red Hat Enterprise Linux host
@@ -200,3 +275,93 @@ Use all lower case, unless used in a title or at the beginning of a sentence.
 *Incorrect forms*: hosted engine host, hosted-engine host
 
 *See also*: xref:self-hosted-engine[self-hosted engine]
+
+[discrete]
+==== SPICE
+[[spice]]
+*Description*: SPICE stands for "Simple Protocol for Independent Computing Environments". It is a remote connection protocol for viewing a virtual machine in a graphical console from a remote client. 
+
+Always capitalize as shown, except in commands, packages, or UI content. 
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: Spice, spice
+
+*See also*: 
+
+[discrete]
+==== Storage Pool Manager
+[[storage-pool-manager]]
+*Description*: The Storage Pool Manager (SPM) is a role given to one of the hosts in a data center, enabling it to manage the storage domains of the data center.
+
+Use "Storage Pool Manager (SPM)" for the first instance in a section, and "SPM" for subsequent instances.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== User Portal
+[[user-portal]]
+*Description*: The User Portal is a graphical user interface provided by the Red Hat (Enterprise) Virtualization Manager. It has limited permissions for managing virtual machine resources and is targeted at end users.
+
+Always use "User Portal", including the capital P.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: userportal, user portal, User portal
+
+*See also*: xref:administration-portal[Administration Portal]
+
+[discrete]
+==== virtual machine
+[[virtual-machine]]
+*Description*: A virtual machine is a virtual desktop or virtual server containing an operating system and a set of applications. 
+
+Always spell out in full, with the exception of UI content. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: VM
+
+*See also*:
+
+[discrete]
+==== vCPU
+[[vcpu]]
+*Description*: A virtual CPU (central processing unit) represents a portion of a physical CPU that is assigned to a virtual machine.
+
+Always use as shown here, with the exception of UI content.
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: VCPU, vcpu
+
+*See also*:
+
+[discrete]
+==== vNIC
+[[vnic]]
+*Description*: A virtual NIC (Network Interface Card) is a network interface for virtual machines.
+
+Always use as shown here, with the exception of UI content.
+
+*Use it*: yes
+
+*Class*: acronym
+
+*Incorrect forms*: VNIC, vnic
+
+*See also*: 
