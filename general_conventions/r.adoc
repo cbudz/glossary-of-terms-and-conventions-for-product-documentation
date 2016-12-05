@@ -148,21 +148,6 @@
 
 
 
-.Red Hat Ceph Storage
-[[red-hat-ceph-storage]]
-
-*Description*: Red Hat Ceph Storage is a Red Hat offering of the Ceph Storage upstream project. Always use the full name, do not use the abbreviated form ("RHCS").
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: RHCS
-
-*See also*: xref:ceph-command[ceph], xref:ceph[Ceph]
-
-
-
 .Red Hat Network Satellite Server and Red Hat Network Proxy Server
 [[red-hat-network-satellite-server-and-red-hat-network-proxy-server]]
 

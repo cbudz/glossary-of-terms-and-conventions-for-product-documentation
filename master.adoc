@@ -99,3 +99,7 @@ include::{includedir}/general_conventions/z.adoc[]
 [[product-specific-conventions]]
 == Product-specific Conventions
 include::{includedir}/products_conventions/products_conventions_overview.adoc[]
+
+[[red-hat-ceph-storage]]
+=== Red Hat Ceph Storage
+include::{includedir}/products_conventions/ceph.adoc[]

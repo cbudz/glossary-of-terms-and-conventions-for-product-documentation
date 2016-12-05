@@ -1,0 +1,475 @@
+[[red-hat-ceph-storage-conventions]]
+
+Responsible person: Bara Ancincova (bara@redhat.com)
+
+[discrete]
+==== bucket
+[[bucket]]
+*Description*: ADD ME
+ 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== Ceph
+[[ceph]]
+*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: CEPH, ceph
+
+*See also*: xref:red-hat-ceph-storage[Red Hat Ceph Storage], xref:ceph-command[ceph]
+
+[discrete]
+==== ceph
+[[ceph-command]]
+*Description*: The Ceph command-line utility. Always mark it properly (`ceph`).
+ 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: CEPH
+
+*See also*: xref:ceph[Ceph]
+
+[discrete]
+==== Ceph Block Device
+[[ceph-block-device]]
+*Description*: The block storage component of Ceph. Also, known as the RADOS Block Device, however prefer using the Ceph Block Device.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Ceph block device, Ceph block devices
+
+*See also*: xref:rados-block-device[RADOS Block Device], xref:RBD[RBD], xref:rbd[rbd], xref:librbd[librbd]
+
+[discrete]
+==== CephFS
+[[cephfs]]
+*Description*: Initialization for the Ceph File System. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: cephfs
+
+*See also*: xref:ceph-file-system[Ceph File System]
+
+[discrete]
+==== Ceph File System
+[[ceph-file-system]]
+*Description*: The POSIX file system component of Ceph.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Ceph filesystem, Ceph file system
+
+*See also*: xref:cephfs[Ceph File System]
+
+[discrete]
+==== Ceph Monitor
+[[ceph-monitor]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Ceph monitor
+
+*See also*: 
+
+[discrete]
+==== ceph-mds
+[[ceph-mds]]
+
+*Description*: `ceph-mds` is the metadata server daemon. One or more instances of `ceph-mds` collectively manage the file system namespace, coordinating access to the shared OSD cluster. Always mark it properly.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:metadata-server[Metadata Server], xref:[MDS]
+
+[discrete]
+==== ceph-mon
+[[ceph-mon]]
+
+*Description*: `ceph-mon` is the Ceph Monitor daemon. Always mark it properly.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: 
+
+[discrete]
+==== ceph-osd
+[[ceph-osd]]
+
+*Description*: `ceph-osd` is the Ceph object storage daemon that is responsible for storing objects on local file system and providing access to them over network. Always mark it properly.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== Ceph Object Gateway
+[[ceph-object-gateway]]
+*Description*: The S3/Swift component of Ceph. Also known as RADOS gateway. However, prefer using the Ceph Object Gateway.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Ceph object gateway, Ceph object gateways
+
+*See also*: xref:rados-gateway[RADOS gateway], xref:rgw[RGW]
+
+[discrete]
+==== CRUSH
+[[crush]]
+*Description*: Abbreviation for Controlled Replication Under Scalable Hashing. This is the mechanism of data distribution in a Ceph cluster. Use all capital letters when referring to CRUSH. Do not expand, only when explaining what the abbreviation means.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== CRUSH map
+[[crush-map]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: crush map, crushmap
+
+*See also*: xref:crush[CRUSH]
+
+[discrete]
+==== librados
+[[librados]]
+*Description*: A shared library allowing applications to access the RADOS object store.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Librados, LIBRADOS
+
+*See also*: xref:rados[RADOS]
+
+[discrete]
+==== librbd
+[[librbd]]
+*Description*: A shared library allowing applications to access Ceph Block Devices.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Librbd, LIBRBD
+
+*See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:RBD[RBD]
+
+[discrete]
+==== MDS
+[[mds]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:metadata-server[Metadata Server], xref:ceph-mds[ceph-mds]
+
+
+[discrete]
+==== Metadata Server
+[[metadata-server]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:mds[MDS], xref:ceph-mds[ceph-mds]
+
+[discrete]
+==== Object Store
+[[object-store]]
+*Description*: A core component of the Ceph Storage Cluster. Also referred as RADOS.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: object store
+
+*See also*: xref:rados[RADOS]
+
+[discrete]
+==== Object Storage Device
+[[object-storage-device]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== OSD Daemon
+[[osd-daemon]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== OSD
+[[osd]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== pool
+[[pool]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== RADOS
+[[rados]]
+*Description*: Acronym for Reliable Autonomic Distributed Object Storage. A core component of the Ceph Storage Cluster. Do not expand, unless explaining what the acronym means. Also referred as Object Store.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: rados
+
+*See also*: xref:object-store[Object Store]
+
+[discrete]
+==== RADOS Block Device
+[[rados-block-device]]
+*Description*: The block storage component of Ceph. Also, known as the Ceph Block Device, which is the preferred form. Use RADOS Block Device only when expanding the RBD acronym.
+
+*Use it*: with caution
+
+*Class*: noun
+
+*Incorrect forms*: RADOS block device
+
+*See also*: xref:ceph-block-device[Ceph Block Device], xref:RBD[RBD], xref:rbd[rbd], xref:librbd[librbd]
+
+[discrete]
+==== RADOS gateway
+[[rados-gateway]]
+*Description*: The S3/Swift component of Ceph. Also known as the Ceph Object Gateway, which is the preferred form. Use RADOS gateway only when expanding the RGW acronym.
+
+*Use it*: with caution
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:ceph-object-gateway[Ceph Object Gateway], xref:rgw[RGW]
+
+[discrete]
+==== RBD
+[[RBD]]
+*Description*: Acronym for RADOS Block Device.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: rbd
+
+*See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:rbd[rbd], xref:librbd[librbd]
+
+[discrete]
+==== rbd
+[[rbd]]
+*Description*: A command to create, list, introspect, and remove Ceph Block Device images. Always mark it properly (`rbd`).
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: 
+
+*See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:RBD[RBD], xref:librbd[librbd]
+
+[discrete]
+==== RGW
+[[rgw]]
+*Description*: <description>
+
+*Use it*: <yes/no/with caution>
+
+*Class*: <class>
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+[discrete]
+==== shard (noun)
+[[shard-n]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:shard-v[shard (verb)], xref:sharding[sharding]
+
+[discrete]
+==== shard (verb)
+[[shard-v]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*:
+
+*See also*: xref:shard-n[shard (noun)], xref:sharding[sharding]
+
+[discrete]
+==== sharding
+[[sharding]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:shard-n[shard (noun)], xref:shard-v[shard (verb)]
+
+[discrete]
+==== <term>
+[[<anchor-tag>]]
+*Description*: <description>
+
+*Use it*: <yes/no/with caution>
+
+*Class*: <class>
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+[discrete]
+==== <term>
+[[<anchor-tag>]]
+*Description*: <description>
+
+*Use it*: <yes/no/with caution>
+
+*Class*: <class>
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+[discrete]
+==== <term>
+[[<anchor-tag>]]
+*Description*: <description>
+
+*Use it*: <yes/no/with caution>
+
+*Class*: <class>
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+[discrete]
+==== <term>
+[[<anchor-tag>]]
+*Description*: <description>
+
+*Use it*: <yes/no/with caution>
+
+*Class*: <class>
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]
+
+[discrete]
+==== <term>
+[[<anchor-tag>]]
+*Description*: <description>
+
+*Use it*: <yes/no/with caution>
+
+*Class*: <class>
+
+*Incorrect forms*: <incorrect-form>
+
+*See also*: xref:<another-anchor-tag>[<another-term>]

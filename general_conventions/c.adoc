@@ -71,31 +71,6 @@
 
 *See also*: xref:compact-disk[CD]
 
-.ceph
-[[ceph-command]]
-*Description*: Ceph is a unified, distributed storage system designed for performance, reliability and scalability. Use only when referring to the `ceph` command, and ensure the term is marked up properly.
-
-*Use it*: yes
-
-*Class*: command
-
-*Incorrect forms*: CEPH, Ceph
-
-*See also*: xref:ceph[Ceph], xref:red-hat-ceph-storage[Red Hat Ceph Storage]
-
-
-.Ceph
-[[ceph]]
-*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH", because it is not an acronym. Use "ceph" only when referring to the `ceph` command, and ensure that the term is marked up properly.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: CEPH, ceph
-
-*See also*: xref:ceph-command[ceph], xref:red-hat-ceph-storage[Red Hat Ceph Storage]
-
 .cgroup
 [[cgroup]]
 *Description*: This term is a contraction of "control group". Cgroups allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
