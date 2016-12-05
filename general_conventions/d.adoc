@@ -1,4 +1,5 @@
-.daisy chain
+[discrete]
+==== daisy chain
 [[daisy-chain-noun]]
 *Description*: A hardware configuration in which devices are connected to each other in a series.
 
@@ -10,7 +11,8 @@
 
 *See also*: xref:daisy-chain-verb[daisy chain]
 
-.daisy chain
+[discrete]
+==== daisy chain
 [[daisy-chain-verb]]
 *Description*: To connect devices in a daisy chain pattern.
 
@@ -22,8 +24,8 @@
 
 *See also*: xref:daisy-chain-noun[daisy chain]
 
-
-.data center
+[discrete]
+==== data center
 [[data-center]]
 *Description*: A large group of networked computer servers used for the remote storage, processing, or distribution of large amounts of data. Note that marketing publications use the one-word form.
 
@@ -35,7 +37,8 @@
 
 *See also*: 
 
-.data mirroring
+[discrete]
+==== data mirroring
 [[data-mirroring]]
 *Description*: The act of copying data from one location to a storage device in real time.
 
@@ -47,7 +50,8 @@
 
 *See also*: 
 
-.debug
+[discrete]
+==== debug
 [[debug-adjective]]
 *Description*: A type of command or script that is used to find and remove errors from a program or design. For example, a "debug script".
 
@@ -59,7 +63,8 @@
 
 *See also*: xref:debug-verb[debug]
 
-.debug
+[discrete]
+==== debug
 [[debug-verb]]
 *Description*: To find and remove errors from a program or design.
 
@@ -71,7 +76,8 @@
 
 *See also*: xref:debug-adjective[debug]
 
-.denial of service
+[discrete]
+==== denial of service
 [[denial-of-service]]
 *Description*: An interruption in a user's access to a computer network, usually caused deliberately and with malicious intent. Use "denial of service (DoS)" on first use, and "DoS" thereafter.
 
@@ -83,7 +89,8 @@
 
 *See also*:
 
-.desktop
+[discrete]
+==== desktop
 [[desktop-adjective]]
 *Description*: A type of computer.
 
@@ -95,7 +102,8 @@
 
 *See also*: xref:desktop-noun[desktop]
 
-.desktop
+[discrete]
+==== desktop
 [[desktop-noun]]
 *Description*: A type of computer, or the working area of a computer screen.
 
@@ -107,7 +115,8 @@
 
 *See also*: xref:desktop-adjective[desktop]
 
-.device
+[discrete]
+==== device
 [[device]]
 *Description*: Any machine or component that attaches to a computer.
 
@@ -119,7 +128,8 @@
 
 *See also*:
 
-.DevOps
+[discrete]
+==== DevOps
 [[devops-noun]]
 *Description*: A combination of "development" and "operations". A specific method or organizational approach where developers and IT operations work together to create the applications that run the business. 
 
@@ -131,7 +141,8 @@
 
 *See also*:
 
-.different from
+[discrete]
+==== different from
 [[different]]
 *Description*: Used when comparing two things. Use when the next part of the sentence is a noun or pronoun.
 
@@ -143,7 +154,8 @@
 
 *See also*:
 
-.Disk Druid
+[discrete]
+==== Disk Druid
 [[disk-druid]]
 *Description*: A partitioning tool incorporated into Red Hat Enterprise Linux.
 
@@ -155,7 +167,8 @@
 
 *See also*: 
 
-.disk label
+[discrete]
+==== disk label
 [[disk-label]]
 *Description*: A record that contains information about the location of the partitions on a disk.
 
@@ -167,7 +180,8 @@
 
 *See also*:
 
-.DNS
+[discrete]
+==== DNS
 [[dns]]
 *Description*: Initialism of "Domain Name System" or "Domain Name Service", a service that translates domain names into IP addresses and vice versa.
 
@@ -179,7 +193,8 @@
 
 *See also*:
 
-.domain name
+[discrete]
+==== domain name
 [[domain-name]]
 *Description*: A name that identifies one or more IP addresses. For example, "redhat.com".
 
@@ -191,7 +206,8 @@
 
 *See also*:
 
-.downstream
+[discrete]
+==== downstream
 [[downstream]]
 *Description*: Data sent from a network service provider to a customer.
 
@@ -203,7 +219,8 @@
 
 *See also*:
 
-.download
+[discrete]
+==== download
 [[download-noun]]
 *Description*: The act or process of downloading data.
 
@@ -215,7 +232,8 @@
 
 *See also*: xref:download-verb[download]
 
-.download
+[discrete]
+==== download
 [[download-verb]]
 *Description*: To copy data from one computer system to another.
 
@@ -227,7 +245,8 @@
 
 *See also*: xref:download-noun[download]
 
-.dual-boot
+[discrete]
+==== dual-boot
 [[dual-boot]]
 *Description*: A system in which two operating systems are installed on the same hard drive.
 
@@ -239,7 +258,8 @@
 
 *See also*:
 
-.DVD writer
+[discrete]
+==== DVD writer
 [[DVD-writer]]
 *Description*: A device that records data into the DVD format.
 
@@ -249,6 +269,4 @@
 
 *Incorrect forms*: DVD burner, burner
 
-*See also*: 
-
-
+*See also*:

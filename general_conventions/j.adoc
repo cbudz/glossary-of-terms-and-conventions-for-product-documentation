@@ -1,4 +1,5 @@
-.JavaScript
+[discrete]
+==== JavaScript
 [[javascript]]
 *Description*: "JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase "javascript".
 
@@ -10,7 +11,8 @@
 
 *See also*: xref:javascript_file[javascript]
 
-.javascript
+[discrete]
+==== javascript
 [[javascript_file]]
 *Description*: When referring to a file written using the JavaScript language, use all lowercase; for example, "...copy the IPA javascript file to the `/temp` directory."
 
@@ -22,7 +24,8 @@
 
 *See also*: xref:javascript[JavaScript]
 
-.JBoss Community
+[discrete]
+==== JBoss Community
 [[jboss-community]]
 *Description*: Use when referring to the community of users and contributors. No longer referred to as "JBoss.org."
 
@@ -34,7 +37,8 @@
 
 *See also*:
 
-.⁠JBoss Way
+[discrete]
+==== JBoss Way
 [[jboss-way]]
 *Description*: When referring specifically to the JBoss cultural and business climate or practices as the subject of your sentence, capitalize "JBoss Way" as a formal, branded concept. However, if the reference is generic or the "way" is further specified, do not capitalize.
 
@@ -47,7 +51,8 @@
 // TODO: Add links to "Red Hat Way" and "open source way".
 *See also*: Red Hat Way, open source way
 
-.⁠job
+[discrete]
+==== job
 [[job]]
 *Description*: A task performed by a computer system. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
 
@@ -59,7 +64,8 @@
 
 *See also*:
 
-.⁠jsvc
+[discrete]
+==== jsvc
 [[jsvc]]
 *Description*: The Apache Commons Daemon jsvc is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise use all lowercase.
 
@@ -71,7 +77,8 @@
 
 *See also*:
 
-.⁠just
+[discrete]
+==== just
 [[just]]
 *Description*: Use sparingly. In the phrase, "Just open the file...", the word "just" can be omitted.
 
@@ -83,7 +90,8 @@
 
 *See also*:
 
-.⁠JVM
+[discrete]
+==== JVM
 [[jvm]]
 *Description*: Initialism for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)."
 

@@ -1,4 +1,5 @@
-.host name
+[discrete]
+==== host name
 [[host-name]]
 *Description*: Preferred spelling is "host name". Do not use "hostname". Only capitalize the initial "H" at the beginning of a sentence. See The IBM Style Guide for more information. 
 

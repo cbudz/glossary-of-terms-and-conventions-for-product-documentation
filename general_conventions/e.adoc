@@ -1,4 +1,5 @@
-.Emacs
+[discrete]
+==== Emacs
 [[emacs]]
 *Description*: Emacs is a text editor available in UNIX. Like vi, Emacs is a screen editor. Unlike vi, Emacs is not an insertion mode editor, meaning that any character typed in Emacs is automatically inserted into the file, unless it includes a command prefix.
 
@@ -12,7 +13,8 @@ If referring to the program, use "Emacs". For example, "Source-Navigator support
 
 *See also*:
 
-.Enter
+[discrete]
+==== Enter
 [[enter-n]]
 *Description*: When referring to the keyboard key, use *Enter*. If referring to the keyboard key on Solaris, use *Return*.
 
@@ -24,7 +26,8 @@ If referring to the program, use "Emacs". For example, "Source-Navigator support
 
 *See also*: xref:return[return]
 
-.environment
+[discrete]
+==== environment
 [[environment]]
 *Description*: The state of a computer, usually determined by which programs are running and basic hardware and software characteristics. For example, when one speaks of running a program in a UNIX environment, it means running a program on a computer that has the UNIX operating system.
 
@@ -38,7 +41,8 @@ One ingredient of an environment, therefore, is the operating system. But operat
 
 *See also*: 
 
-.essentially
+[discrete]
+==== essentially
 [[essentially]]
 *Description*: Do not use. Meaningless clutter.
 
@@ -50,7 +54,8 @@ One ingredient of an environment, therefore, is the operating system. But operat
 
 *See also*: 
 
-.event
+[discrete]
+==== event
 [[event]]
 *Description*: An action or occurrence detected by a program. Events can be user actions, such as clicking a mouse button or pressing a key, or system occurrences, such as running out of memory. 
 
@@ -62,7 +67,8 @@ One ingredient of an environment, therefore, is the operating system. But operat
 
 *See also*:
 
-.examine
+[discrete]
+==== examine
 [[examine]]
 *Description*: Use instead of "look at".
 
@@ -74,7 +80,8 @@ One ingredient of an environment, therefore, is the operating system. But operat
 
 *See also*:
 
-.exclamation points (!)
+[discrete]
+==== exclamation points (!)
 [[exclamation-points]]
 *Description*: Do not use at the end of sentences. An exclamation point can be used when referring to a command, such as the bang (!) command. 
 
@@ -86,7 +93,8 @@ One ingredient of an environment, therefore, is the operating system. But operat
 
 *See also*:
 
-.Exec-Shield
+[discrete]
+==== Exec-Shield
 [[exec-shield]]
 *Description*: Exec-Shield is a security-enhancing modification to the Linux kernel that makes large parts of specially-marked programs including their stack not executable. 
 
@@ -98,7 +106,8 @@ One ingredient of an environment, therefore, is the operating system. But operat
 
 *See also*:
 
-.Exif
+[discrete]
+==== Exif
 [[exif]]
 *Description*: Correct. Do not use "EXIF". Exif is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF and RIFF files. Sometimes to referred to as "Exif Print".
 
@@ -110,7 +119,8 @@ One ingredient of an environment, therefore, is the operating system. But operat
 
 *See also*: 
 
-.extranet
+[discrete]
+==== extranet
 [[extranet]]
 *Description*: Refers to an intranet that is partially accessible to authorized outsiders. Whereas an intranet resides behind a firewall and is accessible only to people who are members of the same company or organization, an extranet provides various levels of accessibility to outsiders. You can access an extranet only if you have a valid user name and password, and your identity determines which parts of the extranet you can view.
 

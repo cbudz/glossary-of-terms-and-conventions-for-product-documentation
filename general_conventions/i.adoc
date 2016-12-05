@@ -1,6 +1,7 @@
-.⁠IaaS
+[discrete]
+==== IaaS
 [[iaas]]
-*Description*: Stands for "Infrastructure-as-a-Service."  In the spelled-out version of this, hyphens are always used.
+*Description*: Stands for "Infrastructure-as-a-Service." In the spelled-out version of this, hyphens are always used.
 
 *Use it*: yes
 
@@ -10,7 +11,8 @@
 
 *See also*:
 
-.IBM eServer System p
+[discrete]
+==== IBM eServer System p
 [[ibm-eserver-system-p]]
 *Description*: IBM eServer System p is correct for the first reference in a manual; use IBM System p or System p for subsequent references.
 
@@ -22,7 +24,8 @@
 
 *See also*:
 
-.⁠IBM z Systems
+[discrete]
+==== IBM z Systems
 [[ibm-z-systems]]
 *Description*: The name for the family of IBM mainframe computers.
 
@@ -34,7 +37,8 @@
 
 *See also*:
 
-.⁠InfiniBand
+[discrete]
+==== InfiniBand
 [[infiniband]]
 *Description*: InfiniBand is a switched fabric network topology used in high-performance computing. The term is both a service mark and a trademark of the InfiniBand Trade Association. Their rules for using the mark are standard ones: append the (TM) symbol the first time it is used and respect the capitalization (including the inter-capped "B") from then on. In ASCII-only circumstances, the "\(TM)" string is the acceptable alternative.
 
@@ -46,7 +50,8 @@
 
 *See also*:
 
-.⁠insecure
+[discrete]
+==== insecure
 [[insecure]]
 *Description*: Something that is unsafe.
 
@@ -58,7 +63,8 @@
 
 *See also*:
 
-.installation program
+[discrete]
+==== installation program
 [[installation-program]]
 *Description*: A program that installs certain software.
 
@@ -70,7 +76,8 @@
 
 *See also*:
 
-.Intel(R) Core(TM)
+[discrete]
+==== Intel(R) Core(TM)
 [[intel-coretm]]
 *Description*: Intel brand processors.
 
@@ -82,7 +89,8 @@
 
 *See also*:
 
-.⁠Intel(R) EP80579 Integrated Processor
+[discrete]
+==== Intel(R) EP80579 Integrated Processor
 [[intel-ep80579-integrated-processor]]
 *Description*: Use the official brand name "Intel(R) EP80579 Integrated Processor."
 
@@ -94,7 +102,8 @@
 
 *See also*:
 
-.⁠Intel Virtualization Technology (Intel VT)
+[discrete]
+==== Intel Virtualization Technology (Intel VT)
 [[intel-virtualization-technology]]
 *Description*: The first and all prominent uses of the name should be fully spelled out, immediately followed by the initialism. For example, "Intel Virtualization Technology (Intel VT) for Intel 64 or Itanium architecture (Intel VT-i)". Subsequent uses can be abbreviated to "Intel VT-i."
 
@@ -108,7 +117,8 @@ Always write the initialism in uppercase, accompanied by the "Intel" mark. Do no
 
 *See also*:
 
-.Intel(R) Xeon(R)
+[discrete]
+==== Intel(R) Xeon(R)
 [[intel-xeon]]
 *Description*: Intel brand processors.
 
@@ -120,7 +130,8 @@ Always write the initialism in uppercase, accompanied by the "Intel" mark. Do no
 
 *See also*:
 
-.⁠interesting
+[discrete]
+==== interesting
 [[interesting]]
 *Description*: Avoid using, as this is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note...", consider using a "Note" admonition.
 
@@ -132,7 +143,8 @@ Always write the initialism in uppercase, accompanied by the "Intel" mark. Do no
 
 *See also*:
 
-.⁠Internet of Things (IoT)
+[discrete]
+==== Internet of Things (IoT)
 [[internet-of-things]]
 *Description*: The Internet of Things (IoT) refers to uniquely identifiable objects and their virtual representations in an Internet-like structure. See the link:https://en.wikipedia.org/wiki/Internet_of_things[Internet of Things Wikipedia page] for more information.
 
@@ -146,7 +158,8 @@ Capitalize as shown, spell out on the first occurrence, and use the initialism t
 
 *See also*:
 
-.⁠I/O
+[discrete]
+==== I/O
 [[i-o]]
 *Description*: Stands for input/output (pronounced "eye-oh"). The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mice are input-only devices, while devices such as printers are output-only. A writable CD is both an input and an output device.
 
@@ -160,7 +173,8 @@ The term I/O is a non-countable noun, meaning that it cannot be expressed in plu
 
 *See also*:
 
-.⁠IOPS
+[discrete]
+==== IOPS
 [[iops]]
 *Description*: Stands for input/output operations per second. Use all caps as shown.
 
@@ -172,7 +186,8 @@ The term I/O is a non-countable noun, meaning that it cannot be expressed in plu
 
 *See also*:
 
-.⁠IP
+[discrete]
+==== IP
 [[ip]]
 *Description*: Stands for Internet Protocol. Capitalize both letters.
 
@@ -184,7 +199,8 @@ The term I/O is a non-countable noun, meaning that it cannot be expressed in plu
 
 *See also*:
 
-.IP Masquerade
+[discrete]
+==== IP Masquerade
 [[ip-masquerade]]
 *Description*: A Linux networking function. IP Masquerade, also called IPMASQ or MASQ, allows one or more computers in a network without assigned IP addresses to communicate with the Internet using the Linux server's assigned IP address. The IPMASQ server acts as a gateway, and the other devices are invisible behind it, so to other machines on the Internet the outgoing traffic appears to be coming from the IPMASQ server and not the internal PCs.
 
@@ -198,7 +214,8 @@ Because IPMASQ is a generic technology, the server can be connected to other com
 
 *See also*:
 
-.⁠IPsec
+[discrete]
+==== IPsec
 [[ipsec]]
 *Description*: IPsec stands for Internet Protocol security.
 
@@ -210,7 +227,8 @@ Because IPMASQ is a generic technology, the server can be connected to other com
 
 *See also*:
 
-.⁠IP switching
+[discrete]
+==== IP switching
 [[ip-switching]]
 *Description*: A type of IP routing developed by Ipsilon Networks, Inc. Unlike conventional routers, IP switching routers use ATM hardware to speed packets through networks. Although the technology is new, it appears to be considerably faster than older router techniques.
 
@@ -222,7 +240,8 @@ Because IPMASQ is a generic technology, the server can be connected to other com
 
 *See also*:
 
-.⁠ISV
+[discrete]
+==== ISV
 [[isv]]
 *Description*: Stands for independent software vendor, a company that produces software.
 
@@ -234,7 +253,8 @@ Because IPMASQ is a generic technology, the server can be connected to other com
 
 *See also*:
 
-.⁠IT, I.T.
+[discrete]
+==== IT, I.T.
 [[it]]
 *Description*: Stands for information technology. Use "I.T." (with periods) only in headlines or subheadings where all caps are used, in order to clarify that the word is "IT" vs. "it."
 
@@ -246,7 +266,8 @@ Because IPMASQ is a generic technology, the server can be connected to other com
 
 *See also*:
 
-.⁠Itanium
+[discrete]
+==== Itanium
 [[itanium]]
 *Description*: A member of Intel's Merced family of processors, Itanium is a 64-bit RISC microprocessor. Based on the EPIC (Explicitly Parallel Instruction Computing) design philosophy, which states that the compiler should decide which instructions be executed together, Itanium has the highest FPU power available.
 
@@ -262,7 +283,8 @@ Itanium's primary use is driving large applications that require more than 4 GB 
 
 *See also*:
 
-.⁠Itanium 2
+[discrete]
+==== Itanium 2
 [[itanium-2]]
 *Description*: Itanium 2 is correct. Do not use "Itanium2" without the space between Itanium and 2.
 
@@ -274,7 +296,8 @@ Itanium's primary use is driving large applications that require more than 4 GB 
 
 *See also*:
 
-.⁠ISeries
+[discrete]
+==== ISeries
 [[iseries]]
 *Description*: IBM eServer System i is correct for the first reference in a manual; use IBM System i or System i for subsequent references.
 

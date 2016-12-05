@@ -1,4 +1,5 @@
-.CapEx
+[discrete]
+==== CapEx
 [[cap-ex]]
 *Description*: Stands for "capital expenditures".
 
@@ -10,7 +11,8 @@
 
 *See also*:
 
-.cd
+[discrete]
+==== cd
 [[cd-command]]
 *Description*: The "change directory" command.
 
@@ -22,7 +24,8 @@
 
 *See also*: xref:compact-disk[CD]
 
-.CD
+[discrete]
+==== CD
 [[compact-disk]]
 *Description*: Stands for "compact disk".
 
@@ -34,7 +37,9 @@
 
 *See also*: xref:cd-command[cd], xref:cds[CDs]
 
-.CD #1
+[discrete]
+
+==== CD #1
 [[cd-one]]
 *Description*: When referring to a specific CD in the Red Hat Enterprise Linux CD set, it is correct to refer to it as "Red Hat Enterprise Linux CD #1". Avoid using "Red Hat Enterprise Linux CD 1".
 
@@ -46,7 +51,8 @@
 
 *See also*:
 
-.CD writer
+[discrete]
+==== CD writer
 [[cd-writer]]
 *Description*: A device that records data into the CD format.
 
@@ -58,8 +64,8 @@
 
 *See also*:
 
-
-.CDs
+[discrete]
+==== CD
 [[cds]]
 *Description*: The plural form of "CD". Use this to describe multiple compact disks.
 
@@ -71,7 +77,8 @@
 
 *See also*: xref:compact-disk[CD]
 
-.ceph
+[discrete]
+==== ceph
 [[ceph-command]]
 *Description*: Ceph is a unified, distributed storage system designed for performance, reliability and scalability. Use only when referring to the `ceph` command, and ensure the term is marked up properly.
 
@@ -84,7 +91,8 @@
 *See also*: xref:ceph[Ceph], xref:red-hat-ceph-storage[Red Hat Ceph Storage]
 
 
-.Ceph
+[discrete]
+==== Ceph
 [[ceph]]
 *Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH", because it is not an acronym. Use "ceph" only when referring to the `ceph` command, and ensure that the term is marked up properly.
 
@@ -96,7 +104,8 @@
 
 *See also*: xref:ceph-command[ceph], xref:red-hat-ceph-storage[Red Hat Ceph Storage]
 
-.cgroup
+[discrete]
+==== cgroup
 [[cgroup]]
 *Description*: This term is a contraction of "control group". Cgroups allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
 
@@ -108,7 +117,8 @@
 
 *See also*:
 
-.ciphertext
+[discrete]
+==== ciphertext
 [[ciphertext]]
 *Description*: In cryptography, ciphertext is the result of encryption performed on plain text using an algorithm, called a cipher.
 
@@ -120,7 +130,8 @@
 
 *See also*:
 
-.client side
+[discrete]
+==== client side
 [[client-side-noun]]
 *Description*: The client side in a client-server relationship. Use the two-word form as a noun. For example, "This happens on the client side of the relationship."
 
@@ -132,7 +143,8 @@
 
 *See also*: xref:client-side-adjective[client-side]
 
-.client-side
+[discrete]
+==== client-side
 [[client-side-adjective]]
 *Description*: Operations that are performed by the client in a client-server relationship. Use the one-word form as an adjective. For example, "This is a client-side service."
 
@@ -144,7 +156,8 @@
 
 *See also*: xref:client-side-noun[client-side-noun]
 
-.cloud
+[discrete]
+==== cloud
 [[cloud-adjective]]
 *Description*: Use a lowercase "c" when referring to cloud in a general sense.
 
@@ -156,7 +169,8 @@
 
 *See also*:
 
-.cloud
+[discrete]
+==== cloud
 [[cloud-noun]]
 *Description*: Use a lowercase "c" when referring to cloud computing in a general sense.
 
@@ -168,7 +182,8 @@
 
 *See also*:
 
-.cloudbursting
+[discrete]
+==== cloudbursting
 [[cloudbursting]]
 *Description*: The event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources.
 
@@ -180,7 +195,8 @@
 
 *See also*: 
 
-.cloudwashing
+[discrete]
+==== cloudwashing
 [[cloudwashing]]
 *Description*: The process of rebranding legacy products to include the term "cloud" to increase their appeal to the cloud market.
 
@@ -192,7 +208,8 @@
 
 *See also*:
 
-.cluster
+[discrete]
+==== cluster
 [[cluster]]
 *Description*: A collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later.
 
@@ -204,7 +221,8 @@
 
 *See also*:
 
-.code
+[discrete]
+==== code
 [[code]]
 *Description*: Programming statements and a set of instructions for a computer. The verb form is not to be used.
 
@@ -216,7 +234,8 @@
 
 *See also*:
 
-.comma-delimited
+[discrete]
+==== comma-delimited
 [[comma-delimited]]
 *Description*: A data format in which each piece of data is separated by a comma.
 
@@ -228,7 +247,8 @@
 
 *See also*:
 
-.comma-separated values
+[discrete]
+==== comma-separated values
 [[comma-separated-values]]
 *Description*: A set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
 
@@ -240,8 +260,8 @@
 
 *See also*: xref:csv[CSV]
 
-
-.command-driven
+[discrete]
+==== command-driven
 [[command-driven]]
 *Description*: Programs and operating systems that accept commands in the form of special words or letters.
 
@@ -253,7 +273,8 @@
 
 *See also*:
 
-.command language
+[discrete]
+==== command language
 [[command-language]]
 *Description*: The programming language through which a user communicates with an operating system or an application.
 
@@ -265,7 +286,8 @@
 
 *See also*:
 
-.connectivity
+[discrete]
+==== connectivity
 [[connectivity]]
 *Description*: The ability of a program or device to link with other programs and devices.
 
@@ -277,7 +299,8 @@
 
 *See also*:
 
-.container-based
+[discrete]
+==== container-based
 [[container-based]]
 *Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "containerized".
 
@@ -289,7 +312,8 @@
 
 *See also*: xref:containerized[containerized]
 
-.containerized
+[discrete]
+==== containerized
 [[containerized]]
 *Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "container-based".
 
@@ -301,7 +325,8 @@
 
 *See also*: xref:container-based[container-based]
 
-.control program
+[discrete]
+==== control program
 [[control-program]]
 *Description*: A program that enhances an operating system by creating an environment in which you can run other programs.
 
@@ -313,7 +338,8 @@
 
 *See also*:
 
-.convert
+[discrete]
+==== convert
 [[convert]]
 *Description*: To change data from one format to another.
 
@@ -325,7 +351,8 @@
 
 *See also*:
 
-.cooked
+[discrete]
+==== cooked
 [[cooked]]
 *Description*: Data that is processed before being passed to the I/O device. 
 
@@ -337,7 +364,8 @@
 
 *See also*: xref:raw[raw]
 
-.cookie
+[discrete]
+==== cookie
 [[cookie]]
 *Description*: A message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
 
@@ -349,7 +377,8 @@
 
 *See also*:
 
-.cross-platform
+[discrete]
+==== cross-platform
 [[cross-platform]]
 *Description*: The capability of software or hardware to run identically on different platforms.     
 
@@ -361,7 +390,8 @@
 
 *See also*:
 
-.cross-site scripting
+[discrete]
+==== cross-site scripting
 [[cross-site-scripting]]
 *Description*: Cross-site scripting attacks. Acceptable use is also "cross-site scripting (XSS) attack". 
 
@@ -373,7 +403,8 @@
 
 *See also*:
 
-.CSV
+[discrete]
+==== CSV
 [[csv]]
 *Description*: A set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
 
@@ -385,7 +416,8 @@
 
 *See also*: xref:comma-separated-values[comma-separated values]
 
-.Ctrl
+[discrete]
+==== Ctrl
 [[ctrl]]
 *Description*: The `Ctrl` key on a keyboard.
 
@@ -397,7 +429,8 @@
 
 *See also*:
 
-.Cygmon
+[discrete]
+==== Cygmon
 [[cygmon]]
 *Description*: A type of ROM monitor.
 
