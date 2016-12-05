@@ -37,6 +37,6 @@ All contributions are welcome, but reviewers may decline contributions that fall
 [[two-entries-with-same-anchor-tag]]
 What if two entries have the same anchor tag?::
  
-When creating anchor tags in accordance with the rules described in xref:template[], the resulting anchor tags may be the same as those for separate entries. For example, the "kernel space" and "kernel-space" entries, or the "kB" and "KB" entries would have the same anchor tag ("kernel-space" and "kb"). If the anchor tags are not unique, however, it will cause an error in the document. 
+When creating anchor tags in accordance with the rules described in xref:template[], the resulting anchor tags might be the same as those for separate entries. For example, the "kernel space" and "kernel-space" entries, or the "kB" and "KB" entries would have the same anchor tag ("kernel-space" and "kb"). If the anchor tags are not unique, however, it will cause an error in the document. 
 +
 To avoid this issue, use different anchor tags. For example, use "kernel-space-n" for the "kernel space" entry and "kernel-space-ad" for the "kernel-space" entry. Similarly, use "kb" for the "kB" entry and "KB" for the "KB" entry. Raise an issue if in doubt.
