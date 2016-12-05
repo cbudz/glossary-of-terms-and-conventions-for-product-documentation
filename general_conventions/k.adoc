@@ -5,7 +5,7 @@
 
 *Use it*: yes
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*:
 
@@ -18,24 +18,11 @@
 
 *Use it*: yes
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*:
 
 *See also*: xref:KB[KB]
-
-[discrete]
-==== kbps
-[[kbps]]
-*Description*: Initialism for kilobits per second, or 1000 bits per second.
-
-*Use it*: yes
-
-*Class*:
-
-*Incorrect forms*:
-
-*See also*:
 
 [discrete]
 ==== kerberize
@@ -72,7 +59,7 @@
 
 *Class*: noun
 
-*Incorrect forms*:
+*Incorrect forms*: Kernel
 
 *See also*: xref:kernel-panic[kernel panic], xref:kernel-space-n[kernel space], xref:kernel-space-ad[kernel-space] 
 
@@ -201,7 +188,7 @@
 
 *Use it*: yes
 
-*Class*:
+*Class*: noun
 
 *Incorrect forms*: kvm
 
