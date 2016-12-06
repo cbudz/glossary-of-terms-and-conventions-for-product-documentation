@@ -7,7 +7,7 @@ Responsible person: Tahlia Richardson (trichard@redhat.com)
 [[administration-portal]]
 *Description*: The Administration Portal is a graphical user interface provided by the Red Hat (Enterprise) Virtualization Manager. It can be used to manage all the administrative resources in the environment and can be accessed by any supported web browser.
 
-Always use "Administration Portal", including the capital P. When other departments (or upstream) say "webadmin" or "Administrator portal", this is what they are referring to. 
+Always use "Administration Portal", including the capital P. When other departments (or upstream) use "webadmin" or "Administrator portal", this is what they are referring to. 
 
 *Use it*: yes
 
@@ -35,7 +35,9 @@ Refer to the menus within the interface as tabs and sub-tabs.
 [discrete]
 ==== Data Warehouse
 [[data-warehouse]]
-*Description*: TODO
+*Description*: The Manager includes a comprehensive management history database, which can be utilized by any application to extract a range of information at the data center, cluster, and host levels. Installing Data Warehouse creates the `ovirt_engine_history` database, to which the Manager is configured to log information for reporting purposes.
+
+Data Warehouse is optional in Red Hat Enterprise Virtualization (3.x). In Red Hat Virtualization (4.x), it is mandatory.
 
 Always spell out in full and capitalize as shown here, unless part of a command. Use "Data Warehouse", not "the Data Warehouse".
 
@@ -112,7 +114,7 @@ Always use "QCOW2", with the exception of UI content.
 [discrete]
 ==== RAW
 [[raw]]
-*Description*: TODO
+*Description*: A preallocated (RAW) virtual disk allocates all the storage required for a virtual machine up front (thick provisioning).
 
 Always capitalize as shown, with the exception of UI content.
 
@@ -189,7 +191,9 @@ Use "Red Hat Enterprise Virtualization Manager" for version 3.x. Always spell ou
 [discrete]
 ==== Red Hat Enterprise Virtualization Manager Reports
 [[red-hat-enterprise-virtualization-manager-reports]]
-*Description*: TODO This component was removed in Red Hat Virtualization 4.0. 
+*Description*: Red Hat Enterprise Virtualization Manager Reports is available as an optional component. It produces reports that can be built and accessed via a web user interface, and then rendered to screen, printed, or exported to a variety of formats.
+
+This component was removed from Red Hat Virtualization (4.x), but still exists in Red Hat Enterprise Virtualization (3.x). 
 
 Spell out in full for the first instance in a section, and use "Reports" (always with a capital R) for subsequent instances. 
 
