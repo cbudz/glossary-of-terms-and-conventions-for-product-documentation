@@ -51,7 +51,7 @@ Always spell out in full and capitalize as shown here, unless part of a command.
 
 [discrete]
 ==== host
-[[host]]
+[[host-rhv]]
 *Description*: Hosts are servers that provide the processing capabilities and memory resources used to run virtual machines. There are two types of hosts: Red Hat Enterprise Linux hosts, and Red Hat Enterprise Virtualization Hypervisor (in version 3.x) or Red Hat Virtualization Host (in version 4.x).
 
 In 3.x, one host type has "Hypervisor" in its title, so avoid using "hypervisor" to mean either RHEV-H or hypervisors/hosts in general. In 4.x, one host type has "Host" in its title, but the UI and API also use "host" to mean hypervisors/hosts in general. Therefore, use "host" to refer to hosts in general, not "hypervisor", "hypervisor host", or "virtualization host".
@@ -69,13 +69,13 @@ When referring to a specific type of host, use "Red Hat Enterprise Linux host", 
 [discrete]
 ==== LUN
 [[lun]]
-*Description*: A LUN (logical unit number), is a number used to identify a logical unit, which is a device addressed by the SCSI protocol, or Storage Area Network protocols which encapsulate SCSI, such as Fibre Channel or iSCSI.
+*Description*: A LUN (logical unit number) is a number used to identify a logical unit, which is a device addressed by the SCSI protocol, or Storage Area Network protocols which encapsulate SCSI, such as Fibre Channel or iSCSI.
 
 Always capitalize as shown, with the exception of UI content.
 
 *Use it*: yes
 
-*Class*: acronym
+*Class*: noun
 
 *Incorrect forms*: Lun, lun
 
@@ -90,39 +90,9 @@ Use "Memory Overcommitment Manager (MOM)" for the first instance in a section, a
 
 *Use it*: yes
 
-*Class*: acronym
+*Class*: noun
 
 *Incorrect forms*: MoM, Mom, mom
-
-*See also*:
-
-[discrete]
-==== QCOW2
-[[qcow2]]
-*Description*: QEMU Copy On Write version 2 is a disk image file format that uses a disk storage optimization strategy that delays allocation of storage until it is actually needed (thin provisioning).
-
-Always use "QCOW2", with the exception of UI content.
-
-*Use it*: yes
-
-*Class*: acronym
-
-*Incorrect forms*: QCOW 2, QCow2, Qcow2, qcow2
-
-*See also*:
-
-[discrete]
-==== RAW
-[[raw]]
-*Description*: A preallocated (RAW) virtual disk allocates all the storage required for a virtual machine up front (thick provisioning).
-
-Always capitalize as shown, with the exception of UI content.
-
-*Use it*: yes
-
-*Class*: acronym
-
-*Incorrect forms*: Raw, raw
 
 *See also*:
 
@@ -289,7 +259,7 @@ Always capitalize as shown, except in commands, packages, or UI content.
 
 *Use it*: yes
 
-*Class*: acronym
+*Class*: noun
 
 *Incorrect forms*: Spice, spice
 
@@ -349,7 +319,7 @@ Always use as shown here, with the exception of UI content.
 
 *Use it*: yes
 
-*Class*: acronym
+*Class*: noun
 
 *Incorrect forms*: VCPU, vcpu
 
@@ -364,7 +334,7 @@ Always use as shown here, with the exception of UI content.
 
 *Use it*: yes
 
-*Class*: acronym
+*Class*: noun
 
 *Incorrect forms*: VNIC, vnic
 
