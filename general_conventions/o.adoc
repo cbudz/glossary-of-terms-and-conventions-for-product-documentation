@@ -61,6 +61,16 @@
 
 *See also*: xref:<another-anchor-tag>[<another-term>]
 
+.omit
+[[omit]]
+*Description*: Use instead of 'leave out' and other terms meaning the same thing.
+
+*Use it*: yes
+
+*Incorrect forms*: leave out
+
+*Class*: verb
+
 .on-board (adj.), onboard (v.)
 [[on-board,onboard]]
 *Description*: Always hyphenate when used as an adjective. The term "on board" is also valid, for example, "They are on board with the idea," but try to reword to avoid it. 
