@@ -99,7 +99,7 @@ Use "Memory Overcommitment Manager (MOM)" for the first instance in a section, a
 [discrete]
 ==== Red Hat Enterprise Linux host
 [[red-hat-enterprise-linux-host]]
-*Description*: Red Hat Enterprise Linux hosts subscribed to the appropriate entitlements can be used as hosts in both Red Hat Enterprise Virtualization (version 3.x) and Red Hat Virtualization (version 4.x). 
+*Description*: Red Hat Enterprise Linux servers subscribed to the appropriate entitlements can be used as hosts in both Red Hat Enterprise Virtualization (version 3.x) and Red Hat Virtualization (version 4.x). 
 
 Always spell out in full. Do not capitalize "host". 
 
