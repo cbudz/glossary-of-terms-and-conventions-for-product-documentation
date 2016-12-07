@@ -11,7 +11,7 @@
 
 [discrete]
 ==== needs, needs to be, need to
-[[needs, needs to be, need to]]
+[[needs]]
 
 *Description*: Avoid using any of them. Suggested alternatives are "must", "required", "should".
 
@@ -31,7 +31,7 @@
 
 [discrete]
 ==== ".NET"
-[[.NET]]
+[[NET]]
 
 *Description*: The Microsoft .NET Framework is a software framework for Microsoft Windows operating systems. It includes a large library, and supports several programming languages.
     "Microsoft .NET" is correct for the first reference, and ".NET" for all following references. 
@@ -44,7 +44,7 @@
 
 [discrete]
 ====  ⁠network transparency
-[[⁠network transparency]]
+[[network-transparency]]
 
 *Description*: A condition in which an operating system or other service allows the user access to a remote resource through a network without needing to know if the resource is remote or local. For example, Sun Microsystems" NFS, which has become a de facto industry standard, provides access to shared files through an interface called the Virtual File System (VFS) that runs on top of the TCP/IP stack. Users can manipulate shared files as if they were stored locally on the user's own hard disk. 
 
@@ -88,7 +88,7 @@
 
 [discrete]
 ==== NULL or null
-[[NULL,null]]
+[[NULL]]
 
 *Description*: When a command or value is stated, use NULL. When stating that something is null, use "null", all lowercase. 
 *Use it*: with caution
