@@ -3,13 +3,11 @@
 [[need]]
 *Description*: Use "need" instead of "desire" and "wish." Use "want" when the reader's actions are optional (that is, they may not "need" something but may still "want" something). 
 
-*Use it*: <yes>
+*Use it*: yes
 
-*Class*: <class>
+*Class*: class
 
 *Incorrect forms*: desire, wish
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
 
 [discrete]
 ==== needs, needs to be, need to
@@ -29,8 +27,6 @@
 
 *Incorrect forms*: neighbour
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 [discrete]
 ==== ".NET"
 [[.NET]]
@@ -42,8 +38,6 @@
 *Class*: Noun
 
 *Incorrect forms*: ".Net", ".net"
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
 
 [discrete]
 ====  ⁠network transparency
