@@ -13,7 +13,20 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: 
+
+[discrete]
+==== BlueStore
+[[bluestore]]
+*Description*: BlueStore is an implementation of a generic OSD interface called Object Store. BlueStore does not store data as files on a file system, but utilizes block devices directly.
+ 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: bluestore
+
+*See also*: xref:filestore[FileStore], xref:object-store[Object Store]
 
 [discrete]
 ==== Ceph
@@ -94,10 +107,23 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 *See also*: 
 
 [discrete]
+==== ceph-ansible
+[[ceph-ansible]]
+*Description*: `ceph-ansible` is a utility that provides Ansible playbooks for installing, managing, and upgrading the Ceph Storage Cluster. Always mark it properly (`ceph-ansible`).
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Ceph Ansible
+
+*See also*: 
+
+[discrete]
 ==== ceph-mds
 [[ceph-mds]]
 
-*Description*: `ceph-mds` is the metadata server daemon. One or more instances of `ceph-mds` collectively manage the file system namespace, coordinating access to the shared OSD cluster. Always mark it properly.
+*Description*: `ceph-mds` is the metadata server daemon. One or more instances of `ceph-mds` collectively manage the file system namespace, coordinating access to the shared OSD cluster. Always mark it properly (`ceph-mds`)
 
 *Use it*: yes
 
@@ -111,7 +137,7 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 ==== ceph-mon
 [[ceph-mon]]
 
-*Description*: `ceph-mon` is the Ceph Monitor daemon. Always mark it properly.
+*Description*: `ceph-mon` is the Ceph Monitor daemon. Always mark it properly (`ceph-mon`).
 
 *Use it*: yes
 
@@ -125,7 +151,7 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 ==== ceph-osd
 [[ceph-osd]]
 
-*Description*: `ceph-osd` is the Ceph object storage daemon that is responsible for storing objects on local file system and providing access to them over network. Always mark it properly.
+*Description*: `ceph-osd` is the Ceph object storage daemon that is responsible for storing objects on local file system and providing access to them over network. Always mark it properly (`ceph-osd`).
 
 *Use it*: yes
 
@@ -173,6 +199,20 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 *Incorrect forms*: crush map, crushmap
 
 *See also*: xref:crush[CRUSH]
+
+[discrete]
+==== FileStore
+[[filestore]]
+*Description*: FileStore is an implementation of a generic OSD interface called Object Store. FileStore is responsible for the OSD data that writes objects as files on a file system. TODO: Is that correct?
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: filestore
+
+*See also*: xref:bluestore[BlueStore], xref:object-store[Object Store]
+
 
 [discrete]
 ==== librados
