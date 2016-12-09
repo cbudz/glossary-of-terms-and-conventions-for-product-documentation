@@ -1,0 +1,195 @@
+[discrete]
+==== KB
+[[KB]]
+*Description*: KB is the initialism of kilobyte, equal to 1024 bytes. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:kB[kB]
+
+[discrete]
+==== kB
+[[kB]]
+*Description*: kB is the initialism of kilobyte, equal to 1000 bytes. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:KB[KB]
+
+[discrete]
+==== kerberize
+[[kerberize]]
+*Description*: Do not use "kerberize" or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled," or rewrite the sentence.
+
+*Use it*: no
+
+*Class*: verb
+
+*Incorrect forms*:
+
+*See also*: xref:kerberized[kerberized]
+
+[discrete]
+==== kerberized
+[[kerberized]]
+*Description*: Do not use "kerberized" or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled," or rewrite the sentence.
+
+*Use it*: no
+
+*Class*: adjective
+
+*Incorrect forms*:
+
+*See also*: xref:kerberize[kerberize]
+
+[discrete]
+==== kernel
+[[kernel]]
+*Description*: The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management. Do not capitalize the first letter.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: Kernel
+
+*See also*: xref:kernel-panic[kernel panic], xref:kernel-space-n[kernel space], xref:kernel-space-ad[kernel-space] 
+
+[discrete]
+==== Kernel-based Virtual Machine
+[[kernel-based-virtual-machine]]
+*Description*: Kernel-based Virtual Machine is a loadable kernel module that converts the Linux kernel into a bare metal hypervisor. Spell out on first use, capitalized. Use the initialism KVM thereafter. It is an industry standard, and a proper noun. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:kvm[KVM]
+
+[discrete]
+==== kernel oops
+[[kernel-oops]]
+*Description*: An error in the Linux kernel.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:kernel[kernel], xref:kernel-panic[kernel panic]
+
+
+[discrete]
+==== kernel panic
+[[kernel-panic]]
+*Description*: Numerous circumstances can cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:kernel[kernel], xref:kernel-oops[kernel-oops]
+
+[discrete]
+==== kernel space
+[[kernel-space-n]]
+*Description*: Kernel space is the part of the system memory where the kernel executes and provides its services.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: kernelspace
+
+*See also*: xref:kernel[kernel], xref:kernel-space-ad[kernel-space]
+
+[discrete]
+==== kernel-space
+[[kernel-space-ad]]
+*Description*: Kernel space is that part of the system memory where the kernel executes and provides its services. When used as modifier, use the hyphenated form "kernel-space". Do not use "kernelspace"
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: kernelspace
+
+*See also*: xref:kernel[kernel], xref:kernel-space-n[kernel space]
+
+[discrete]
+==== Kickstart
+[[kickstart]]
+*Description*: A network installation system for some Linux distributions. Always capitalize the first letter.
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: kickstart
+
+*See also*:
+
+[discrete]
+==== kill
+[[kill]]
+*Description*: If terminating a UNIX process, use "kill". For example, to terminate the process, type `kill -9 <PID>`. 
+
+*Use it*: yes
+
+*Class*: verb
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== knowledge base
+[[knowledge-base]]
+*Description*: Use the two-word form unless referring specifically to the "Red Hat Knowledgebase."
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: knowledgebase
+
+*See also*: xref:knowledgebase[Knowledgebase]
+
+[discrete]
+==== Knowledgebase
+[[knowledgebase]]
+*Description*: https://access.redhat.com/search/#/knowledgebase[Red Hat Knowledgebase] includes solutions and articles written mainly by GSS support engineers. Proper spelling is "Knowledgebase" not "KnowledgeBase".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: KnowledgeBase
+
+*See also*: xref:knowledge-base[knowledge base]
+
+[discrete]
+==== KVM
+[[kvm]]
+*Description*: Initialism for Kernel-based Virtual Machine. Do not use "kvm".
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: kvm
+
+*See also*: xref:kernel-based-virtual-machine[Kernel-based Virtual Machine]
