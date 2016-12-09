@@ -37,15 +37,15 @@ Refer to the menus within the interface as tabs and sub-tabs.
 [[data-warehouse]]
 *Description*: The Manager includes a comprehensive management history database, which can be utilized by any application to extract a range of information at the data center, cluster, and host levels. Installing Data Warehouse creates the `ovirt_engine_history` database, to which the Manager is configured to log information for reporting purposes.
 
-Data Warehouse is optional in Red Hat Enterprise Virtualization (3.x). In Red Hat Virtualization (4.x), it is mandatory.
+Data Warehouse is optional in Red Hat Enterprise Virtualization (3.x). It is mandatory in Red Hat Virtualization (4.x).
 
-Always spell out in full and capitalize as shown here, unless part of a command. Use "Data Warehouse", not "the Data Warehouse".
+Always spell out in full and capitalize as shown here, unless part of a command. Use "Data Warehouse", not "the Data Warehouse", unless referring to "the Data Warehouse package", "the Data Warehouse service", etc.
 
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: DWH, data warehouse, the Data Warehouse, Dataware House
+*Incorrect forms*: DWH, data warehouse, Dataware House
 
 *See also*: 
 
