@@ -1,14 +1,13 @@
 .zip
 [[zip]]
-*Description*: See the Word Usage appendix of The IBM Style Guide.
+*Description*: See the Word Usage appendix of _The IBM Style Guide_.
 
-*Use it*: <yes/no/with caution>
+*Use it*: <yes/no/with caution>?
 
 *Class*: verb
 
-*Incorrect forms*: <incorrect-form>
+*Incorrect forms*: <incorrect-form>?
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
 
 .zSeries
 [[z-series]]
@@ -18,6 +17,4 @@
 
 *Class*: noun
 
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
+*Incorrect forms*: S/390x, s390x, IBM zSeries, zSeries
