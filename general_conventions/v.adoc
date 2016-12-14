@@ -2,7 +2,7 @@
 [[var]]
 *Description*: Acronym for value-added reseller. Same as OEM (original equipment manufacturer).
 
-*Use it*: <yes/no/with caution>
+*Use it*: yes
 
 *Class*: noun
 
@@ -14,13 +14,11 @@
 [[vdsm]]
 *Description*: Initialism for Virtual Desktop Server Management. DO NOT spell out this initialism. Using the term "virtual desktop" in this context has negative marketing implications. Use VDSM without expansion.
 
-*Use it*: with caution
+*Use it*: yes
 
 *Class*: noun
 
 *Incorrect forms*: Virtual Desktop Server Management
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
 
 .vi
 [[vi]]
@@ -32,8 +30,6 @@
 
 *Incorrect forms*: VI
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .Vim
 [[vim]]
 *Description*: Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIX-based operating systems in 1992.) Despite being an acronym, and despite the first word of the "About" text that is displayed when you launch the editor, the standard, proper noun-derived, mixed-case spelling has been in use since its release on the Amiga.
@@ -44,8 +40,6 @@
 
 *Incorrect forms*: VIM, vim
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .video mode
 [[video-mode]]
 *Description*: The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
@@ -55,7 +49,6 @@
 *Class*: noun
 
 *Incorrect forms*: video-mode, videomode
-
 
 .⁠virtual console
 [[virtual-console]]
@@ -76,9 +69,7 @@ Can be abbreviated to "VM" as long as the term has been introduced in the same c
 
 *Class*: noun
 
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
+*Incorrect forms*: Use "VM" with caution (see above)
 
 .virtualized guest
 [[virtualized-guest]]
@@ -98,8 +89,6 @@ Can be abbreviated to "VM" as long as the term has been introduced in the same c
 
 *Class*: noun
 
-*Incorrect forms*: <incorrect-form>
-
 .⁠VNIC
 [[vnic]]
 *Description*: Abbreviation for virtual network interface card. Use all uppercase characters for the abbreviation, but all lowercase for the expansion, except at the beginning of a sentence.
@@ -108,7 +97,7 @@ Can be abbreviated to "VM" as long as the term has been introduced in the same c
 
 *Class*: noun
 
-*Incorrect forms*: <incorrect-form>
+*Incorrect forms*: vnic, Virtual Network Interface Card 
 
 .VPN
 [[vpn]]
@@ -118,4 +107,4 @@ Can be abbreviated to "VM" as long as the term has been introduced in the same c
 
 *Class*: noun
 
-*Incorrect forms*: <incorrect-form>
+*Incorrect forms*: vpn
