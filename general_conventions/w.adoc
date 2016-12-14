@@ -9,8 +9,6 @@ Computers connected to a wide-area network are often connected through public ne
 
 *Incorrect forms*: wan
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .WCA
 [[wca]]
 *Description*: Acronym for web clipping application, which is an application that allows users to extract static information from a web server and load that data onto a web-enabled PDA.
@@ -22,8 +20,6 @@ WCAs are also called "query applications."
 
 *Incorrect forms*: wca
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .want
 [[<anchor-tag>]]
 *Description*: Use instead of "wish" or "would like." Better to avoid it entirely by rewriting. For example, "If you want to use the debugger..." can be rewritten as "To use the debugger..."
@@ -32,10 +28,6 @@ WCAs are also called "query applications."
 
 *Class*: verb
 
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .we suggest
 [[we-suggest]]
 *Description*: Do not use. Use a more direct construction, or use "recommend." For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk," or "It is recommended that you back up your data disk."
@@ -43,10 +35,6 @@ WCAs are also called "query applications."
 *Use it*: no
 
 *Class*: phrase
-
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
 
 .web UI
 [[web-ui]]
@@ -58,8 +46,6 @@ WCAs are also called "query applications."
 
 *Incorrect forms*: web-UI, webUI
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .who/whom
 [[who-whom]]
 *Description*: Use the pronoun "who" as a subject. Use the pronoun "whom" as a direct object, an indirect object, or the object of a preposition.
@@ -69,10 +55,6 @@ For example: Who owns this? To whom does this belong?
 
 *Class*: pronoun
 
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .will
 [[will]]
 *Description*: Do not use future tense unless it is absolutely necessary. For example, do not write "The next section will describe the process in detail." Instead, write "The next section describes the process in detail."
@@ -81,10 +63,6 @@ For example: Who owns this? To whom does this belong?
 
 *Class*: verb
 
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .wish
 [[wish]]
 *Description*: Use "want" instead of "wish" or "would like." Better to avoid it entirely by rewriting. For example, "If you wish to use the debugger..." can be rewritten as "To use the debugger..."
@@ -92,8 +70,6 @@ For example: Who owns this? To whom does this belong?
 *Use it*: no
 
 *Class*: verb
-
-*Incorrect forms*: <incorrect-form>
 
 *See also*: xref:<want>[want]
 
