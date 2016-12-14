@@ -71,7 +71,7 @@ For example: Who owns this? To whom does this belong?
 
 *Class*: verb
 
-*See also*: xref:<want>[want]
+*See also*: xref:want[want]
 
 .Window Maker
 [[window-maker]]
