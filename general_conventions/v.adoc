@@ -79,7 +79,7 @@ Can be abbreviated to "VM" as long as the term has been introduced in the same c
 
 *Class*: noun
 
-*See also*: xref:<guest-operating-system>[guest operating system]
+*See also*: xref:guest-operating-system[guest operating system]
 
 .virtual router
 [[virtual-router]]
