@@ -6,9 +6,9 @@
 
 *Class*: noun
 
-*Incorrect forms*: <incorrect-form>
+*Incorrect forms*: X (when referring to XEmacs only)
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
+*See also*: xref:xemacs[XEmacs]
 
 .XEmacs
 [[xemacs]]
@@ -20,8 +20,6 @@
 
 *Incorrect forms*: Xemacs
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .Xen
 [[xen]]
 *Description*: Use where it accurately refers to the original Xen version of the package. If the Xen package we distribute is for all practical purposes the same as the upstream code, we can refer to the package we distribute as "Xen" in a referential way.
@@ -30,11 +28,7 @@ The Xen Trademark Policy is available at http://www.xenproject.org/trademark-pol
 
 *Use it*: with caution
 
-*Class*: <class>
-
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
+*Class*: adjective
 
 .xterm
 [[xterm]]
@@ -42,7 +36,7 @@ The Xen Trademark Policy is available at http://www.xenproject.org/trademark-pol
 
 *Use it*: yes
 
-*Class*: <class>
+*Class*: noun
 
 *Incorrect forms*: Xterm
 
@@ -54,18 +48,16 @@ The Xen Trademark Policy is available at http://www.xenproject.org/trademark-pol
 
 *Class*: noun
 
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<x-window-system>[X Window System]
+*See also*: xref:x-window-system[X Window System]
 
 .X Window System
 [[x-window-system]]
-*Description*: Also referred to as X. When making multiple references to the X Window System, the complete reference must appear first, with shortened references following. For example, "Reinstalling the X Window System, or X, is not necessary if... To start an X session, from the shell prompt..."
+*Description*: Also referred to as X. When making multiple references to the X Window System, on first mention spell out, with shortened references following. For example, "Reinstalling the X Window System (X) is not necessary if... To start an X session, from the shell prompt..."
 
 *Use it*: yes
 
-*Class*: <class>
+*Class*: noun
 
-*Incorrect forms*: <incorrect-form>
+*Incorrect forms*: X (on first reference; see above)
 
-*See also*: xref:<x>[<X>]
+*See also*: xref:x[X]
