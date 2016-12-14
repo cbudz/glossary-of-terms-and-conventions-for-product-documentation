@@ -8,8 +8,6 @@
 
 *Incorrect forms*: yaml
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
 .you
 [[you]]
 *Description*: Correct. Do not use "I," "he," or "she."
@@ -18,6 +16,4 @@
 
 *Class*: noun
 
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
+*Incorrect forms*: I, he, she
