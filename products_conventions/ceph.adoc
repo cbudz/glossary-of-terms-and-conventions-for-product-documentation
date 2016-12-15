@@ -18,15 +18,15 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 [discrete]
 ==== BlueStore
 [[bluestore]]
-*Description*: BlueStore is an implementation of a generic OSD interface called Object Store. BlueStore does not store data as files on a file system, but utilizes block devices directly.
+*Description*: BlueStore is an OSD back end that utilizes block devices directly.
  
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: bluestore
+*Incorrect forms*: bluestore, Blue Store
 
-*See also*: xref:filestore[FileStore], xref:object-store[Object Store]
+*See also*: xref:filestore[FileStore], xref:objectstore[ObjectStore]
 
 [discrete]
 ==== Ceph
@@ -57,7 +57,7 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 [discrete]
 ==== Ceph Block Device
 [[ceph-block-device]]
-*Description*: The block storage component of Ceph. Also, known as the RADOS Block Device, however prefer using the Ceph Block Device.
+*Description*: The block storage component of Ceph. Also known as the RADOS Block Device, however prefer using the Ceph Block Device.
 
 *Use it*: yes
 
@@ -203,15 +203,15 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 [discrete]
 ==== FileStore
 [[filestore]]
-*Description*: FileStore is an implementation of a generic OSD interface called Object Store. FileStore is responsible for the OSD data that writes objects as files on a file system. TODO: Is that correct?
+*Description*: FileStore is OSD back end. FileStore is responsible for the OSD data and writes objects as files on a file system.
 
 *Use it*: yes
 
 *Class*: noun
 
-*Incorrect forms*: filestore
+*Incorrect forms*: filestore, File Store
 
-*See also*: xref:bluestore[BlueStore], xref:object-store[Object Store]
+*See also*: xref:bluestore[BlueStore] 
 
 
 [discrete]
@@ -276,7 +276,7 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 
 *Class*: noun
 
-*Incorrect forms*: object store
+*Incorrect forms*:
 
 *See also*: xref:rados[RADOS]
 
@@ -348,7 +348,7 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 [discrete]
 ==== RADOS Block Device
 [[rados-block-device]]
-*Description*: The block storage component of Ceph. Also, known as the Ceph Block Device, which is the preferred form. Use RADOS Block Device only when expanding the RBD acronym.
+*Description*: The block storage component of Ceph. Also known as the Ceph Block Device, which is the preferred form. Use RADOS Block Device only when expanding the RBD acronym.
 
 *Use it*: with caution
 
