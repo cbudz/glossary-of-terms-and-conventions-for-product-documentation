@@ -12,19 +12,6 @@
 *See also*:
 
 [discrete]
-==== plus symbol (+)
-[[plus-symbol]]
-*Description*: Plus symbols can be used in design elements and graphics when space is limited, and when either referring to or quoting third-party content that uses them. Do not use in original body copy. 
-
-*Use it*: with caution
-
-*Class*: symbol
-
-*Incorrect forms*: 
-
-*See also*:
-
-[discrete]
 ==== air gap
 [[air-gap]]
 *Description*: The physical segregation and isolation of a system as a security measure.
