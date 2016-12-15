@@ -203,7 +203,7 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 [discrete]
 ==== FileStore
 [[filestore]]
-*Description*: FileStore is OSD back end. FileStore is responsible for the OSD data and writes objects as files on a file system.
+*Description*: FileStore is an OSD back end responsible for the OSD data that writes objects as files on a file system.
 
 *Use it*: yes
 
