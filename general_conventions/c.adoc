@@ -18,7 +18,7 @@
 
 *Use it*: yes
 
-*Class*: command
+*Class*: noun
 
 *Incorrect forms*: CD
 
@@ -84,7 +84,7 @@
 
 *Use it*: yes
 
-*Class*: command
+*Class*: noun
 
 *Incorrect forms*: CEPH, Ceph
 
@@ -132,7 +132,7 @@
 
 [discrete]
 ==== client side
-[[client-side-noun]]
+[[client-side-n]]
 *Description*: The client side in a client-server relationship. Use the two-word form as a noun. For example, "This happens on the client side of the relationship."
 
 *Use it*: yes
@@ -141,11 +141,11 @@
 
 *Incorrect forms*: client-side
 
-*See also*: xref:client-side-adjective[client-side]
+*See also*: xref:client-side-adj[client-side]
 
 [discrete]
 ==== client-side
-[[client-side-adjective]]
+[[client-side-adj]]
 *Description*: Operations that are performed by the client in a client-server relationship. Use the one-word form as an adjective. For example, "This is a client-side service."
 
 *Use it*: yes
@@ -154,11 +154,11 @@
 
 *Incorrect forms*: client side
 
-*See also*: xref:client-side-noun[client-side-noun]
+*See also*: xref:client-side-n[client side]
 
 [discrete]
 ==== cloud
-[[cloud-adjective]]
+[[cloud-adj]]
 *Description*: Use a lowercase "c" when referring to cloud in a general sense.
 
 *Use it*: yes
@@ -171,7 +171,7 @@
 
 [discrete]
 ==== cloud
-[[cloud-noun]]
+[[cloud-n]]
 *Description*: Use a lowercase "c" when referring to cloud computing in a general sense.
 
 *Use it*: yes
@@ -241,7 +241,7 @@
 
 *Use it*: yes
 
-*Class*: compound adjective
+*Class*: adjective
 
 *Incorrect forms*: comma delimited, commadelimited
 
@@ -267,7 +267,7 @@
 
 *Use it*: yes
 
-*Class*: compound adjective
+*Class*: adjective
 
 *Incorrect forms*: command driven, commanddriven
 
@@ -306,7 +306,7 @@
 
 *Use it*: yes
 
-*Class*: compound adjective
+*Class*: adjective
 
 *Incorrect forms*: container based
 
@@ -384,7 +384,7 @@
 
 *Use it*: yes
 
-*Class*: compound adjective
+*Class*: adjective
 
 *Incorrect forms*: crossplatform, cross platform
 
@@ -397,7 +397,7 @@
 
 *Use it*: yes
 
-*Class*: compound adjective
+*Class*: adjective
 
 *Incorrect forms*: cross site scripting
 
@@ -423,7 +423,7 @@
 
 *Use it*: yes
 
-*Class*: keystroke
+*Class*: noun
 
 *Incorrect forms*: control key, ctrl
 
