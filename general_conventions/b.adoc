@@ -35,11 +35,11 @@
 
 *Incorrect forms*: baremetal, bare-metal
 
-*See also*: xref:bare-metal-a[bare-metal]
+*See also*: xref:bare-metal-adj[bare-metal]
 
 [discrete]
 ==== bare-metal
-[[bare-metal-a]]
+[[bare-metal-adj]]
 *Description*: Physical hardware as opposed to virtual hardware. Use the hyphenated form as an adjective: "Bare-metal servers."
 
 *Use it*: yes
@@ -105,7 +105,7 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Class*: noun
 
-*Incorrect forms*: bimodal IT
+*Incorrect forms*:
 
 *See also*:
 
@@ -155,7 +155,7 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Use it*: yes
 
-*Class*: abbreviation
+*Class*: noun
 
 *Incorrect forms*: Bios
 
@@ -216,11 +216,11 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 [discrete]
 ==== bpp
 [[bpp]]
-*Description*: Initialism for bits per pixel. All letters are lowercase, unless at the beginning of a sentence. Use a non-breaking space between the numeral and the units. For example, "16 bpp", not "16bpp".   
+*Description*: Bits per pixel. All letters are lowercase, unless at the beginning of a sentence. Use a non-breaking space between the numeral and the units. For example, "16 bpp", not "16bpp".   
 
 *Use it*: yes
 
-*Class*: initialism
+*Class*: noun
 
 *Incorrect forms*:
 
@@ -229,11 +229,11 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 [discrete]
 ==== Bps
 [[Bps]]
-*Description*: Initialism for bytes per second. 
+*Description*: Bytes per second. 
 
 *Use it*: yes
 
-*Class*: initialism
+*Class*: noun
 
 *Incorrect forms*: bps
 
@@ -242,16 +242,18 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 [discrete]
 ==== bps
 [[bps]]
-*Description*: Initialism for bits per second.
+*Description*: Bits per second.
 
 *Use it*: yes
+
+*Class*: noun
 
 *Incorrect forms*: Bps
 
 *See also*: xref:Bps[Bps]
 
 [discrete]
-==== broadcast
+==== broadcast (noun)
 [[broadcast-n]]
 *Description*: A message sent simultaneously to multiple recipients. Broadcasting is a useful feature in email systems. It is also supported by some fax systems. In networking, a distinction is made between broadcasting and multicasting. Broadcasting sends a message to everyone on the network whereas multicasting sends a message to a select list of recipients. 
 
@@ -261,10 +263,10 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Incorrect forms*: broad cast, broad-cast
 
-*See also*: xref:broadcast-v[broadcast]
+*See also*: xref:broadcast-v[broadcast (verb)]
 
 [discrete]
-==== broadcast
+==== broadcast (verb)
 [[broadcast-v]]
 *Description*: To simultaneously send the same message to multiple recipients. Broadcasting is a useful feature in email systems. It is also supported by some fax systems. In networking, a distinction is made between broadcasting and multicasting. Broadcasting sends a message to everyone on the network whereas multicasting sends a message to a select list of recipients. 
 
@@ -274,12 +276,12 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Incorrect forms*: broad cast, broad-cast
 
-*See also*: xref:broadcast-n[broadcast]
+*See also*: xref:broadcast-n[broadcast (noun)]
 
 [discrete]
 ==== Btrfs
 [[btrfs]]
-*Description*: A copy-on-write file system for Linux. Use a capital "B" when referring to the file system. When referring to tools, commands, and other utilities related to the file system, be faithful to those utilities. See http://en.wikipedia.org/wiki/Btrfs for more information on this file system. See http://en.wikipedia.org/wiki/List_of_file_systems for a list of file system names and how to present them. 
+*Description*: A copy-on-write file system for Linux. Use a capital "B" when referring to the file system. When referring to tools, commands, and other utilities related to the file system, be faithful to those utilities. See the http://en.wikipedia.org/wiki/Btrfs[Btrfs] wiki page for more information on this file system. See  the http://en.wikipedia.org/wiki/List_of_file_systems[List of file systems] wiki page for a list of file system names and how to present them. 
 
 *Use it*: yes
 
@@ -313,18 +315,4 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Incorrect forms*: builtin, built in
 
-*See also*: 
-
-[discrete]
-==== bunches of
-[[bunches-of]]
-*Description*: Do not use unless "bunch" is a specific term used in the software being documented. Use "many" or some other alternative instead. 
-
-*Use it*: no
-
-*Class*:
-
-*Incorrect forms*: bunches of
-
 *See also*:
-
