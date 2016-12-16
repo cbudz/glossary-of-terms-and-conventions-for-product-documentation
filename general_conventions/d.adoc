@@ -1,6 +1,6 @@
 [discrete]
 ==== daisy chain
-[[daisy-chain-noun]]
+[[daisy-chain-n]]
 *Description*: A hardware configuration in which devices are connected to each other in a series.
 
 *Use it*: yes
@@ -22,7 +22,7 @@
 
 *Incorrect forms*: daisy-chain, daisychain
 
-*See also*: xref:daisy-chain-noun[daisy chain]
+*See also*: xref:daisy-chain-n[daisy chain]
 
 [discrete]
 ==== data center
@@ -52,7 +52,7 @@
 
 [discrete]
 ==== debug
-[[debug-adjective]]
+[[debug-adj]]
 *Description*: A type of command or script that is used to find and remove errors from a program or design. For example, a "debug script".
 
 *Use it*: yes
@@ -74,7 +74,7 @@
 
 *Incorrect forms*: de-bug
 
-*See also*: xref:debug-adjective[debug]
+*See also*: xref:debug-adj[debug]
 
 [discrete]
 ==== denial of service
@@ -91,7 +91,7 @@
 
 [discrete]
 ==== desktop
-[[desktop-adjective]]
+[[desktop-adj]]
 *Description*: A type of computer.
 
 *Use it*: yes
@@ -100,11 +100,11 @@
 
 *Incorrect forms*: desk top, desk-top
 
-*See also*: xref:desktop-noun[desktop]
+*See also*: xref:desktop-n[desktop]
 
 [discrete]
 ==== desktop
-[[desktop-noun]]
+[[desktop-n]]
 *Description*: A type of computer, or the working area of a computer screen.
 
 *Use it*: yes
@@ -113,7 +113,7 @@
 
 *Incorrect forms*: desk top, desk-top
 
-*See also*: xref:desktop-adjective[desktop]
+*See also*: xref:desktop-adj[desktop]
 
 [discrete]
 ==== device
@@ -130,7 +130,7 @@
 
 [discrete]
 ==== DevOps
-[[devops-noun]]
+[[devops-n]]
 *Description*: A combination of "development" and "operations". A specific method or organizational approach where developers and IT operations work together to create the applications that run the business. 
 
 *Use it*: yes
@@ -161,7 +161,7 @@
 
 *Use it*: yes
 
-*Class*: proper noun
+*Class*: noun
 
 *Incorrect forms*: Disk druid, disk druid, diskdruid
 
@@ -221,7 +221,7 @@
 
 [discrete]
 ==== download
-[[download-noun]]
+[[download-n]]
 *Description*: The act or process of downloading data.
 
 *Use it*: yes
@@ -243,7 +243,7 @@
 
 *Incorrect forms*: down-load, down load
 
-*See also*: xref:download-noun[download]
+*See also*: xref:download-n[download]
 
 [discrete]
 ==== dual-boot
