@@ -1,6 +1,6 @@
 [discrete]
 ==== JavaScript
-[[javascript]]
+[[JavaScript]]
 *Description*: "JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase "javascript".
 
 *Use it*: yes
@@ -9,12 +9,12 @@
 
 *Incorrect forms*:
 
-*See also*: xref:javascript_file[javascript]
+*See also*: xref:javascript[javascript]
 
 [discrete]
 ==== javascript
-[[javascript_file]]
-*Description*: When referring to a file written using the JavaScript language, use all lowercase; for example, "...copy the IPA javascript file to the `/temp` directory."
+[[javascript]]
+*Description*: When referring to a file written using the JavaScript language, use all lowercase; for example, "...copy the IPA javascript file to the `/temp/` directory."
 
 *Use it*: yes
 
@@ -22,7 +22,7 @@
 
 *Incorrect forms*:
 
-*See also*: xref:javascript[JavaScript]
+*See also*: xref:JavaScript[JavaScript]
 
 [discrete]
 ==== JBoss Community
@@ -93,7 +93,7 @@
 [discrete]
 ==== JVM
 [[jvm]]
-*Description*: Initialism for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)."
+*Description*: Acronym for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)."
 
 *Use it*: yes
 
