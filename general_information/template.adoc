@@ -6,7 +6,7 @@ The AsciiDoc source:
 ----
 [discrete]
 ==== <term>
-[[<anchor-tag>]]
+[[id>]]
 *Description*: <description>
 
 *Use it*: <yes/no/with caution>
@@ -15,22 +15,38 @@ The AsciiDoc source:
 
 *Incorrect forms*: <incorrect-form>
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
+*See also*: xref:<another-term-id>[<another-term>]
 ----
 
-Replace:
+[width="40%",frame="topbot",options="header"]
+|======================
+|Replace                |with                               | Notes 
+|`<term>`               |the term to be described.          | 
+|`<id>`                 |the term in lowercase.             |If the term consists of more than one word, separate them with a hyphen ("-"). Do not use spaces, capital letters, or special characters (for example, slash "/") in the ID. If two entries would have the same ID, see xref:two-entries-with-same-ID[What to do if two entries have the same ID?.]
+|`<description>`        |the description of the term.|Use full sentences with periods. If a term has more than one meaning, use numbers to separate them. See the xref:media[media] entry for an example. Add information why should we use the term in this form. If we should not use the term, explain why. Alternatively, explain why are the terms listed in the *Incorrect forms* field incorrect.
+|`<yes/no/with caution>`|"yes" if the term should be used.
 
-* `<term>` with the term to be described
-* `<anchor-tag>` with the term in lowercase, if the term consists of more than one word, separate them with a hyphen ("-"). Do not use spaces, capital letters, or special characters (for example, slash /) in this name. If two entries would have a same anchor tag, see xref:two-entries-with-same-anchor-tag[What to do if two entries have the same anchor tag?.].
-* `<description>` with the description of the term. Why we should we use it in this form and why are the incorrect forms incorrect, or why we should not use the term. Use full sentences with periods.
-* `<yes/no/with caution>` with `yes`, `no`, or `with caution` depending on whether the term should be used, not be used, or used with caution. Always explain why in the *Description* field
-* `<class>` with the class of the term (noun, adjective, verb, ...)
-* `<incorrect-form>` with the form of the term that we should not use. If there are more than one, separate them with a comma (",")
-* `<another-anchor-tag>` with the anchor tag of the another term related to this one
-* `<another-term>` with the term related to this one
+"no" if the term should not be used.
 
-For example:
+"with caution" if the term should be used sporadically or only in certain cases.|Explain why we should or should not use the term in the *Description* field.
+|`<class>`              |the figure of speech of the term.|Possible values: noun, verb, adjective, adverb, conjunction, preposition. Use noun also for acronyms or abbreviations. Leave the field empty for symbols. 
+|`<incorrect-form>`     |the form of the term that we should not use.|If there are more incorrect forms, separate them with a comma (",").
+|`<another-term-id>`    |the ID of another term related to this one.|Always verify that this ID already exists in the document. The document fails to validate because of non-existent IDs. Do not put space between `<another-term-id>` and `[<another-term>]`.
+|`<another-term>`       |the term related to this one.|To link to another document than this one or to a web page, replace `xref:<another-term-id>[<another-term>]` with `<link>[<name-of-the-document/web-page>]`.
+|======================
 
+[IMPORTANT]
+====
+* Do not combine two terms into one entry.
+
+* Keep all fields, even if a field is empty. An empty field serves as a placeholder if the field is required later.
+
+* If the term has the correct and incorrect form, always use the correct form instead of `<term>` and list the incorrect form in the *Incorrect forms* field. Remember to explain why is the incorrect form incorrect in the *Description* field.
+
+* If you want to add a term that we should not use and that does not have a correct form, use the incorrect version instead of `<term>` and add "no" to the *Use it* field. Explain why we should not use that term in the *Description* field.
+====
+
+.Example
 ----
 [discrete]
 ==== Ceph
@@ -47,10 +63,3 @@ For example:
 ----
 
 For the rendered output see xref:ceph[Ceph].
-
-[NOTE]
-====
-If the term has the correct and incorrect form, always use the correct form instead of `<term>` and list the incorrect form in the *Incorrect forms* field. Remember to explain why is the incorrect form incorrect in the *Description* field.
-
-If you want to add a term that we should not use and that does not have a correct form, use the incorrect version instead of `<term>` and add "no" to the *Use it* field. Explain why we should not use that term in the *Description* field.
-====
