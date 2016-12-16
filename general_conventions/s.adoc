@@ -9,7 +9,7 @@
 
 *Incorrect forms*: S/390, S90, or any other variations
 
-*See also*: xref:ibm-s-390 [IBM S/390]
+*See also*: TODO xref: ibm-s-390[IBM S/390]`
 
 [discrete]
 ==== Samba
@@ -25,7 +25,7 @@
 *See also*:
 
 [discrete]
-==== ⁠S-record
+==== S-record
 [[s-record]]
 *Description*: Motorola S-record is a file format that stores binary information in ASCII hex text form. 
 
@@ -35,10 +35,10 @@
 
 *Incorrect forms*: s-record, S-Record, s-Record, SREC, or any other variation
 
-*See also*: xref:srec [SREC]
+*See also*: xref:srec[SREC]
 
 [discrete]
-==== ⁠screen saver
+==== screen saver
 [[screen-saver]]
 *Description*: A screen saver is an image or animation that replaces a computer's display after a set amount of time without user activity.
 
@@ -76,10 +76,10 @@
 
 *Incorrect forms*: refer to
 
-*See also*: xref:refer-to [refer to]
+*See also*:
 
 [discrete]
-==== ⁠segmentation fault
+==== segmentation fault
 [[segmentation-fault]]
 *Description*:  A segmentation fault occurs when a process tries to access a memory location that it is not allowed to access, or tries to access a memory location in a way that is not allowed (for example, if the process tries to write to a read-only location, or to overwrite part of the operating system). 
 Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
@@ -90,10 +90,10 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 
 *Incorrect forms*: segfault as a verb
 
-*See also*: xref:https://access.redhat.com/articles/372743 [A Guide for Troubleshooting a Segfault] on the Customer Portal for more information.
+*See also*: https://access.redhat.com/articles/372743[A Guide for Troubleshooting a Segfault] on the Customer Portal for more information.
 
 [discrete]
-==== ⁠SELinux
+==== SELinux
 [[selinux]]
 *Description*: SELinux is short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. 
 Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
@@ -102,12 +102,12 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Class*: noun, acronym
 
-*Incorrect forms*: SE-Linux, S-E Linux, SE Linux 
+*Incorrect forms*: SE-Linux, S-E Linux, SE Linux, selinux 
 
 *See also*:
 
 [discrete]
-==== ⁠send out
+==== send out
 [[send-out]]
 *Description*: Send out means to emit or issue. The term is too informal and imprecise. Use emit or issue instead.
 
@@ -117,7 +117,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Incorrect forms*: sends out
 
-*See also*: xref:emits [emit], xref:issues [issue]
+*See also*: TODO xref: emits[emit], xref: issue[issue]
 
 [discrete]
 ==== server farm 
@@ -145,7 +145,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Incorrect forms*: server-side as a noun
 
-*See also*: xref:server-side-adjective [server-side]
+*See also*: xref:server-side-adjective[server-side]
 
 [discrete]
 ==== server-side 
@@ -160,7 +160,7 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Incorrect forms*: server side as an adjective
 
-*See also*: xref:server-side-noun [server side]
+*See also*: xref:server-side-noun[server side]
 
 [discrete]
 ==== SHA-1
@@ -173,11 +173,11 @@ Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Incorrect forms*: 
 
-*See also*: xref:sha2 [SHA-2]
+*See also*: xref:sha-2[SHA-2]
 
 [discrete]
 ==== SHA-2
-[[sha-1]]
+[[sha-2]]
 *Description*: SHA stands for Secure Hash Algorithm and is a cryptographic hash function. The encryption hash used in SHA-2 is significantly stronger and not subject to the same vulnerabilities as SHA-1.
 SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are all correct when referring to these specific hash functions. 
 
@@ -187,7 +187,7 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 
 *Incorrect forms*: 
 
-*See also*: xref:sha1 [SHA-1]
+*See also*: xref:sha-1[SHA-1]
 
 [discrete]
 ==== Shadowman
@@ -200,7 +200,7 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 
 *Incorrect forms*: Shadow Man, ShadowMan
 
-*See also*: xref:http://brand.redhat.com/logos/shadowman/ [Red Hat Brand Standards: Shadowman]
+*See also*: http://brand.redhat.com/logos/shadowman/[Red Hat Brand Standards: Shadowman]
 
 [discrete]
 ==== shadow passwords
@@ -252,7 +252,7 @@ SHA-2 variants are often specified using their digest size, in bits, as the trai
 
 *Incorrect forms*:
 
-*See also*: xref:shell-prompt [shell prompt]
+*See also*: xref:shell-prompt[shell prompt]
 
 [discrete]
 ==== shell prompt
@@ -266,7 +266,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: command prompt, terminal, shell
 
-*See also*: xref:shell [shell]
+*See also*: xref:shell[shell]
 
 [discrete]
 ==== snippet
@@ -310,7 +310,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: 
 
-*See also*: xref:online [online]
+*See also*: TODO xref: online[online]
 
 [discrete]
 ==== sound card
@@ -341,7 +341,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: 
 
-*See also*: xref:spacebar [spacebar]
+*See also*: xref:spacebar[spacebar]
 
 [discrete]
 ==== spacebar
@@ -359,7 +359,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: 
 
-*See also*: xref:space [space]
+*See also*: xref:space[space]
 
 [discrete]
 ==== spec file
@@ -418,7 +418,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: 
 
-*See also*: xref:MySQL [MySQL]
+*See also*: xref:MySQL[MySQL]
 
 [discrete]
 ==== ⁠SR-IOV
@@ -435,7 +435,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 [discrete]
 ==== SREC
-[[s-record]]
+[[SREC]]
 *Description*: SREC is an abbreviation for Motorola S-record, which is a file format that stores binary information in ASCII hex text form. Use "S-record" instead of SREC. 
 
 *Use it*: no
@@ -444,7 +444,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: s-record, S-Record, s-Record, SREC, or any other variation
 
-*See also*: xref:s-record [S-record]
+*See also*: xref:s-record[S-record]
 
 [discrete]
 ==== SSH
