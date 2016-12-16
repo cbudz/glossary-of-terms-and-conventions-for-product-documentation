@@ -14,7 +14,7 @@
 [discrete]
 ==== AMD64
 [[AMD64]]
-*Description*: The AMD implementation of the the x86 architecture.
+*Description*: The AMD implementation of the x86 architecture.
 
 *Use it*: yes
 
@@ -26,18 +26,19 @@
 
 [NOTE]
 ====
-The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the AMD Trademark Information page at http://www.amd.com/us/aboutamd/Pages/trademarks.aspx.
-For more information about Intel® trademarks, see http://www.intel.com/content/www/us/en/legal/trademarks.html and http://www.intel.com/content/www/us/en/trademarks/trademarks.html. 
+The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the http://www.amd.com/us/aboutamd/Pages/trademarks.aspx[AMD Trademark Information] page.
+
+For more information about Intel® trademarks, see the http://www.intel.com/content/www/us/en/legal/trademarks.html[Trademark Information] and http://www.intel.com/content/www/us/en/trademarks/trademarks.html[Usage Guidelines for Customers, Licensees, and Other Third Parties] pages.
 ====
 
 [discrete]
-==== ATM
-[[ATM]]
-*Description*: Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies. 
+==== Asynchronous Transfer Mode
+[[asynchronous-transfer-mode]]
+*Description*: Asynchronous Transfer Mode (ATM) is a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies. 
 
 *Use it*: yes
 
-*Class*: initialism
+*Class*: noun
 
 *Incorrect forms*:
 
@@ -52,7 +53,7 @@ For more information about Intel® trademarks, see http://www.intel.com/content/
 
 *Class*: adjective
 
-*Incorrect forms*: alright, all right
+*Incorrect forms*:
 
 *See also*: 
 
@@ -63,7 +64,7 @@ For more information about Intel® trademarks, see http://www.intel.com/content/
 
 *Use it*: yes
 
-*Class*: proper noun
+*Class*: noun
 
 *Incorrect forms*: Applix, ApplixWare
 
