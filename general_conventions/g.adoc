@@ -209,7 +209,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *Incorrect forms*: Gnome, gnome
 
-*See also*: xref:gnome-clasic[Gnome Classic]
+*See also*: xref:gnome-classic[Gnome Classic]
 
 .GNOME Classic
 [[gnome-classic]]
