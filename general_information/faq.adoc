@@ -45,7 +45,7 @@ There is probably an error in the AsciiDoc source. To view the error message in 
 The most common errors:
 +
 * Duplicated IDs. See xref:two-entries-with-same-ID[See What if two entries have the same ID?] for details.
-* A Non-existent ID is used as a cross reference. Always verify that the entry you refer to already exists in the document. If it does not, create it.
+* A non-existent ID is used as a cross reference. Always verify that the entry you refer to already exists in the document. If it does not, create it.
 +
 IMPORTANT: Always make sure that Jenkins is able to build the document with the changes you made before creating a merge request. Raise an issue if in doubt. See xref:[TBA] for details.
 
