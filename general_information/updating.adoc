@@ -148,4 +148,6 @@ $ git push --set-upstream origin <name-of-the-branch>
 
 . Optionally, write a description of your change.
 
+. Select the correct label; _General Conventions_ or _Product-Specific Conventions_.
+
 . Click "Submit merge request".
