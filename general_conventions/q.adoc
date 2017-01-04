@@ -18,11 +18,11 @@
 
 *Use it*: yes
 
-*Class*: adjective
+*Class*: noun
 
 *Incorrect forms*: qcow2, Qcow2
 
-*See also*:
+*See also*: xref:kvm[KVM]
 
 
 
