@@ -1,7 +1,7 @@
 [discrete]
 ==== KB
 [[KB]]
-*Description*: KB is the initialism of kilobyte, equal to 1024 bytes. 
+*Description*: KB is the initialism of kilobyte, and it equals 1024 bytes. 
 
 *Use it*: yes
 
@@ -14,7 +14,7 @@
 [discrete]
 ==== kB
 [[kB]]
-*Description*: kB is the initialism of kilobyte, equal to 1000 bytes. 
+*Description*: kB is the initialism of kilobyte, and it equals 1000 bytes. 
 
 *Use it*: yes
 
@@ -53,7 +53,7 @@
 [discrete]
 ==== kernel
 [[kernel]]
-*Description*: The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management. Do not capitalize the first letter.
+*Description*: The kernal is the central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management. Do not capitalize the first letter.
 
 *Use it*: yes
 
@@ -66,7 +66,7 @@
 [discrete]
 ==== Kernel-based Virtual Machine
 [[kernel-based-virtual-machine]]
-*Description*: Kernel-based Virtual Machine is a loadable kernel module that converts the Linux kernel into a bare metal hypervisor. Spell out on first use, capitalized. Use the initialism KVM thereafter. It is an industry standard, and a proper noun. 
+*Description*: Kernel-based Virtual Machine is a loadable kernel module that converts the Linux kernel into a bare metal hypervisor. Spell out on first use, capitalized. Use the initialism KVM thereafter. It is an industry standard and a proper noun. 
 
 *Use it*: yes
 
@@ -79,7 +79,7 @@
 [discrete]
 ==== kernel oops
 [[kernel-oops]]
-*Description*: An error in the Linux kernel.
+*Description*: Kernal oops is an error in the Linux kernel.
 
 *Use it*: yes
 
@@ -119,7 +119,7 @@
 [discrete]
 ==== kernel-space
 [[kernel-space-ad]]
-*Description*: Kernel space is that part of the system memory where the kernel executes and provides its services. When used as modifier, use the hyphenated form "kernel-space". Do not use "kernelspace"
+*Description*: Kernel space is that part of the system memory where the kernel executes and provides its services. When used as modifier, use the hyphenated form "kernel-space." Do not use "kernelspace."
 
 *Use it*: yes
 
@@ -132,7 +132,7 @@
 [discrete]
 ==== Kickstart
 [[kickstart]]
-*Description*: A network installation system for some Linux distributions. Always capitalize the first letter.
+*Description*: Kickstart is a network installation system for some Linux distributions. Always capitalize the first letter.
 
 *Use it*: yes
 
@@ -145,7 +145,7 @@
 [discrete]
 ==== kill
 [[kill]]
-*Description*: If terminating a UNIX process, use "kill". For example, to terminate the process, type `kill -9 <PID>`. 
+*Description*: If terminating a UNIX process, use "kill," for example, to terminate the process, type `kill -9 <PID>`. 
 
 *Use it*: yes
 
@@ -171,7 +171,7 @@
 [discrete]
 ==== Knowledgebase
 [[knowledgebase]]
-*Description*: https://access.redhat.com/search/#/knowledgebase[Red Hat Knowledgebase] includes solutions and articles written mainly by GSS support engineers. Proper spelling is "Knowledgebase" not "KnowledgeBase".
+*Description*: https://access.redhat.com/search/#/knowledgebase[Red Hat Knowledgebase] includes solutions and articles written mainly by GSS support engineers. The proper spelling is "Knowledgebase," not "KnowledgeBase."
 
 *Use it*: yes
 
@@ -184,7 +184,7 @@
 [discrete]
 ==== KVM
 [[kvm]]
-*Description*: Initialism for Kernel-based Virtual Machine. Do not use "kvm".
+*Description*: KVM is the initialism for Kernel-based Virtual Machine. Do not use "kvm."
 
 *Use it*: yes
 
