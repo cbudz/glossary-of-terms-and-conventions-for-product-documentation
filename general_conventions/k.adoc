@@ -66,7 +66,7 @@
 [discrete]
 ==== Kernel-based Virtual Machine
 [[kernel-based-virtual-machine]]
-*Description*: Kernel-based Virtual Machine is a loadable kernel module that converts the Linux kernel into a bare metal hypervisor. Spell out on first use, capitalized. Use the initialism KVM thereafter. It is an industry standard and a proper noun. 
+*Description*: Kernel-based Virtual Machine is a loadable kernel module that converts the Linux kernel into a bare metal hypervisor. Spell out on first use and capitalize the first letters. Use the initialism KVM thereafter. It is an industry standard and a proper noun. 
 
 *Use it*: yes
 
@@ -79,7 +79,7 @@
 [discrete]
 ==== kernel oops
 [[kernel-oops]]
-*Description*: Kernal oops is an error in the Linux kernel.
+*Description*: A kernal oops is an error in the Linux kernel.
 
 *Use it*: yes
 
@@ -136,7 +136,7 @@
 
 *Use it*: yes
 
-*Class*: adjective
+*Class*: noun
 
 *Incorrect forms*: kickstart
 
