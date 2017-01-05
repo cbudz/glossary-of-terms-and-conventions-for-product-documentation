@@ -228,7 +228,7 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 
 [discrete]
 ==== indexless bucket
-[[indexless bucket]]
+[[indexless-bucket]]
 *Description*: A bucket that does not maintain an index.
  
 *Use it*: yes
