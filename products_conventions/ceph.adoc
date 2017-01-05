@@ -16,6 +16,19 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 *See also*: 
 
 [discrete]
+==== bucket index
+[[bucket-index]]
+*Description*: ADD ME
+ 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: 
+
+[discrete]
 ==== BlueStore
 [[bluestore]]
 *Description*: BlueStore is an OSD back end that utilizes block devices directly.
@@ -213,6 +226,18 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 
 *See also*: xref:bluestore[BlueStore] 
 
+[discrete]
+==== indexless bucket
+[[indexless bucket]]
+*Description*: A bucket that does not maintain an index.
+ 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:bucket-index[bucket index]
 
 [discrete]
 ==== librados
@@ -318,6 +343,33 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 *Incorrect forms*:
 
 *See also*:
+
+[discrete]
+==== Placement Group
+[[placement-group]]
+*Description*: Aggregates a series of objects into a group, and maps the group 
+into a series of OSDs.
+ 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: 
+
+[discrete]
+==== Placement Target
+[[placement-target]]
+*Description*: A configurable rule that determines where bucket data is stored.
+ 
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: 
 
 [discrete]
 ==== pool
