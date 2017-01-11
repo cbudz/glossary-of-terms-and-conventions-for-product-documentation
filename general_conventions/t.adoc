@@ -1,47 +1,3 @@
-[discrete]
-==== taskbar
-[[taskbar]]
-Description: Use taskbar as one word. Do not use task bar.
-Use it: yes
-Class: noun
-Incorrect forms: task bar
-See also:
-
-[discrete]
-==== tar, tarball
-[[tar]]
-Description: Do not use to refer to creating a tar file. Instead use a verb, example: archive or archive.
-Use it: no
-Class: verb
-Incorrect forms:
-See also:
-
-[discrete]
-==== tarball
-[[tarball]]
-Description: Do not use. Instead use tar file.
-Use it: no
-Class: noun
-Incorrect forms:
-See also:
-
-[discrete]
-==== telephone numbers
-[[telephone_numbers]]
-Description: Use spaces, not dashes or dots, to punctuate phone numbers. When indicating a number for international use, include the country code (+1 555 555 5555 for a US number, for example). US 800 numbers are not accessible from outside the country, so do not precede them with a country code (800 555 5555). Phone numbers beginning with 0 are not for international use. Make these numbers ready for international by dropping the zero and adding the appropriate country code. For example, (055) 12345 would be for use in Italy only; change it to +39 (55) 12345 for international use. 
-Use it: yes
-Class: 
-Incorrect forms: +1.555.555.5555, +1-555-555-5555
-See also:
-
-[discrete]
-==== terminal
-[[terminal]]
-Description: Do not use to describe where to type commands. Use "command line" instead. See the Word Usage appendix of The IBM Style Guide for more information. 
-Use it: no
-Class: noun
-Incorrect forms:
-See also:
 
 [discrete]
 ==== terminal emulation
@@ -55,7 +11,7 @@ See also:
 [discrete]
 ==== ⁠text mode
 [[text_mode]]
-Description: Correct. A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode. 
+Description: A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode. 
 Use it: yes
 Class:
 Incorrect forms: textmode, text-mode
@@ -64,7 +20,7 @@ See also:
 [discrete]
 ==== text-based
 [[text-based]]
-Description: Correct. 
+Description: Refers to text-based operating system or interface. 
 Use it: yes
 Class: adjective
 Incorrect forms: text based
@@ -91,7 +47,7 @@ See also:
 [discrete]
 ==== through
 [[through]]
-Description: Correct. Do not use the hyphen or any other type of dash. 
+Description: Do not use the hyphen or any other type of dash. 
 Use it: yes
 Class: noun
 Incorrect forms: thru
@@ -109,7 +65,7 @@ See also:
 [discrete]
 ==== tier-1
 [[tier-1]]
-Description: Always use a numeral, and always hyphenate. Follow standard capitalization guidelines. 
+Description: Always hyphenate and indicate the number is numerals. Follow standard capitalization guidelines. 
 Use it: yes
 Class: adjective
 Incorrect forms: tier-one, tier 1
@@ -118,7 +74,7 @@ See also:
 [discrete]
 ==== time frame
 [[time_frame]]
-Description: Correct.  
+Description: It is most commonly styled as two words with no hyphen in between.
 Use it: yes
 Class: noun
 Incorrect forms: timeframe, time-frame
@@ -127,56 +83,46 @@ See also:
 [discrete]
 ==== time zone
 [[time_zone]]
-Description: Correct.  
+Description: It is most commonly styled as two words with no hyphen in between.  
 Use it: yes
 Class: noun
 Incorrect forms: timezone, time-zone
 See also:
 
 [discrete]
-==== token ring
-[[token_ring]]
-Description: When capitalized, Token Ring refers to the PC network architecture developed by IBM. The IBM Token-Ring specification has been standardized by the IEEE as the IEEE 802.5 standard. See The IBM Style Guide for further uses of this term.   
-Use it: yes
-Class: noun
-Incorrect forms:
-See also:
-
-[discrete]
-==== ⁠toolbar
-[[toolbar]]
-Description: Correct. 
-Use it: yes
-Class: noun
-Incorrect forms: tool bar, tool-bar
-See also:
-
-[discrete]
 ==== ⁠totally
 [[totally]]
-Description: Do not use. See basically.
+Description: Do not use.
 Use it: no
 Class: 
 Incorrect forms:
-See also:
-
-[discrete]
-==== ⁠⁠troubleshoot
-[[troubleshoot]]
-Description: Correct.
-Use it: yes
-Class: verb
-Incorrect forms: trouble shoot, trouble-shoot
-See also:
+See also: xref:basically[basically]
 
 [discrete]
 ==== TTL
 [[TTL]]
 Description: Initialism for "time to live" (noun) and "time-to-live" (adjective). Neither the noun nor the adjective should be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism is always uppercase. 
 Use it: yes
-Class: verb
+Class: noun
 Incorrect forms: ttl
 See also:
+
+[discrete]
+==== time to live
+[[time_to_live]]
+Description: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism of TTL is always uppercase. 
+Use it: yes
+Class: noun
+Incorrect forms: ttl
+See also: xref:TTL[TTL], xref:time_to_live2[time-to-live]
+
+==== time-to-live
+[[time_to_live2]]
+Description: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism of TTL is always uppercase. 
+Use it: yes
+Class: adjective
+Incorrect forms: ttl
+See also: xref:TTL[TTL], xref:time_to_live[time to live]
 
 [discrete]
 ==== ⁠type
