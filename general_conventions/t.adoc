@@ -1,134 +1,193 @@
-
 [discrete]
 ==== terminal emulation
 [[terminal_emulation]]
-Description: Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer. 
-Use it: yes
-Class:
-Incorrect forms:
-See also:
+*Description*: Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer. 
+
+*Use it*: yes
+
+*Class*:
+
+*Incorrect forms*:
+
+*See also*:
 
 [discrete]
 ==== ⁠text mode
 [[text_mode]]
-Description: A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode. 
-Use it: yes
-Class:
-Incorrect forms: textmode, text-mode
-See also:
+*Description*: A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode. 
+
+*Use it*: yes
+
+*Class*:
+
+*Incorrect forms*: textmode, text-mode
+
+*See also*:
 
 [discrete]
 ==== text-based
 [[text-based]]
-Description: Refers to text-based operating system or interface. 
-Use it: yes
-Class: adjective
-Incorrect forms: text based
-See also:
+*Description*: Refers to text-based operating system or interface. 
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: text based
+
+*See also*:
 
 [discrete]
 ==== ⁠third-party
 [[third-party]]
-Description: Use "third-party" as the adjectival form. Consult a dictionary for more examples. 
-Use it: yes
-Class: adjective
-Incorrect forms:
-See also:
+*Description*: Use "third-party" as the adjectival form. Consult a dictionary for more examples. 
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*:
+
+*See also*:
 
 [discrete]
 ==== third party
 [[third_party]]
-Description: Use "third party" as the nominal form. Consult a dictionary for more examples. 
-Use it: yes
-Class: noun
-Incorrect forms:
-See also:
+*Description*: Use "third party" as the nominal form. Consult a dictionary for more examples. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
 
 [discrete]
 ==== through
 [[through]]
-Description: Do not use the hyphen or any other type of dash. 
-Use it: yes
-Class: noun
-Incorrect forms: thru
-See also:
+*Description*: Do not use the hyphen or any other type of dash. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: thru
+
+*See also*:
 
 [discrete]
 ==== throughput
 [[throughput]]
-Description: The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See The IBM Style Guide for more information about using measurements and abbreviations.
-Use it: yes
-Class: noun
-Incorrect forms: thru
-See also:
+*Description*: The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See The IBM Style Guide for more information about using measurements and abbreviations.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: thru
+
+*See also*:
 
 [discrete]
 ==== tier-1
 [[tier-1]]
-Description: Always hyphenate and indicate the number is numerals. Follow standard capitalization guidelines. 
-Use it: yes
-Class: adjective
-Incorrect forms: tier-one, tier 1
-See also:
+*Description*: Always hyphenate and indicate the number is numerals. Follow standard capitalization guidelines. 
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: tier-one, tier 1
+
+*See also*:
 
 [discrete]
 ==== time frame
 [[time_frame]]
-Description: It is most commonly styled as two words with no hyphen in between.
-Use it: yes
-Class: noun
-Incorrect forms: timeframe, time-frame
-See also:
+*Description*: It is most commonly styled as two words with no hyphen in between.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: timeframe, time-frame
+
+*See also*:
 
 [discrete]
 ==== time zone
 [[time_zone]]
-Description: It is most commonly styled as two words with no hyphen in between.  
-Use it: yes
-Class: noun
-Incorrect forms: timezone, time-zone
-See also:
+*Description*: It is most commonly styled as two words with no hyphen in between.  
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: timezone, time-zone
+
+*See also*:
 
 [discrete]
 ==== ⁠totally
 [[totally]]
-Description: Do not use.
-Use it: no
-Class: 
-Incorrect forms:
-See also: xref:basically[basically]
+*Description*: Do not use.
+
+*Use it*: no
+
+*Class*: 
+
+*Incorrect forms*:
+
+*See also*: xref:basically[basically]
 
 [discrete]
 ==== TTL
 [[TTL]]
-Description: Initialism for "time to live" (noun) and "time-to-live" (adjective). Neither the noun nor the adjective should be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism is always uppercase. 
-Use it: yes
-Class: noun
-Incorrect forms: ttl
-See also:
+*Description*: Initialism for "time to live" (noun) and "time-to-live" (adjective). Neither the noun nor the adjective should be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism is always uppercase. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: ttl
+
+*See also*:
 
 [discrete]
 ==== time to live
 [[time_to_live]]
-Description: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism of TTL is always uppercase. 
-Use it: yes
-Class: noun
-Incorrect forms: ttl
-See also: xref:TTL[TTL], xref:time_to_live2[time-to-live]
+*Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism of TTL is always uppercase. 
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: ttl
+
+*See also*: xref:TTL[TTL], xref:time_to_live2[time-to-live]
 
 ==== time-to-live
 [[time_to_live2]]
-Description: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism of TTL is always uppercase. 
-Use it: yes
-Class: adjective
-Incorrect forms: ttl
-See also: xref:TTL[TTL], xref:time_to_live[time to live]
+*Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism of TTL is always uppercase. 
+
+*Use it*: yes
+
+*Class*: adjective
+
+*Incorrect forms*: ttl
+
+*See also*: xref:TTL[TTL], xref:time_to_live[time to live]
 
 [discrete]
 ==== ⁠type
 [[type]]
-Description: Type can be used as either a verb or noun. You can write "Print the data type of init" or "To start Source-Navigator, *type snavigator*." 
-Use it: yes
-Class: verb, noun
-Incorrect forms:
-See also:
+*Description*: Type can be used as either a verb or noun. You can write "Print the data type of init" or "To start Source-Navigator, *type snavigator*." 
+
+*Use it*: yes
+
+*Class*: verb, noun
+
+*Incorrect forms*:
+
+*See also*:
