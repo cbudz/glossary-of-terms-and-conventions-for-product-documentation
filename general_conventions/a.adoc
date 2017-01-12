@@ -1,24 +1,20 @@
 [discrete]
-==== air gap
+==== air gap (noun)
 [[air-gap]]
 *Description*: The physical segregation and isolation of a system as a security measure.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: air wall
 
 *See also*:
 
 [discrete]
-==== AMD64
+==== AMD64 (noun)
 [[AMD64]]
 *Description*: The AMD implementation of the x86 architecture.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Hammer, x86_64, x86-64, x64, 64-bit x86
 
@@ -32,52 +28,44 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 ====
 
 [discrete]
-==== Asynchronous Transfer Mode
+==== Asynchronous Transfer Mode (noun)
 [[asynchronous-transfer-mode]]
 *Description*: Asynchronous Transfer Mode (ATM) is a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*:
 
 [discrete]
-==== alright
+==== alright (adjective) 
 [[alright]]
 *Description*: The colloquial form of "correct" or "as expected". 
 
 *Use it*: no
-
-*Class*: adjective
 
 *Incorrect forms*:
 
 *See also*: 
 
 [discrete]
-==== Applixware
+==== Applixware (noun)
 [[applixware]]
 *Description*: A suite of proprietary modular applications for Linux.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Applix, ApplixWare
 
 *See also*:
 
 [discrete]
-==== auto-detect
+==== auto-detect (verb)
 [[auto-detect]]
 *Description*: To automatically detect threats, new hardware, software updates, etc.
 
 *Use it*: yes
-
-*Class*: verb
 
 *Incorrect forms*: autodetect
 

@@ -1,96 +1,82 @@
 [discrete]
-==== backtrace
+==== backtrace (noun)
 [[backtrace]]
 *Description*: A stack trace (or stack backtrace), which is a report of the active stack frames (function calls) at a certain point in time during the execution of a program. The Python programming language uses the term "traceback", possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: 
 
 *See also*:
 
 [discrete]
-==== bandwidth
+==== bandwidth (noun)
 [[bandwidth]]
 *Description*: A range within a band of frequencies or wavelengths, or the amount of data that can be transmitted in a fixed amount of time. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*:
 
 [discrete]
-==== bare metal
+==== bare metal (noun)
 [[bare-metal-n]]
 *Description*: Physical hardware as opposed to virtual hardware. Use the two-word form as a noun: "Install on bare metal."
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: baremetal, bare-metal
 
-*See also*: xref:bare-metal-adj[bare-metal]
+*See also*: xref:bare-metal-adj[bare-metal (adjective)]
 
 [discrete]
-==== bare-metal
+==== bare-metal (adjective)
 [[bare-metal-adj]]
 *Description*: Physical hardware as opposed to virtual hardware. Use the hyphenated form as an adjective: "Bare-metal servers."
 
 *Use it*: yes
 
-*Class*: adjective
-
 *Incorrect forms*: baremetal, bare metal
 
-*See also*: xref:bare-metal-n[bare metal]
+*See also*: xref:bare-metal-n[bare metal (noun)]
 
 [discrete]
-==== basically
+==== basically (adverb)
 [[basically]]
 *Description*: In principle. Fundamentally. 
 
 *Use it*: no
 
-*Class*: adverb
-
-*Incorrect forms*: basically
+*Incorrect forms*:
 
 *See also*:
 
 [discrete]
-==== because
+==== because (conjunction)
 [[because]]
 *Description*: Do not use "since" to mean "because". Use "because" to refer to a reason. Use "since" to indicate the passage of time. 
 
 *Use it*: with caution
 
-*Class*: conjunction
-
-*Incorrect forms*: since
+*Incorrect forms*:
 
 *See also*:
 
 [discrete]
-==== big data
+==== big data (noun)
 [[big-data]]
 *Description*: Extremely large sets of data that can be analyzed to determine trends and other information. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Big Data, Big-Data, big-data
 
 *See also*:
 
 [discrete]
-==== bimodal IT
+==== bimodal IT (noun)
 [[bimodal-it]]
 *Description*: The Gartner phrase for the combination of traditional (mode 1 or type 1) and modern (mode 2 or type 2) IT infrastructure and resources. There are many ways to talk about this combination approach. Using only the Gartner term can alienate other analysts or those not familiar with Gartner's phrasing.
 
@@ -103,150 +89,126 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Use it*: with caution
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
 [discrete]
-==== bimonthly
+==== bimonthly (adverb)
 [[bimonthly]]
 *Description*: Every other month. 
 
 *Use it*: yes
-
-*Class*: adverb
 
 *Incorrect forms*: bi-monthly
 
 *See also*:
 
 [discrete]
-==== biweekly
+==== biweekly (adverb)
 [[biweekly]]
 *Description*: Every other week. 
 
 *Use it*: yes
-
-*Class*: adverb
 
 *Incorrect forms*: bi-weekly
 
 *See also*:
 
 [discrete]
-==== BIND
+==== BIND (noun)
 [[bind]]
 *Description*: This is correct when referring to the DNS software.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Bind, bind
 
 *See also*:
 
 [discrete]
-==== BIOS
+==== BIOS (noun)
 [[bios]]
 *Description*: An abbreviation for basic input and output system. The plural form is BIOSes.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Bios
 
 *See also*:
 
 [discrete]
-==== bit rate
+==== bit rate (noun)
 [[bit-rate]]
 *Description*: The number of bits per second that can be transmitted or processed.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: bitrate
 
 *See also*:
 
 [discrete]
-==== boot disk
+==== boot disk (noun)
 [[boot-disk]]
 *Description*: A disk used to start a computer.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: boot diskette
 
 *See also*:
 
 [discrete]
-==== boot loader
+==== boot loader (noun)
 [[boot-loader]]
 *Description*: Software used to load an operating system when a computer is started.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: bootloader
 
 *See also*:
 
 [discrete]
-==== bottleneck
+==== bottleneck (noun)
 [[bottleneck]]
 *Description*: A limitation in the capacity of software or hardware caused by a single component. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: bottle neck, bottle-neck
 
 *See also*:
 
 [discrete]
-==== bpp
+==== bpp (noun)
 [[bpp]]
 *Description*: Bits per pixel. All letters are lowercase, unless at the beginning of a sentence. Use a non-breaking space between the numeral and the units. For example, "16 bpp", not "16bpp".   
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*:
 
 [discrete]
-==== Bps
+==== Bps (noun)
 [[Bps]]
 *Description*: Bytes per second. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: bps
 
 *See also*: xref:bps[bps]
 
 [discrete]
-==== bps
+==== bps (noun)
 [[bps]]
 *Description*: Bits per second.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Bps
 
@@ -259,8 +221,6 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: broad cast, broad-cast
 
 *See also*: xref:broadcast-v[broadcast (verb)]
@@ -272,46 +232,38 @@ Hybrid IT is a more general term; for example, it could mean "on-premise plus pu
 
 *Use it*: yes
 
-*Class*: verb
-
 *Incorrect forms*: broad cast, broad-cast
 
 *See also*: xref:broadcast-n[broadcast (noun)]
 
 [discrete]
-==== Btrfs
+==== Btrfs (noun)
 [[btrfs]]
 *Description*: A copy-on-write file system for Linux. Use a capital "B" when referring to the file system. When referring to tools, commands, and other utilities related to the file system, be faithful to those utilities. See the http://en.wikipedia.org/wiki/Btrfs[Btrfs] wiki page for more information on this file system. See  the http://en.wikipedia.org/wiki/List_of_file_systems[List of file systems] wiki page for a list of file system names and how to present them. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: btrfs
 
 *See also*: 
 
 [discrete]
-==== bug fix
+==== bug fix (noun)
 [[bug-fix]]
 *Description*: The resolution to a bug.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: bugfix
 
 *See also*: 
 
 [discrete]
-==== built-in
+==== built-in (adjective)
 [[built-in]]
 *Description*: Included or incorporated into a larger unit.
 
 *Use it*: yes
-
-*Class*: adjective
 
 *Incorrect forms*: builtin, built in
 

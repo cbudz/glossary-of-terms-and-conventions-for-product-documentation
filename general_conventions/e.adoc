@@ -1,5 +1,5 @@
 [discrete]
-==== Emacs
+==== Emacs (noun)
 [[emacs]]
 *Description*: Emacs is a text editor available in UNIX. Like vi, Emacs is a screen editor. Unlike vi, Emacs is not an insertion mode editor, meaning that any character typed in Emacs is automatically inserted into the file, unless it includes a command prefix.
 
@@ -7,27 +7,23 @@ If referring to the program, use "Emacs". For example, "Source-Navigator support
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: 
 
 *See also*:
 
 [discrete]
-==== Enter
+==== Enter (noun)
 [[enter-n]]
 *Description*: When referring to the keyboard key, use *Enter*. If referring to the keyboard key on Solaris, use *Return*.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: 
 
 *See also*: xref:return[return]
 
 [discrete]
-==== environment
+==== environment (noun)
 [[environment]]
 *Description*: The state of a computer, usually determined by which programs are running and basic hardware and software characteristics. For example, when one speaks of running a program in a UNIX environment, it means running a program on a computer that has the UNIX operating system.
 
@@ -35,46 +31,38 @@ One ingredient of an environment, therefore, is the operating system. But operat
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: 
 
 *See also*: 
 
 [discrete]
-==== essentially
+==== essentially (adverb)
 [[essentially]]
 *Description*: Do not use. Meaningless clutter.
 
 *Use it*: no
 
-*Class*: adverb
-
 *Incorrect forms*: 
 
 *See also*: 
 
 [discrete]
-==== event
+==== event (noun)
 [[event]]
 *Description*: An action or occurrence detected by a program. Events can be user actions, such as clicking a mouse button or pressing a key, or system occurrences, such as running out of memory. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: 
 
 *See also*:
 
 [discrete]
-==== examine
+==== examine (verb)
 [[examine]]
 *Description*: Use instead of "look at".
 
 *Use it*: yes
-
-*Class*: verb
 
 *Incorrect forms*: look at
 
@@ -87,48 +75,40 @@ One ingredient of an environment, therefore, is the operating system. But operat
 
 *Use it*: no
 
-*Class*: punctuation
-
 *Incorrect forms*: 
 
 *See also*:
 
 [discrete]
-==== Exec-Shield
+==== Exec-Shield (noun)
 [[exec-shield]]
 *Description*: Exec-Shield is a security-enhancing modification to the Linux kernel that makes large parts of specially-marked programs including their stack not executable. 
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: 
 
 *See also*:
 
 [discrete]
-==== Exif
+==== Exif (noun)
 [[exif]]
 *Description*: Correct. Do not use "EXIF". Exif is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF and RIFF files. Sometimes to referred to as "Exif Print".
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: EXIF, exif
 
 *See also*: 
 
 [discrete]
-==== extranet
+==== extranet (noun)
 [[extranet]]
 *Description*: Refers to an intranet that is partially accessible to authorized outsiders. Whereas an intranet resides behind a firewall and is accessible only to people who are members of the same company or organization, an extranet provides various levels of accessibility to outsiders. You can access an extranet only if you have a valid user name and password, and your identity determines which parts of the extranet you can view.
 
 Capitalize only at the beginning of a sentence. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Extranet
 

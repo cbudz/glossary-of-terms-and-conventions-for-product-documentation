@@ -5,13 +5,11 @@ The AsciiDoc source:
 
 ----
 [discrete]
-==== <term>
-[[id>]]
+==== <term> (<class>)
+[[<id>]]
 *Description*: <description>
 
 *Use it*: <yes/no/with caution>
-
-*Class*: <class>
 
 *Incorrect forms*: <incorrect-form>
 
@@ -49,13 +47,11 @@ The AsciiDoc source:
 .Example
 ----
 [discrete]
-==== Ceph
+==== Ceph (noun)
 [[ceph]]
 *Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: CEPH, ceph
 

@@ -1,258 +1,203 @@
 [discrete]
-==== RAM
+==== RAM (noun)
 [[ram]]
-
 *Description*: This is an acronym for "random access memory."
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Ram, ram 
 
 *See also*:
 
-
-
 [discrete]
-==== RAM disk
+==== RAM disk (noun)
 [[ram-disk]]
-
 *Description*: RAM disk refers to RAM that has been configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful for applications that require frequent disk accesses.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: RAMdisk, ramdisk, RAM-disk
 
 *See also*:
 
-
-
 [discrete]
-==== raw
+==== raw (adjective)
 [[raw]]
-
 *Description*: In computing terms, raw means unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device. The term comes from Unix, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device. 
 
 *Use it*: Yes
-
-*Class*: adjective
 
 *Incorrect forms*: RAW 
 
 *See also*:
 
-
-
 [discrete]
-==== raw data
+==== raw data (noun)
 [[raw-data]]
 
 *Description*: Raw data is information that has not been organized, formatted, or analyzed. 
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: 
 
 *See also*:
 
-
-
 [discrete]
-==== read
-[[read]]
-
-*Description*: (v.) To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. It is also used to refer to the act of determining the contents of a variable or parameter. (n.) The act of reading. For example, a fast disk drive performs 100 reads per second. 
+==== read (verb)
+[[read-v]]
+*Description*: To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. It is also used to refer to the act of determining the contents of a variable or parameter. (n.) The act of reading. For example, a fast disk drive performs 100 reads per second. 
 
 *Use it*: yes
 
-*Class*: verb or noun
+*Incorrect forms*: 
+
+*See also*: xref:read-n[read (noun)]
+
+[discrete]
+==== read (noun)
+[[read-n]]
+*Description*: The act of reading. For example, a fast disk drive performs 100 reads per second. 
+
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*:
-
-
+*See also*: xref:read-v[read (verb)]
 
 [discrete]
-==== read-only
+==== read-only (adjective)
 [[readonly]]
-
 *Description*: Read-only means something is capable of being displayed, but not modified or deleted. All operating systems allow you to protect objects (disks, files, and directories) with a read-only attribute that prevents other users from modifying the object. 
 
 *Use it*: yes
 
-*Class*: adjective
-
 *Incorrect forms*: 
 
 *See also*:
 
-
-
 [discrete]
-==== read-write
+==== read-write (adjective)
 [[read-write]]
-
 *Description*: Read-write means something is capable of being displayed (read) and modified (written to). Most objects (disks, files, and directories) are read/write, but operating systems also allow you to protect objects with a read-only attribute that prevents other users from modifying the object.
 
 *Use it*: yes
 
-*Class*: adjective
-
-*Incorrect forms*:read-write 
+*Incorrect forms*: read-write 
 
 *See also*:
 
-
-
 [discrete]
-==== real time/real-time
-[[real-time]]
-
+==== real time (noun)
+[[real-time-n]]
 *Description*: If used as a noun, it is the actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March." If used as an adjective, "real-time" is appropriate. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
 
 *Use it*: yes
 
-*Class*: noun or adjective
+*Incorrect forms*: realtime
+
+*See also*: xref:real-time-adj[real-time]
+
+[discrete]
+==== real-time (adjective)
+[[real-time-adj]]
+*Description*: If used as an adjective, "real-time" is appropriate. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
+
+*Use it*: yes
 
 *Incorrect forms*: realtime
 
-*See also*:
-
-
+*See also*: xref:real-time-n[real time]
 
 [discrete]
-==== reboot
+==== reboot (verb)
 [[reboot]]
-
 *Description*: Reboot means to turn off a computer's operating system and then turn it on. 
 
 *Use it*: yes
 
-*Class*: verb
-
-*Incorrect forms*:re-boot 
+*Incorrect forms*: re-boot 
 
 *See also*:
 
-
-
 [discrete]
-==== RedBoot
+==== RedBoot (noun)
 [[redboot]]
-
 *Description*: RedBoot is an acronym for Red Hat Embedded Debug and Bootstrap firmware. RedBoot is a complete bootstrap environment for embedded systems. Based on the eCos Hardware Abstraction Layer, RedBoot inherits the eCos qualities of reliability, compactness, configurability, and portability.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Redboot, Red Boot, red 
 
 *See also*:
 
-
-
 [discrete]
-==== Red Hat Ceph Storage
+==== Red Hat Ceph Storage (noun)
 [[red-hat-ceph-storage]]
 
 *Description*: Red Hat Ceph Storage is a Red Hat offering of the Ceph Storage upstream project. Always use the full name, do not use the abbreviated form ("RHCS").
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: RHCS
 
 *See also*: xref:ceph-command[ceph], xref:ceph[Ceph]
 
-
-
 [discrete]
-==== Red Hat Network Satellite Server and Red Hat Network Proxy Server
-[[red-hat-network-satellite-server-and-red-hat-network-proxy-server]]
-
-*Description*: Write these names in full the first time that you use them in a document. Subsequently, you can write "RHN Satellite Server" and "RHN Proxy Server," or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy." 
+==== Red Hat Network Satellite Server (noun)
+[[red-hat-network-satellite-server]]
+*Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Satellite Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy" for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy." 
 
 *Use it*: yes
 
-*Class*: noun
+*Incorrect forms*: Red Hat Satellite (Server)
 
-*Incorrect forms*: Red Hat Satellite (Server), Red Hat Proxy (Server)
-
-*See also*:
-
-
+*See also*: xref:red-hat-network-proxy-server[Red Hat Network Proxy Server
 
 [discrete]
-==== Red Hat Way
+==== Red Hat Network Proxy Server (noun)
+[[red-hat-network-proxy-server]]
+*Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Proxy Server," or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy." 
+
+*Use it*: yes
+
+*Incorrect forms*: Red Hat Proxy (Server)
+
+*See also*: xref:red-hat-network-satellite-server[Red Hat Network Satellite Server]
+
+[discrete]
+==== Red Hat Way (noun)
 [[red-hat-way]]
 
 *Description*: Red Hat Way refers to the culture valued and maintained by Red Hat associates.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Red Hat way
 
 *See also*:
 
-
-
 [discrete]
-==== refer to
-[[refer-to]]
-
-*Description*: Use _see_ to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source).  
-
-*Use it*: no
-
-*Class*: verb
-
-*Incorrect forms*: 
-
-//*See also*: xref:see[see]
-
-
-
-[discrete]
-==== remote access
+==== remote access (noun)
 [[remote-access]]
-
 *Description*: Remote access is the ability to log on to a network from a distant location. Generally, this implies a computer, a modem, and some remote access software to connect to the network. Remote control refers to taking control of another computer, while remote access means that the remote computer actually becomes a full-fledged host on the network. The remote access software dials in directly to the network server. The only difference between a remote host and workstations connected directly to the network is slower data transfer speeds.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: remote-access
 
 *See also*:
 
-
-
 [discrete]
-==== remote access server
+==== remote access server (noun)
 [[remote-access-server]]
-
 *Description*: A remote access server is a server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials in to a network from home using an analog modem or an ISDN connection will dial in to a remote access server. Once the user is authenticated, they can access shared drives and printers as if they were physically connected to the office LAN.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: remote-access server
 
 *See also*:
-
-
 
 [discrete]
 ==== required
@@ -262,134 +207,116 @@
 
 *Use it*: no
 
-*Class*: adverb
-
 *Incorrect forms*: 
 
 *See also*:
 
-
-
 [discrete]
-==== return
+==== return (verb)
 [[return]]
 
 *Description*: When referring to the keyboard key on Solaris or Mac, use **Return** or **return**, respectively. See "enter" for other platforms. 
 
 *Use it*: yes
 
-*Class*: verb
-
 *Incorrect forms*: 
 
 *See also*: xref:enter-n[enter]
 
-
-
 [discrete]
-==== right-click
-[[rightclick]]
-
-*Description*: Right-click is the term for pressing the button on the right of the mouse. By default, right-clicking the mouse brings up a quick, or alternative, menu.
-
-*Use it*: yes
-
-*Class*: verb
-
-*Incorrect forms*: right click 
-
-*See also*:
-
-
-
-[discrete]
-==== right now
+==== right now (adverb)
 [[right-now]]
-
 *Description*: A term to indicate some action should occur immediately. Use _now_ instead.
 
 *Use it*: no
 
-*Class*: adverb
-
 *Incorrect forms*: 
 
 *See also*:
 
-
 [discrete]
-==== ROM, PROM
-[[rom-prom]]
-
+==== ROM (noun)
+[[rom]]
 *Description*: ROM is an acronym for read-only memory, that is, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read. A variation of a ROM is a PROM (programmable read-only memory). PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer. 
 
 *Use it*: yes 
 
-*Class*: noun
+*Incorrect forms*: Rom, rom
 
-*Incorrect forms*: Rom, rom, prom, Prom
-
-*See also*:
-
-
+*See also*: xref:prom[PROM]
 
 [discrete]
-==== roundtable
-[[roundtable]]
+==== PROM (noun)
+[[prom]]
+*Description*: PROM (programmable read-only memory) is a variation of ROM. PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer. 
 
+*Use it*: yes 
+
+*Incorrect forms*: prom, Prom
+
+*See also*: xref:rom[ROM]
+
+[discrete]
+==== roundtable (noun)
+[[roundtable-n]]
 *Description*: Use _roundtable_ when referring to a type of event or gathering. Use _round table_ when referring to a circular table.
 
 *Use it*: yes
-
-*Class*: noun or adjective
 
 *Incorrect forms*: 
 
 *See also*:
 
-
-
 [discrete]
-==== RPM
-[[rpm]]
-
-*Description*: RPM is the recursive initialism for the RPM Package Manager. RPM manages files in the RPM format, known as RPM packages. RPM packages are known informally as rpm files, but this informal usage is not used in Red Hat documentation to avoid confusion with the command name. Files in RPM format are referred to as "RPM packages."
+==== roundtable (adjective)
+[[roundtable-adj]]
+*Description*: Use _roundtable_ when referring to a type of event or gathering. Use _round table_ when referring to a circular table.
 
 *Use it*: yes
 
-*Class*: noun
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== round table (noun)
+[[round-table]]
+*Description*: Use _round table_ when referring to a circular table.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== RPM (noun)
+[[rpm]]
+*Description*: RPM is the recursive initialism for the RPM Package Manager. RPM manages files in the RPM format, known as RPM packages. RPM packages are known informally as rpm files, but this informal usage is not used in Red Hat documentation to avoid confusion with the command name. Files in RPM format are referred to as "RPM packages."
+
+*Use it*: yes
 
 *Incorrect forms*: rpm
 
 *See also*:
 
-
-
 [discrete]
-==== runlevel
+==== runlevel (noun)
 [[runlevel]]
-
 *Description*: A runlevel is a preset operating state on a Unix-like operating system. A system can be booted in to (that is, started up in to) any of several runlevels, each of which is represented by a single digit integer. Each runlevel designates a different system configuration and allows access to a different combination of processes (that is, instances of executing programs). There are differences in the runlevels according to the operating system. Seven runlevels are supported in the standard Linux kernel.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: run level, run-level
 
-*See also*: xref:[]
-
-
+*See also*:
 
 [discrete]
-==== runtime
+==== runtime (noun)
 [[runtime]]
-
 *Description*: Runtime is when a program is running (or being executable), that is, when you start a program running in a computer, it is runtime for that program. In some programming languages, certain reusable programs or "routines" are built and packaged as a "runtime library."
 
 *Use it*: yes 
-
-*Class*: noun
 
 *Incorrect forms*: run time, run-time
 

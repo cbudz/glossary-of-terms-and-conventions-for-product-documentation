@@ -1,18 +1,16 @@
 [discrete]
-==== FAQ
+==== FAQ (noun)
 [[faq]]
 *Description*: When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F-A-Q") not "a FAQ." The plural form is "FAQs." 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Faq, faq, F.A.Q
 
 *See also*:
 
 [discrete]
-==== fault tolerance
+==== fault tolerance (noun)
 [[fault-tolerance-n]]
 *Description*: The ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations; that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over. 
 
@@ -20,14 +18,12 @@ Use two words when used as a noun.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: fault-tolerance
 
 *See also*: xref:fault-tolerant-adj[fault-tolerant]
 
 [discrete]
-==== fault-tolerant
+==== fault-tolerant (adjective)
 [[fault-tolerant-adj]]
 *Description*: The ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations; that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over. 
 
@@ -35,27 +31,23 @@ Use one hyphenated word when used as an adjective.
 
 *Use it*: yes
 
-*Class*: adjective
-
 *Incorrect forms*: fault tolerant
 
 *See also*: xref:fault-tolerance-n[fault tolerance]
 
 [discrete]
-==== Fedora™ Project
+==== Fedora™ Project (noun)
 [[fedora-project]]
 *Description*: The Fedora Project is a global partnership of free software community members, sponsored by Red Hat. Red Hat Enterprise Linux is based on the Fedora operating system.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: fedora project
 
 *See also*: 
 
 [discrete]
-==== FireWire
+==== FireWire (noun)
 [[firewire]]
 *Description*: FireWire is Apple's name for the IEEE 1394 High Speed Serial Bus, a serial bus architecture for high-speed data transfer.
 
@@ -63,40 +55,34 @@ Do not use "Firewire" or "firewire." Although FireWire is a trademark of Apple C
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Firewire, firewire
 
 *See also*: 
 
 [discrete]
-==== firmware
+==== firmware (noun)
 [[firmware]]
 *Description*: Software (programs or data) that has been written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs (programmable ROMs), and EPROMs (erasable PROMs) that have data or programs recorded on them are firmware.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: firm ware, firm-ware
 
 *See also*:
 
 [discrete]
-==== floating point
+==== floating point (noun)
 [[floating-point]]
 *Description*: The term floating point is derived from the fact that there is no fixed number of digits before and after the decimal point; that is, the decimal point can float.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: floating-point
 
 *See also*:
 
 [discrete]
-==== foreground
+==== foreground (noun)
 [[foreground]]
 *Description*: In multiprocessing systems, the process that is currently accepting input from the keyboard or other input device is sometimes called the foreground process.
 
@@ -104,14 +90,12 @@ On display screens, the foreground consists of the characters and pictures that 
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: fore-ground, forground
 
 *See also*:
 
 [discrete]
-==== Fortran
+==== Fortran (noun)
 [[fortran]]
 *Description*: A general-purpose, imperative programming language that is especially suited to numeric computation and scientific computing.
 
@@ -121,14 +105,12 @@ For later versions beginning with Fortran 90, use "Fortran".
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: fortran
 
 *See also*:
 
 [discrete]
-==== FQDN
+==== FQDN (noun)
 [[fqdn]]
 *Description*: A fully qualified domain name consists of a host and domain name, including top-level domain. For example, www.redhat.com is a fully qualified domain name. www is the host, redhat is the second-level domain, and .com is the top level domain.
 
@@ -136,14 +118,12 @@ A FQDN always starts with a host name and continues all the way up to the top-le
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Fqdn, fqdn
 
 *See also*:
 
 [discrete]
-==== front-end
+==== front-end (adjective)
 [[front-end-adj]]
 *Description*: Example of adjective: "This chapter explains how to use the front-end API functions."
     
@@ -151,14 +131,12 @@ Do not use "frontend" as noun or adjective.
 
 *Use it*: yes
 
-*Class*: adjective
-
 *Incorrect forms*: frontend
 
 *See also*: xref:front-end-n[front end]
 
 [discrete]
-==== front end
+==== front end (noun)
 [[front-end-n]]
 *Description*: Example of noun: "PRCS is a front end for a version control toolset."
 
@@ -166,46 +144,38 @@ Do not use "frontend" as noun or adjective.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: frontend
 
 *See also*: xref:front-end-adj[front-end] 
 
 [discrete]
-==== futex
+==== futex (noun)
 [[futex]]
 *Description*: A futex (short for "fast userspace mutex") is a Linux kernel system call that programmers can use to implement basic locking, or as a building block for higher-level locking abstractions.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*: xref:futexes[futexes], xref:mutex[mutex]
 
 [discrete]
-==== futexes
+==== futexes (noun)
 [[futexes]]
 *Description*: "Futex" is an abbreviation of "fast user-space mutex." Consequently, "futexes" is the correct plural form. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: 
 
 *See also*: xref:futex[futex], xref:mutexes[mutexes]
 
 [discrete]
-==== fuzzy
+==== fuzzy (adjective)
 [[fuzzy]]
 *Description*: Correct only when referring to fuzzy searches (the technique of finding strings that match a pattern approximately, rather than exactly). See http://www.stylepedia.net/#chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language[Avoiding Slang, Metaphors, and Misleading Language] for details and examples. 
 
 *Use it*: with caution
-
-*Class*: adjective
 
 *Incorrect forms*: 
 
