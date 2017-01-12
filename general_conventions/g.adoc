@@ -1,4 +1,5 @@
-.G&plus;&plus;
+[discrete]
+==== G&plus;&plus;
 [[gplusplus]]
 *Description*: G&plus;&plus; is a C&plus;&plus; compiler usually operated via the command line. 
 
@@ -12,7 +13,8 @@ When referring to the program, use "G&plus;&plus;".
 
 *See also*: xref:gplusplus-command[g&plus;&plus;]
 
-.g&plus;&plus;
+[discrete]
+==== g&plus;&plus;
 [[gplusplus-command]]
 *Description*: G&plus;&plus; is a C&plus;&plus; compiler usually operated via the command line. 
 
@@ -26,7 +28,8 @@ When referring to the command, use `g&plus;&plus;`, marked up appropriately.
 
 *See also*: xref:gplusplus[G&plus;&plus;]
 
-.GAS
+[discrete]
+==== GAS
 [[gas]]
 *Description*: Short for "GNU Assembler", the assembler used by the GNU Project. 
 
@@ -40,7 +43,8 @@ When referring to the program, use "GAS".
 
 *See also*: xref:gas-command[gas]
 
-.gas
+[discrete]
+==== gas
 [[gas-command]]
 *Description*: Short for "GNU Assembler", the assembler used by the GNU Project. 
 
@@ -54,7 +58,8 @@ When referring to the command, use `gas`, marked up appropriately.
 
 *See also*: xref:gas[GAS]
 
-.GB
+[discrete]
+==== GB
 [[gb]]
 *Description*: Abbreviation of gigabyte. Use a space between the value and the abbreviation. For example, "a 2 GB file".
 
@@ -66,7 +71,8 @@ When referring to the command, use `gas`, marked up appropriately.
 
 *See also*: xref:gigabyte[gigabyte]
 
-.Gbps
+[discrete]
+==== Gbps
 [[gbps]]
 *Description*: Short for Gigabits per second, a data transfer speed measurement for high-speed networks such as Gigabit Ethernet. When used to describe data transfer rates, a gigabit equals 1,000,000,000 bits.
 
@@ -78,7 +84,8 @@ When referring to the command, use `gas`, marked up appropriately.
 
 *See also*: 
 
-.GCC
+[discrete]
+==== GCC
 [[gcc]]
 *Description*: The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. 
 
@@ -92,7 +99,8 @@ When referring to the program, use "GCC".
 
 *See also*: xref:gcc-command[gcc]
 
-.gcc
+[discrete]
+==== gcc
 [[gcc-command]]
 *Description*: The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. 
 
@@ -106,7 +114,8 @@ When referring to the command, use `gcc`, marked up appropriately.
 
 *See also*: xref:gcc[GCC]
 
-.GCJ
+[discrete]
+==== GCJ
 [[gcj]]
 *Description*: The GNU Compiler for Java (GCJ) was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from GCJ. In 2016, GCJ was removed from GCC.
 
@@ -120,7 +129,8 @@ When referring to the program, use "GCJ".
 
 *See also*: xref:gcj-command[gcj], xref:gcc[GCC]
 
-.gcj
+[discrete]
+==== gcj
 [[gcj-command]]
 
 *Description*: The GNU Compiler for Java (GCJ) was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from GCJ. In 2016, GCJ was removed from GCC.
@@ -135,7 +145,8 @@ When referring to the command, use `gcj`, marked up appropriately.
 
 *See also*: xref:gcj[GCJ], xref:gcc-command[gcc]
 
-.GDB
+[discrete]
+==== GDB
 [[gdb]]
 *Description*: The GNU Debugger (GDB), is the standard debugger for the GNU operating system. It is a portable debugger that runs on many UNIX-like systems and works for many programming languages.
 
@@ -149,7 +160,8 @@ When referring to the program, use "GDB".
 
 *See also*: xref:gdb-command[gdb]
 
-.gdb
+[discrete]
+==== gdb
 [[gdb-command]]
 *Description*: The GNU Debugger (GDB), is the standard debugger for the GNU operating system. It is a portable debugger that runs on many UNIX-like systems and works for many programming languages.
 
@@ -163,7 +175,8 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *See also*: xref:gdb[GDB]
 
-.GID
+[discrete]
+==== GID
 [[gid]]
 *Description*: Acronym for Group ID. Do not use "gid". 
 
@@ -175,7 +188,8 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *See also*:
 
-.gigabyte
+[discrete]
+==== gigabyte
 [[gigabyte]]
 *Description*: 2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB". 
 
@@ -187,7 +201,8 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *See also*: xref:gb[GB]
 
-.GIMP
+[discrete]
+==== GIMP
 [[gimp]]
 *Description*: Acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp". 
 
@@ -199,7 +214,8 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *See also*: 
 
-.GNOME
+[discrete]
+==== GNOME
 [[gnome]]
 *Description*: An open-source desktop environment for UNIX systems. 
 
@@ -211,7 +227,8 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *See also*: xref:gnome-classic[Gnome Classic]
 
-.GNOME Classic
+[discrete]
+==== GNOME Classic
 [[gnome-classic]]
 *Description*: Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GNOME Display Manager (GDM) login screen, that is, "GNOME Classic". The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere). 
 
@@ -223,7 +240,8 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *See also*: 
 
-.GNU
+[discrete]
+==== GNU
 [[gnu]]
 *Description*: Recursive initialism for "GNU's Not UNIX". GNU is a UNIX-like, open source operating system. Do not use "Gnu" or "gnu". 
 
@@ -235,7 +253,8 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *See also*:
 
-.GNUPro
+[discrete]
+==== GNUPro
 [[gnupro]]
 *Description*: GNUPro Toolkit for Linux is designed for developing both commercial and noncommercial Linux applications on native Linux platforms. It is a set of tested and certified, open-source, GNU standard C, C++ and assembly language development tools. 
 
@@ -249,7 +268,8 @@ When referring to the Red Hat product, use GNUPro.
 
 *See also*: 
 
-.GPL
+[discrete]
+==== GPL
 [[gpl]]
 *Description*: Initialism for General Public License. Do not use "Gpl" or "gpl".
 
@@ -261,7 +281,8 @@ When referring to the Red Hat product, use GNUPro.
 
 *See also*: 
 
-.grayscale
+[discrete]
+==== grayscale
 [[grayscale]]
 *Description*: A range of gray shades from white to black, as used in a monochrome display or printout. 
 
@@ -275,7 +296,8 @@ Do not use "gray-scale" or "gray scale". Only the noun form is currently recogni
 
 *See also*: 
 
-.GRUB
+[discrete]
+==== GRUB
 [[grub]]
 *Description*: Linux boot loader. Short for "GRand Unified Bootloader".
 
@@ -287,7 +309,8 @@ Do not use "gray-scale" or "gray scale". Only the noun form is currently recogni
 
 *See also*: 
 
-.GTK&plus;
+[discrete]
+==== GTK&plus;
 [[gtkplus]]
 *Description*: Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk". 
 
@@ -299,7 +322,8 @@ Do not use "gray-scale" or "gray scale". Only the noun form is currently recogni
 
 *See also*:
 
-.guest operating system
+[discrete]
+==== guest operating system
 [[guest-operating-system]]
 *Description*: Refers to the operating system that is installed in a virtual machine. Do not use "guest" by itself, because it is ambiguous. 
 

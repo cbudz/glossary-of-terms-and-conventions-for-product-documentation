@@ -1,4 +1,5 @@
-.PaaS
+[discrete]
+==== PaaS
 [[paas]]
 *Description*: This is the correct abbreviation for Platform-as-a-Service. In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Software-as-a-Service), hyphens are always used.
 Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as banners, use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same abbreviation is used across all groups.
@@ -10,7 +11,8 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 
 
-.PC
+[discrete]
+==== PC
 [[pc]]
 *Description*: Use to refer to a personal computer. See _The IBM Style Guide_ for further information. 
 
@@ -20,7 +22,8 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 
 
-.PHP
+[discrete]
+==== PHP
 [[php]]
 *Description*: Use PHP when referring to the language in general. Use **php** when referring to the specific command or some other literal use.
 
@@ -32,7 +35,8 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 
 
-.Pico
+[discrete]
+==== Pico
 [[pico]]
 *Description*: Capitalize when referring to the text editor or to the programming language. Do not capitalize when referring to the SI prefix.
 
@@ -42,7 +46,8 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 
 
-.plain text
+[discrete]
+==== plain text
 [[plain-text]]
 *Description*: Correct in almost all cases. We use "plain text" as a plain English denotation of all unencrypted information, whether it is sitting about just being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext." 
 
@@ -55,7 +60,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.please
+[discrete]
+==== please
 [[please]]
 *Description*: Instead of saying "Please refer to the _Getting Started Guide_," use "See the _Getting Started Guide_."
 
@@ -65,7 +71,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.pluggable
+[discrete]
+==== pluggable
 [[pluggable]]
 *Description*: Something that is capable of being plugged in, especially in terms of (for example) software modules. "Hot-pluggable" is also widely used with respect to hardware to indicate that it can be connected and recognized without powering down the system.
 
@@ -77,7 +84,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.plug-in
+[discrete]
+==== plug-in
 [[plugin]]
 *Description*: A hardware or software module that adds a specific feature or service to a larger system. For example, a number of plug-ins are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator plug-ins are based on MIME file types.
 
@@ -86,7 +94,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 *Class*: noun
 
 
-.pop-up
+[discrete]
+==== pop-up
 [[popup]]
 *Description*: A pop-up is a graphical user interface ( GUI ) display area, usually a small window, that suddenly appears ("pops up") in the foreground of the visual interface. Pop-ups can be initiated by a single or double mouse click or rollover (sometimes called a mouseover). A pop-up window must be smaller than the background window or interface; otherwise, it's a replacement interface.
 
@@ -98,7 +107,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.PostScript
+[discrete]
+==== PostScript
 [[postscript]]
 *Description*: This is a registered trademark of Adobe.
 
@@ -110,7 +120,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.PowerPC
+[discrete]
+==== PowerPC
 [[powerpc]]
 *Description*: Depending on context, either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM POWER Series" (which covers the IBM POWER2 and IBM POWER8 series) is correct. The PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM POWER series hardware in almost all cases.
 
@@ -122,7 +133,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.POSIX
+[discrete]
+==== POSIX
 [[posix]]
 *Description*: POSIX is an acronym for Portable Operating System Interface for Unix.
 
@@ -134,7 +146,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.PPP
+[discrete]
+==== PPP
 [[ppp]]
 *Description*: Point-to-Point Protocol is a data link (layer 2) protocol used to establish a direct connection between two nodes. It can provide connection authentication, transmission encryption (using ECP, RFC 1968), and compression.
 
@@ -146,7 +159,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.press
+[discrete]
+==== press
 [[press]]
 *Description*: Use for keyboard instructions. For example, "Press the **Enter** key.
 
@@ -156,7 +170,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.proof of concept
+[discrete]
+==== proof of concept
 [[proof-of-concept]]
 *Description*: Use the following rules to form the plural of this phrase:
 
@@ -171,7 +186,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.pseudo-ops
+[discrete]
+==== pseudo-ops
 [[pseudoops]]
 *Description*: Pseudo op stands for pseudo operation and is sometimes called assembler directive. These are keywords that do not directly translate to a machine instruction. 
 
@@ -183,7 +199,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.pSeries
+[discrete]
+==== pSeries
 [[pseries]]
 *Description*: IBM eServer System p is correct for the first reference in a manual; use IBM System p or System p for subsequent references.
 
@@ -193,7 +210,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.pulldown
+[discrete]
+==== pulldown
 [[pulldown]]
 *Description*: The common type of menu used with a graphical user interface (GUI). Clicking a menu title causes the menu items to appear to drop down from that position and display. Options are selected either by clicking the menu item or by continuing to hold the mouse button down and letting go when the item is highlighted.
 
@@ -205,7 +223,8 @@ Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext
 
 
 
-.PXE
+[discrete]
+==== PXE
 [[pxe]]
 *Description*: PXE is an acronym for Pre-Boot Execution Environment. Pronounced "pixie," PXE is one of the components of Intel's Wired for Management (WfM) specification. It allows a workstation to boot from a server on a network in preference to booting the operating system on the local hard drive. PXE is a mandatory element of the WfM specification. To be considered compliant, PXE must be supported by the computer's BIOS and its NIC.
 
