@@ -1,0 +1,12 @@
+[discrete]
+==== now
+[[now]]
+*Description*: Now means at the present time, immediately, or at once.
+
+*Use it*: yes
+
+*Class*: adverb
+
+*Incorrect forms*: right now
+
+*See also*: xref:right-now[right-now]
