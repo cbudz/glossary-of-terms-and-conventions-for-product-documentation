@@ -69,17 +69,6 @@ One ingredient of an environment, therefore, is the operating system. But operat
 *See also*:
 
 [discrete]
-==== exclamation points (!)
-[[exclamation-points]]
-*Description*: Do not use at the end of sentences. An exclamation point can be used when referring to a command, such as the bang (!) command. 
-
-*Use it*: no
-
-*Incorrect forms*: 
-
-*See also*:
-
-[discrete]
 ==== Exec-Shield (noun)
 [[exec-shield]]
 *Description*: Exec-Shield is a security-enhancing modification to the Linux kernel that makes large parts of specially-marked programs including their stack not executable. 
