@@ -67,11 +67,11 @@
 [discrete]
 ==== kernel oops (noun)
 [[kernel-oops]]
-*Description*: A kernal oops is an error in the Linux kernel.
+*Description*: A kernal oops is an error in the Linux kernel. Do not use only "oops".
 
 *Use it*: yes
 
-*Incorrect forms*:
+*Incorrect forms*: oops
 
 *See also*: xref:kernel[kernel], xref:kernel-panic[kernel panic]
 
