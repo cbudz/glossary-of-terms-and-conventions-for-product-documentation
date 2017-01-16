@@ -1,274 +1,256 @@
 [[red-hat-ceph-storage-conventions]]
 
-Responsible person: Bara Ancincova (bara@redhat.com)
+Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-docs@redhat.com)
 
 [discrete]
-==== bucket
+==== bucket (noun)
 [[bucket]]
 *Description*: ADD ME
  
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*: 
 
 [discrete]
-==== bucket index
+==== bucket index (noun)
 [[bucket-index]]
 *Description*: ADD ME
  
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*: 
 
 [discrete]
-==== BlueStore
+==== BlueStore (noun)
 [[bluestore]]
 *Description*: BlueStore is an OSD back end that utilizes block devices directly.
  
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: bluestore, Blue Store
 
-*See also*: xref:filestore[FileStore], xref:objectstore[ObjectStore]
+*See also*: xref:filestore[FileStore], xref:object-store[Object Store]
 
 [discrete]
-==== Ceph
+==== Ceph (noun)
 [[ceph]]
 *Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: CEPH, ceph
 
 *See also*: xref:red-hat-ceph-storage[Red Hat Ceph Storage], xref:ceph-command[ceph]
 
 [discrete]
-==== ceph
+==== ceph (noun)
 [[ceph-command]]
 *Description*: The Ceph command-line utility. Always mark it properly (`ceph`).
  
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: CEPH
 
 *See also*: xref:ceph[Ceph]
 
 [discrete]
-==== Ceph Block Device
+==== Ceph Block Device (noun)
 [[ceph-block-device]]
 *Description*: The block storage component of Ceph. Also known as the RADOS Block Device, however prefer using the Ceph Block Device.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Ceph block device, Ceph block devices
 
 *See also*: xref:rados-block-device[RADOS Block Device], xref:RBD[RBD], xref:rbd[rbd], xref:librbd[librbd]
 
 [discrete]
-==== CephFS
+==== CephFS (noun)
 [[cephfs]]
-*Description*: Initialization for the Ceph File System. 
+*Description*: CephFS is an initialization for the Ceph File System. 
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: cephfs
 
 *See also*: xref:ceph-file-system[Ceph File System]
 
 [discrete]
-==== Ceph File System
+==== Ceph File System (noun)
 [[ceph-file-system]]
 *Description*: The POSIX file system component of Ceph.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Ceph filesystem, Ceph file system
 
 *See also*: xref:cephfs[Ceph File System]
 
 [discrete]
-==== Ceph Monitor
+==== Ceph Monitor (noun)
 [[ceph-monitor]]
 *Description*: ADD ME
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Ceph monitor
 
-*See also*: 
+*See also*: xref:ceph-mon[ceph-mon]
 
 [discrete]
-==== ceph-ansible
+==== ceph-ansible (noun)
 [[ceph-ansible]]
 *Description*: `ceph-ansible` is a utility that provides Ansible playbooks for installing, managing, and upgrading the Ceph Storage Cluster. Always mark it properly (`ceph-ansible`).
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Ceph Ansible
 
 *See also*: 
 
 [discrete]
-==== ceph-mds
+==== ceph-mds (noun)
 [[ceph-mds]]
 
 *Description*: `ceph-mds` is the metadata server daemon. One or more instances of `ceph-mds` collectively manage the file system namespace, coordinating access to the shared OSD cluster. Always mark it properly (`ceph-mds`)
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
-*See also*: xref:metadata-server[Metadata Server], xref:[MDS]
+*See also*: xref:metadata-server[Metadata Server], xref:mds[MDS]
 
 [discrete]
-==== ceph-mon
+==== ceph-mon (noun)
 [[ceph-mon]]
 
 *Description*: `ceph-mon` is the Ceph Monitor daemon. Always mark it properly (`ceph-mon`).
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
-*See also*: 
+*See also*: xref:ceph-monitor[Ceph Monitor]
 
 [discrete]
-==== ceph-osd
+==== ceph-osd (noun)
 [[ceph-osd]]
 
 *Description*: `ceph-osd` is the Ceph object storage daemon that is responsible for storing objects on local file system and providing access to them over network. Always mark it properly (`ceph-osd`).
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:osd[OSD], xref:object-storage-device[Object Storage Device], 
 
 [discrete]
-==== Ceph Object Gateway
+==== Ceph Object Gateway (noun)
 [[ceph-object-gateway]]
 *Description*: The S3/Swift component of Ceph. Also known as RADOS gateway. However, prefer using the Ceph Object Gateway.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Ceph object gateway, Ceph object gateways
 
-*See also*: xref:rados-gateway[RADOS gateway], xref:rgw[RGW]
+*See also*: xref:rados-gateway[RADOS Gateway], xref:rgw[RGW], xref:ceph-radosgw[ceph-radosgw]
 
 [discrete]
-==== CRUSH
-[[crush]]
-*Description*: Abbreviation for Controlled Replication Under Scalable Hashing. This is the mechanism of data distribution in a Ceph cluster. Use all capital letters when referring to CRUSH. Do not expand, only when explaining what the abbreviation means.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*:
-
-*See also*:
-
-[discrete]
-==== CRUSH map
-[[crush-map]]
+==== ceph-radosgw (noun)
+[[ceph-radosgw]]
 *Description*: ADD ME
 
 *Use it*: yes
 
-*Class*: noun
+*Incorrect forms*:
+
+*See also*: xref:ceph-object-gateway[Ceph Object Gateway], xref:rados-gateway[RADOS Gateway], xref:rgw[RGW]
+
+[discrete]
+==== CRUSH (noun)
+[[crush]]
+*Description*: Abbreviation for Controlled Replication Under Scalable Hashing. This is the mechanism of data distribution in a Ceph cluster. Use all capital letters when referring to CRUSH. Do not expand, only when explaining what the abbreviation means. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#crush[CRUSH] section in the Red Hat Ceph Storage Architecture Guide for details.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:crush-map[CRUSH map]
+
+[discrete]
+==== CRUSH map (noun)
+[[crush-map]]
+*Description*: A CRUSH map contain a list of OSDs, a list of buckets for aggregating the devices into physical locations, and a list of rules that tell CRUSH how it should replicate data in a Ceph cluster’s pools. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#crush[CRUSH] section in the Red Hat Ceph Storage Architecture Guide for details.
+
+*Use it*: yes
 
 *Incorrect forms*: crush map, crushmap
 
 *See also*: xref:crush[CRUSH]
 
 [discrete]
-==== FileStore
+==== FileStore (noun)
 [[filestore]]
 *Description*: FileStore is an OSD back end responsible for the OSD data that writes objects as files on a file system.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: filestore, File Store
 
 *See also*: xref:bluestore[BlueStore] 
 
 [discrete]
-==== indexless bucket
+==== federated (adjective)
+[[federated]]
+*Description*: In Red Hat Ceph Storage 1.3, you can configure the Ceph Object Gateway to participate in a federated architecture with multiple regions and with multiple zones for a region.
+ 
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:multi-site[multi-site]
+
+[discrete]
+==== indexless bucket (noun)
 [[indexless-bucket]]
 *Description*: A bucket that does not maintain an index.
  
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*: xref:bucket-index[bucket index]
 
 [discrete]
-==== librados
+==== librados (noun)
 [[librados]]
 *Description*: A shared library allowing applications to access the RADOS object store.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Librados, LIBRADOS
 
 *See also*: xref:rados[RADOS]
 
 [discrete]
-==== librbd
+==== librbd (noun)
 [[librbd]]
 *Description*: A shared library allowing applications to access Ceph Block Devices.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Librbd, LIBRBD
 
 *See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:RBD[RBD]
 
 [discrete]
-==== MDS
+==== MDS (noun)
 [[mds]]
-*Description*: ADD ME
+*Description*: MDS is an ancronym for the Ceph Metadata Server.
 
 *Use it*: yes
 
@@ -278,114 +260,118 @@ Responsible person: Bara Ancincova (bara@redhat.com)
 
 *See also*: xref:metadata-server[Metadata Server], xref:ceph-mds[ceph-mds]
 
-
 [discrete]
-==== Metadata Server
+==== Metadata Server (noun)
 [[metadata-server]]
 *Description*: ADD ME
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*: xref:mds[MDS], xref:ceph-mds[ceph-mds]
 
 [discrete]
-==== Object Store
+==== multi-site (adjective)
+[[multi-site]]
+*Description*: In Red Hat Ceph Storage 2, you can configure the Ceph Object Gateway to participate in a multi-site architecture that consists of one zone group and multiple zones each zone with one or more `ceph-radosgw` instances. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/paged/object-gateway-guide-for-ubuntu/chapter-8-multi-site[Multi-site] chapter in the Red Hat Ceph Storage 2 Object Gateway Guide for details.
+
+*Use it*: yes
+
+*Incorrect forms*: multi site, multisite
+
+*See also*: xref:federated[federated]
+
+[discrete]
+==== Object Store (noun)
 [[object-store]]
 *Description*: A core component of the Ceph Storage Cluster. Also referred as RADOS.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*: xref:rados[RADOS]
 
 [discrete]
-==== Object Storage Device
+==== Object Storage Device (noun)
 [[object-storage-device]]
 *Description*: ADD ME
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:ceph-osd[ceph-osd], xref:osd[OSD], xref:osd-daemon[OSD daemon]
 
 [discrete]
-==== OSD Daemon
+==== OSD Daemon (noun)
 [[osd-daemon]]
 *Description*: ADD ME
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:ceph-osd[ceph-osd], xref:osd[OSD], xref:object-storage-device[Object Storage Device]
 
 [discrete]
-==== OSD
+==== OSD (noun)
 [[osd]]
 *Description*: ADD ME
 
 *Use it*: yes
 
-*Class*: noun
-
-*Incorrect forms*:
+*Incorrect forms*: xref:ceph-osd[ceph-osd], xref:object-storage-device[Object Storage Device], xref:osd-daemon[OSD daemon]
 
 *See also*:
 
 [discrete]
-==== Placement Group
+==== PC (noun)
+[[pc]]
+*Description*: An acronym for Placement Group. 
+ 
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:placement-group[placement group]
+
+[discrete]
+==== placement group (noun)
 [[placement-group]]
-*Description*: Aggregates a series of objects into a group, and maps the group 
-into a series of OSDs.
+*Description*: Aggregates a series of objects into a group, and maps the group into a series of OSDs. Write "Placement Group" (both first letters in uppercase) only when explaining the PC acronym, then write "placement group" (in lowercase). See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#placement_groups_pgs[Placement Groups] section in the Red Hat Ceph Storage Architecture Guide for details.
  
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
-*See also*: 
+*See also*: xref:pc[PC]
 
 [discrete]
-==== Placement Target
+==== placement target (noun)
 [[placement-target]]
-*Description*: A configurable rule that determines where bucket data is stored.
+*Description*: A configurable rule that determines where bucket data is stored. TODO: does this have to be first letters in uppercase? 
  
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*: 
 
 [discrete]
-==== pool
+==== pool (noun)
 [[pool]]
-*Description*: ADD ME
+*Description*: A logical unit in which Ceph stores data. You can create pools for particular types of data, such as for Ceph Block Devices, Ceph Object Gateways, or simply just to separate one group of users from another. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#pools[Pools] chapter in the Red Hat Ceph Storage Architecture Guide for details.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*:
 
 [discrete]
-==== RADOS
+==== RADOS (noun)
 [[rados]]
 *Description*: Acronym for Reliable Autonomic Distributed Object Storage. A core component of the Ceph Storage Cluster. Do not expand, unless explaining what the acronym means. Also referred as Object Store.
 
@@ -398,69 +384,93 @@ into a series of OSDs.
 *See also*: xref:object-store[Object Store]
 
 [discrete]
-==== RADOS Block Device
+==== RADOS Block Device (noun)
 [[rados-block-device]]
 *Description*: The block storage component of Ceph. Also known as the Ceph Block Device, which is the preferred form. Use RADOS Block Device only when expanding the RBD acronym.
 
 *Use it*: with caution
-
-*Class*: noun
 
 *Incorrect forms*: RADOS block device
 
 *See also*: xref:ceph-block-device[Ceph Block Device], xref:RBD[RBD], xref:rbd[rbd], xref:librbd[librbd]
 
 [discrete]
-==== RADOS gateway
+==== RADOS Gateway (noun)
 [[rados-gateway]]
-*Description*: The S3/Swift component of Ceph. Also known as the Ceph Object Gateway, which is the preferred form. Use RADOS gateway only when expanding the RGW acronym.
+*Description*: The S3/Swift component of Ceph. Also known as the Ceph Object Gateway, which is the preferred form. Use RADOS Gateway only when expanding the RGW acronym.
 
 *Use it*: with caution
 
-*Class*: noun
+*Incorrect forms*: RadosGW, RADOS gateway
 
-*Incorrect forms*:
-
-*See also*: xref:ceph-object-gateway[Ceph Object Gateway], xref:rgw[RGW]
+*See also*: xref:ceph-object-gateway[Ceph Object Gateway], xref:rgw[RGW], xref:ceph-radosgw[ceph-radosgw]
 
 [discrete]
-==== RBD
+==== RBD (noun)
 [[RBD]]
 *Description*: Acronym for RADOS Block Device.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: rbd
 
 *See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:rbd[rbd], xref:librbd[librbd]
 
 [discrete]
-==== rbd
+==== rbd (noun)
 [[rbd]]
 *Description*: A command to create, list, introspect, and remove Ceph Block Device images. Always mark it properly (`rbd`).
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: 
 
 *See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:RBD[RBD], xref:librbd[librbd]
 
 [discrete]
-==== RGW
+==== realm (noun)
+[[realm]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== region (noun)
+[[region]]
+*Description*: ADD ME
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== RGW (noun)
 [[rgw]]
-*Description*: <description>
+*Description*: Acronym for RADOS Gateway.
 
-*Use it*: <yes/no/with caution>
+*Use it*: yes
 
-*Class*: <class>
+*Incorrect forms*:
 
-*Incorrect forms*: <incorrect-form>
+*See also*: xref:rados-gateway[RADOS Gateway], xref:ceph-object-gateway[Ceph Object Gateway]
 
-*See also*: xref:<another-anchor-tag>[<another-term>]
+[discrete]
+==== scrubbing (noun)
+[[scrubbing]]
+*Description*: A database shard is a horizontal partition of data in a database or search engine. Each individual partition is referred to as a shard or database shard. Each shard is held on a separate database server instance, to spread load.
+*Description*: Scrubbing is a process when Ceph OSD Daemons compare object metadata in one placement group with its replicas in placement groups stored on other OSD node. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#scrubbing[Scrubbing] section in the Red Hat Ceph Architecture Guide for details.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: 
 
 [discrete]
 ==== shard (noun)
@@ -468,8 +478,6 @@ into a series of OSDs.
 *Description*: ADD ME
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
@@ -482,86 +490,39 @@ into a series of OSDs.
 
 *Use it*: yes
 
-*Class*: verb
-
 *Incorrect forms*:
 
 *See also*: xref:shard-n[shard (noun)], xref:sharding[sharding]
 
 [discrete]
-==== sharding
+==== sharding (noun)
 [[sharding]]
 *Description*: ADD ME
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*: xref:shard-n[shard (noun)], xref:shard-v[shard (verb)]
 
 [discrete]
-==== <term>
-[[<anchor-tag>]]
-*Description*: <description>
+==== zone (noun)
+[[zone]]
+*Description*: ADD ME
 
-*Use it*: <yes/no/with caution>
+*Use it*: yes
 
-*Class*: <class>
+*Incorrect forms*:
 
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
+*See also*: xref:zone-group[zone group]
 
 [discrete]
-==== <term>
-[[<anchor-tag>]]
-*Description*: <description>
+==== zone group (noun)
+[[zone-group]]
+*Description*: ADD ME
 
-*Use it*: <yes/no/with caution>
+*Use it*: yes
 
-*Class*: <class>
+*Incorrect forms*: zonegroup, zone-group
 
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
-[discrete]
-==== <term>
-[[<anchor-tag>]]
-*Description*: <description>
-
-*Use it*: <yes/no/with caution>
-
-*Class*: <class>
-
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
-[discrete]
-==== <term>
-[[<anchor-tag>]]
-*Description*: <description>
-
-*Use it*: <yes/no/with caution>
-
-*Class*: <class>
-
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
-
-[discrete]
-==== <term>
-[[<anchor-tag>]]
-*Description*: <description>
-
-*Use it*: <yes/no/with caution>
-
-*Class*: <class>
-
-*Incorrect forms*: <incorrect-form>
-
-*See also*: xref:<another-anchor-tag>[<another-term>]
+*See also*: xref:zone[zone]
