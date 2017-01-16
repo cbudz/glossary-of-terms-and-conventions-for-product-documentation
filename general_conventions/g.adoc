@@ -1,28 +1,28 @@
 [discrete]
-==== G&plus;&plus; (noun)
+==== G++ (noun)
 [[gplusplus]]
-*Description*: G&plus;&plus; is a C&plus;&plus; compiler usually operated via the command line. 
+*Description*: G++ is a C++ compiler usually operated via the command line. 
 
-When referring to the program, use "G&plus;&plus;".
+When referring to the program, use "G++".
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:gplusplus-command[g&plus;&plus;]
+*See also*: xref:gplusplus-command[g++]
 
 [discrete]
-==== g&plus;&plus; (noun)
+==== g++ (noun)
 [[gplusplus-command]]
-*Description*: G&plus;&plus; is a C&plus;&plus; compiler usually operated via the command line. 
+*Description*: G++ is a C++ compiler usually operated via the command line. 
 
-When referring to the command, use `g&plus;&plus;`, marked up appropriately.
+When referring to the command, use `g++`, marked up appropriately.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:gplusplus[G&plus;&plus;]
+*See also*: xref:gplusplus[G++]
 
 [discrete]
 ==== GAS (noun)
@@ -266,7 +266,7 @@ Do not use "gray-scale" or "gray scale". Only the noun form is currently recogni
 *See also*: 
 
 [discrete]
-==== GTK&plus; (noun)
+==== GTK+ (noun)
 [[gtkplus]]
 *Description*: Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk". 
 
