@@ -105,7 +105,7 @@
 [discrete]
 ==== time frame
 [[time_frame]]
-*Description*: It is most commonly styled as two words with no hyphen in between.
+*Description*: A period of time with respect to some action or project. It is most commonly styled as two words with no hyphen in between.
 
 *Use it*: yes
 
