@@ -1,7 +1,7 @@
 [discrete]
 ==== UID
-[[UID]]
-*Description*: UID and User ID are abbreviations of user identifier.
+[[uid]]
+*Description*: UID and User ID are abbreviations of user identifier. UID is a unique identifier associated with a single entity within a given system.
 
 *Use it*: yes
 
@@ -9,7 +9,7 @@
 
 *Incorrect forms*: uid
 
-*See also*:
+*See also*: xref:userid[userid]
 
 [discrete]
 ==== ⁠UltraSPARC
@@ -131,7 +131,7 @@
 [discrete]
 ==== ⁠upstream
 [[upstream]]
-*Description*: Correct. Use the one-word form for both the nominal and adjectival forms. 
+*Description*: Use the one-word form for both the nominal and adjectival forms. Data sent from a customer to a network service provider.
 
 *Use it*: yes
 
@@ -139,12 +139,12 @@
 
 *Incorrect forms*: up-stream, up stream
 
-*See also*: *See also* downstream. 
+*See also*: xref:downstream[downstream] 
 
 [discrete]
 ==== ⁠uptime
 [[uptime]]
-*Description*: Use one-word form.
+*Description*: Use one-word form. The time during which a computer or server is in operation.
 
 *Use it*: yes
 
@@ -156,8 +156,8 @@
 
 [discrete]
 ==== URL
-[[URL]]
-*Description*: Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com. 
+[[url]]
+*Description*: A Uniform Resource Locator (URL) provides a way to locate a resource on the web, the hypertext system that operates over the internet. The URL contains the name of the protocol to be used to access the resource and a resource name. Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com. 
 
 *Use it*: yes
 
@@ -170,7 +170,7 @@
 [discrete]
 ==== ⁠usable
 [[usable]]
-*Description*: Correct.
+*Description*: Capable of being used.
 
 *Use it*: yes
 
@@ -185,7 +185,7 @@
 [[user]]
 *Description*: When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead. If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may wish to access your database." 
 
-*Use it*: no
+*Use it*: with caution
 
 *Class*: noun
 
@@ -204,27 +204,14 @@
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:uid[UID]
 
 [discrete]
-==== ⁠user interface
-[[user_interface]]
-*Description*: Correct. The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. A command-driven interface is one in which you enter commands. A menu-driven interface is one in which you select command choices from various menus displayed on the screen. 
+==== username
+[[username]]
+*Description*: Do not use "username" unless you are using it as a variable. 
 
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: user-interface, userinterface
-
-*See also*:
-
-[discrete]
-==== user name
-[[user_name]]
-*Description*: Correct. Do not use "username" unless you are using it as a variable. 
-
-*Use it*: yes
+*Use it*: with caution
 
 *Class*: noun
 
@@ -234,8 +221,8 @@
 
 [discrete]
 ==== user space
-[[user_space]]
-*Description*: Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space."
+[[user-space]]
+*Description*: Use "user space" when used as a noun. 
 
 *Use it*: yes
 
@@ -243,17 +230,17 @@
 
 *Incorrect forms*: userspace
 
-*See also*:
+*See also*: xref:user-space[user-space-a]
 
 [discrete]
-==== ⁠⁠utilize
-[[utilize]]
-*Description*: Avoid this term. Write "use" instead. 
+==== user-space
+[[user-space-a]]
+*Description*: When used as a modifier, use the hyphenated form, "user-space."
 
-*Use it*: no
+*Use it*: yes
 
-*Class*: noun
+*Class*: adjective
 
-*Incorrect forms*:
+*Incorrect forms*: userspace
 
-*See also*:
+*See also*: xref:user-space[user-space]
