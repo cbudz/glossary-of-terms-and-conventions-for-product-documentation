@@ -553,6 +553,6 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 
 *Use it*: yes
 
-*Incorrect forms*: Sys V, System V
+*Incorrect forms*:
 
 *See also*: 
