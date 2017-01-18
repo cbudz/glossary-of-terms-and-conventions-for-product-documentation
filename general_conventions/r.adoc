@@ -152,7 +152,7 @@
 
 *Incorrect forms*: Red Hat Satellite (Server)
 
-*See also*: xref:red-hat-network-proxy-server[Red Hat Network Proxy Server
+*See also*: xref:red-hat-network-proxy-server[Red Hat Network Proxy Server]
 
 [discrete]
 ==== Red Hat Network Proxy Server (noun)
