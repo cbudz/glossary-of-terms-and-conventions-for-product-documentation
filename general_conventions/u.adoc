@@ -79,7 +79,7 @@
 [discrete]
 ==== ⁠upgrade
 [[upgrade]]
-*Description*: Correct.
+*Description*: Raise (something) to a higher standard, in particular improve by adding or replacing components. For example, "Upgrade the RHEL version".
 
 *Use it*: yes
 
@@ -207,21 +207,8 @@
 *See also*: xref:uid[UID]
 
 [discrete]
-==== username
-[[username]]
-*Description*: Do not use "username" unless you are using it as a variable. 
-
-*Use it*: with caution
-
-*Class*: noun
-
-*Incorrect forms*:
-
-*See also*:
-
-[discrete]
 ==== user space
-[[user-space]]
+[[user-space-n]]
 *Description*: Use "user space" when used as a noun. 
 
 *Use it*: yes
@@ -230,11 +217,11 @@
 
 *Incorrect forms*: userspace
 
-*See also*: xref:user-space[user-space-a]
+*See also*: xref:user-space-adj[user-space]
 
 [discrete]
 ==== user-space
-[[user-space-a]]
+[[user-space-adj]]
 *Description*: When used as a modifier, use the hyphenated form, "user-space."
 
 *Use it*: yes
@@ -243,4 +230,4 @@
 
 *Incorrect forms*: userspace
 
-*See also*: xref:user-space[user-space]
+*See also*: xref:user-space-n[user space]
