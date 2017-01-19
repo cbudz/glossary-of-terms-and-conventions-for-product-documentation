@@ -33,7 +33,7 @@
 
 [discrete]
 ==== third-party (adjective)
-[[third-party]]
+[[third-party-adj]]
 *Description*: Use "third-party" as the adjectival form. Consult a dictionary for more examples. 
 
 *Use it*: yes
@@ -44,7 +44,7 @@
 
 [discrete]
 ==== third party (noun)
-[[third-party]]
+[[third-party-n]]
 *Description*: Use "third party" as the nominal form. Consult a dictionary for more examples. 
 
 *Use it*: yes
