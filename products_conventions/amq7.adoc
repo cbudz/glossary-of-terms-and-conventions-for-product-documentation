@@ -191,7 +191,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 [discrete]
 ==== Destination (noun)
-[[connection]]
+[[destination]]
 *Description*: A named location for messages, such as a queue or a topic. Clients use destinations to specify the queue or topic from which to send or receive messages.
 
 *Use it*: yes
