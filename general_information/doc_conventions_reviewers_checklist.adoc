@@ -1,0 +1,64 @@
+[[reviewer_checklist]]
+= Reviewers' Checklist
+
+
+.Technical Documentation Reviewers' Checklist
+[options="header",cols="^3%,<88%,^9%"]
+|=====
+
+| |Answer the following questions about the entry.|Check when complete
+
+|1|Does the entry adhere to the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/template.adoc[template] in GitLab? |&#9744;
+
+|2|Is this entry unique, that is, not already included in Red Hat’s Glossary of Technical Terms and Conventions for Product Documentation?|&#9744;
+
+|3|Is this entry unique, that is, not included in The IBM Style Guide? Here’s an abridged version of http://www.ibm.com/developerworks/library/styleguidelines/[The IBM Style Guide]. Consult the full edition to be sure.|&#9744;
+
+|4|Is this entry unique, that is, not included in the https://mojo.redhat.com/docs/DOC-28115[Red Hat Corporate Style Guide]?|&#9744;
+
+|5|Does the entry include only one term?|&#9744;
+
+|6|Does the **Description** field include a definition of the entry?|&#9744;
+
+|7|Are there complete sentences in the **Description** field?|&#9744;
+
+|8|Are there links for any **See Also** items?|&#9744;
+
+|9|Do all links work?|&#9744;
+
+|10|Are the IDs in the correct format?
+**ID** instructions from template:
+<id> with the term in lowercase, if the term consists of more than one word, separate them with a hyphen ("-"). Do not use spaces, capital letters, or special characters (for example, slash ["/"]) in this name. If two entries have the same ID, see https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/template.adoc#two-entries-with-same-anchor-tag[What to do if two entries have the same ID?].|&#9744;
+
+|11|Is the document free of typograhic errors?|&#9744;
+
+|12|Is the document free of misspellings?|&#9744;
+
+|13|Does the entry includes all fields (even the empty ones)?|&#9744;
+
+|=====
+
+[[general_guidance]]
+== General Guidance
+
+* Use GitLab to review the files. 
+** Anyone who would like to add an entry should create a merge request. 
+** Reviewers should comment directly in the merge requests. 
+** Resolve discussions in the merge requests, so you will know what else needs to be resolved. 
+** Once you have verified that the file is ready to go, you can accept the merge request.
+* Keep all fields, even if a field is empty. It will be a placeholder if an entry is required at a later date.
+* Use the reviewers’ checklist when approving entries. . If we establish the checklist as part of the workflow from the beginning, it shouldn't be difficult to enforce.
+* If you are working directly in GitLab, you should be working with the latest version,  unless someone did some changes locally and did not push them to the GitLab repository.
+* If you are working on the guide via the command-line interface, the best practice is to always pull the latest version with `git rebase` or `git pull --rebase`. There is a good explanation of why this is so in https://gitlab.cee.redhat.com/red-hat-jboss-enterprise-application-platform-documentation/eap-documentation/blob/master/internal-resources/contributor-guide.adoc[JBoss EAP Documentation Contributor Guide].
+
+[NOTE]
+====
+See http://ccs-jenkins.gsslab.brq.redhat.com:8080/job/glossary-of-terms-and-conventions-for-product-documentation-branch-wip-instructions-edits/lastSuccessfulBuild/artifact/index.html#how_to_update_this_document[How to update this document] for information on editing the document under review. 
+
+See https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/merge_requests/38/diffs[merge requests] for information on submitting changes to GitLab.
+====
+
+[[rationale_team_decisions]]
+== Rationale for Team Decisions
+
+Having a template helps people inexperienced with AsciiDoc to add new entries easily; they are just replacing placeholders with content. Being able to check our documents automatically in Emender will save us all time and should also result in fewer bugs.
