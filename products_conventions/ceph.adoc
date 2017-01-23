@@ -463,7 +463,6 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== scrubbing (noun)
 [[scrubbing]]
-*Description*: A database shard is a horizontal partition of data in a database or search engine. Each individual partition is referred to as a shard or database shard. Each shard is held on a separate database server instance, to spread load.
 *Description*: Scrubbing is a process when Ceph OSD Daemons compare object metadata in one placement group with its replicas in placement groups stored on other OSD node. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#scrubbing[Scrubbing] section in the Red Hat Ceph Architecture Guide for details.
 
 *Use it*: yes
@@ -475,7 +474,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== shard (noun)
 [[shard-n]]
-*Description*: ADD ME
+*Description*: A database shard is a horizontal partition of data in a database or search engine. Each individual partition is referred to as a shard or database shard. Each shard is held on a separate database server instance, to spread load.
 
 *Use it*: yes
 
