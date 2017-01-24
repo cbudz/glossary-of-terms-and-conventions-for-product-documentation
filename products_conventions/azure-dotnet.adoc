@@ -1,0 +1,121 @@
+discrete]
+==== Azure Resource Manager (noun)
+[[arm]]
+*Description*: The Azure Resource Manager (ARM) is a Microsoft Azure utility that deploys, manages, and monitors resources in the Microsoft Azure portal. ARM mode commands can be enabled in the Microsoft Azure cross-platform command-line interface (xplat-cli). Microsoft Azure resources can then be managed remotely from a Red Hat Enterprise Linux server. ARM replaces ASM as the preferred mode for managing resources in Microsoft Azure.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:asm[Azure Service Management]
+
+
+[discrete]
+==== Azure Service Management (noun)
+[[asm]]
+*Description*: Azure Service Management (ASM) is a Microsoft Azure utility that deploys, manages, and monitors resources in the Microsoft Azure portal. ARM has replaced ASM as the preferred method for managing Azure resources.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:xref:arm[Azure Resource Manager]
+
+
+[discrete]
+==== Microsoft Azure (noun)
+[[azure]]
+*Description*: Microsoft Azure is a cloud computing platform and infrastructure for building, deploying, and managing applications and services through a global network of Microsoft-managed datacenters. (source: wikipedia). Always refer to it as Microsoft Azure to provide clarity unless the term is repeated multiple times in a sentence or paragraph.
+
+*Use it*: yes
+
+*Incorrect forms*: Azure
+
+*See also*:
+
+[discrete]
+==== Microsoft Azure Cross-Platform Command-Line Interface (noun)
+[[xplat]]
+*Description*: The Microsoft Azure Cross-Platform Command-Line Interface (Xplat-CLI) is a set of open source, cross-platform commands for managing Microsoft Azure platform resources. The Xplat CLI has several top-level commands that correspond to Microsoft Azure features. Typing `azure` at the x-plat cli will list each of the many Microsoft Azure subcommands. Do not use all uppercase letters for Xplat, and do not use any variant of Xplat-CLI.
+
+*Use it*: yes
+
+*Incorrect forms*: xplat-cli, x-plat-cli, xplat cli, x-plat cli, X-PLAT CLI, X-PLAT-CLI, XPLAT-CLI, XPLAT CLI
+
+*See also*:
+
+[discrete]
+==== Microsoft Azure On-Demand Marketplace (noun)
+[[on-demand]]
+*Description*: The Microsoft Azure On-Demand Marketplace is a Microsoft Azure storefront where users can locate and quickly install operating systems, programming languages, frameworks, tools, databases, and devices into their Microsoft Azure environment. Red Hat Enterprise Linux is available as a VM image within the Microsoft Azure On-Demand Marketplace, along with other Red Hat open source products. Always preface On-Demand Marketplace with Microsoft Azure to provide clarity unless the term is repeated multiple times in a sentence or paragraph.
+
+*Use it*: yes
+
+*Incorrect forms*: On-Demand Marketplace
+
+*See also*: 
+
+
+[discrete]
+==== Microsoft Azure portal (noun)
+[[azure-portal]]
+*Description*: The Microsoft Azure portal is a unified console graphical user interface (GUI) that allows users to build, manage, and monitor resources, web apps, and cloud applications. Do not capitalize portal; this is how Microsoft presents the portal's name.
+
+*Use it*: yes
+
+*Incorrect forms*: Microsoft Azure Portal
+
+*See also*: xref:xref:xref:arm[Azure Resource Manager]
+
+
+[discrete]
+==== .NET Core (noun)
+[[dotnet]]
+*Description*: Microsoft's newest development platform, .NET Core, is an open source and cross-platform framework for building cloud-based internet-connected applications, such as web apps, IoT apps, and mobile backends. All .NET Core applications can run on .NET Core or on the full .NET Framework. Always refer to it as .NET Core; all other variants are incorrect.
+
+*Use it*: yes
+
+*Incorrect forms*: dotNet Core, .Net Core, .NET, .Net
+
+*See also*:
+
+
+[discrete]
+==== provisioning (verb)
+[[provisioning]]
+*Description*: When discussing virtual machines (VMs), provisioning refers to a set of actions to prepare a VM with appropriate configuration options, data, and software to make it ready for operating in a cloud environment. In Microsoft Azure, RHEL VMs are provisioned using the Azure cross-platform command-line interface (Xplat-CLI) or using the Azure Resource Manager (ARM) in the Microsoft Azure portal.
+
+*Use it*: yes>
+
+*Incorrect forms*:
+
+*See also*:
+
+
+[discrete]
+==== Red Hat Cloud Access (noun)
+[[cloud-access]]
+*Description*: Red Hat Cloud Access is a Red Hat partner program that allows customers to use their Red Hat subscriptions to build resources and import images on qualified Red Hat Certified Cloud and Service Providers (CCSPs).
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== virtual hard drive (noun)
+[[vhd]]
+*Description*: A virtual hard drive (VHD) is file format that represents a virtual hard disk drive (HDD). It contains elements typically found on a physical HDD, such as disk partitions and a file system, which in turn can contain files and folders. VHD files have the extension `.vhd`. VHD is the required image format for all virtual machine images used in Microsoft Azure. Do not use virtual hard disk as a synonym.
+
+*Use it*: yes
+
+*Incorrect forms*: virtual hard disk
+
+*See also*:
+
+
+[NOTE]
+====
+See the https://azure.microsoft.com/en-us/documentation/articles/azure-glossary-cloud-terminology/[Microsoft Azure glossary] for additional terms and definitions.
+====
