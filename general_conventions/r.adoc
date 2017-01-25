@@ -5,7 +5,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: Ram, ram 
+*Incorrect forms*: Ram, ram
 
 *See also*: xref:ram-disk[RAM disk]
 
@@ -23,11 +23,11 @@
 [discrete]
 ==== raw (adjective)
 [[raw]]
-*Description*: In computing terms, raw means unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device. The term comes from Unix, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device. 
+*Description*: In computing terms, raw means unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device. The term comes from Unix, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device.
 
 *Use it*: Yes
 
-*Incorrect forms*: RAW 
+*Incorrect forms*: RAW
 
 *See also*: xref:cooked[cooked]
 
@@ -35,22 +35,22 @@
 ==== raw data (noun)
 [[raw-data]]
 
-*Description*: Raw data is information that has not been organized, formatted, or analyzed. 
+*Description*: Raw data is information that has not been organized, formatted, or analyzed.
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*:
 
 [discrete]
 ==== read (verb)
 [[read-v]]
-*Description*: To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. It is also used to refer to the act of determining the contents of a variable or parameter. (n.) The act of reading. For example, a fast disk drive performs 100 reads per second. 
+*Description*: To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. It is also used to refer to the act of determining the contents of a variable or parameter. (n.) The act of reading. For example, a fast disk drive performs 100 reads per second.
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:read-n[read (noun)]
 
@@ -61,7 +61,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:read-v[read (verb)]
 
@@ -89,11 +89,11 @@
 [discrete]
 ==== reboot (verb)
 [[reboot]]
-*Description*: Reboot means to turn off a computer's operating system and then turn it on. 
+*Description*: Reboot means to turn off a computer's operating system and then turn it on.
 
 *Use it*: yes
 
-*Incorrect forms*: re-boot 
+*Incorrect forms*: re-boot
 
 *See also*:
 
@@ -104,7 +104,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: Redboot, Red Boot, red 
+*Incorrect forms*: Redboot, Red Boot, red
 
 *See also*:
 
@@ -123,7 +123,7 @@
 [discrete]
 ==== Red Hat Network Satellite Server (noun)
 [[red-hat-network-satellite-server]]
-*Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Satellite Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy" for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy." 
+*Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Satellite Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy" for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
 
 *Use it*: yes
 
@@ -134,7 +134,7 @@
 [discrete]
 ==== Red Hat Network Proxy Server (noun)
 [[red-hat-network-proxy-server]]
-*Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Proxy Server," or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy." 
+*Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Proxy Server," or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
 
 *Use it*: yes
 
@@ -184,7 +184,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*:
 
@@ -192,35 +192,24 @@
 ==== return (verb)
 [[return]]
 
-*Description*: When referring to the keyboard key on Solaris or Mac, use "Return" or "return", respectively. See "enter" for other platforms. 
+*Description*: When referring to the keyboard key on Solaris or Mac, use "Return" or "return", respectively. See "enter" for other platforms.
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:enter-n[enter]
 
 [discrete]
 ==== ROM (noun)
 [[rom]]
-*Description*: ROM is an acronym for read-only memory, that is, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read. 
+*Description*: ROM is an acronym for read-only memory, that is, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read.
 
-*Use it*: yes 
+*Use it*: yes
 
 *Incorrect forms*: Rom, rom
 
 *See also*: xref:prom[PROM]
-
-[discrete]
-==== PROM (noun)
-[[prom]]
-*Description*: PROM (programmable read-only memory) is a variation of ROM. PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer. 
-
-*Use it*: yes
-
-*Incorrect forms*: prom, Prom
-
-*See also*: xref:rom[ROM]
 
 [discrete]
 ==== roundtable (noun)
@@ -284,7 +273,7 @@
 [[runtime]]
 *Description*: Runtime is when a program is running (or being executable), that is, when you start a program running in a computer, it is runtime for that program. In some programming languages, certain reusable programs or "routines" are built and packaged as a "runtime library."
 
-*Use it*: yes 
+*Use it*: yes
 
 *Incorrect forms*: run time, run-time
 
