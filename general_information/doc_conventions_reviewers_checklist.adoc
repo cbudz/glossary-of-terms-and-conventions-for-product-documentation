@@ -1,6 +1,4 @@
 [[reviewer_checklist]]
-= Reviewers' Checklist
-
 
 .Technical Documentation Reviewers' Checklist
 [options="header",cols="^3%,<88%,^9%"]
@@ -39,8 +37,9 @@
 
 |=====
 
+[discrete]
 [[general_guidance]]
-== General Guidelines for Reviewers
+==== General Guidelines for Reviewers
 
 * Use GitLab to review the files. (Contributors who would like to add an entry should create a merge request first.)
 ** Comment directly in the merge requests.
@@ -58,8 +57,9 @@ See http://ccs-jenkins.gsslab.brq.redhat.com:8080/job/glossary-of-terms-and-conv
 See https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/merge_requests/38/diffs[merge requests] for information on submitting changes to GitLab.
 ====
 
+[discrete]
 [[rationale_team_decisions]]
-== Rationale for Team Decisions
+=== Rationale for Team Decisions
 
 * Having a template helps people inexperienced with AsciiDoc to add new entries easily; they are just replacing placeholders with content.
 * Being able to check our documents automatically in Emender will save us all time and should also result in fewer bugs.
