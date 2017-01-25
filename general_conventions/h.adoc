@@ -1,10 +1,246 @@
 [discrete]
+==== hard code (verb)
+[[hard-code]]
+*Description*: To configure values in source code such that it cannot be altered without modifying the code.
+
+*Use it*: yes
+
+*Incorrect forms*: hardcode
+
+*See also*:
+
+[discrete]
+==== hard-coded (adjective)
+[[hard-coded]]
+*Description*: A value that is configured in the source code such that it cannot be altered without modifying the code.
+
+*Use it*: yes
+
+*Incorrect forms*: hardcoded
+
+*See also*:
+
+[discrete]
+==== he (pronoun)
+[[he]]
+*Description*: Reword to avoid "he" or "she".
+
+*Use it*: no
+
+*Incorrect forms*:
+
+// TODO: Add link to she, you
+*See also*: she
+
+[discrete]
+==== ⁠healthcare (noun)
+[[healthcare]]
+*Description*: Maintaining or improving health by preventing or treating health issues.
+
+*Use it*: yes
+
+*Incorrect forms*: health-care
+
+*See also*:
+
+[discrete]
+==== ⁠health check (noun)
+[[health-check]]
+*Description*: Two words. This term is only capitalized when part of a product name, for example: "Red Hat Enterprise Linux Server Health Check."
+
+Do not capitalize when referring to those services in a general way. For example: "A health check ensures your systems perform at their best."
+
+*Use it*: yes
+
+*Incorrect forms*: healthcheck, health-check
+
+*See also*:
+
+[discrete]
+==== help desk (noun)
+[[help-desk]]
+*Description*:  service that provides support for computer users.
+
+*Use it*: yes
+
+*Incorrect forms*: helpdesk, help-desk
+
+*See also*:
+
+[discrete]
+==== hertz (noun)
+[[hertz]]
+*Description*: A unit of frequency. Capitalize the initial "H" only at the beginning of a sentence. The correct abbreviation is "Hz."
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== ⁠high-availability (adjective)
+[[high-availability]]
+*Description*: An object that is continuously available. For example, "high-availability cluster."
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:high-availability-noun[high availability]
+
+[discrete]
+==== ⁠high availability (noun)
+[[high-availability-noun]]
+*Description*: The concept of making a system or service continuously available, even if a particular component experiences a failure. For example, "Support is available 24x7 to help maintain high availability."
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:high-availability[high-availability]
+
+[discrete]
+==== ⁠high-performance computing (noun)
+[[high-performance-computing]]
+*Description*: The use of parallel processing to obtain much more efficient processing of complex programs.
+
+Use standard hyphenation guidelines to maintain clarity.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== host group (noun)
+[[host-group]]
+*Description*: A group of one or more hosts. Two words, and only capitalize the initial "H" at the beginning of a sentence.
+
+*Use it*: yes
+
+*Incorrect forms*: hostgroup
+
+*See also*:
+
+[discrete]
 ==== host name (noun)
 [[host-name]]
-*Description*: Preferred spelling is "host name". Do not use "hostname". Only capitalize the initial "H" at the beginning of a sentence. See The IBM Style Guide for more information. 
+*Description*: Preferred spelling is "host name". Do not use "hostname". Only capitalize the initial "H" at the beginning of a sentence. See The IBM Style Guide for more information.
 
 *Use it*: yes
 
 *Incorrect forms*: hostname
 
-*See also*: 
+*See also*:
+
+[discrete]
+==== ⁠hot add (verb)
+[[hot-add]]
+*Description*: Correct. Two words, lowercase. Capitalize only at the beginning of a sentence.
+
+*Use it*: yes
+
+*Incorrect forms*: hotadd, hot-add
+
+*See also*:
+
+[discrete]
+==== hotline (noun)
+[[hotline]]
+*Description*: Correct. One word, lowercase. Capitalize only at the beginning of a sentence.
+
+*Use it*: yes
+
+*Incorrect forms*: hot-line
+
+*See also*:
+
+[discrete]
+==== hot plug (verb)
+[[hot-plug]]
+*Description*: Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only.
+
+*Use it*: yes
+
+*Incorrect forms*: hotplug, hot-plug
+
+*See also*:
+
+[discrete]
+==== hot swap (verb)
+[[hot-swap]]
+*Description*: Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only.
+
+*Use it*: yes
+
+*Incorrect forms*: hotswap, hot-swap
+
+*See also*:
+
+[discrete]
+==== ⁠HP ProLiant (noun)
+[[hp-proliant]]
+*Description*: Hewlett-Packard (HP) servers. Do not use any other variations.
+
+*Use it*: yes
+
+*Incorrect forms*: ⁠HP Proliant
+
+*See also*:
+
+[discrete]
+==== HTML (noun)
+[[html]]
+*Description*: HyperText Markup Language (HTML) is a markup language for web pages. When referring to the language, use "HTML," such as "To see the HTML version of this documentation...". When referring to a web page extension, use "html," such as "The main page is index.html."
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== ⁠huge-page (adjective)
+[[huge-page]]
+*Description*: Correct. Normal hyphenation rules apply. See xref:huge-page-noun[huge page] for capitalization rules.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== huge page (noun)
+[[huge-page-noun]]
+*Description*: Correct. Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== ⁠Hyper-Threading (noun)
+[[hyper-threading]]
+*Description*: Hyper-Threading is Intel's implementation of simultaneous multithreading. If you are not referring specifically to Intel's implementation, use "simultaneous multithreading" or "SMT" instead.
+
+*Use it*: yes
+
+*Incorrect forms*: hyperthreading, hyper-threading
+
+*See also*:
+
+[discrete]
+==== hypervisor (noun)
+[[hypervisor]]
+*Description*: Software that runs virtual machines. Capitalize only at the beginning of a sentence or as part of Red Hat Enterprise Virtualization Hypervisor.
+
+*Use it*: yes
+
+*Incorrect forms*: HyperVisor, Hyperviser
+
+*See also*:
