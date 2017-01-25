@@ -5,7 +5,18 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== bucket (noun)
 [[bucket]]
-*Description*: ADD ME
+*Description*: 1) A bucket in the S3 API contains objects. A bucket also defines access control lists (ACLs). Unlike folders or directories, buckets cannot contain other buckets. A bucket in the S3 API is synonymous with a "container" in the Swift API. 2) The term bucket is also sometimes used in the context of a CRUSH hierarchy, but CRUSH buckets and S3 buckets are mutually exclusive concepts.
+ 
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:container[container]
+
+[discrete]
+==== bucket index (noun)
+[[bucket-index]]
+*Description*: A bucket index in the S3 API contains an index of objects within the bucket. The bucket index enables listing the bucket's contents.
  
 *Use it*: yes
 
@@ -14,15 +25,15 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 *See also*: 
 
 [discrete]
-==== bucket index (noun)
-[[bucket-index]]
-*Description*: ADD ME
- 
+==== bucket sharding (noun)
+[[bucket-sharding]]
+*Description*: Bucket sharding is a process of breaking down a bucket index into smaller more manageable shards. Bucket sharding improves performance.
+
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*: xref:shard-n[shard]
 
 [discrete]
 ==== BlueStore (noun)
@@ -38,7 +49,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== Ceph (noun)
 [[ceph]]
-*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
+*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage.
 
 *Use it*: yes
 
@@ -55,7 +66,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 
 *Incorrect forms*: CEPH
 
-*See also*: xref:ceph[Ceph]
+*See also*: xref:ceph[Ceph], xref:red-hat-ceph-storage[Red Hat Ceph Storage]
 
 [discrete]
 ==== Ceph Block Device (noun)
@@ -116,7 +127,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 ==== ceph-mds (noun)
 [[ceph-mds]]
 
-*Description*: `ceph-mds` is the metadata server daemon. One or more instances of `ceph-mds` collectively manage the file system namespace, coordinating access to the shared OSD cluster. Always mark it properly (`ceph-mds`)
+*Description*: `ceph-mds` is the Metadata Server daemon. One or more instances of `ceph-mds` collectively manage the file system namespace, coordinating access to the shared OSD cluster. Always mark it properly (`ceph-mds`)
 
 *Use it*: yes
 
@@ -162,13 +173,24 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== ceph-radosgw (noun)
 [[ceph-radosgw]]
-*Description*: ADD ME
+*Description*: The `ceph-radosgw` daemon runs on Ceph Object Gateway nodes. Each instance provides a Civetweb web server and the object gateway functionality.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
 *See also*: xref:ceph-object-gateway[Ceph Object Gateway], xref:rados-gateway[RADOS Gateway], xref:rgw[RGW]
+
+[discrete]
+==== container (noun)
+[[container]]
+*Description*: A container in the Swift API contains objects. A container also defines access control lists (ACLs). Unlike folders or directories, a container cannot contain other containers. A container in the Swift API is synonymous with a "bucket" in the S3 API.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:bucket[bucket]
 
 [discrete]
 ==== CRUSH (noun)
@@ -430,24 +452,24 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== realm (noun)
 [[realm]]
-*Description*: ADD ME
+*Description*: A realm is a namespace context for storing a multi-site configuration. The notion of a realm enables Ceph to provide multiple namespaces in the same cluster.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:zone-group[zone group]
 
 [discrete]
 ==== region (noun)
 [[region]]
-*Description*: ADD ME
+*Description*: A region is the deprecated term for referring to a zone group. Red Hat Ceph Storage 1.3 uses regions.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:zone-group[zone group]
 
 [discrete]
 ==== RGW (noun)
@@ -480,34 +502,12 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 
 *Incorrect forms*:
 
-*See also*: xref:shard-v[shard (verb)], xref:sharding[sharding]
-
-[discrete]
-==== shard (verb)
-[[shard-v]]
-*Description*: ADD ME
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*: xref:shard-n[shard (noun)], xref:sharding[sharding]
-
-[discrete]
-==== sharding (noun)
-[[sharding]]
-*Description*: ADD ME
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*: xref:shard-n[shard (noun)], xref:shard-v[shard (verb)]
+*See also*: xref:bucket-sharding[bucket sharding]
 
 [discrete]
 ==== zone (noun)
 [[zone]]
-*Description*: ADD ME
+*Description*: A zone represents a physical location consisting of a Ceph Storage Cluster and nodes running the Ceph Object Gateway daemons.
 
 *Use it*: yes
 
@@ -518,10 +518,10 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== zone group (noun)
 [[zone-group]]
-*Description*: ADD ME
+*Description*: A zone group is a list of zones. A zone group always has one master zone, and can have multiple secondary zones. A realm has one master zone group, which manages users and metadata for the realm.
 
 *Use it*: yes
 
 *Incorrect forms*: zonegroup, zone-group
 
-*See also*: xref:zone[zone]
+*See also*: xref:zone[zone], xref:realm[realm], xref:region[region]
