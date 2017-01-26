@@ -13,7 +13,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== PC (noun)
 [[pc]]
-*Description*: Use to refer to a personal computer. See _The IBM Style Guide_ for further information. 
+*Description*: Use to refer to a personal computer. See _The IBM Style Guide_ for further information.
 
 *Use it*: yes
 
@@ -30,7 +30,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== Pico (noun)
@@ -41,7 +41,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== plain text (adjective)
@@ -52,7 +52,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*: plaintext, plain-text, cleartext, clear text
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== please (adverb)
@@ -63,7 +63,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*: plaintext, plain-text, cleartext, clear text
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== pluggable (noun)
@@ -74,7 +74,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== plug-in (noun)
@@ -85,7 +85,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== pop-up (noun)
@@ -96,7 +96,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*: popup, Pop-up
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== PostScript (noun)
@@ -107,7 +107,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*: Postscript
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== PowerPC (noun)
@@ -118,7 +118,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*: PPC, P-PC, PPC64
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== POSIX (noun)
@@ -129,7 +129,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*: Posix, posix, variations
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== PPP (noun)
@@ -140,7 +140,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*: Ppp, ppp
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== press (verb)
@@ -151,7 +151,18 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
+
+[discrete]
+==== PROM (noun)
+[[prom]]
+*Description*: PROM (programmable read-only memory) is a variation of ROM. PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer.
+
+*Use it*: yes
+
+*Incorrect forms*: prom, Prom
+
+*See also*: xref:rom[ROM]
 
 [discrete]
 ==== proof of concept (noun)
@@ -165,12 +176,12 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Incorrect forms*: proof of concepts
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== pseudo-ops (noun)
 [[pseudoops]]
-*Description*: Pseudo op stands for pseudo operation and is sometimes called assembler directive. These are keywords that do not directly translate to a machine instruction. 
+*Description*: Pseudo op stands for pseudo operation and is sometimes called assembler directive. These are keywords that do not directly translate to a machine instruction.
 
 *Use it*: yes
 
