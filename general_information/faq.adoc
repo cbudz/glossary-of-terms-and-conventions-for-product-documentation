@@ -40,9 +40,9 @@ Where can I view the changes I made?::
 We deployed the document to the Jenkins server. Every time a new commit or a branch is added, the Jenkins builder builds the document in http://ccs-jenkins.gsslab.brq.redhat.com/TopicBranches#glossary-of-terms-and-conventions-for-product-documentation[CCS Internal: Glossary of Technical Terms and Conventions for Product Documentation: branches]. Wait for couple of minutes if the new branch you created is not listed yet.
 
 [[failed-jenkins-build]]
-What to do when Jenkins fails to build the document after I added my changes?::
+What do I do when Jenkins fails to build the document after I have added my changes?::
 
-There is probably an error in the AsciiDoc source. To view the error message in the http://ccs-jenkins.gsslab.brq.redhat.com/TopicBranches#glossary-of-terms-and-conventions-for-product-documentation[CCS Internal: Glossary of Technical Terms and Conventions for Product Documentation: branches] table click `link` in the Log column in the row with your topic branch.
+There is probably an error in the AsciiDoc source. To view the error message in the http://ccs-jenkins.gsslab.brq.redhat.com/TopicBranches#glossary-of-terms-and-conventions-for-product-documentation[CCS Internal: Glossary of Technical Terms and Conventions for Product Documentation: branches] table click `link` in the *Log* column in the row with your topic branch.
 +
 The most common errors:
 +
