@@ -4,10 +4,10 @@ This document is written in the AsciiDoc markup language and hosted in a git rep
 
 You can edit this document by using:
 
-* The GitLab web user interface. See xref:web-ui-adding-or-editing-entries[] for details.
-* The `git` command-line utility. See xref:cli-adding-and-editing-entries[]. Previous experience with `git` and the command line is required.
+* The GitLab web user interface. See xref:web-ui-adding-or-editing-entries[Web UI: Adding and Editing Entries] for details.
+* The `git` command-line utility. See xref:cli-adding-and-editing-entries[CLI: Adding and Editing Entries]. Previous experience with `git` and the command line is required.
 
-Once you are done with the edits, create a merge request. See xref:creating-merge-requests[] for details.
+Once you are done with the edits, create a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
 
 [[web-ui-adding-or-editing-entries]]
 [discrete]
@@ -54,9 +54,9 @@ NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerber
 
     .. Wait until the branch you created appears in the list. It should not take more than 10 minutes. 
 
-    .. Verify that `yes` is listed in the *Success build?* column. See xref:preview-of-changes[] and xref:failed-jenkins-build[] for details.
+    .. Verify that `yes` is listed in the *Success build?* column. See xref:preview-of-changes[Where can I view the changes I made?] and xref:failed-jenkins-build[What do I do when Jenkins fails to build the document after I have added my changes?] for details.
 
-. Once you are done updating the document, create a merge request. See xref:creating-merge-requests[] for details.
+. Once you are done updating the document, create a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
 
 [[cli-adding-and-editing-entries]]
 [discrete]
@@ -110,7 +110,7 @@ $ git checkout -b <name-of-the-branch>
 $ ccutil compile --format html-single --lang en-US --open
 ----
 +
-If `ccutil` fails to build the document, fix the reported errors. See xref:failed-jenkins-build[] for additional hints.
+If `ccutil` fails to build the document, fix the reported errors. See xref:failed-jenkins-build[What do I do when Jenkins fails to build the document after I have added my changes?] for additional hints.
 
 . Stage the changes.
 +
@@ -130,7 +130,7 @@ $ git commit -m "<commit-message>"
 $ git push --set-upstream origin <name-of-the-branch>
 ----
 
-. Once you are done updating the document, create a merge request. See xref:creating-merge-requests[] for details.
+. Once you are done updating the document, create a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
 
 [[creating-merge-requests]]
 [discrete]
