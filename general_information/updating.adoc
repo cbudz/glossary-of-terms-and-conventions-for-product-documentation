@@ -4,32 +4,32 @@ This document is written in the AsciiDoc markup language and hosted in a git rep
 
 You can edit this document by using:
 
-* The GitLab web user interface. See xref:web-ui-adding-or-editing-entries[Web UI: Adding and Editing Entries] for details.
-* The `git` command-line utility. See xref:cli-adding-and-editing-entries[CLI: Adding and Editing Entries]. Previous experience with `git` and the command line is required.
+* The GitLab web user interface. See xref:web-ui-adding-or-editing-entries[] for details.
+* The `git` command-line utility. See xref:cli-adding-and-editing-entries[]. Previous experience with `git` and the command line is required.
 
-Once you are done with the edits, create a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
+Once you are done with the edits, create a merge request. See xref:creating-merge-requests[] for details.
 
 [[web-ui-adding-or-editing-entries]]
 [discrete]
 ==== Web UI: Adding and Editing Entries
 
-NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerberos credentials or the Red Hat SAML Login to log in to GitLab.
+NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerberos credentials or the *Red Hat SAML Login* to log in to GitLab.
 
 . Create a new branch.
 
-    .. On the main repository page (https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/tree/master) click the plus button and select "New branch".
+    .. On the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/tree/master[main repository page] click the plus button and select *New branch*.
 
-    .. Specify the name of the branch. Use the "wip-<name-of-the-entry>" form when adding a new entry, for example "wip-host-name" or "wip-<name-of-the-entry-edits>" when updating an existing entry, for example "wip-host-name-edits".
+    .. Specify the name of the branch. Use the _wip-<name-of-the-entry>_ form when adding a new entry, for example _wip-host-name_ or _wip-<name-of-the-entry-edits>_ when updating an existing entry, for example _wip-host-name-edits_.
 
-    .. Click "Create branch".
+    .. Click *Create branch*.
 
 . Edit the document.
 
-    .. Navigate to the `general_conventions` or `product_conventions` directory and select the file you want to add the entry to. If a file for the product does not exist yet, create one. Use the "<product-name>.adoc" form, for example "red-hat-virtualization.adoc".
+    .. Navigate to the `general_conventions` or `product_conventions` directory and select the file you want to add the entry to. If a file for the product does not exist yet, create one. Use the _<product-name>.adoc_ form, for example _red-hat-virtualization.adoc_.
 
     .. Ensure that you are in the correct branch. The branch name is listed at the beginning of the path to the file. If you are not in the correct branch, select it from the menu.
 
-    .. Click "Edit".
+    .. Click *Edit*.
 
     .. Make the changes. Use this xref:template[template] when adding a new entry. Entries must be added in alphabetical order.
 
@@ -40,11 +40,11 @@ NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerber
  include::{includedir}/products_conventions/red-hat-virtualization.adoc[]
 ----
 
-. Commit the changes
+. Commit the changes.
 
-    .. Update the commit message. Be descriptive enough, "Updated the <filename> file." is not a good commit message. Use something like "Added the <entry-name> entry or "Fixed a typo in the <entry-name> entry".
+    .. Update the commit message. Be descriptive enough, "Updated the <filename> file." is not a good commit message. Use something like "Added the <entry-name> entry" or "Fixed a typo in the <entry-name> entry".
 
-    .. Click "Commit Changes"
+    .. Click *Commit Changes*.
 
 . If you want to make additional changes, edit the file again and commit the changes.
 
@@ -52,11 +52,11 @@ NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerber
 
     .. Navigate to the http://ccs-jenkins.gsslab.brq.redhat.com/TopicBranches#glossary-of-terms-and-conventions-for-product-documentation[Glossary of Terms and Conventions for Product Documentation] Jenkins job.
 
-    .. Wait till the branch you created appears in the list. It should not take more than 10 minutes. 
+    .. Wait until the branch you created appears in the list. It should not take more than 10 minutes. 
 
-    .. Verify that "yes" is listed in the "Success build?" column. See xref:preview-of-changes[Where can I view the changes I made?] and xref:failed-jenkins-build[What to do when Jenkins fails to build the document after I added my changes?] for details.
+    .. Verify that `yes` is listed in the *Success build?* column. See xref:preview-of-changes[] and xref:failed-jenkins-build[] for details.
 
-. Once you are done updating the document, create a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
+. Once you are done updating the document, create a merge request. See xref:creating-merge-requests[] for details.
 
 [[cli-adding-and-editing-entries]]
 [discrete]
@@ -85,7 +85,7 @@ $ cd glossary-of-terms-and-conventions-for-product-documentation
 $ git pull --rebase
 ----
 
-. Create a new branch. When adding a new entry, use "wip-<name-of-the-entry>" as the branch name, for example "wip-host-name". When updating an existing entry, use "wip-<name-of-the-entry-edits>" as the branch name, for example "wip-host-name-edits".
+. Create a new branch. When adding a new entry, use _wip-<name-of-the-entry>_ as the branch name, for example _wip-host-name_. When updating an existing entry, use _wip-<name-of-the-entry-edits>_ as the branch name, for example _wip-host-name-edits_.
 +
 ----
 $ git checkout -b <name-of-the-branch>
@@ -93,7 +93,7 @@ $ git checkout -b <name-of-the-branch>
 
 . Edit the document.
 
-    .. Navigate to the `general_conventions` or `products_conventions` directory and open the file you want to add the entry to. If a file for the product does not exist yet, create one. Use the "<product-name>.adoc" form, for example "red-hat-virtualization.adoc".
+    .. Navigate to the `general_conventions` or `products_conventions` directory and open the file you want to add the entry to. If a file for the product does not exist yet, create one. Use the _<product-name>.adoc_ form, for example _red-hat-virtualization.adoc_.
 
     .. Make the changes. Use this xref:template[template] when adding a new entry. Entries must be added in alphabetical order.
 
@@ -110,7 +110,7 @@ $ git checkout -b <name-of-the-branch>
 $ ccutil compile --format html-single --lang en-US --open
 ----
 +
-If `ccutil` fails to build the document, fix the reported errors. See xref:failed-jenkins-build[What to do when Jenkins fails to build the document after I added my changes?] for additional hints.
+If `ccutil` fails to build the document, fix the reported errors. See xref:failed-jenkins-build[] for additional hints.
 
 . Stage the changes.
 +
@@ -118,7 +118,7 @@ If `ccutil` fails to build the document, fix the reported errors. See xref:faile
 $ git add <file>
 ----
 
-. Commit the changes. Be descriptive enough in the commit message, "Updated the <filename> file." is not a good commit message. Use something like "Added the <entry-name> entry or "Fixed a typo in the <entry-name> entry".
+. Commit the changes. Be descriptive enough in the commit message, "Updated the <filename> file." is not a good commit message. Use something like "Added the <entry-name> entry" or "Fixed a typo in the <entry-name> entry".
 +
 ----
 $ git commit -m "<commit-message>"
@@ -130,24 +130,24 @@ $ git commit -m "<commit-message>"
 $ git push --set-upstream origin <name-of-the-branch>
 ----
 
-. Once you are done updating the document, create a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
+. Once you are done updating the document, create a merge request. See xref:creating-merge-requests[] for details.
 
 [[creating-merge-requests]]
 [discrete]
 ==== Creating Merge Requests
 
-. Navigate to the main repository page (https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/tree/master) and click "Merge Requests".
+. Navigate to the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/tree/master[main repository page] and click *Merge Requests*.
 
-. Click "New Merge Request".
+. Click *New Merge Request*.
 
 . Select the source branch from the drop-down list.
 
-. Click "Compare branches and continue".
+. Click *Compare branches and continue*.
 
-. Click "Remove the WIP: prefix from the title".
+. Click *Remove the WIP: prefix from the title*.
 
 . Optionally, write a description of your change.
 
 . Select the correct label; _General Conventions_ or _Product-Specific Conventions_.
 
-. Click "Submit merge request".
+. Click *Submit merge request*.
