@@ -3,7 +3,7 @@
 Responsible person: Tahlia Richardson (trichard@redhat.com)
 
 [discrete]
-==== Administration Portal
+==== Administration Portal (noun)
 [[administration-portal]]
 *Description*: The Administration Portal is a graphical user interface provided by the Red Hat (Enterprise) Virtualization Manager. It can be used to manage all the administrative resources in the environment and can be accessed by any supported web browser.
 
@@ -11,14 +11,12 @@ Always use "Administration Portal", including the capital P. When other departme
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Admin Portal, webadmin, webadmin portal, Administrator Portal, Administration portal
 
 *See also*: xref:user-portal[User Portal]
 
 [discrete]
-==== Cockpit user interface
+==== Cockpit user interface (noun)
 [[cockpit-user-interface]]
 *Description*: Cockpit is a server administrative user interface, and is not exclusive to Red Hat Virtualization. It can be used as a plug-in with either host type in Red Hat Virtualization (version 4.x). The plug-in is available by default on Red Hat Virtualization Host, but must be installed on Red Hat Enterprise Linux hosts.
 
@@ -26,14 +24,12 @@ Refer to the menus within the interface as tabs and sub-tabs.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Cockpit web interface
 
 *See also*: xref:red-hat-enterprise-linux-host[Red Hat Enterprise Linux host], xref:red-hat-virtualization-host[Red Hat Virtualization Host]
 
 [discrete]
-==== Data Warehouse
+==== Data Warehouse (noun)
 [[data-warehouse]]
 *Description*: The Manager includes a comprehensive management history database, which can be utilized by any application to extract a range of information at the data center, cluster, and host levels. Installing Data Warehouse creates the `ovirt_engine_history` database, to which the Manager is configured to log information for reporting purposes.
 
@@ -43,14 +39,12 @@ Always spell out in full and capitalize as shown here, unless part of a command.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: DWH, data warehouse, Dataware House
 
 *See also*: 
 
 [discrete]
-==== host
+==== host (noun)
 [[host-rhv]]
 *Description*: Hosts are servers that provide the processing capabilities and memory resources used to run virtual machines. There are two types of hosts: Red Hat Enterprise Linux hosts, and Red Hat Enterprise Virtualization Hypervisor (in version 3.x) or Red Hat Virtualization Host (in version 4.x).
 
@@ -60,14 +54,12 @@ When referring to a specific type of host, use "Red Hat Enterprise Linux host", 
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: hypervisor, hypervisor host, virtualization host
 
 *See also*: xref:red-hat-enterprise-linux-host[Red Hat Enterprise Linux host], xref:red-hat-virtualization-host[Red Hat Virtualization Host], xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor]
 
 [discrete]
-==== LUN
+==== LUN (noun)
 [[lun]]
 *Description*: A LUN (logical unit number) is a number used to identify a logical unit, which is a device addressed by the SCSI protocol, or Storage Area Network protocols which encapsulate SCSI, such as Fibre Channel or iSCSI.
 
@@ -75,14 +67,12 @@ Always capitalize as shown, with the exception of UI content.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Lun, lun
 
 *See also*:
 
 [discrete]
-==== MOM
+==== MOM (noun)
 [[mom]]
 *Description*: The Memory Overcommitment Manager is a policy-driven tool that can be used to manage overcommitment on hosts.
 
@@ -90,14 +80,12 @@ Use "Memory Overcommitment Manager (MOM)" for the first instance in a section, a
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: MoM, Mom, mom
 
 *See also*:
 
 [discrete]
-==== Red Hat Enterprise Linux host
+==== Red Hat Enterprise Linux host (noun)
 [[red-hat-enterprise-linux-host]]
 *Description*: Red Hat Enterprise Linux servers subscribed to the appropriate entitlements can be used as hosts in both Red Hat Enterprise Virtualization (version 3.x) and Red Hat Virtualization (version 4.x). 
 
@@ -105,14 +93,12 @@ Always spell out in full. Do not capitalize "host".
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: RHEL host, RHEL-H
 
 *See also*: xref:host[host]
 
 [discrete]
-==== Red Hat Enterprise Virtualization
+==== Red Hat Enterprise Virtualization (noun)
 [[red-hat-enterprise-virtualization]]
 *Description*: Red Hat Enterprise Virtualization is an enterprise-grade server and desktop virtualization platform built on Red Hat Enterprise Linux. 
 
@@ -120,14 +106,12 @@ Use "Red Hat Enterprise Virtualization" for version 3.x (including references to
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: RHEV
 
 *See also*: xref:red-hat-virtualization[Red Hat Virtualization], xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor]
 
 [discrete]
-==== Red Hat Enterprise Virtualization Hypervisor
+==== Red Hat Enterprise Virtualization Hypervisor (noun)
 [[red-hat-enterprise-virtualization-hypervisor]]
 *Description*: Red Hat Enterprise Virtualization Hypervisor is one of the types of host in Red Hat Enterprise Virtualization (3.x). It is a minimal operating system based on Red Hat Enterprise Linux, is distributed as an ISO file, and is a closed system. Filesystem access and root access are limited. Yum is disabled.
 
@@ -137,14 +121,12 @@ Do not use in Red Hat Virtualization 4.x; see xref:red-hat-virtualization-host[R
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: RHEVH, Red Hat Enterprise Virtualization Host, RHEV Hypervisor
 
 *See also*: xref:host[host], xref:red-hat-virtualization-host[Red Hat Virtualization Host]
 
 [discrete]
-==== Red Hat Enterprise Virtualization Manager
+==== Red Hat Enterprise Virtualization Manager (noun)
 [[red-hat-enterprise-virtualization-manager]]
 *Description*: The Red Hat Enterprise Virtualization Manager is a server that manages and provides access to the resources in the Red Hat Enterprise Virtualization environment. 
 
@@ -152,14 +134,12 @@ Use "Red Hat Enterprise Virtualization Manager" for version 3.x. Always spell ou
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: RHEVM, RHEV-M, RHEV Manager, the engine
 
 *See also*: xref:red-hat-virtualization-manager[Red Hat Virtualization Manager]
 
 [discrete]
-==== Red Hat Enterprise Virtualization Manager Reports
+==== Red Hat Enterprise Virtualization Manager Reports (noun)
 [[red-hat-enterprise-virtualization-manager-reports]]
 *Description*: Red Hat Enterprise Virtualization Manager Reports is available as an optional component. It produces reports that can be built and accessed via a web user interface, and then rendered to screen, printed, or exported to a variety of formats.
 
@@ -169,14 +149,12 @@ Spell out in full for the first instance in a section, and use "Reports" (always
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: RHEVM Reports
 
 *See also*:
 
 [discrete]
-==== Red Hat Virtualization
+==== Red Hat Virtualization (noun)
 [[red-hat-virtualization]]
 *Description*: Red Hat Virtualization is an enterprise-grade server and desktop virtualization platform built on Red Hat Enterprise Linux. 
 
@@ -184,29 +162,25 @@ Use "Red Hat Virtualization" for version 4.x. Always spell out in full, except a
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: RHV
 
 *See also*: xref:red-hat-enterprise-virtualization[Red Hat Enterprise Virtualization], xref:red-hat-virtualization-host[Red Hat Virtualization Host]
 
 [discrete]
-==== Red Hat Virtualization Host
+==== Red Hat Virtualization Host (noun)
 [[red-hat-virtualization-host]]
 *Description*: Red Hat Virtualization Host is one of the types of host in Red Hat Virtualization (4.x). It is a minimal operating system based on Red Hat Enterprise Linux, is distributed as an ISO file from the Customer Portal, and contains only the packages required for the machine to act as a host. It is an improved version of Red Hat Enterprise Virtualization Hypervisor. 
 
 Use "Red Hat Virtualization Host (RHVH)" for the first instance in a section. "RHVH" can be used in subsequent instances. Do not use "the Host", even with a capital H. Do not use in Red Hat Enterprise Virtualization 3.x; see xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor].
 
-*Use it*: yes 
-
-*Class*: noun
+*Use it*: yes
 
 *Incorrect forms*: RHV-H, Red Hat Virtualization Hypervisor, RHV Host, the Host
 
 *See also*: xref:host[host], xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor]
 
 [discrete]
-==== Red Hat Virtualization Manager
+==== Red Hat Virtualization Manager (noun)
 [[red-hat-virtualization-manager]]
 *Description*: The Red Hat Virtualization Manager is a server that manages and provides access to the resources in the Red Hat Virtualization environment. 
 
@@ -214,14 +188,12 @@ Use "Red Hat Virtualization Manager" for version 4.x. Always spell out in full f
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: RHVM, RHV-M, RHV Manager, the engine
 
 *See also*: xref:red-hat-enterprise-virtualization-manager[Red Hat Enterprise Virtualization Manager]
 
 [discrete]
-==== self-hosted engine
+==== self-hosted engine (noun)
 [[self-hosted-engine]]
 *Description*: A self-hosted engine is a virtualized environment in which the Manager, or engine, runs on a virtual machine on the hosts managed by that Manager. The virtual machine is created as part of the host configuration, and the Manager is installed and configured in parallel to the host configuration process. 
 
@@ -229,14 +201,12 @@ Use all lower case, unless used in a title or at the beginning of a sentence.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: hosted engine, hosted-engine
 
 *See also*: xref:self-hosted-engine-host[self-hosted engine host]
 
 [discrete]
-==== self-hosted engine host
+==== self-hosted engine host (noun)
 [[self-hosted-engine-host]]
 *Description*: A self-hosted engine is a virtualized environment in which the Manager, or engine, runs on a virtual machine on the hosts managed by that Manager. A self-hosted engine host has been configured for a self-hosted engine environment, and can host the Manager virtual machine. Regular hosts can also be attached to a self-hosted engine environment, but they cannot be used to host the Manager virtual machine.
 
@@ -244,14 +214,12 @@ Use all lower case, unless used in a title or at the beginning of a sentence.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: hosted engine host, hosted-engine host
 
 *See also*: xref:self-hosted-engine[self-hosted engine]
 
 [discrete]
-==== SPICE
+==== SPICE (noun)
 [[spice]]
 *Description*: SPICE stands for "Simple Protocol for Independent Computing Environments". It is a remote connection protocol for viewing a virtual machine in a graphical console from a remote client. 
 
@@ -259,14 +227,12 @@ Always capitalize as shown, except in commands, packages, or UI content.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Spice, spice
 
 *See also*: 
 
 [discrete]
-==== Storage Pool Manager
+==== Storage Pool Manager (noun)
 [[storage-pool-manager]]
 *Description*: The Storage Pool Manager (SPM) is a role given to one of the hosts in a data center, enabling it to manage the storage domains of the data center.
 
@@ -274,14 +240,12 @@ Use "Storage Pool Manager (SPM)" for the first instance in a section, and "SPM" 
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: 
 
 *See also*:
 
 [discrete]
-==== User Portal
+==== User Portal (noun)
 [[user-portal]]
 *Description*: The User Portal is a graphical user interface provided by the Red Hat (Enterprise) Virtualization Manager. It has limited permissions for managing virtual machine resources and is targeted at end users.
 
@@ -289,14 +253,12 @@ Always use "User Portal", including the capital P.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: userportal, user portal, User portal
 
 *See also*: xref:administration-portal[Administration Portal]
 
 [discrete]
-==== virtual machine
+==== virtual machine (noun)
 [[virtual-machine]]
 *Description*: A virtual machine is a virtual desktop or virtual server containing an operating system and a set of applications. 
 
@@ -304,14 +266,12 @@ Always spell out in full, with the exception of UI content.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: VM
 
 *See also*:
 
 [discrete]
-==== vCPU
+==== vCPU (noun)
 [[vcpu]]
 *Description*: A virtual CPU (central processing unit) represents a portion of a physical CPU that is assigned to a virtual machine.
 
@@ -319,22 +279,18 @@ Always use as shown here, with the exception of UI content.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: VCPU, vcpu
 
 *See also*:
 
 [discrete]
-==== vNIC
+==== vNIC (noun)
 [[vnic]]
 *Description*: A virtual NIC (Network Interface Card) is a network interface for virtual machines.
 
 Always use as shown here, with the exception of UI content.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: VNIC, vnic
 
