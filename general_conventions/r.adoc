@@ -109,18 +109,6 @@
 *See also*:
 
 [discrete]
-==== Red Hat Ceph Storage (noun)
-[[red-hat-ceph-storage]]
-
-*Description*: Red Hat Ceph Storage is a Red Hat offering of the Ceph Storage upstream project. Always use the full name, do not use the abbreviated form ("RHCS").
-
-*Use it*: yes
-
-*Incorrect forms*: RHCS
-
-*See also*: xref:ceph-command[ceph], xref:ceph[Ceph]
-
-[discrete]
 ==== Red Hat Network Satellite Server (noun)
 [[red-hat-network-satellite-server]]
 *Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Satellite Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy" for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
