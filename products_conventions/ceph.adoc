@@ -349,8 +349,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 *See also*:
 
 [discrete]
-==== PC (noun)
-[[pc]]
+==== PG (noun)
+[[pg]]
 *Description*: An acronym for Placement Group. 
  
 *Use it*: yes
