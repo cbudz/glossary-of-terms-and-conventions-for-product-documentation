@@ -104,7 +104,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== Ceph Monitor (noun)
 [[ceph-monitor]]
-*Description*: ADD ME
+*Description*: A node where the `ceph-mon` daemon is running.
 
 *Use it*: yes
 
@@ -272,7 +272,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== MDS (noun)
 [[mds]]
-*Description*: MDS is an ancronym for the Ceph Metadata Server.
+*Description*: MDS is an acronym for the Ceph Metadata Server.
 
 *Use it*: yes
 
@@ -285,7 +285,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== Metadata Server (noun)
 [[metadata-server]]
-*Description*: ADD ME
+*Description*: Another name of the `ceph-mds` daemon.
 
 *Use it*: yes
 
@@ -318,7 +318,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== Object Storage Device (noun)
 [[object-storage-device]]
-*Description*: ADD ME
+*Description*: A storage drive in a Ceph Storage Cluster. Do not confuse Object Storage Device with the Ceph OSD, which is the `ceph-osd` daemon and the underlying data disk.
 
 *Use it*: yes
 
@@ -329,7 +329,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== OSD Daemon (noun)
 [[osd-daemon]]
-*Description*: ADD ME
+*Description*: Another name of the `ceph-osd` daemon.
 
 *Use it*: yes
 
@@ -340,7 +340,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== OSD (noun)
 [[osd]]
-*Description*: ADD ME
+*Description*: The `ceph-osd` daemon and the underlying data disk. 
 
 *Use it*: yes
 
