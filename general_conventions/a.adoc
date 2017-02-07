@@ -1,46 +1,20 @@
-.&
-[[ampersand]]
-*Description*: Ampersands can be used in design elements and graphics when space is limited, and when either referring to or quoting third-party content that uses them. Do not use in original body copy. 
-
-*Use it*: with caution
-
-*Class*: symbol
-
-*Incorrect forms*: 
-
-*See also*:
-
-.+
-[[plus-symbol]]
-*Description*: Plus symbols can be used in design elements and graphics when space is limited, and when either referring to or quoting third-party content that uses them. Do not use in original body copy. 
-
-*Use it*: with caution
-
-*Class*: symbol
-
-*Incorrect forms*: 
-
-*See also*:
-
-.air gap
+[discrete]
+==== air gap (noun)
 [[air-gap]]
 *Description*: The physical segregation and isolation of a system as a security measure.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: air wall
 
 *See also*:
 
-.AMD64
+[discrete]
+==== AMD64 (noun)
 [[AMD64]]
-*Description*: The AMD implementation of the the x86 architecture.
+*Description*: The AMD implementation of the x86 architecture.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Hammer, x86_64, x86-64, x64, 64-bit x86
 
@@ -48,53 +22,50 @@
 
 [NOTE]
 ====
-The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the AMD Trademark Information page at http://www.amd.com/us/aboutamd/Pages/trademarks.aspx.
-For more information about Intel® trademarks, see http://www.intel.com/content/www/us/en/legal/trademarks.html and http://www.intel.com/content/www/us/en/trademarks/trademarks.html. 
+The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the http://www.amd.com/us/aboutamd/Pages/trademarks.aspx[AMD Trademark Information] page.
+
+For more information about Intel® trademarks, see the http://www.intel.com/content/www/us/en/legal/trademarks.html[Trademark Information] and http://www.intel.com/content/www/us/en/trademarks/trademarks.html[Usage Guidelines for Customers, Licensees, and Other Third Parties] pages.
 ====
 
-.ATM
-[[ATM]]
-*Description*: Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies. 
+[discrete]
+==== Asynchronous Transfer Mode (noun)
+[[asynchronous-transfer-mode]]
+*Description*: Asynchronous Transfer Mode (ATM) is a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies. 
 
 *Use it*: yes
-
-*Class*: initialism
 
 *Incorrect forms*:
 
 *See also*:
 
-.alright
+[discrete]
+==== alright (adjective) 
 [[alright]]
 *Description*: The colloquial form of "correct" or "as expected". 
 
 *Use it*: no
 
-*Class*: adjective
-
-*Incorrect forms*: alright, all right
+*Incorrect forms*:
 
 *See also*: 
 
-.Applixware
+[discrete]
+==== Applixware (noun)
 [[applixware]]
 *Description*: A suite of proprietary modular applications for Linux.
 
 *Use it*: yes
 
-*Class*: proper noun
-
 *Incorrect forms*: Applix, ApplixWare
 
 *See also*:
 
-.auto-detect
+[discrete]
+==== auto-detect (verb)
 [[auto-detect]]
 *Description*: To automatically detect threats, new hardware, software updates, etc.
 
 *Use it*: yes
-
-*Class*: verb
 
 *Incorrect forms*: autodetect
 

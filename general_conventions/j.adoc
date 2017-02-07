@@ -1,95 +1,87 @@
-.JavaScript
-[[javascript]]
+[discrete]
+==== JavaScript (noun)
+[[JavaScript]]
 *Description*: "JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase "javascript".
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
-*See also*: xref:javascript_file[javascript]
+*See also*: xref:javascript[javascript]
 
-.javascript
-[[javascript_file]]
-*Description*: When referring to a file written using the JavaScript language, use all lowercase; for example, "...copy the IPA javascript file to the `/temp` directory."
+[discrete]
+==== javascript (adjective)
+[[javascript]]
+*Description*: When referring to a file written using the JavaScript language, use all lowercase; for example, "...copy the IPA javascript file to the `/temp/` directory."
 
 *Use it*: yes
 
-*Class*: adjective
-
 *Incorrect forms*:
 
-*See also*: xref:javascript[JavaScript]
+*See also*: xref:JavaScript[JavaScript]
 
-.JBoss Community
+[discrete]
+==== JBoss Community (noun)
 [[jboss-community]]
 *Description*: Use when referring to the community of users and contributors. No longer referred to as "JBoss.org."
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: JBoss.org
 
 *See also*:
 
-.⁠JBoss Way
+[discrete]
+==== JBoss Way (noun)
 [[jboss-way]]
 *Description*: When referring specifically to the JBoss cultural and business climate or practices as the subject of your sentence, capitalize "JBoss Way" as a formal, branded concept. However, if the reference is generic or the "way" is further specified, do not capitalize.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 // TODO: Add links to "Red Hat Way" and "open source way".
 *See also*: Red Hat Way, open source way
 
-.⁠job
+[discrete]
+==== job (noun)
 [[job]]
 *Description*: A task performed by a computer system. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠jsvc
+[discrete]
+==== jsvc (noun)
 [[jsvc]]
-*Description*: The Apache Commons Daemon jsvc is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise use all lowercase.
+*Description*: The Apache Commons Daemon `jsvc` is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise use all lowercase.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠just
+[discrete]
+==== just (adverb)
 [[just]]
 *Description*: Use sparingly. In the phrase, "Just open the file...", the word "just" can be omitted.
 
 *Use it*: with caution
 
-*Class*: adverb
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠JVM
+[discrete]
+==== JVM (noun)
 [[jvm]]
-*Description*: Initialism for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)."
+*Description*: Acronym for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)."
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: Jvm, jvm
 

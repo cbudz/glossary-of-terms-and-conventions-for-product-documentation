@@ -1,100 +1,93 @@
-.⁠IaaS
+[discrete]
+==== IaaS (noun)
 [[iaas]]
-*Description*: Stands for "Infrastructure-as-a-Service."  In the spelled-out version of this, hyphens are always used.
+*Description*: Stands for "Infrastructure-as-a-Service." In the spelled-out version of this, hyphens are always used.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*:
 
 *See also*:
 
-.IBM eServer System p
+[discrete]
+==== IBM eServer System p (noun)
 [[ibm-eserver-system-p]]
 *Description*: IBM eServer System p is correct for the first reference in a manual; use IBM System p or System p for subsequent references.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: pSeries
 
 *See also*:
 
-.⁠IBM z Systems
+[discrete]
+==== IBM z Systems (noun)
 [[ibm-z-systems]]
 *Description*: The name for the family of IBM mainframe computers.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠InfiniBand
+[discrete]
+==== InfiniBand (noun)
 [[infiniband]]
 *Description*: InfiniBand is a switched fabric network topology used in high-performance computing. The term is both a service mark and a trademark of the InfiniBand Trade Association. Their rules for using the mark are standard ones: append the (TM) symbol the first time it is used and respect the capitalization (including the inter-capped "B") from then on. In ASCII-only circumstances, the "\(TM)" string is the acceptable alternative.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Open InfiniBand, Infiniband
 
 *See also*:
 
-.⁠insecure
+[discrete]
+==== insecure (adjective)
 [[insecure]]
 *Description*: Something that is unsafe.
 
 *Use it*: yes
 
-*Class*: adjective
-
 *Incorrect forms*: nonsecure, non-secure
 
 *See also*:
 
-.installation program
+[discrete]
+==== installation program (noun)
 [[installation-program]]
 *Description*: A program that installs certain software.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: the installer
 
 *See also*:
 
-.Intel(R) Core(TM)
+[discrete]
+==== Intel(R) Core(TM) (noun)
 [[intel-coretm]]
 *Description*: Intel brand processors.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠Intel(R) EP80579 Integrated Processor
+[discrete]
+==== Intel(R) EP80579 Integrated Processor (noun)
 [[intel-ep80579-integrated-processor]]
 *Description*: Use the official brand name "Intel(R) EP80579 Integrated Processor."
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Tolapai, Intel Tolapai
 
 *See also*:
 
-.⁠Intel Virtualization Technology (Intel VT)
+[discrete]
+==== Intel Virtualization Technology (noun)
 [[intel-virtualization-technology]]
 *Description*: The first and all prominent uses of the name should be fully spelled out, immediately followed by the initialism. For example, "Intel Virtualization Technology (Intel VT) for Intel 64 or Itanium architecture (Intel VT-i)". Subsequent uses can be abbreviated to "Intel VT-i."
 
@@ -102,37 +95,34 @@ Always write the initialism in uppercase, accompanied by the "Intel" mark. Do no
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: VT-i, VT
 
 *See also*:
 
-.Intel(R) Xeon(R)
+[discrete]
+==== Intel(R) Xeon(R) (noun)
 [[intel-xeon]]
 *Description*: Intel brand processors.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠interesting
+[discrete]
+==== interesting (adjective)
 [[interesting]]
 *Description*: Avoid using, as this is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note...", consider using a "Note" admonition.
 
 *Use it*: no
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠Internet of Things (IoT)
+[discrete]
+==== Internet of Things (noun)
 [[internet-of-things]]
 *Description*: The Internet of Things (IoT) refers to uniquely identifiable objects and their virtual representations in an Internet-like structure. See the link:https://en.wikipedia.org/wiki/Internet_of_things[Internet of Things Wikipedia page] for more information.
 
@@ -140,13 +130,12 @@ Capitalize as shown, spell out on the first occurrence, and use the initialism t
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠I/O
+[discrete]
+==== I/O (noun)
 [[i-o]]
 *Description*: Stands for input/output (pronounced "eye-oh"). The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mice are input-only devices, while devices such as printers are output-only. A writable CD is both an input and an output device.
 
@@ -154,37 +143,34 @@ The term I/O is a non-countable noun, meaning that it cannot be expressed in plu
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: IO
 
 *See also*:
 
-.⁠IOPS
+[discrete]
+==== IOPS (noun)
 [[iops]]
 *Description*: Stands for input/output operations per second. Use all caps as shown.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠IP
+[discrete]
+==== IP (noun)
 [[ip]]
 *Description*: Stands for Internet Protocol. Capitalize both letters.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.IP Masquerade
+[discrete]
+==== IP Masquerade (noun)
 [[ip-masquerade]]
 *Description*: A Linux networking function. IP Masquerade, also called IPMASQ or MASQ, allows one or more computers in a network without assigned IP addresses to communicate with the Internet using the Linux server's assigned IP address. The IPMASQ server acts as a gateway, and the other devices are invisible behind it, so to other machines on the Internet the outgoing traffic appears to be coming from the IPMASQ server and not the internal PCs.
 
@@ -192,61 +178,56 @@ Because IPMASQ is a generic technology, the server can be connected to other com
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠IPsec
+[discrete]
+==== IPsec (noun)
 [[ipsec]]
 *Description*: IPsec stands for Internet Protocol security.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: IPSec
 
 *See also*:
 
-.⁠IP switching
+[discrete]
+==== IP switching (noun)
 [[ip-switching]]
 *Description*: A type of IP routing developed by Ipsilon Networks, Inc. Unlike conventional routers, IP switching routers use ATM hardware to speed packets through networks. Although the technology is new, it appears to be considerably faster than older router techniques.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠ISV
+[discrete]
+==== ISV (noun)
 [[isv]]
 *Description*: Stands for independent software vendor, a company that produces software.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠IT, I.T.
+[discrete]
+==== IT, I.T. (noun)
 [[it]]
 *Description*: Stands for information technology. Use "I.T." (with periods) only in headlines or subheadings where all caps are used, in order to clarify that the word is "IT" vs. "it."
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*:
 
 *See also*:
 
-.⁠Itanium
+[discrete]
+==== Itanium (noun)
 [[itanium]]
 *Description*: A member of Intel's Merced family of processors, Itanium is a 64-bit RISC microprocessor. Based on the EPIC (Explicitly Parallel Instruction Computing) design philosophy, which states that the compiler should decide which instructions be executed together, Itanium has the highest FPU power available.
 
@@ -256,31 +237,27 @@ Itanium's primary use is driving large applications that require more than 4 GB 
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: IA64, ia64
 
 *See also*:
 
-.⁠Itanium 2
+[discrete]
+==== Itanium 2 (noun)
 [[itanium-2]]
 *Description*: Itanium 2 is correct. Do not use "Itanium2" without the space between Itanium and 2.
 
 *Use it*: yes
 
-*Class*: noun
-
 *Incorrect forms*: Itanium2
 
 *See also*:
 
-.⁠ISeries
+[discrete]
+==== ISeries (noun)
 [[iseries]]
 *Description*: IBM eServer System i is correct for the first reference in a manual; use IBM System i or System i for subsequent references.
 
 *Use it*: yes
-
-*Class*: noun
 
 *Incorrect forms*: iSeries
 

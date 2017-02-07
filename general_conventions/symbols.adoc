@@ -1,0 +1,34 @@
+[discrete]
+==== `&`
+[[ampersand]]
+*Description*: Ampersands can be used in design elements and graphics when space is limited, and when either referring to or quoting third-party content that uses them. Do not use in original body copy. 
+
+*Use it*: with caution
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== `!`
+[[exclamation-point]]
+*Description*: Do not use exclamation points at the end of sentences. An exclamation point can be used when referring to a command, such as the bang (!) command. 
+
+*Use it*: no
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== `+`
+[[plus-symbol]]
+*Description*: Plus symbols can be used in design elements and graphics when space is limited, and when either referring to or quoting third-party content that uses them. Do not use in original body copy.
+
+*Use it*: with caution
+
+*Incorrect forms*: 
+
+*See also*:
+
+

@@ -1,0 +1,209 @@
+[discrete]
+==== UID (noun)
+[[uid]]
+*Description*: UID and User ID are abbreviations of user identifier. UID is a unique identifier associated with a single entity within a given system.
+
+*Use it*: yes
+
+*Incorrect forms*: uid
+
+*See also*: xref:userid[userid]
+
+[discrete]
+==== UltraSPARC (noun)
+[[UltraSPARC]]
+*Description*: Correct.  UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc. Products bearing the SPARC trademarks are based upon an architecture developed by Sun Microsystems, Inc. 
+
+*Use it*: yes
+
+*Incorrect forms*: ULTRASPARC, UltraSparc, or other variations.
+
+*See also*:
+
+[discrete]
+==== uninterruptible (adjective)
+[[uninterruptible]]
+*Description*: Despite not appearing in the American Heritage Dictionary, this term does appear in the Merriam-Webster Unabridged Dictionary, and is considered acceptable in Red Hat documentation, especially in the context of "uninterruptible power supply (UPS)." 
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== UNIX (noun)
+[[unix]]
+*Description*: UNIX is a registered trademark of The Open Group. Do not use "UNIX-like", instead use an expression such as "Linux, UNIX, and similar operating systems" instead. 
+
+*Use it*: yes
+
+*Incorrect forms*: Unix, unix, UNIX-like
+
+*See also*:
+
+[discrete]
+==== unset (verb)
+[[unset]]
+*Description*: Use "clear" instead. For example: To disable the *Wobbly Widget*, clear the *Enable Wobbly Widget* check box. Another example: This rule only matches TCP packets that have the SYN flag set and the ACK flag cleared. 
+
+*Use it*: no
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== untrusted (adjective)
+[[untrusted]]
+*Description*: Use only in the context of security relationships. For example, web browsers often indicate that a site is "untrusted" if it cannot verify that site's security certificate. 
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== upgrade (verb)
+[[upgrade]]
+*Description*: Raise (something) to a higher standard, in particular improve by adding or replacing components. For example, "Upgrade the RHEL version".
+
+*Use it*: yes
+
+*Incorrect forms*: up-grade, up grade
+
+*See also*:
+
+[discrete]
+==== UPS (noun)
+[[ups]]
+*Description*: Abbreviation of uninterruptible power supply, a power supply that includes a battery to maintain power in the event of a power outage. 
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== upsell (verb)
+[[upsell]]
+*Description*: Definition as per http://www.ahdictionary.com/word/search.html?q=upsell: The practice of offering customers additional or more expensive products or services after they have already agreed to buy something. No adjectival form is currently recognized.  
+
+*Use it*: yes
+
+*Incorrect forms*: up-sell
+
+*See also*:
+
+[discrete]
+==== upselling (noun)
+[[upselling]]
+*Description*: Definition as per http://www.ahdictionary.com/word/search.html?q=upsell: The practice of offering customers additional or more expensive products or services after they have already agreed to buy something. No adjectival form is currently recognized.  
+
+*Use it*: yes
+
+*Incorrect forms*: up-selling, up selling
+
+*See also*:
+
+[discrete]
+==== upstream (noun)
+[[upstream-n]]
+*Description*: Use the one-word form for the nominal form. Data sent from a customer to a network service provider.
+
+*Use it*: yes
+
+*Incorrect forms*: up-stream, up stream
+
+*See also*: xref:downstream[downstream]
+
+[discrete]
+==== upstream (adjective)
+[[upstream-adj]]
+*Description*: Use the one-word form for the adjectival form. Data sent from a customer to a network service provider.
+
+*Use it*: yes
+
+*Incorrect forms*: up-stream, up stream
+
+*See also*: xref:downstream[downstream]
+
+
+[discrete]
+==== uptime (noun)
+[[uptime]]
+*Description*: Use one-word form. The time during which a computer or server is in operation.
+
+*Use it*: yes
+
+*Incorrect forms*: up-time, up time 
+
+*See also*:
+
+[discrete]
+==== URL (noun)
+[[url]]
+*Description*: A Uniform Resource Locator (URL) provides a way to locate a resource on the web, the hypertext system that operates over the internet. The URL contains the name of the protocol to be used to access the resource and a resource name. Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com. See link:http://www.stylepedia.net/#form-Red_Hat_Technical_Publications-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites[Referencing Other Internet Sites] for more information.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== usable (adjective)
+[[usable]]
+*Description*: Capable of being used.
+
+*Use it*: yes
+
+*Incorrect forms*: useable
+
+*See also*:
+
+[discrete]
+==== user (noun)
+[[user]]
+*Description*: When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead. If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may wish to access your database." 
+
+*Use it*: with caution
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== userid (noun)
+[[userid]]
+*Description*: Acceptable abbreviation of user identifier. 
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:uid[UID]
+
+[discrete]
+==== user space (noun)
+[[user-space-n]]
+*Description*: Use "user space" when used as a noun. 
+
+*Use it*: yes
+
+*Incorrect forms*: userspace
+
+*See also*: xref:user-space-adj[user-space]
+
+[discrete]
+==== user-space (adjective)
+[[user-space-adj]]
+*Description*: When used as a modifier, use the hyphenated form, "user-space."
+
+*Use it*: yes
+
+*Incorrect forms*: userspace
+
+*See also*: xref:user-space-n[user space]
