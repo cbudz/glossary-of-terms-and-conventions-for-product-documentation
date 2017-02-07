@@ -1,0 +1,51 @@
+[[reviewer_checklist]]
+
+.Technical Documentation Reviewers' Checklist
+[options="header",cols="<85%,^15%"]
+|=====
+
+
+|Does the entry adhere to the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/template.adoc[template] in GitLab? |&#9744;
+
+|Is this entry unique, that is, not already included in Red Hat’s Glossary of Technical Terms and Conventions for Product Documentation?|&#9744;
+
+|Is this entry unique, that is, not included in The IBM Style Guide? Here’s an abridged version of http://www.ibm.com/developerworks/library/styleguidelines/[The IBM Style Guide]. Consult the full edition to be sure.|&#9744;
+
+|Does the entry include only one term?|&#9744;
+
+|If the entry has two class variants, for example noun and verb, are the entries for noun and verb unique?|&#9744;
+
+|Are the IDs in the correct format?
+**ID** instructions from the template:
+<id> with the term in lowercase, if the term consists of more than one word, separate them with a hyphen ("-"). Do not use spaces, capital letters, or special characters (for example, slash ["/"]) in this name. If two entries have the same ID, see https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/template.adoc#two-entries-with-same-anchor-tag[What to do if two entries have the same ID?].|&#9744;
+
+|Does the **Description** field include a definition of the entry?|&#9744;
+
+|Are there complete sentences in the **Description** field?|&#9744;
+
+|Is the AsciiDoc source code valid? Use http://ccs-jenkins.gsslab.brq.redhat.com/TopicBranches#glossary-of-terms-and-conventions-for-product-documentation[Glossary of Terms and Conventions for Product Documentation] page to verify. In the table, find the branch you are reviewing and check if "Success build?" equals "Yes".|&#9744;
+
+|Is the document free of typograhic errors?|&#9744;
+
+|Is the document free of misspellings?|&#9744;
+
+|Does the entry includes all fields (even the empty ones)?|&#9744;
+
+|=====
+
+[discrete]
+[[general_guidance]]
+==== General Guidance
+
+* Use GitLab to review the files. 
+** Anyone who would like to add an entry should create a merge request. 
+** Reviewers should comment directly in the merge requests. 
+** Resolve discussions in the merge requests, so you will know what else needs to be resolved. 
+** Once you have verified that the file is ready to go, you can accept the merge request.
+
+[NOTE]
+====
+See the xref:how-to-update-this-document[How to update this document] section for information on editing the document and submitting changes to GitLab.
+
+See https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/merge_requests/38/diffs[merge requests] for information on submitting changes to GitLab.
+====
