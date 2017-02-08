@@ -1,7 +1,7 @@
 [[reviewer_checklist]]
 
 .Technical Documentation Reviewers' Checklist
-[options="header",cols="<85%,^15%"]
+[cols="<85%,^15%"]
 |=====
 
 
