@@ -130,7 +130,7 @@ Do not use in Red Hat Virtualization 4.x; see xref:red-hat-virtualization-host[R
 [[red-hat-enterprise-virtualization-manager]]
 *Description*: The Red Hat Enterprise Virtualization Manager is a server that manages and provides access to the resources in the Red Hat Enterprise Virtualization environment. 
 
-Use "Red Hat Enterprise Virtualization Manager" for version 3.x. Always spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (downstream) term used by Engineering.
+Use "Red Hat Enterprise Virtualization Manager" for version 3.x. Always spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (upstream) term used by Engineering.
 
 *Use it*: yes
 
@@ -184,7 +184,7 @@ Use "Red Hat Virtualization Host (RHVH)" for the first instance in a section. "R
 [[red-hat-virtualization-manager]]
 *Description*: The Red Hat Virtualization Manager is a server that manages and provides access to the resources in the Red Hat Virtualization environment. 
 
-Use "Red Hat Virtualization Manager" for version 4.x. Always spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (downstream) term used by Engineering.
+Use "Red Hat Virtualization Manager" for version 4.x. Always spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (upstream) term used by Engineering.
 
 *Use it*: yes
 
