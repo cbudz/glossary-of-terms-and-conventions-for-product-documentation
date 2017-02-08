@@ -95,7 +95,7 @@ Always spell out in full. Do not capitalize "host".
 
 *Incorrect forms*: RHEL host, RHEL-H
 
-*See also*: xref:host[host]
+*See also*: xref:host-rhv[host]
 
 [discrete]
 ==== Red Hat Enterprise Virtualization (noun)
@@ -123,7 +123,7 @@ Do not use in Red Hat Virtualization 4.x; see xref:red-hat-virtualization-host[R
 
 *Incorrect forms*: RHEVH, Red Hat Enterprise Virtualization Host, RHEV Hypervisor
 
-*See also*: xref:host[host], xref:red-hat-virtualization-host[Red Hat Virtualization Host]
+*See also*: xref:host-rhv[host], xref:red-hat-virtualization-host[Red Hat Virtualization Host]
 
 [discrete]
 ==== Red Hat Enterprise Virtualization Manager (noun)
@@ -177,7 +177,7 @@ Use "Red Hat Virtualization Host (RHVH)" for the first instance in a section. "R
 
 *Incorrect forms*: RHV-H, Red Hat Virtualization Hypervisor, RHV Host, the Host
 
-*See also*: xref:host[host], xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor]
+*See also*: xref:host-rhv[host], xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor]
 
 [discrete]
 ==== Red Hat Virtualization Manager (noun)
