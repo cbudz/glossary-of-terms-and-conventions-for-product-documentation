@@ -109,3 +109,6 @@ include::{includedir}/products_conventions/products_conventions_overview.adoc[]
 [[red-hat-ceph-storage]]
 === Red Hat Ceph Storage
 include::{includedir}/products_conventions/ceph.adoc[]
+
+=== Red Hat Virtualization
+include::{includedir}/products_conventions/red-hat-virtualization.adoc[]
