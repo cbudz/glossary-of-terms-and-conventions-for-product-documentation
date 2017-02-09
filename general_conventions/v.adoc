@@ -10,6 +10,19 @@
 
 *See also*: xref:oem[OEM]
 
+[discrete]
+==== vCPU (noun)
+[[vcpu]]
+*Description*: A virtual CPU (central processing unit) represents a portion of a physical CPU that is assigned to a virtual machine.
+
+Use lowercase "v" and uppercase "CPU".
+
+*Use it*: yes
+
+*Incorrect forms*: VCPU, vcpu
+
+*See also*:
+
 .⁠VDSM
 [[vdsm]]
 *Description*: Initialism for Virtual Desktop Server Management. DO NOT spell out this initialism. Using the term "virtual desktop" in this context has negative marketing implications. Use VDSM without expansion.
