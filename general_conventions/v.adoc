@@ -35,13 +35,15 @@ Use lowercase "v" and uppercase "CPU".
 
 .vi
 [[vi]]
-*Description*: Correct; use all lowercase letters. Do not use "VI" (all caps).
+*Description*: vi is a screen-oriented text editor originally created for the Unix operating system. Do not use "VI" (all caps).
 
 *Use it*: yes
 
 *Class*: noun
 
 *Incorrect forms*: VI
+
+*See also*: xref:vim[Vim]
 
 .Vim
 [[vim]]
@@ -52,6 +54,8 @@ Use lowercase "v" and uppercase "CPU".
 *Class*: noun
 
 *Incorrect forms*: VIM, vim
+
+*See also*: xref:vi[vi]
 
 .video mode
 [[video-mode]]
