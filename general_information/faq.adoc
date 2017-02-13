@@ -23,9 +23,9 @@ How can I contribute to this document?::
 
 See xref:how-to-update-this-document[].
 
-How can I suggest an update to this document?:: 
+How can I suggest an update to this document or start a discussion?:: 
 
-Open an issue. See xref:[TBA].
+Open an issue. See xref:submitting-issues[].
 
 Are there any reasons a contribution may not be accepted?::
 
@@ -49,7 +49,7 @@ The most common errors:
 * Duplicated IDs. See xref:two-entries-with-same-ID[See What if two entries have the same ID?] for details.
 * A non-existent ID is used as a cross reference. Always verify that the entry you refer to already exists in the document. If it does not, create it.
 +
-IMPORTANT: Always make sure that Jenkins is able to build the document with the changes you made before creating a merge request. Raise an issue if in doubt. See xref:[TBA] for details.
+IMPORTANT: Always make sure that Jenkins is able to build the document with the changes you made before creating a merge request. Raise an issue if in doubt. See xref:submitting-issues[] for details.
 
 [[two-entries-with-same-ID]]
 What if two entries have the same ID?::
@@ -71,4 +71,4 @@ To avoid this issue, use different IDs:
 +
 * For entries that differ in spelling, for example "kB" and "KB", preserve the letter case.
 +
-Raise an issue if in doubt. See xref:[TBA] for details.
+Raise an issue if in doubt. See xref:submitting-issues[] for details.

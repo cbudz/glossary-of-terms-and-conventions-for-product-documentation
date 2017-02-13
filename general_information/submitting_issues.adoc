@@ -1,0 +1,15 @@
+[[submitting-issues]]
+
+The preferred way to update this document is to open a merge request as described in xref:how-to-update-this-document[]. However, you can also submit an issue. Issues are great for example if:
+
+* You spotted an error in the guide but you do not know how to fix it.
+* You want to add a missing entry but you do not know all the information required in xref:template[].
+* You have a general question and what to start a discussion.
+
+To open an issue:
+
+. Log in to GitLab. Use your Kerberos credentials or the *Red Hat SAML Login*.
+. Navigate to the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/issues[Issues] page.
+. Click `New Issue`.
+. Fill in the empty fields. *Title* and *Descriptions* are compulsory.
+. Click `Submit issue`.
