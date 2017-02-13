@@ -206,7 +206,7 @@
 
 *Incorrect forms*: command driven, commanddriven
 
-*See also*:
+*See also*: xref:menu-driven[menu-driven]
 
 [discrete]
 ==== command language (noun)
