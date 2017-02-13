@@ -240,7 +240,7 @@ Do not use "command prompt," "terminal," or "shell."
 [discrete]
 ==== SOCKS (noun)
 [[skills]]
-*Description*: Socket Secure (SOCKS) is an Internet protocol that exchanges network packets between a client and server through a proxy server. When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5".
+*Description*: Socket Secure (SOCKS) is an Internet protocol that exchanges network packets between a client and server through a proxy server. When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5."
 
 *Use it*: yes
 
@@ -385,8 +385,8 @@ Do not use "command prompt," "terminal," or "shell."
 [[ssh]]
 *Description*: SSH is an abbreviation for Secure Shell, a network protocol that allows data exchange using a secure channel. 
 
-- For the protocol, do NOT use "SSH", "ssh", "Ssh", or other variants. 
-- For the command, use "ssh".
+- For the protocol, do NOT use "SSH," "ssh," "Ssh," or other variants. 
+- For the command, use "ssh."
 
 Do not use as a verb. 
 

@@ -97,11 +97,7 @@ On display screens, the foreground consists of the characters and pictures that 
 [discrete]
 ==== Fortran (noun)
 [[fortran]]
-*Description*: A general-purpose, imperative programming language that is especially suited to numeric computation and scientific computing.
-
-For earlier versions up to FORTRAN 77, use "FORTRAN".
-
-For later versions beginning with Fortran 90, use "Fortran".
+*Description*: A general-purpose, imperative programming language that is especially suited to numeric computation and scientific computing. For earlier versions up to FORTRAN 77, use "FORTRAN." For later versions beginning with Fortran 90, use "Fortran."
 
 *Use it*: yes
 

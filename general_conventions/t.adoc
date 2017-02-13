@@ -155,7 +155,7 @@
 [discrete]
 ==== type (noun)
 [[type-n]]
-*Description*: Type can be used as anoun. You can write "Print the data type of init". 
+*Description*: Type can be used as anoun. You can write "Print the data type of init." 
 
 *Use it*: yes
 

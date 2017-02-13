@@ -34,7 +34,7 @@
 [discrete]
 ==== UNIX (noun)
 [[unix]]
-*Description*: UNIX is a registered trademark of The Open Group. Do not use "UNIX-like", instead use an expression such as "Linux, UNIX, and similar operating systems" instead. 
+*Description*: UNIX is a registered trademark of The Open Group. Do not use "UNIX-like," instead use an expression such as "Linux, UNIX, and similar operating systems" instead. 
 
 *Use it*: yes
 
@@ -67,7 +67,7 @@
 [discrete]
 ==== upgrade (verb)
 [[upgrade]]
-*Description*: Raise (something) to a higher standard, in particular improve by adding or replacing components. For example, "Upgrade the RHEL version".
+*Description*: Raise (something) to a higher standard, in particular improve by adding or replacing components. For example, "Upgrade the RHEL version."
 
 *Use it*: yes
 

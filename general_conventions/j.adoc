@@ -1,7 +1,7 @@
 [discrete]
 ==== JavaScript (noun)
 [[JavaScript]]
-*Description*: "JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase "javascript".
+*Description*: "JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase "javascript."
 
 *Use it*: yes
 
@@ -57,7 +57,7 @@
 [discrete]
 ==== jsvc (noun)
 [[jsvc]]
-*Description*: The Apache Commons Daemon `jsvc` is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise use all lowercase.
+*Description*: The Apache Commons Daemon `jsvc` is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc," otherwise use all lowercase.
 
 *Use it*: yes
 
@@ -68,7 +68,7 @@
 [discrete]
 ==== just (adverb)
 [[just]]
-*Description*: Use sparingly. In the phrase, "Just open the file...", the word "just" can be omitted.
+*Description*: Use sparingly. In the phrase, "Just open the file...," the word "just" can be omitted.
 
 *Use it*: with caution
 

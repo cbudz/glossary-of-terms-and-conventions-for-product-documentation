@@ -46,7 +46,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== plain text (adjective)
 [[plain-text]]
-*Description*: Correct in almost all cases. We use "plain text" as a plain English denotation of all unencrypted information, whether it is sitting about just being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext". Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm).
+*Description*: Correct in almost all cases. We use "plain text" as a plain English denotation of all unencrypted information, whether it is sitting about just being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext." Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm).
 
 *Use it*: yes
 

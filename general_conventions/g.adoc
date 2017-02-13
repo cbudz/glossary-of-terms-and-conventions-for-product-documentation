@@ -3,7 +3,7 @@
 [[gplusplus]]
 *Description*: G++ is a C++ compiler usually operated via the command line. 
 
-When referring to the program, use "G++".
+When referring to the program, use "G++."
 
 *Use it*: yes
 
@@ -27,9 +27,9 @@ When referring to the command, use `g++`, marked up appropriately.
 [discrete]
 ==== GAS (noun)
 [[gas]]
-*Description*: Short for "GNU Assembler", the assembler used by the GNU Project. 
+*Description*: Short for "GNU Assembler," the assembler used by the GNU Project. 
 
-When referring to the program, use "GAS".
+When referring to the program, use "GAS."
 
 *Use it*: yes
 
@@ -40,7 +40,7 @@ When referring to the program, use "GAS".
 [discrete]
 ==== gas (noun
 [[gas-command]]
-*Description*: Short for "GNU Assembler", the assembler used by the GNU Project. 
+*Description*: Short for "GNU Assembler," the assembler used by the GNU Project. 
 
 When referring to the command, use `gas`, marked up appropriately.
 
@@ -53,7 +53,7 @@ When referring to the command, use `gas`, marked up appropriately.
 [discrete]
 ==== GB (noun)
 [[gb]]
-*Description*: Abbreviation of gigabyte. Use a space between the value and the abbreviation. For example, "a 2 GB file".
+*Description*: Abbreviation of gigabyte. Use a space between the value and the abbreviation. For example, "a 2 GB file."
 
 *Use it*: yes
 
@@ -77,7 +77,7 @@ When referring to the command, use `gas`, marked up appropriately.
 [[gcc]]
 *Description*: The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. 
 
-When referring to the program, use "GCC".
+When referring to the program, use "GCC."
 
 *Use it*: yes
 
@@ -103,7 +103,7 @@ When referring to the command, use `gcc`, marked up appropriately.
 [[gcj]]
 *Description*: The GNU Compiler for Java (GCJ) was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from GCJ. In 2016, GCJ was removed from GCC.
 
-When referring to the program, use "GCJ". 
+When referring to the program, use "GCJ." 
 
 *Use it*: yes
 
@@ -130,7 +130,7 @@ When referring to the command, use `gcj`, marked up appropriately.
 [[gdb]]
 *Description*: The GNU Debugger (GDB), is the standard debugger for the GNU operating system. It is a portable debugger that runs on many UNIX-like systems and works for many programming languages.
 
-When referring to the program, use "GDB". 
+When referring to the program, use "GDB." 
 
 *Use it*: yes
 
@@ -154,7 +154,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 [discrete]
 ==== GID (noun)
 [[gid]]
-*Description*: Acronym for Group ID. Do not use "gid". 
+*Description*: Acronym for Group ID. Do not use "gid." 
 
 *Use it*: yes
 
@@ -165,7 +165,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 [discrete]
 ==== gigabyte (noun)
 [[gigabyte]]
-*Description*: 2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB". 
+*Description*: 2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB." 
 
 *Use it*: yes
 
@@ -176,7 +176,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 [discrete]
 ==== GIMP (noun)
 [[gimp]]
-*Description*: Acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp". 
+*Description*: Acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp." 
 
 *Use it*: yes
 
@@ -198,7 +198,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 [discrete]
 ==== GNOME Classic (noun)
 [[gnome-classic]]
-*Description*: Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GNOME Display Manager (GDM) login screen, that is, "GNOME Classic". The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere). 
+*Description*: Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GNOME Display Manager (GDM) login screen, that is, "GNOME Classic." The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere). 
 
 *Use it*: yes
 
@@ -209,7 +209,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 [discrete]
 ==== GNU (noun)
 [[gnu]]
-*Description*: Recursive initialism for "GNU's Not UNIX". GNU is a UNIX-like, open source operating system. Do not use "Gnu" or "gnu". 
+*Description*: Recursive initialism for "GNU's Not UNIX." GNU is a UNIX-like, open source operating system. Do not use "Gnu" or "gnu." 
 
 *Use it*: yes
 
@@ -233,7 +233,7 @@ When referring to the Red Hat product, use GNUPro.
 [discrete]
 ==== GPL (noun)
 [[gpl]]
-*Description*: Initialism for General Public License. Do not use "Gpl" or "gpl".
+*Description*: Initialism for General Public License. Do not use "Gpl" or "gpl."
 
 *Use it*: yes
 
@@ -246,7 +246,7 @@ When referring to the Red Hat product, use GNUPro.
 [[grayscale]]
 *Description*: A range of gray shades from white to black, as used in a monochrome display or printout. 
 
-Do not use "gray-scale" or "gray scale". Only the noun form is currently recognized. 
+Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized. 
 
 *Use it*: yes
 
@@ -257,7 +257,7 @@ Do not use "gray-scale" or "gray scale". Only the noun form is currently recogni
 [discrete]
 ==== GRUB (noun)
 [[grub]]
-*Description*: Linux boot loader. Short for "GRand Unified Bootloader".
+*Description*: Linux boot loader. Short for "GRand Unified Bootloader."
 
 *Use it*: yes
 
@@ -268,7 +268,7 @@ Do not use "gray-scale" or "gray scale". Only the noun form is currently recogni
 [discrete]
 ==== GTK+ (noun)
 [[gtkplus]]
-*Description*: Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk". 
+*Description*: Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk." 
 
 *Use it*: yes
 

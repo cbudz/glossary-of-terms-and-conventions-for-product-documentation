@@ -45,7 +45,7 @@
 [discrete]
 ==== debug (adjective)
 [[debug-adj]]
-*Description*: A type of command or script that is used to find and remove errors from a program or design. For example, a "debug script".
+*Description*: A type of command or script that is used to find and remove errors from a program or design. For example, a "debug script."
 
 *Use it*: yes
 
@@ -111,7 +111,7 @@
 [discrete]
 ==== DevOps (noun)
 [[devops-n]]
-*Description*: A combination of "development" and "operations". A specific method or organizational approach where developers and IT operations work together to create the applications that run the business. 
+*Description*: A combination of "development" and "operations." A specific method or organizational approach where developers and IT operations work together to create the applications that run the business. 
 
 *Use it*: yes
 
@@ -155,7 +155,7 @@
 [discrete]
 ==== DNS (noun)
 [[dns]]
-*Description*: Initialism of "Domain Name System" or "Domain Name Service", a service that translates domain names into IP addresses and vice versa.
+*Description*: Initialism of "Domain Name System" or "Domain Name Service," a service that translates domain names into IP addresses and vice versa.
 
 *Use it*: yes
 
@@ -166,7 +166,7 @@
 [discrete]
 ==== domain name (noun)
 [[domain-name]]
-*Description*: A name that identifies one or more IP addresses. For example, "redhat.com".
+*Description*: A name that identifies one or more IP addresses. For example, "redhat.com."
 
 *Use it*: yes
 

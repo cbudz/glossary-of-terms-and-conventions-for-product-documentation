@@ -100,7 +100,7 @@
 [discrete]
 ==== on-the-fly
 [[on-the-fly]]
-*Description*: Idiom meaning "as you go" or "in real time". Do not use as it is not universally understood. 
+*Description*: Idiom meaning "as you go" or "in real time." Do not use as it is not universally understood. 
 
 *Use it*: no
 
@@ -166,7 +166,7 @@
 [discrete]
 ==== override (verb)
 [[override]]
-*Description*: In computing, to override means to force the use of a specific setting or value instead of the one that would otherwise be used. For example, "apply a setting from a configuration file to override the default ones".
+*Description*: In computing, to override means to force the use of a specific setting or value instead of the one that would otherwise be used. For example, "apply a setting from a configuration file to override the default ones."
 
 *Use it*: yes
 

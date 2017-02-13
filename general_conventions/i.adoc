@@ -89,7 +89,7 @@
 [discrete]
 ==== Intel Virtualization Technology (noun)
 [[intel-virtualization-technology]]
-*Description*: The first and all prominent uses of the name should be fully spelled out, immediately followed by the initialism. For example, "Intel Virtualization Technology (Intel VT) for Intel 64 or Itanium architecture (Intel VT-i)". Subsequent uses can be abbreviated to "Intel VT-i."
+*Description*: The first and all prominent uses of the name should be fully spelled out, immediately followed by the initialism. For example, "Intel Virtualization Technology (Intel VT) for Intel 64 or Itanium architecture (Intel VT-i)." Subsequent uses can be abbreviated to "Intel VT-i."
 
 Always write the initialism in uppercase, accompanied by the "Intel" mark. Do not use the initialism in any prominent places, such as in titles or paragraph headings, nor include any trademark symbols, such as (TM) or "\(TM)."
 
@@ -113,7 +113,7 @@ Always write the initialism in uppercase, accompanied by the "Intel" mark. Do no
 [discrete]
 ==== interesting (adjective)
 [[interesting]]
-*Description*: Avoid using, as this is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note...", consider using a "Note" admonition.
+*Description*: Avoid using, as this is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note...," consider using a "Note" admonition.
 
 *Use it*: no
 

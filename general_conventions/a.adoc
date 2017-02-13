@@ -41,7 +41,7 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 [discrete]
 ==== alright (adjective) 
 [[alright]]
-*Description*: The colloquial form of "correct" or "as expected". 
+*Description*: The colloquial form of "correct" or "as expected." 
 
 *Use it*: no
 

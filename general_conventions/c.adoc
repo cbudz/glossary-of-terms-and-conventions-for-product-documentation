@@ -1,7 +1,7 @@
 [discrete]
 ==== CapEx (noun)
 [[cap-ex]]
-*Description*: Stands for "capital expenditures".
+*Description*: Stands for "capital expenditures."
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== CD (noun)
 [[compact-disk]]
-*Description*: Stands for "compact disk".
+*Description*: Stands for "compact disk."
 
 *Use it*: yes
 
@@ -35,7 +35,7 @@
 
 ==== CD #1 (noun)
 [[cd-one]]
-*Description*: When referring to a specific CD in the Red Hat Enterprise Linux CD set, it is correct to refer to it as "Red Hat Enterprise Linux CD #1". Avoid using "Red Hat Enterprise Linux CD 1".
+*Description*: When referring to a specific CD in the Red Hat Enterprise Linux CD set, it is correct to refer to it as "Red Hat Enterprise Linux CD #1." Avoid using "Red Hat Enterprise Linux CD 1."
 
 *Use it*: yes
 
@@ -57,7 +57,7 @@
 [discrete]
 ==== CDs (noun)
 [[cds]]
-*Description*: The plural form of "CD". Use this to describe multiple compact disks.
+*Description*: The plural form of "CD." Use this to describe multiple compact disks.
 
 *Use it*: yes
 
@@ -68,7 +68,7 @@
 [discrete]
 ==== cgroup (noun)
 [[cgroup]]
-*Description*: This term is a contraction of "control group". Cgroups allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
+*Description*: This term is a contraction of "control group." Cgroups allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
 
 *Use it*: yes
 
@@ -233,7 +233,7 @@
 [discrete]
 ==== container-based (adjective)
 [[container-based]]
-*Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "containerized".
+*Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "containerized."
 
 *Use it*: yes
 
@@ -244,7 +244,7 @@
 [discrete]
 ==== containerized (adjective)
 [[containerized]]
-*Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "container-based".
+*Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "container-based."
 
 *Use it*: yes
 
@@ -310,7 +310,7 @@
 [discrete]
 ==== cross-site scripting (adjective)
 [[cross-site-scripting]]
-*Description*: Cross-site scripting attacks. Acceptable use is also "cross-site scripting (XSS) attack". 
+*Description*: Cross-site scripting attacks. Acceptable use is also "cross-site scripting (XSS) attack." 
 
 *Use it*: yes
 

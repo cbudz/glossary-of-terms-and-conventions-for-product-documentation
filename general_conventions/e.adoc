@@ -3,7 +3,7 @@
 [[emacs]]
 *Description*: Emacs is a text editor available in UNIX. Like vi, Emacs is a screen editor. Unlike vi, Emacs is not an insertion mode editor, meaning that any character typed in Emacs is automatically inserted into the file, unless it includes a command prefix.
 
-If referring to the program, use "Emacs". For example, "Source-Navigator supports Emacs or vi commands." If referring to the shell prompt command, use `emacs`. The command should always be properly marked up. For example, "At the prompt, type `emacs`." The complete and correct name is "GNU Emacs." 
+If referring to the program, use "Emacs." For example, "Source-Navigator supports Emacs or vi commands." If referring to the shell prompt command, use `emacs`. The command should always be properly marked up. For example, "At the prompt, type `emacs`." The complete and correct name is "GNU Emacs." 
 
 *Use it*: yes
 
@@ -60,7 +60,7 @@ One ingredient of an environment, therefore, is the operating system. But operat
 [discrete]
 ==== examine (verb)
 [[examine]]
-*Description*: Use instead of "look at".
+*Description*: Use instead of "look at."
 
 *Use it*: yes
 
@@ -82,7 +82,7 @@ One ingredient of an environment, therefore, is the operating system. But operat
 [discrete]
 ==== Exif (noun)
 [[exif]]
-*Description*: Correct. Do not use "EXIF". Exif is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF and RIFF files. Sometimes to referred to as "Exif Print".
+*Description*: Correct. Do not use "EXIF." Exif is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF and RIFF files. Sometimes to referred to as "Exif Print."
 
 *Use it*: yes
 

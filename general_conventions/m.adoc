@@ -45,7 +45,7 @@
 [discrete]
 ==== matrixes (noun)
 [[matrixes]]
-*Description*: In mathematics, a matrix is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns. The correct plural form from US English spelling is matrixes. Do not use "matrices".
+*Description*: In mathematics, a matrix is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns. The correct plural form from US English spelling is matrixes. Do not use "matrices."
 
 *Use it*: yes
 
@@ -166,7 +166,7 @@
 [discrete]
 ==== Mozilla Firefox (noun)
 [[mozilla-firefox]]
-*Description*: An open-source web browser. First reference must be "Mozilla Firefox". Subsequent references can be "Firefox". Do not use "firefox" unless you referring to the `firefox` command and as such, mark it properly
+*Description*: An open-source web browser. First reference must be "Mozilla Firefox." Subsequent references can be "Firefox." Do not use "firefox" unless you referring to the `firefox` command and as such, mark it properly
 
 *Use it*: yes
 
@@ -177,7 +177,7 @@
 [discrete]
 ==== Mozilla Thunderbird (noun)
 [[mozilla-thunderbird]]
-*Description*: Mozilla Thunderbird is a free, open-source, cross-platform email, news, RSS, and chat client. First reference must be "Mozilla Thunderbird". Subsequent references can be "Thunderbird". Do not use "thunderbird" unless you referring to the `thuderbird` command and as such, mark it properly.
+*Description*: Mozilla Thunderbird is a free, open-source, cross-platform email, news, RSS, and chat client. First reference must be "Mozilla Thunderbird." Subsequent references can be "Thunderbird." Do not use "thunderbird" unless you referring to the `thuderbird` command and as such, mark it properly.
 
 *Use it*: yes
 
@@ -188,7 +188,7 @@
 [discrete]
 ==== MS-DOS (noun)
 [[ms-dos]]
-*Description*: MS-DOS is a operating system, mostly developed by Microsoft. Correct spelling is "MS-DOS", do not use "ms-dos", "MSDOS", or "msdos".
+*Description*: MS-DOS is a operating system, mostly developed by Microsoft. Correct spelling is "MS-DOS," do not use "ms-dos," "MSDOS," or "msdos."
 
 *Use it*: yes
 
@@ -199,7 +199,7 @@
 [discrete]
 ==== multiprocessing (noun)
 [[multiprocessing]]
-*Description*: Multiprocessing is the use of two or more central processing units within a single computer system. Correct spelling is "multiprocessing", do not use "multi-processing".
+*Description*: Multiprocessing is the use of two or more central processing units within a single computer system. Correct spelling is "multiprocessing," do not use "multi-processing."
 
 *Use it*: yes
 
@@ -232,7 +232,7 @@
 [discrete]
 ==== mutexes (noun)
 [[mutexes]]
-*Description*: Plural form of "mutex".
+*Description*: Plural form of "mutex."
 
 *Use it*: yes
 

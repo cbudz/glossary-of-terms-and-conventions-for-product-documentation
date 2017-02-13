@@ -180,7 +180,7 @@
 ==== return (verb)
 [[return]]
 
-*Description*: When referring to the keyboard key on Solaris or Mac, use "Return" or "return", respectively. See "enter" for other platforms.
+*Description*: When referring to the keyboard key on Solaris or Mac, use "Return" or "return," respectively. See "enter" for other platforms.
 
 *Use it*: yes
 

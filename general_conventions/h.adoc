@@ -23,7 +23,7 @@
 [discrete]
 ==== he (pronoun)
 [[he]]
-*Description*: Reword to avoid "he" or "she".
+*Description*: Reword to avoid "he" or "she."
 
 *Use it*: no
 
@@ -127,7 +127,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== host name (noun)
 [[host-name]]
-*Description*: Preferred spelling is "host name". Do not use "hostname". Only capitalize the initial "H" at the beginning of a sentence. See The IBM Style Guide for more information.
+*Description*: Preferred spelling is "host name." Do not use "hostname." Only capitalize the initial "H" at the beginning of a sentence. See The IBM Style Guide for more information.
 
 *Use it*: yes
 
@@ -193,7 +193,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== HTML (noun)
 [[html]]
-*Description*: HyperText Markup Language (HTML) is a markup language for web pages. When referring to the language, use "HTML," such as "To see the HTML version of this documentation...". When referring to a web page extension, use "html," such as "The main page is index.html."
+*Description*: HyperText Markup Language (HTML) is a markup language for web pages. When referring to the language, use "HTML," such as "To see the HTML version of this documentation...." When referring to a web page extension, use "html," such as "The main page is index.html."
 
 *Use it*: yes
 
