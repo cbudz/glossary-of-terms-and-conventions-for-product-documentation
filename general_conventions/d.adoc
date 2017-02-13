@@ -183,7 +183,7 @@
 
 *Incorrect forms*: down-stream, down stream
 
-*See also*:
+*See also*: xref:upstream-adj[upstream (adjective)], xref:upstream-n[upstream (noun)]
 
 [discrete]
 ==== download (noun)
@@ -194,7 +194,7 @@
 
 *Incorrect forms*: down-load, down load
 
-*See also*: xref:download-v[download (noun)]
+*See also*: xref:download-v[download (verb)]
 
 [discrete]
 ==== download (verb)
@@ -205,7 +205,7 @@
 
 *Incorrect forms*: down-load, down load
 
-*See also*: xref:download-n[download (verb)]
+*See also*: xref:download-n[download (noun)]
 
 [discrete]
 ==== dual-boot (adjective)
