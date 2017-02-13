@@ -5,7 +5,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 ==== Capsule Server (noun)
 [[capsule-server]]
-*Description*: An additional server that acts as a proxy to the Satellite and can provide services such as DHCP, DNS, and TFTP. Use the two word name on first use in a section; the single term 'Capsule' is acceptable thereafter.
+*Description*: Capsule Server is an additional server that acts as a proxy to the Satellite and can provide services such as DHCP, DNS, and TFTP. Use the two-word name on first use in a section; the single term 'Capsule' is acceptable thereafter.
 
 *Use it*: yes
 
@@ -16,7 +16,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 [discrete]
 ==== Content View (noun)
 [[content-view]]
-*Description*: A subset of Library content created by intelligent filtering. Use the two word name in full on first use in a section; the abbreviation 'CV' is acceptable thereafter.
+*Description*: A Content View is a subset of Library content created by intelligent filtering. Use the two-word name in full on first use in a section; the abbreviation 'CV' is acceptable thereafter.
 
 *Use it*: yes
 
@@ -27,7 +27,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 [discrete]
 ==== Composite Content View (noun)
 [[composite-content-view]]
-*Description*: A collection of Content Views. Use the three word name in full on first use in a section; the abbreviation 'CVV' is acceptable thereafter.
+*Description*: A Composite Content View is a collection of Content Views. Use the three-word name in full on first use in a section; the abbreviation 'CVV' is acceptable thereafter.
 
 *Use it*: yes
 
@@ -38,7 +38,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 [discrete]
 ==== Facter (noun)
 [[facter]]
-*Description*: Puppet's system inventory tool.
+*Description*: Facter is Puppet's system inventory tool.
 
 *Use it*: yes
 
@@ -49,7 +49,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 [discrete]
 ==== Subscription Manifest (noun)
 [[subscription-manifest]]
-*Description*: A mechanism for transferring subscriptions from Red Hat Customer Portal to Red Hat Satellite 6. Use the two word name in full on first use in a section; the word 'manifest' is acceptable thereafter.
+*Description*: A Subscription Manifest is a mechanism for transferring subscriptions from Red Hat Customer Portal to Red Hat Satellite 6. Use the two-word name in full on first use in a section; the word 'manifest' is acceptable thereafter.
 
 *Use it*: yes
 
@@ -104,7 +104,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 [discrete]
 ==== Satellite Server (noun)
 [[satellite-server]]
-*Description*: Satellite Server synchronizes the content from Red Hat Customer Portal and other sources, and provides life cycle management, user and group role-based access control, integrated subscription management, as well as GUI, CLI, and API access. It is the core component of Red Hat Satellite, the systems management tool for Linux-based infrastructure. Use the two word name on first use in a section; the single term 'Satellite' is acceptable thereafter.
+*Description*: Satellite Server synchronizes the content from Red Hat Customer Portal and other sources, and provides life cycle management, user and group role-based access control, integrated subscription management, as well as GUI, CLI, and API access. It is the core component of Red Hat Satellite, the systems management tool for Linux-based infrastructure. Use the two-word name on first use in a section; the single term 'Satellite' is acceptable thereafter.
 
 *Use it*: yes
 
