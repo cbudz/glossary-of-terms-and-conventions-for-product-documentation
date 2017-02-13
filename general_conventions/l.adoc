@@ -45,7 +45,7 @@
 [discrete]
 ==== Linux (noun)
 [[linux]]
-*Description*: Unix-like operating system. Do not use "LINUX" because it is not an acronym. Do not use "linux", unless referring to a command, such as "To start Linux, type `linux`. In that case, mark it properly. 
+*Description*: UNIX-like operating system. Do not use "LINUX" because it is not an acronym. Do not use "linux", unless referring to a command, such as "To start Linux, type `linux`. In that case, mark it properly. 
 
 *Use it*: yes
 

@@ -123,7 +123,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== POSIX (noun)
 [[posix]]
-*Description*: POSIX is an acronym for Portable Operating System Interface for Unix.
+*Description*: POSIX is an acronym for Portable Operating System Interface for UNIX.
 
 *Use it*: yes
 
