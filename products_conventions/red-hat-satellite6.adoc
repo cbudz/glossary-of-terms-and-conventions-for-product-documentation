@@ -11,7 +11,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 *Incorrect forms*: Capsule server, capsule
 
-*See also*: xref:<another-term-id>[<another-term>]
+*See also*:
 
 [discrete]
 ==== Content View (noun)
@@ -44,7 +44,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 *Incorrect forms*: facter
 
-*See also*: xref:<another-term-id>[<another-term>]
+*See also*:
 
 [discrete]
 ==== Subscription Manifest (noun)
@@ -55,7 +55,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 *Incorrect forms*: Subscription manifest
 
-*See also*: xref:<another-term-id>[<another-term>]
+*See also*:
 
 [discrete]
 ==== Puppet (noun)
@@ -66,7 +66,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 *Incorrect forms*: puppet
 
-*See also*: xref:<another-term-id>[<another-term>]
+*See also*:
 
 [discrete]
 ==== Puppetize (verb)
@@ -88,7 +88,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 *Incorrect forms*: puppet forge
 
-*See also*: xref:<another-term-id>[<another-term>]
+*See also*:
 
 [discrete]
 ==== Product (noun)
@@ -99,7 +99,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 *Incorrect forms*: product
 
-*See also*: xref:<another-term-id>[<another-term>]
+*See also*:
 
 [discrete]
 ==== Satellite Server (noun)
@@ -110,5 +110,5 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 *Incorrect forms*: Satellite server
 
-*See also*: xref:<another-term-id>[<another-term>]
+*See also*:
 
