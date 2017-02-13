@@ -18,7 +18,7 @@
 
 *Incorrect forms*:
 
-*See also*: TODO add bandwidth xref
+*See also*: xref:bandwidth[bandwidth]
 
 [discrete]
 ==== license (noun)

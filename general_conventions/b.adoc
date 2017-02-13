@@ -18,7 +18,7 @@
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:latency[latency]
 
 [discrete]
 ==== bare metal (noun)
