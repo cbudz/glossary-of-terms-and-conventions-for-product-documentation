@@ -1,15 +1,4 @@
 [discrete]
-==== S/390 (noun)
-[[s-390]]
-*Description*: The IBM S/390 is IBM's large server (or mainframe) line of computer systems. Use the full description "IBM S/390."
-
-*Use it*: no
-
-*Incorrect forms*: S/390, S90, or any other variations
-
-*See also*: TODO xref: ibm-s-390[IBM S/390]`
-
-[discrete]
 ==== Samba (noun)
 [[samba]]
 *Description*: Samba is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including: Linux, most common UNIX platforms, OpenVMS, and OS/2. 

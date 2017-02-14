@@ -32,6 +32,17 @@
 *See also*:
 
 [discrete]
+==== IBM S/390 (noun)
+[[ibm-s-390]]
+*Description*: The IBM S/390 is IBM's large server (or mainframe) line of computer systems. Use the full description "IBM S/390."
+
+*Use it*: yes
+
+*Incorrect forms*: S/390, S90
+
+*See also*:
+
+[discrete]
 ==== InfiniBand (noun)
 [[infiniband]]
 *Description*: InfiniBand is a switched fabric network topology used in high-performance computing. The term is both a service mark and a trademark of the InfiniBand Trade Association. Their rules for using the mark are standard ones: append the (TM) symbol the first time it is used and respect the capitalization (including the inter-capped "B") from then on. In ASCII-only circumstances, the "\(TM)" string is the acceptable alternative.
