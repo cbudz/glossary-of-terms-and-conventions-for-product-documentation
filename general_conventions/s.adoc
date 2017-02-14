@@ -29,7 +29,7 @@
 
 *Incorrect forms*: s-record, S-Record, s-Record, SREC, or any other variation
 
-*See also*: xref:srec[SREC]
+*See also*:
 
 [discrete]
 ==== screen saver (noun)
@@ -98,7 +98,7 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 
 *Incorrect forms*: sends out
 
-*See also*: TODO xref: emits[emit], xref: issue[issue]
+*See also*: TODO xref: emit[emit], xref: issue[issue]
 
 [discrete]
 ==== server farm (noun)
@@ -262,7 +262,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: 
 
-*See also*: TODO xref: online[online]
+*See also*:
 
 [discrete]
 ==== sound card (noun)
@@ -356,7 +356,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: 
 
-*See also*: TODO xref: MySQL[MySQL]
+*See also*: xref:mysql[MySQL]
 
 [discrete]
 ==== SR-IOV (noun)
@@ -368,17 +368,6 @@ Do not use "command prompt," "terminal," or "shell."
 *Incorrect forms*: SR/IOV
 
 *See also*:
-
-[discrete]
-==== SREC (noun)
-[[srec]]
-*Description*: SREC is an abbreviation for Motorola S-record, which is a file format that stores binary information in ASCII hex text form. Use "S-record" instead of SREC. 
-
-*Use it*: no
-
-*Incorrect forms*: s-record, S-Record, s-Record, SREC, or any other variation
-
-*See also*: xref:s-record[S-record]
 
 [discrete]
 ==== SSH (noun)
