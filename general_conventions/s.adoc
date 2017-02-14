@@ -79,17 +79,6 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 *See also*:
 
 [discrete]
-==== send out (verb)
-[[send-out]]
-*Description*: Send out means to emit or issue. The term is too informal and imprecise. Use emit or issue instead.
-
-*Use it*: no
-
-*Incorrect forms*: sends out
-
-*See also*: TODO xref: emit[emit], xref: issue[issue]
-
-[discrete]
 ==== server farm (noun)
 [[server-farm]]
 *Description*: A server farm is a group of networked servers housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm. It also expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the farm fails, another can step in as a backup. 

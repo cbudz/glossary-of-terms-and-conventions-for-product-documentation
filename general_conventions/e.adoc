@@ -12,6 +12,17 @@ If referring to the program, use "Emacs." For example, "Source-Navigator support
 *See also*:
 
 [discrete]
+==== emit (verb)
+[[emit]]
+*Description*: To send something out. Do not use "send out" because that is too informal and imprecise. Alternatively, use "issue."
+
+*Use it*: yes
+
+*Incorrect forms*: send out
+
+*See also*:
+
+[discrete]
 ==== Enter (noun)
 [[enter-n]]
 *Description*: When referring to the keyboard key, use *Enter*. If referring to the keyboard key on Solaris, use *Return*.
