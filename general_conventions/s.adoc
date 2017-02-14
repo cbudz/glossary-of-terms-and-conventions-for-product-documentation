@@ -321,13 +321,13 @@ Do not use "command prompt," "terminal," or "shell."
 *See also*:
 
 [discrete]
-==== spelt (verb)
-[[spelt]]
-*Description*: Past tense of "to spell" in Commonwealth English. Use "spelled," the past tense in US English, instead of "spelt." In general, Red Hat uses US English standard spellings and punctuation.
+==== spelled (verb)
+[[spelled]]
+*Description*: Past tense of "to spell" in US English. Do not use "spelt" as it is the Commonwealth English variant.
 
-*Use it*: no
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: spelt
 
 *See also*:
 
