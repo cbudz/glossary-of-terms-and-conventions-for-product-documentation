@@ -49,7 +49,7 @@ The AsciiDoc source:
 [discrete]
 ==== Ceph (noun)
 [[ceph]]
-*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage. Do not use "CEPH" because it is not an acronym. Use "ceph" only when referring to the `ceph` command and as such, mark it properly.
+*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.
 
 *Use it*: yes
 

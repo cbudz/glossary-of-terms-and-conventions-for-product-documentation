@@ -49,7 +49,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== Ceph (noun)
 [[ceph]]
-*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability. The Red Hat offering of Ceph is called Red Hat Ceph Storage.
+*Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.
 
 *Use it*: yes
 
@@ -470,6 +470,17 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 *Incorrect forms*:
 
 *See also*: xref:zone-group[zone group]
+
+[discrete]
+==== Red Hat Ceph Storage (noun)
+[[red-hat-ceph-storage]]
+*Description*: Red Hat Ceph Storage is a Red Hat offering of the Ceph storage system.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:ceph[Ceph]
 
 [discrete]
 ==== RGW (noun)
