@@ -76,6 +76,18 @@
 *See also*:
 
 [discrete]
+==== unmount (verb)
+[[unmount]]
+*Description*: To make a disk inaccessible by the computer.
+
+*Use it*: yes
+
+*Incorrect forms*: un-mount, un mount
+
+*See also*: xref:mount[mount]
+
+
+[discrete]
 ==== UPS (noun)
 [[ups]]
 *Description*: Abbreviation of uninterruptible power supply, a power supply that includes a battery to maintain power in the event of a power outage. 
