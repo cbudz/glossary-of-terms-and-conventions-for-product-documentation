@@ -10,6 +10,6 @@ To open an issue:
 
 . Log in to GitLab. Use your Kerberos credentials or the *Red Hat SAML Login*.
 . Navigate to the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/issues[Issues] page.
-. Click `New Issue`.
-. Fill in the empty fields. *Title* and *Descriptions* are compulsory.
-. Click `Submit issue`.
+. Click *New Issue*.
+. Fill in the empty fields. *Title* and *Description* are compulsory.
+. Click *Submit issue*.
