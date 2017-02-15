@@ -112,8 +112,9 @@ include::{includedir}/products_conventions/products_conventions_overview.adoc[]
 === Red Hat Ceph Storage
 include::{includedir}/products_conventions/ceph.adoc[]
 
+=== Red Hat Satellite 6
+include::{includedir}/products_conventions/red-hat-satellite6.adoc[]
+
 === Red Hat Virtualization
 include::{includedir}/products_conventions/red-hat-virtualization.adoc[]
 
-=== Red Hat Satellite 6
-include::{includedir}/products_conventions/red-hat-satellite6.adoc[]
