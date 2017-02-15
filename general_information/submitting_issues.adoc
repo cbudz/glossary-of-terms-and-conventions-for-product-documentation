@@ -4,7 +4,7 @@ The preferred way to update this document is to open a merge request as describe
 
 * You spotted an error in the guide but you do not know how to fix it.
 * You want to add a missing entry but you do not know all the information required in xref:template[].
-* You have a general question and what to start a discussion.
+* You have a general question and want to start a discussion.
 
 To open an issue:
 
