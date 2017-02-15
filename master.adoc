@@ -15,6 +15,9 @@ include::{includedir}/general_information/template.adoc[]
 === Reviewers' Checklist
 include::{includedir}/general_information/doc_conventions_reviewers_checklist.adoc[]
 
+=== Submitting Issues
+include::{includedir}/general_information/submitting_issues.adoc[]
+
 === FAQ
 include::{includedir}/general_information/faq.adoc[]
 
