@@ -140,7 +140,7 @@
 
 *Incorrect forms*: cloud-bursting
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== cloudwashing (verb)
@@ -156,7 +156,14 @@
 [discrete]
 ==== cluster (noun)
 [[cluster]]
-*Description*: A collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later.
+*Description*: 1) A collection of interconnected computers working together as an
+integrated computing resource. Clusters are referred to as the "High
+Availability Add-On" in Red Hat Enterprise Linux 6 and later.
+2) In OpenShift context, a cluster is the collection of controllers, pods, and
+services and related DNS and networking routing configuration that are defined
+on the system. Typically, a cluster is made up of multiple OpenShift hosts
+(masters, nodes, etc.) working together, across which the aforementioned
+components are distributed or running.
 
 *Use it*: yes
 
@@ -171,7 +178,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*:
 
@@ -270,18 +277,18 @@
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*:
 
 [discrete]
 ==== cooked (adjective)
 [[cooked]]
-*Description*: Data that is processed before being passed to the I/O device. 
+*Description*: Data that is processed before being passed to the I/O device.
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:raw[raw]
 
@@ -299,7 +306,7 @@
 [discrete]
 ==== cross-platform (adjective)
 [[cross-platform]]
-*Description*: The capability of software or hardware to run identically on different platforms.     
+*Description*: The capability of software or hardware to run identically on different platforms.
 
 *Use it*: yes
 
@@ -310,7 +317,7 @@
 [discrete]
 ==== cross-site scripting (adjective)
 [[cross-site-scripting]]
-*Description*: Cross-site scripting attacks. Acceptable use is also "cross-site scripting (XSS) attack." 
+*Description*: Cross-site scripting attacks. Acceptable use is also "cross-site scripting (XSS) attack."
 
 *Use it*: yes
 

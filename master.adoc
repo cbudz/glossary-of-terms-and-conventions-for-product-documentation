@@ -122,6 +122,8 @@ include::{includedir}/products_conventions/ceph.adoc[]
 === Red Hat Satellite 6
 include::{includedir}/products_conventions/red-hat-satellite6.adoc[]
 
+=== Red Hat OpenShift
+include::{includedir}/products_conventions/openshift.adoc[]
+
 === Red Hat Virtualization
 include::{includedir}/products_conventions/red-hat-virtualization.adoc[]
-
