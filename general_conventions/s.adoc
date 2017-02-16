@@ -7,7 +7,7 @@
 
 *Incorrect forms*: 
 
-*See also*: xref:paas[PaaS]
+*See also*: xref:iaas[IaaS], xref:paas[PaaS]
 
 [discrete]
 ==== Samba (noun)
