@@ -1,4 +1,15 @@
 [discrete]
+==== SaaS (noun)
+[[saas]]
+*Description*: This is the correct abbreviation for Software-as-a-Service. In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Platform-as-a-Service), hyphens are always used. Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as banners, use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same abbreviation is used across all groups.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:paas[PaaS]
+
+[discrete]
 ==== Samba (noun)
 [[samba]]
 *Description*: Samba is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including: Linux, most common UNIX platforms, OpenVMS, and OS/2. 
@@ -271,6 +282,17 @@ Do not use "command prompt," "terminal," or "shell."
 *Use it*: yes
 
 *Incorrect forms*: soundcard, sound-card
+
+*See also*:
+
+[discrete]
+==== Source-Navigator^TM^ (noun)
+[[source-navigator]]
+*Description*: Source-Navigator^TM^ is a source code analysis tool. It is a trademark of Red Hat. 
+
+*Use it*: yes
+
+*Incorrect forms*: Source Navigator (without trademark symbol)
 
 *See also*:
 
