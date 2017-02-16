@@ -38,7 +38,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: scroll bar
+*Incorrect forms*: scroll bar, scroll-bar
 
 *See also*:
 
@@ -203,6 +203,17 @@ Do not use "command prompt," "terminal," or "shell."
 *Incorrect forms*: command prompt, terminal, shell
 
 *See also*: xref:shell[shell]
+
+[discrete]
+==== skill set (noun)
+[[skill-set]]
+*Description*: Use "skills" or "knowledge" instead of skill-set. 
+
+*Use it*: no
+
+*Incorrect forms*: skill set, skill-set, skill-set knowledge
+
+*See also*: 
 
 [discrete]
 ==== snippet (noun)
