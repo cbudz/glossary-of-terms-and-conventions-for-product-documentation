@@ -207,11 +207,21 @@ Do not use "command prompt," "terminal," or "shell."
 [discrete]
 ==== skill set (noun)
 [[skill-set]]
-*Description*: Use "skills" or "knowledge" instead of skill-set. 
+*Description*: Use "skills" or "knowledge" instead of skill set (n) or skill-set (adj). 
+
+*Example:*
+
+"Skill set" versus "skills"
+- Incorrect: Do you have the right skill set to be an RHCE? 
+- Correct:   Do you have the right skills to be an RHCE?
+
+"Skill set" versus "knowledge"
+- Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.                     
+- Correct:   This course gives you the knowledge to complete your RHCT exam successfully. 
 
 *Use it*: no
 
-*Incorrect forms*: skill set, skill-set, skill-set knowledge
+*Incorrect forms*: skill set, skillset, skill-set, skill-set knowledge
 
 *See also*: 
 
@@ -228,7 +238,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 [discrete]
 ==== SOCKS (noun)
-[[skills]]
+[[socks]]
 *Description*: Socket Secure (SOCKS) is an Internet protocol that exchanges network packets between a client and server through a proxy server. When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5."
 
 *Use it*: yes
