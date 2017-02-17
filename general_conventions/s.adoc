@@ -1,4 +1,15 @@
 [discrete]
+==== SaaS (noun)
+[[saas]]
+*Description*: This is the correct abbreviation for Software-as-a-Service. In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Platform-as-a-Service), hyphens are always used. Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as banners, use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same abbreviation is used across all groups.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:iaas[IaaS], xref:paas[PaaS]
+
+[discrete]
 ==== Samba (noun)
 [[samba]]
 *Description*: Samba is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including: Linux, most common UNIX platforms, OpenVMS, and OS/2. 
@@ -38,7 +49,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: scroll bar
+*Incorrect forms*: scroll bar, scroll-bar
 
 *See also*:
 
@@ -205,6 +216,27 @@ Do not use "command prompt," "terminal," or "shell."
 *See also*: xref:shell[shell]
 
 [discrete]
+==== skill set (noun)
+[[skill-set]]
+*Description*: Use "skills" or "knowledge" instead of skill set (n) or skill-set (adj). 
+
+*Example:*
+
+"Skill set" versus "skills"
+- Incorrect: Do you have the right skill set to be an RHCE? 
+- Correct:   Do you have the right skills to be an RHCE?
+
+"Skill set" versus "knowledge"
+- Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.                     
+- Correct:   This course gives you the knowledge to complete your RHCT exam successfully. 
+
+*Use it*: no
+
+*Incorrect forms*: skill set, skillset, skill-set, skill-set knowledge
+
+*See also*: 
+
+[discrete]
 ==== snippet (noun)
 [[snippet]]
 *Description*: A snippet is small piece or brief extract. Do not use it. Use "piece" instead. Use excerpt to refer to samples taken from a more extensive section of text.
@@ -217,7 +249,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 [discrete]
 ==== SOCKS (noun)
-[[skills]]
+[[socks]]
 *Description*: Socket Secure (SOCKS) is an Internet protocol that exchanges network packets between a client and server through a proxy server. When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5."
 
 *Use it*: yes
@@ -250,6 +282,17 @@ Do not use "command prompt," "terminal," or "shell."
 *Use it*: yes
 
 *Incorrect forms*: soundcard, sound-card
+
+*See also*:
+
+[discrete]
+==== Source-Navigator^TM^ (noun)
+[[source-navigator]]
+*Description*: Source-Navigator^TM^ is a source code analysis tool. It is a trademark of Red Hat. 
+
+*Use it*: yes
+
+*Incorrect forms*: Source Navigator (without trademark symbol)
 
 *See also*:
 
@@ -328,7 +371,8 @@ Do not use "command prompt," "terminal," or "shell."
 - The ISO-standard SQL (ISO 9075 and its descendants) is pronounced "ess queue ell" and takes "an" as its indefinite article.
 - Microsoft's proprietary product, SQL Server is pronounced as a word: "sequel" and takes "a" as an indefinite article.
 - Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
-- Avoid using "SQL" as a generic name. Instead, use "MySQL" when referring to Microsoft SQL Server, use "PostgreSQL" for PostgreSQL, and use the full name for other SQL variants.
+
+When referring to a specific Relational Database Management System (RDBMS), use the appropriate product name. For example, when discussing Microsoft SQL Server, write out the full name, "Microsoft SQL Server."
 
 *Use it*: yes
 
