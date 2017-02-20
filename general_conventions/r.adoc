@@ -25,7 +25,7 @@
 [[raw]]
 *Description*: In computing terms, raw means unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device. The term comes from UNIX, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device.
 
-*Use it*: Yes
+*Use it*: yes
 
 *Incorrect forms*: RAW
 
