@@ -19,7 +19,7 @@
 
 *Incorrect forms*: 
 
-*See also*: xref:xref:arm[Azure Resource Manager]
+*See also*: xref:arm[Azure Resource Manager]
 
 
 [discrete]
@@ -65,7 +65,7 @@
 
 *Incorrect forms*: Microsoft Azure Portal
 
-*See also*: xref:xref:xref:arm[Azure Resource Manager]
+*See also*: xref:arm[Azure Resource Manager]
 
 
 [discrete]
