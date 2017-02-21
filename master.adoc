@@ -110,7 +110,7 @@ include::{includedir}/general_conventions/symbols.adoc[]
 include::{includedir}/products_conventions/products_conventions_overview.adoc[]
 
 === Azure and .NET Core
-include::{includedir}/products_conventions/products_conventions_azure-dotnet.adoc[]
+include::{includedir}/products_conventions/azure-dotnet.adoc[]
 
 === Red Hat Ceph Storage
 include::{includedir}/products_conventions/ceph.adoc[]
