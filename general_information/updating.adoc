@@ -9,6 +9,8 @@ You can edit this document by using:
 
 Once you are done with the edits, create a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
 
+If you want to suggest an update for this document, have a general question, or want to start a discussion, open a new issue. For details, see xref:submitting-issues[].
+
 [[web-ui-adding-or-editing-entries]]
 [discrete]
 ==== Web UI: Adding and Editing Entries

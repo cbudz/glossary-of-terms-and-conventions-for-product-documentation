@@ -15,6 +15,9 @@ include::{includedir}/general_information/template.adoc[]
 === Reviewers' Checklist
 include::{includedir}/general_information/doc_conventions_reviewers_checklist.adoc[]
 
+=== Submitting Issues
+include::{includedir}/general_information/submitting_issues.adoc[]
+
 === FAQ
 include::{includedir}/general_information/faq.adoc[]
 
@@ -106,11 +109,15 @@ include::{includedir}/general_conventions/symbols.adoc[]
 == Product-specific Conventions
 include::{includedir}/products_conventions/products_conventions_overview.adoc[]
 
+=== Azure and .NET Core
+include::{includedir}/products_conventions/azure-dotnet.adoc[]
+
 === Red Hat Ceph Storage
 include::{includedir}/products_conventions/ceph.adoc[]
+
+=== Red Hat Satellite 6
+include::{includedir}/products_conventions/red-hat-satellite6.adoc[]
 
 === Red Hat Virtualization
 include::{includedir}/products_conventions/red-hat-virtualization.adoc[]
 
-=== Red Hat Satellite 6
-include::{includedir}/products_conventions/red-hat-satellite6.adoc[]

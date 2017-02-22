@@ -249,4 +249,4 @@
 
 *Incorrect forms*: MYSQL, mySQL
 
-*See also*:
+*See also*: xref:sql[SQL]

@@ -1,13 +1,13 @@
 [discrete]
-==== S/390 (noun)
-[[s-390]]
-*Description*: The IBM S/390 is IBM's large server (or mainframe) line of computer systems. Use the full description "IBM S/390."
+==== SaaS (noun)
+[[saas]]
+*Description*: This is the correct abbreviation for Software-as-a-Service. In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Platform-as-a-Service), hyphens are always used. Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as banners, use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same abbreviation is used across all groups.
 
-*Use it*: no
+*Use it*: yes
 
-*Incorrect forms*: S/390, S90, or any other variations
+*Incorrect forms*: 
 
-*See also*: TODO xref: ibm-s-390[IBM S/390]`
+*See also*: xref:iaas[IaaS], xref:paas[PaaS]
 
 [discrete]
 ==== Samba (noun)
@@ -29,7 +29,7 @@
 
 *Incorrect forms*: s-record, S-Record, s-Record, SREC, or any other variation
 
-*See also*: xref:srec[SREC]
+*See also*:
 
 [discrete]
 ==== screen saver (noun)
@@ -49,7 +49,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: scroll bar
+*Incorrect forms*: scroll bar, scroll-bar
 
 *See also*:
 
@@ -88,17 +88,6 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 *Incorrect forms*: SE-Linux, S-E Linux, SE Linux, selinux 
 
 *See also*:
-
-[discrete]
-==== send out (verb)
-[[send-out]]
-*Description*: Send out means to emit or issue. The term is too informal and imprecise. Use emit or issue instead.
-
-*Use it*: no
-
-*Incorrect forms*: sends out
-
-*See also*: TODO xref: emits[emit], xref: issue[issue]
 
 [discrete]
 ==== server farm (noun)
@@ -227,7 +216,7 @@ Do not use "command prompt," "terminal," or "shell."
 *See also*: xref:shell[shell]
 
 [discrete]
-==== signal topology
+==== signal topology (noun)
 [[signal-topology]]
 *Description*: Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The signal topology is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices. The signal topology is also called logical topology.
 
@@ -236,6 +225,27 @@ Do not use "command prompt," "terminal," or "shell."
 *Incorrect forms*:
 
 *See also*: xref:logical-topology[logical topology], xref:physical-topology[physical topology]
+
+[discrete]
+==== skill set (noun)
+[[skill-set]]
+*Description*: Use "skills" or "knowledge" instead of skill set (n) or skill-set (adj). 
+
+*Example:*
+
+"Skill set" versus "skills"
+- Incorrect: Do you have the right skill set to be an RHCE? 
+- Correct:   Do you have the right skills to be an RHCE?
+
+"Skill set" versus "knowledge"
+- Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.                     
+- Correct:   This course gives you the knowledge to complete your RHCT exam successfully. 
+
+*Use it*: no
+
+*Incorrect forms*: skill set, skillset, skill-set, skill-set knowledge
+
+*See also*: 
 
 [discrete]
 ==== snippet (noun)
@@ -250,7 +260,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 [discrete]
 ==== SOCKS (noun)
-[[skills]]
+[[socks]]
 *Description*: Socket Secure (SOCKS) is an Internet protocol that exchanges network packets between a client and server through a proxy server. When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5."
 
 *Use it*: yes
@@ -273,7 +283,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Incorrect forms*: 
 
-*See also*: TODO xref: online[online]
+*See also*:
 
 [discrete]
 ==== sound card (noun)
@@ -283,6 +293,17 @@ Do not use "command prompt," "terminal," or "shell."
 *Use it*: yes
 
 *Incorrect forms*: soundcard, sound-card
+
+*See also*:
+
+[discrete]
+==== Source-Navigator^TM^ (noun)
+[[source-navigator]]
+*Description*: Source-Navigator^TM^ is a source code analysis tool. It is a trademark of Red Hat. 
+
+*Use it*: yes
+
+*Incorrect forms*: Source Navigator (without trademark symbol)
 
 *See also*:
 
@@ -343,13 +364,13 @@ Do not use "command prompt," "terminal," or "shell."
 *See also*:
 
 [discrete]
-==== spelt (verb)
-[[spelt]]
-*Description*: Past tense of "to spell" in Commonwealth English. Use "spelled," the past tense in US English, instead of "spelt." In general, Red Hat uses US English standard spellings and punctuation.
+==== spelled (verb)
+[[spelled]]
+*Description*: Past tense of "to spell" in US English. Do not use "spelt" as it is the Commonwealth English variant.
 
-*Use it*: no
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: spelt
 
 *See also*:
 
@@ -361,13 +382,14 @@ Do not use "command prompt," "terminal," or "shell."
 - The ISO-standard SQL (ISO 9075 and its descendants) is pronounced "ess queue ell" and takes "an" as its indefinite article.
 - Microsoft's proprietary product, SQL Server is pronounced as a word: "sequel" and takes "a" as an indefinite article.
 - Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
-- Avoid using "SQL" as a generic name. Instead, use "MySQL" when referring to Microsoft SQL Server, use "PostgreSQL" for PostgreSQL, and use the full name for other SQL variants.
+
+When referring to a specific Relational Database Management System (RDBMS), use the appropriate product name. For example, when discussing Microsoft SQL Server, write out the full name, "Microsoft SQL Server."
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: TODO xref: MySQL[MySQL]
+*See also*: xref:mysql[MySQL]
 
 [discrete]
 ==== SR-IOV (noun)
@@ -379,17 +401,6 @@ Do not use "command prompt," "terminal," or "shell."
 *Incorrect forms*: SR/IOV
 
 *See also*:
-
-[discrete]
-==== SREC (noun)
-[[srec]]
-*Description*: SREC is an abbreviation for Motorola S-record, which is a file format that stores binary information in ASCII hex text form. Use "S-record" instead of SREC. 
-
-*Use it*: no
-
-*Incorrect forms*: s-record, S-Record, s-Record, SREC, or any other variation
-
-*See also*: xref:s-record[S-record]
 
 [discrete]
 ==== SSH (noun)
