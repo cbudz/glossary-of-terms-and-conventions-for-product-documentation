@@ -44,6 +44,17 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 *See also*:
 
 [discrete]
+==== physical topology (noun)
+[[physical-topology]]
+*Description*: Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The physical topology is the way that the workstations are connected to the network through the actual cables that transmit data.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:logical-topology[logical topology], xref:signal-topology[signal topology]
+
+[discrete]
 ==== plain text (adjective)
 [[plain-text]]
 *Description*: Correct in almost all cases. We use "plain text" as a plain English denotation of all unencrypted information, whether it is sitting about just being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext." Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm).

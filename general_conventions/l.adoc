@@ -78,13 +78,13 @@
 [discrete]
 ==== logical topology (noun)
 [[logical-topology]]
-*Description*: Also called signal topology. Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The way that the workstations are connected to the network through the actual cables that transmit data - the physical structure of the network - is called the physical topology. The logical topology, in contrast, is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices.
+*Description*: Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The logical topology is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices. The logical topology is also called signal topology.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*: TODO add an xref to physical topology and signal topology
+*See also*: xref:physical-topology[physical topology], xref:signal-topology[signal-topology]
 
 [discrete]
 ==== lookup (noun)

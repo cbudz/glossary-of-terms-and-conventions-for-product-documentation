@@ -216,6 +216,17 @@ Do not use "command prompt," "terminal," or "shell."
 *See also*: xref:shell[shell]
 
 [discrete]
+==== signal topology (noun)
+[[signal-topology]]
+*Description*: Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The signal topology is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices. The signal topology is also called logical topology.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:logical-topology[logical topology], xref:physical-topology[physical topology]
+
+[discrete]
 ==== skill set (noun)
 [[skill-set]]
 *Description*: Use "skills" or "knowledge" instead of skill set (n) or skill-set (adj). 
