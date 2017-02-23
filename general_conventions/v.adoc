@@ -33,6 +33,8 @@ Use lowercase "v" and uppercase "CPU".
 
 *Incorrect forms*: Virtual Desktop Server Management
 
+*See also*:
+
 .vi
 [[vi]]
 *Description*: vi is a screen-oriented text editor originally created for the Unix operating system. Do not use "VI" (all caps).
@@ -44,6 +46,18 @@ Use lowercase "v" and uppercase "CPU".
 *Incorrect forms*: VI
 
 *See also*: xref:vim[Vim]
+
+.video mode
+[[video-mode]]
+*Description*: Video mode is the setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
+
+*Use it*: yes
+
+*Class*: noun
+
+*Incorrect forms*: video-mode, videomode
+
+*See also*:
 
 .Vim
 [[vim]]
@@ -57,16 +71,6 @@ Use lowercase "v" and uppercase "CPU".
 
 *See also*: xref:vi[vi]
 
-.video mode
-[[video-mode]]
-*Description*: Video mode is the setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: video-mode, videomode
-
 .⁠virtual console
 [[virtual-console]]
 *Description*: Virtual console can be abbreviated to "VC" as long as the term has been introduced in the same content in its full version first, such as "A virtual console (VC) is a shell prompt in a non-graphical environment. Multiple VCs can be accessed simultaneously."
@@ -76,6 +80,8 @@ Use lowercase "v" and uppercase "CPU".
 *Class*: noun
 
 *Incorrect forms*: virtual-console, Virtual Console
+
+*See also*:
 
 .⁠virtual machine
 [[virtual-machine]]
@@ -88,15 +94,7 @@ Virtual machine can be abbreviated to "VM" as long as the term has been introduc
 
 *Incorrect forms*: Use "VM" with caution (see above)
 
-.virtualized guest
-[[virtualized-guest]]
-*Description*: A virtualized guest is a virtual machine (VM). The term "virtualized guest" should be used only when comparing a "fully virtualized guest" with a "paravirtualized guest."
-
-*Use it*: with caution
-
-*Class*: noun
-
-*See also*: xref:guest-operating-system[guest operating system], xref:virtual-machine[virtual machine]
+*See also*:
 
 .virtual router
 [[virtual-router]]
@@ -105,6 +103,22 @@ Virtual machine can be abbreviated to "VM" as long as the term has been introduc
 *Use it*: yes
 
 *Class*: noun
+
+*Incorrect forms*:
+
+*See also*:
+
+.virtualized guest
+[[virtualized-guest]]
+*Description*: A virtualized guest is a virtual machine (VM). The term "virtualized guest" should be used only when comparing a "fully virtualized guest" with a "paravirtualized guest."
+
+*Use it*: with caution
+
+*Class*: noun
+
+*Incorrect forms*:
+
+*See also*: xref:guest-operating-system[guest operating system], xref:virtual-machine[virtual machine]
 
 .⁠VNIC
 [[vnic]]
@@ -116,6 +130,8 @@ Virtual machine can be abbreviated to "VM" as long as the term has been introduc
 
 *Incorrect forms*: vnic, Virtual Network Interface Card 
 
+*See also*:
+
 .VPN
 [[vpn]]
 *Description*: VPN is an initialism for virtual private network, a network that is constructed by using public wires to connect nodes. For example, there are a number of systems that enable you to create networks using the Internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
@@ -125,3 +141,5 @@ Virtual machine can be abbreviated to "VM" as long as the term has been introduc
 *Class*: noun
 
 *Incorrect forms*: vpn
+
+*See also*:
