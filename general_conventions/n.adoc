@@ -1,3 +1,4 @@
+[discrete]
 ==== need
 [[need]]
 *Description*: Use "need" instead of "desire" and "wish." Use "want" when the reader's actions are optional (that is, they may not "need" something but may still "want" something). 
@@ -27,7 +28,7 @@
 
 
 [discrete]
-==== ⁠neighbo
+==== ⁠neghbor
 [[⁠neighbor]]
 
 *Description*: Neighbor is the acccepted spelling.
@@ -39,24 +40,6 @@
 *Incorrect forms*: neighbour
 
 *See also*:
-
-
-[discrete]
-==== ".NET"
-[[net]]
-
-*Description*: The Microsoft .NET Framework is a software framework for Microsoft Windows operating systems. It includes a large library, and supports several programming languages.
-    "Microsoft .NET" is correct for the first reference, and ".NET" for all following references. 
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: ".Net", ".net"
-
-*See also*:
-
-I recommend that this term be deleted because it is covered in the Azure/.NET Core product-specific entries.
 
 
 [discrete]
@@ -75,7 +58,7 @@ I recommend that this term be deleted because it is covered in the Azure/.NET Co
 
 
 [discrete]
-==== ⁠NF
+==== ⁠FS
 [[nfs]]
 
 *Description*: Network File System (NFS) is a client/server application designed by Sun Microsystems that allows all network users to access shared files stored on computers of different types. NFS provides access to shared files through an interface called the Virtual File System (VFS) that runs in a layer above TCP/IP. Users can manipulate shared files as if they were stored locally on the user's own hard disk. With NFS, computers connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files. The NFS standards are publicly available and widely used. 
@@ -89,7 +72,7 @@ I recommend that this term be deleted because it is covered in the Azure/.NET Co
 *See also*: Consider adding a reference to VFS if that is added as an entry.
 
 [discrete]
-==== ⁠nod
+==== ⁠nde
 [[⁠node]]
 
 *Description*: In networks, a node is a processing location. A node can be a computer or some other device, such as a printer. Every node has a unique network address, sometimes called a Data Link Control (DLC) address or Media Access Control (MAC) address. In tree structures, a node is a point where two or more lines meet.
@@ -103,7 +86,7 @@ I recommend that this term be deleted because it is covered in the Azure/.NET Co
 *See also*:
 
 [discrete]
-==== ⁠nonsecur
+==== ⁠nonsecre
 [[⁠nonsecure]]
 
 *Description*: Do not use the term nonsecure. The correct term is insecure.
@@ -160,7 +143,7 @@ I recommend that this term be deleted because it is covered in the Azure/.NET Co
 *See also*: xref:null-value[NULL]
 
 [discrete]
-==== ⁠number
+==== ⁠numbes
 [[⁠numbers]]
 
 *Description*: Spell the numbers zero through nine. Spell any number that begins a sentence. Spell a number that precedes another number (four 6-pound bags or eleven 20-pound bags). Spell approximations (for example, thousands of ...) and very large values (for example, 4 billion). Use numerals for numbers 10 and greater, negative numbers, fractions, percentages, decimals, measurements, references to book sections (Chapter 3, Table 5, Page 11), and numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (You answered 8 out of 14 questions correctly). Use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (Red Hat Enterprise Linux 6, Source-Navigator 4.5). Do not use commas in numbers with four digits (for example, 1000 rather than 1,000). Use commas in numbers with five or more digits (for example, 10,000). See _The IBM Style Guide_ for detailed information on numbering formats.
