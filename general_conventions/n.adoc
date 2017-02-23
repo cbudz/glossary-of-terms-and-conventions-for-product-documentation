@@ -55,7 +55,7 @@
 
 *Incorrect forms*: 
 
-*See also*: Consider adding a reference to VFS if that is added as an entry.
+*See also*:
 
 [discrete]
 ==== node (noun)
