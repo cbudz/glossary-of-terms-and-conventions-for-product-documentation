@@ -90,13 +90,13 @@ Virtual machine can be abbreviated to "VM" as long as the term has been introduc
 
 .virtualized guest
 [[virtualized-guest]]
-*Description*: The term "virtualized guest" should be used only when comparing a "fully virtualized guest" with a "paravirtualized guest."
+*Description*: A virtualized guest is a virtual machine (VM). The term "virtualized guest" should be used only when comparing a "fully virtualized guest" with a "paravirtualized guest."
 
 *Use it*: with caution
 
 *Class*: noun
 
-*See also*: xref:guest-operating-system[guest operating system]
+*See also*: xref:guest-operating-system[guest operating system], xref:virtual-machine[virtual machine]
 
 .virtual router
 [[virtual-router]]
