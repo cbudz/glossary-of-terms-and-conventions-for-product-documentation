@@ -136,7 +136,7 @@ When referring to the program, use "GDB."
 
 *Incorrect forms*: 
 
-*See also*: xref:gdb-command[gdb]
+*See also*: xref:gdb-command[gdb], xref:insight[Insight]
 
 [discrete]
 ==== gdb (noun)
@@ -149,7 +149,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *Incorrect forms*: 
 
-*See also*: xref:gdb[GDB]
+*See also*: xref:gdb[GDB], xref:insight[Insight]
 
 [discrete]
 ==== GID (noun)

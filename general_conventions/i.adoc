@@ -171,6 +171,17 @@ The term I/O is a non-countable noun, meaning that it cannot be expressed in plu
 *See also*:
 
 [discrete]
+=== Insight (noun)
+[[insight]]
+*Description*: A graphical user interface to GDB, the GNU Debugger. Insight is written in Tcl/Tk, and was developed by associates from Red Hat and Cygnus Solutions.
+
+*Use it*: yes
+
+*Incorrect forms*: GDBTK
+
+*See also*: xref:gdb[GBD], xref:gdb-command[gdb]
+
+[discrete]
 ==== IP (noun)
 [[ip]]
 *Description*: Stands for Internet Protocol. Capitalize both letters.
