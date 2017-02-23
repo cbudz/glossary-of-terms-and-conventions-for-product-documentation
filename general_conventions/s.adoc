@@ -582,7 +582,7 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 [discrete]
 ==== symmetric encryption (noun)
 [[symmetric-encryption]]
-*Description*: ⁠A type of encryption where the same key encrypts and decrypts the message. In contrast, asymmetric (or public-key) encryption uses one key to encrypt a message and another to decrypt the message. 
+*Description*: This is a type of encryption where the same key encrypts and decrypts the message. In contrast, asymmetric (or public-key) encryption uses one key to encrypt a message and another to decrypt the message. 
 
 *Use it*: yes
 
