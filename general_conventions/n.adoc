@@ -43,24 +43,6 @@
 
 
 [discrete]
-==== ".NET"
-[[net]]
-
-*Description*: The Microsoft .NET Framework is a software framework for Microsoft Windows operating systems. It includes a large library, and supports several programming languages.
-    "Microsoft .NET" is correct for the first reference, and ".NET" for all following references. 
-
-*Use it*: yes
-
-*Class*: noun
-
-*Incorrect forms*: ".Net", ".net"
-
-*See also*:
-
-I recommend that this term be deleted because it is covered in the Azure/.NET Core product-specific entries.
-
-
-[discrete]
 ====  ⁠network transparency
 [[network-transparency]]
 
@@ -149,7 +131,6 @@ I recommend that this term be deleted because it is covered in the Azure/.NET Co
 
 *See also*: xref:null-value[NULL]
 
-Consider explaining what null actually means.
 
 
 [discrete]
