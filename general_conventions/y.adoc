@@ -1,6 +1,6 @@
 .YAML
 [[yaml]]
-*Description*: Recursive acronym for "YAML Ain't Markup Language." Expand on first use only.
+*Description*: YAML is a human-readable data serialization standard for all programming languages. It is a recursive acronym for "YAML Ain't Markup Language," after originally being said to mean "Yet Another Markup Language." 
 
 *Use it*: yes
 
