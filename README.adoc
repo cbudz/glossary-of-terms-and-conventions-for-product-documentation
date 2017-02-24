@@ -5,3 +5,27 @@ This document outlines terms and conventions for technical language in Red Hat's
 == Contributing
 
 See http://ccs-jenkins.gsslab.brq.redhat.com:8080/job/glossary-of-terms-and-conventions-for-product-documentation-branch-master/lastSuccessfulBuild/artifact/index.html#how_to_update_this_document[How to Update this Document] for details.
+
+== Project Members
+
+Andrea Hoffer (ahoffer@redhat.com)
+
+Andrew Dahms (adamhs@redhat.com)
+
+Bára Ančincová (bara@redhat.com)
+
+Chris Budzilowicz (cbudzilo@redhat.com)
+
+David Michael (dmichael@redhat.com)
+
+Ingrid Towey (itowey@redhat.com)
+
+Jennifer Malloy (jmalloy@redhat.com)
+
+Les Williams (lwilliam@redhat.com)
+
+Lucy Bopf (lbopf@redhat.com)
+
+Nichola Moore (nmoore@redhat.com)
+
+Tahlia Richardson (trichard@redhat.com)
