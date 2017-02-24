@@ -29,8 +29,8 @@
 
 *Incorrect forms*:
 
-// TODO: Add link to she, you
-*See also*: she
+// TODO: Added link to she. Still need to add link to you
+*See also*: xref:she[she]
 
 [discrete]
 ==== ⁠healthcare (noun)
