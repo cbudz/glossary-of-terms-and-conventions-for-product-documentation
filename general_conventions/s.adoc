@@ -193,6 +193,17 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 *See also*:
 
 [discrete]
+==== she (pronoun)
+[[she]]
+*Description*: Reword to avoid "he" or "she."
+
+*Use it*: no
+
+*Incorrect forms*:
+
+*See also*: xref:he[he]
+
+[discrete]
 ==== shell (noun)
 [[shell]]
 *Description*: A "shell" is a software application, for example, /bin/bash or /bin/sh, that provides an interface to a computer. Do not use this term to describe the prompt where you type commands. 
