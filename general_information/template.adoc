@@ -39,7 +39,7 @@ The AsciiDoc source:
 
 * Keep all fields, even if a field is empty. An empty field serves as a placeholder if the field is required later.
 
-* If the term has the correct and incorrect form, always use the correct form instead of `<term>` and list the incorrect form in the *Incorrect forms* field. Remember to explain why is the incorrect form incorrect in the *Description* field.
+* If the term has the correct and incorrect form, always use the correct form instead of `<term>` and list the incorrect form in the *Incorrect forms* field. Remember to explain why the incorrect form is incorrect in the *Description* field.
 
 * If you want to add a term that we should not use and that does not have a correct form, use the incorrect version instead of `<term>` and add "no" to the *Use it* field. Explain why we should not use that term in the *Description* field.
 ====
