@@ -1,9 +1,10 @@
-.zSeries
+[discrete]
+==== zSeries (noun)
 [[z-series]]
 *Description*: "IBM System z" is correct for the first reference; use "System z" for subsequent references. Do not use "S/390x," "s390x," "IBM zSeries," or "zSeries."
 
 *Use it*: no
 
-*Class*: noun
-
 *Incorrect forms*: S/390x, s390x, IBM zSeries, zSeries
+
+*See also*: xref:ibm-z-systems[IBM z Systems], xref:ibm-s-390[IBM S/390]
