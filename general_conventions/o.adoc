@@ -12,7 +12,7 @@
 [discrete]
 ==== OEM (noun)
 [[oem]]
-*Description*: Stands for original equipment manufacturer, which is a misleading term for a company that has a special relationship with computer producers. OEMs buy computers in bulk and customize them for a particular application. They then sell the customized computer under their own name. The term is really a misnomer because OEMs are not the original manufacturers - they are the customizers. 
+*Description*: Stands for original equipment manufacturer, which is a misleading term for a company that has a special relationship with computer producers. OEMs buy computers in bulk and customize them for a particular application. They then sell the customized computer under their own name. The term is really a misnomer because OEMs are not the original manufacturers - they are the customizers.
 
 *Use it*: yes
 
@@ -82,7 +82,7 @@
 
 *Use it*:
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:offline-backup[offline backup]
 
@@ -100,18 +100,18 @@
 [discrete]
 ==== on-the-fly
 [[on-the-fly]]
-*Description*: Idiom meaning "as you go" or "in real time." Do not use as it is not universally understood. 
+*Description*: Idiom meaning "as you go" or "in real time." Do not use as it is not universally understood.
 
 *Use it*: no
 
 *Incorrect forms*:
 
-*See also*: TODO xref: in-real-time[in real time]
+*See also*: xref:real-time-adj[real time]
 
 [discrete]
 ==== opcode (noun)
 [[opcodes]]
-*Description*: An opcode is the portion of a machine language instruction that specifies the operation to be performed.  
+*Description*: An opcode is the portion of a machine language instruction that specifies the operation to be performed.
 
 *Use it*: yes
 
@@ -122,13 +122,14 @@
 [discrete]
 ==== open architecture (noun)
 [[open-architecture]]
-*Description*: An architecture whose specifications are public. This includes officially approved standards as well as privately designed architectures whose specifications are made public by the designers. The opposite of open is closed or proprietary. 
+*Description*: An architecture whose specifications are public. This includes officially approved standards as well as privately designed architectures whose specifications are made public by the designers. The opposite of open is closed or proprietary.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*: TODO xref: proprietary[proprietary]
+*See also*:
+//TODO xref: proprietary[proprietary]
 
 [discrete]
 ==== open source (noun)
@@ -155,13 +156,13 @@
 [discrete]
 ==== output device (noun)
 [[output-device]]
-*Description*: Any machine capable of representing information from a computer. This includes display screens, printers, plotters, and synthesizers. 
+*Description*: Any machine capable of representing information from a computer. This includes display screens, printers, plotters, and synthesizers.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== override (verb)

@@ -1,6 +1,6 @@
 [[general-faq]]
 
-This section outlines answers to common questions about this document and the process for submitting contributions or suggesting changes. 
+This section outlines answers to common questions about this document and the process for submitting contributions or suggesting changes.
 
 What kind of terms and conventions does this document describe?::
 +
@@ -10,7 +10,7 @@ This document describes two main types of terms and conventions:
 +
 xref:general-conventions[] outlines conventions that are not specific to a product or solution, including general technical terminology and usage.
 +
-* *Product-Specific Conventions*
+* *Product-specific Conventions*
 +
 xref:product-specific-conventions[] outlines conventions that are specific to a product or solution, including variations on and guidelines regarding the use of product and component names. In principle, the terms and conventions in this chapter must be specific to Red Hat products.
 +
@@ -23,7 +23,7 @@ How can I contribute to this document?::
 
 See xref:how-to-update-this-document[].
 
-How can I suggest an update to this document or start a discussion?:: 
+How can I suggest an update to this document or start a discussion?::
 
 Open an issue. See xref:submitting-issues[].
 
@@ -53,8 +53,8 @@ IMPORTANT: Always make sure that Jenkins is able to build the document with the 
 
 [[two-entries-with-same-ID]]
 What if two entries have the same ID?::
- 
-When creating IDs in accordance with the rules described in xref:template[], the resulting IDs might be the same as those for separate entries. For example, the "kernel space" and "kernel-space" entries, or the "kB" and "KB" entries would have the same anchor tag ("kernel-space" and "kb"). If the IDs are not unique, however, it will cause an error in the document. 
+
+When creating IDs in accordance with the rules described in xref:template[], the resulting IDs might be the same as those for separate entries. For example, the "kernel space" and "kernel-space" entries, or the "kB" and "KB" entries would have the same anchor tag ("kernel-space" and "kb"). If the IDs are not unique, however, it will cause an error in the document.
 +
 To avoid this issue, use different IDs:
 +

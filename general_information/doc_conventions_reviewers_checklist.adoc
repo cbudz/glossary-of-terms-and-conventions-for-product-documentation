@@ -7,13 +7,13 @@
 
 |Does the entry adhere to the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/template.adoc[template] in GitLab? |&#9744;
 
-|Is this entry unique, that is, not already included in Red Hat’s Glossary of Technical Terms and Conventions for Product Documentation?|&#9744;
+|Is this entry unique, that is, not already included in Red Hat’s Glossary of Terms and Conventions for Product Documentation?|&#9744;
 
-|Is this entry unique, that is, not included in The IBM Style Guide? Here’s an abridged version of http://www.ibm.com/developerworks/library/styleguidelines/[The IBM Style Guide]. Consult the full edition to be sure.|&#9744;
+|Is this entry unique, that is, not included in The IBM Style Guide? Here is an abridged version of http://www.ibm.com/developerworks/library/styleguidelines/[The IBM Style Guide]. Consult the full edition to be sure.|&#9744;
 
 |Does the entry include only one term?|&#9744;
 
-|If the entry has two class variants, for example noun and verb, are the entries for noun and verb unique?|&#9744;
+|If the entry has two class variants, for example noun and verb, are the entries for noun and verb separate?|&#9744;
 
 |Are the IDs in the correct format?
 **ID** instructions from the template:
@@ -37,10 +37,10 @@
 [[general_guidance]]
 ==== General Guidance
 
-* Use GitLab to review the files. 
-** Anyone who would like to add an entry should create a merge request. 
-** Reviewers should comment directly in the merge requests. 
-** Resolve discussions in the merge requests, so you will know what else needs to be resolved. 
+* Use GitLab to review the files.
+** Anyone who would like to add an entry should create a merge request.
+** Reviewers should comment directly in the merge requests.
+** Resolve discussions in the merge requests, so you will know what else needs to be resolved.
 ** Once you have verified that the file is ready to go, you can accept the merge request.
 
 [NOTE]

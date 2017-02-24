@@ -69,6 +69,7 @@
 ==== real time (noun)
 [[real-time-n]]
 *Description*: If used as a noun, it is the actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
+
 *Use it*: yes
 
 *Incorrect forms*: realtime

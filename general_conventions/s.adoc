@@ -5,14 +5,14 @@
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:iaas[IaaS], xref:paas[PaaS]
 
 [discrete]
 ==== Samba (noun)
 [[samba]]
-*Description*: Samba is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including: Linux, most common UNIX platforms, OpenVMS, and OS/2. 
+*Description*: Samba is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including: Linux, most common UNIX platforms, OpenVMS, and OS/2.
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== S-record (noun)
 [[s-record]]
-*Description*: Motorola S-record is a file format that stores binary information in ASCII hex text form. 
+*Description*: Motorola S-record is a file format that stores binary information in ASCII hex text form.
 
 *Use it*: yes
 
@@ -56,9 +56,7 @@
 [discrete]
 ==== see (verb)
 [[see]]
-*Description*: Use to refer readers to another resource. Avoid using "refer to" in this context. 
-
-*Example*: See the **Red Hat Enterprise Linux Installation Guide** for more information.
+*Description*: Use to refer readers to another resource. Avoid using "refer to" in this context. For example, "See the **Red Hat Enterprise Linux Installation Guide** for more information."
 
 *Use it*: yes
 
@@ -69,7 +67,7 @@
 [discrete]
 ==== segmentation fault (noun)
 [[segmentation-fault]]
-*Description*:  A segmentation fault occurs when a process tries to access a memory location that it is not allowed to access, or tries to access a memory location in a way that is not allowed (for example, if the process tries to write to a read-only location, or to overwrite part of the operating system). 
+*Description*:  A segmentation fault occurs when a process tries to access a memory location that it is not allowed to access, or tries to access a memory location in a way that is not allowed (for example, if the process tries to write to a read-only location, or to overwrite part of the operating system).
 Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
 
 *Use it*: yes
@@ -81,31 +79,29 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 [discrete]
 ==== SELinux (noun)
 [[selinux]]
-*Description*: SELinux is short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies.  Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux." 
+*Description*: SELinux is short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies.  Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
 
 *Use it*: yes
 
-*Incorrect forms*: SE-Linux, S-E Linux, SE Linux, selinux 
+*Incorrect forms*: SE-Linux, S-E Linux, SE Linux, selinux
 
 *See also*:
 
 [discrete]
 ==== server farm (noun)
 [[server-farm]]
-*Description*: A server farm is a group of networked servers housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm. It also expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the farm fails, another can step in as a backup. 
+*Description*: A server farm is a group of networked servers housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm. It also expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the farm fails, another can step in as a backup.
 
 *Use it*: yes
 
 *Incorrect forms*: server cluster, computer farm, computer ranch
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== server side (noun)
 [[server-side-n]]
-*Description*: The server side in a client-server relationship. Use this form when "server side" is a noun.
-
-*Example*: She does most of her programming on the server side, that is, directly on the web server.
+*Description*: The server side in a client-server relationship. Use this form when "server side" is a noun. For example, "She does most of her programming on the server side, that is, directly on the web server."
 
 *Use it*: yes
 
@@ -116,9 +112,7 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 [discrete]
 ==== server-side (adjective)
 [[server-side-adj]]
-*Description*: Operations performed by the server in a client-server relationship. Use the hyphenated form (server-side) as an adjective.
-
-*Example*: Her specialty is server-side programming.
+*Description*: Operations performed by the server in a client-server relationship. Use the hyphenated form (server-side) as an adjective. For example, "Her specialty is server-side programming."
 
 *Use it*: yes
 
@@ -133,18 +127,18 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:sha-2[SHA-2]
 
 [discrete]
 ==== SHA-2 (noun)
 [[sha-2]]
-*Description*: SHA stands for Secure Hash Algorithm and is a cryptographic hash function. The encryption hash used in SHA-2 is significantly stronger and not subject to the same vulnerabilities as SHA-1. SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are all correct when referring to these specific hash functions. 
+*Description*: SHA stands for Secure Hash Algorithm and is a cryptographic hash function. The encryption hash used in SHA-2 is significantly stronger and not subject to the same vulnerabilities as SHA-1. SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are all correct when referring to these specific hash functions.
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:sha-1[SHA-1]
 
@@ -184,7 +178,7 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 [discrete]
 ==== share name (noun)
 [[share-name]]
-*Description*: The name of a shared resource. Use as two words, unless you are quoting the output of commands, such as "smbclient -L." 
+*Description*: The name of a shared resource. Use as two words, unless you are quoting the output of commands, such as "smbclient -L."
 
 *Use it*: yes
 
@@ -195,7 +189,7 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 [discrete]
 ==== shell (noun)
 [[shell]]
-*Description*: A "shell" is a software application, for example, /bin/bash or /bin/sh, that provides an interface to a computer. Do not use this term to describe the prompt where you type commands. 
+*Description*: A "shell" is a software application, for example, /bin/bash or /bin/sh, that provides an interface to a computer. Do not use this term to describe the prompt where you type commands.
 
 *Use it*: yes
 
@@ -206,8 +200,8 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 [discrete]
 ==== shell prompt (noun)
 [[shell-prompt]]
-*Description*:  The shell prompt is the character at the beginning of the command line, and indicates that the shell is ready to accept commands. 
-Do not use "command prompt," "terminal," or "shell." 
+*Description*:  The shell prompt is the character at the beginning of the command line, and indicates that the shell is ready to accept commands.
+Do not use "command prompt," "terminal," or "shell."
 
 *Use it*: yes
 
@@ -229,23 +223,15 @@ Do not use "command prompt," "terminal," or "shell."
 [discrete]
 ==== skill set (noun)
 [[skill-set]]
-*Description*: Use "skills" or "knowledge" instead of skill set (n) or skill-set (adj). 
+*Description*: Use "skills" or "knowledge" instead of skill set (n) or skill-set (adj).
 
-*Example:*
-
-"Skill set" versus "skills"
-- Incorrect: Do you have the right skill set to be an RHCE? 
-- Correct:   Do you have the right skills to be an RHCE?
-
-"Skill set" versus "knowledge"
-- Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.                     
-- Correct:   This course gives you the knowledge to complete your RHCT exam successfully. 
+For example, "Do you have the right skill set to be an RHCE?" is incorrect. Use "Do you have the right skills to be an RHCE?​" instead.
 
 *Use it*: no
 
 *Incorrect forms*: skill set, skillset, skill-set, skill-set knowledge
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== snippet (noun)
@@ -254,7 +240,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Use it*: no
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*:
 
@@ -274,14 +260,11 @@ Do not use "command prompt," "terminal," or "shell."
 [[softcopy]]
 *Description*: Softcopy is an electronic copy of some type of data, for example, a file viewed on a computer screen. Do not use. Use "online" instead.
 
-*Example:*
-
-- Incorrect: To view a softcopy of the manual . . .
-- Correct: To view the online documentation . . .
+For example, "To view a softcopy of the manual..." is incorrect. Use "To view the online documentation...​" instead.
 
 *Use it*: no
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*:
 
@@ -299,7 +282,7 @@ Do not use "command prompt," "terminal," or "shell."
 [discrete]
 ==== Source-Navigator^TM^ (noun)
 [[source-navigator]]
-*Description*: Source-Navigator^TM^ is a source code analysis tool. It is a trademark of Red Hat. 
+*Description*: Source-Navigator^TM^ is a source code analysis tool. It is a trademark of Red Hat.
 
 *Use it*: yes
 
@@ -310,32 +293,22 @@ Do not use "command prompt," "terminal," or "shell."
 [discrete]
 ==== space (noun)
 [[space]]
-*Description*: Use "space" to refer to white space. Use "spacebar" when referring to the keyboard key.
-
-*Examples:*
-
-- Ensure there is a space between each command.
-- Press the spacebar, and type the correct number.
+*Description*: Use "space" to refer to white space. Use "spacebar" when referring to the keyboard key. For example, "Ensure there is a space between each command."
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:spacebar[spacebar]
 
 [discrete]
 ==== spacebar (noun)
 [[spacebar]]
-*Description*: Use "spacebar" when referring to the keyboard key. Use "space" to refer to white space. 
-
-*Examples:*
-
-- Ensure there is a space between each command.
-- Press the spacebar, and type the correct number.
+*Description*: Use "spacebar" when referring to the keyboard key. Use "space" to refer to white space. For example, "Press the spacebar, and type the correct number."
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:space[space]
 
@@ -353,13 +326,11 @@ Do not use "command prompt," "terminal," or "shell."
 [discrete]
 ==== specific (noun)
 [[specific]]
-*Description*: When used as a modifier, put a hyphen before specific.
-
-*Examples:* MIPS-specific, Linux-specific, chip-specific 
+*Description*: When used as a modifier, put a hyphen before specific. For example, "Linux-specific" or "chip-specific".
 
 *Use it*: yes
 
-*Incorrect forms*: MIPS specific, Linux specific, chip specific, etc.
+*Incorrect forms*: Linux specific, chip specific, etc.
 
 *See also*:
 
@@ -377,7 +348,7 @@ Do not use "command prompt," "terminal," or "shell."
 [discrete]
 ==== SQL (noun)
 [[sql]]
-*Description*: SQL stands for Structured Query Language. 
+*Description*: SQL stands for Structured Query Language.
 
 - The ISO-standard SQL (ISO 9075 and its descendants) is pronounced "ess queue ell" and takes "an" as its indefinite article.
 - Microsoft's proprietary product, SQL Server is pronounced as a word: "sequel" and takes "a" as an indefinite article.
@@ -387,14 +358,14 @@ When referring to a specific Relational Database Management System (RDBMS), use 
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:mysql[MySQL]
 
 [discrete]
 ==== SR-IOV (noun)
 [[ser-iov]]
-*Description*: SR-IOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. 
+*Description*: SR-IOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices.
 
 *Use it*: yes
 
@@ -405,14 +376,12 @@ When referring to a specific Relational Database Management System (RDBMS), use 
 [discrete]
 ==== SSH (noun)
 [[ssh]]
-*Description*: SSH is an abbreviation for Secure Shell, a network protocol that allows data exchange using a secure channel. 
+*Description*: SSH is an abbreviation for Secure Shell, a network protocol that allows data exchange using a secure channel.
 
-- For the protocol, do NOT use "SSH," "ssh," "Ssh," or other variants. 
+- For the protocol, do NOT use "SSH," "ssh," "Ssh," or other variants.
 - For the command, use "ssh."
 
-Do not use as a verb. 
-
-*Example*: Instead of "ssh to the remote server," write "Use SSH to connect to the remote server."
+Do not use as a verb. For example, write "Use SSH to connect to the remote server" instead of "ssh to the remote server."
 
 *Use it*: yes
 
@@ -423,18 +392,18 @@ Do not use as a verb.
 [discrete]
 ==== SSL (noun)
 [[ssl]]
-*Description*: SSL is an abbreviation for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the Internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. The majority of web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http:. 
+*Description*: SSL is an abbreviation for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the Internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. The majority of web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http:.
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*:
 
 [discrete]
 ==== StarOffice (noun)
 [[staroffice]]
-*Description*: StarOffice is a Linux desktop suite. 
+*Description*: StarOffice is a Linux desktop suite.
 
 *Use it*: yes
 
@@ -467,7 +436,7 @@ Do not use as a verb.
 [discrete]
 ==== su (noun)
 [[su]]
-*Description*: "su" is a Linux command to change the root user. 
+*Description*: "su" is a Linux command to change the root user.
 
 *Use it*: yes
 
@@ -478,11 +447,9 @@ Do not use as a verb.
 [discrete]
 ==== subcommand (noun)
 [[subcommand]]
-*Description*: A subcommand is a secondary or even tertiary command used with a primary command. Do not confuse subcommands with options or arguments; subcommands operate on ever more focused objects or entities. 
+*Description*: A subcommand is a secondary or even tertiary command used with a primary command. Do not confuse subcommands with options or arguments; subcommands operate on ever more focused objects or entities.
 
-*Example:* In the following command, "hammer" is the main or primary command. "import" and "organization" are subcommands. "--help" is an option.
-
-    hammer import organization --help
+In the following command, "hammer" is the primary command, "import" and "organization" are subcommands, and "--help" is an option: `hammer import organization --help`.
 
 *Use it*: yes
 
@@ -527,7 +494,7 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 [discrete]
 ==== superuser (noun)
 [[superuser]]
-*Description*: Superuser is the same as the root user. The term is more common in Solaris documentation than Linux. 
+*Description*: Superuser is the same as the root user. The term is more common in Solaris documentation than Linux.
 
 *Use it*: yes
 
@@ -553,10 +520,10 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
-*See also*: 
- 
+*See also*:
+
 [discrete]
 ==== SysV (noun)
 [[sysv]]
@@ -566,15 +533,15 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 
 *Incorrect forms*: Sys V, System V
 
-*See also*: 
- 
+*See also*:
+
 [discrete]
 ==== symmetric encryption (noun)
 [[symmetric-encryption]]
-*Description*: ⁠A type of encryption where the same key encrypts and decrypts the message. In contrast, asymmetric (or public-key) encryption uses one key to encrypt a message and another to decrypt the message. 
+*Description*: ⁠A type of encryption where the same key encrypts and decrypts the message. In contrast, asymmetric (or public-key) encryption uses one key to encrypt a message and another to decrypt the message.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:

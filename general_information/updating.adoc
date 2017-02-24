@@ -4,7 +4,7 @@ This document is written in the AsciiDoc markup language and hosted in a git rep
 
 You can edit this document by using:
 
-* The GitLab web user interface. See xref:web-ui-adding-or-editing-entries[Web UI: Adding and Editing Entries] for details.
+* The GitLab web user interface. See xref:web-ui-adding-or-editing-entries[Web UI: Adding and Editing Entries].
 * The `git` command-line utility. See xref:cli-adding-and-editing-entries[CLI: Adding and Editing Entries]. Previous experience with `git` and the command line is required.
 
 Once you are done with the edits, create a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
@@ -21,7 +21,7 @@ NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerber
 
     .. On the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/tree/master[main repository page] click the plus button and select *New branch*.
 
-    .. Specify the name of the branch. Use the _wip-<name-of-the-entry>_ form when adding a new entry, for example _wip-host-name_ or _wip-<name-of-the-entry-edits>_ when updating an existing entry, for example _wip-host-name-edits_.
+    .. Specify the name of the branch. When adding a new entry, use _wip-<name-of-the-entry>_ as the branch name, for example _wip-host-name_. When updating an existing entry, use _wip-<name-of-the-entry>-edits_ as the branch name, for example _wip-host-name-edits_.
 
     .. Click *Create branch*.
 
@@ -54,7 +54,7 @@ NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerber
 
     .. Navigate to the http://ccs-jenkins.gsslab.brq.redhat.com/TopicBranches#glossary-of-terms-and-conventions-for-product-documentation[Glossary of Terms and Conventions for Product Documentation] Jenkins job.
 
-    .. Wait until the branch you created appears in the list. It should not take more than 10 minutes. 
+    .. Wait until the branch you created appears in the list. It should not take more than 10 minutes.
 
     .. Verify that `yes` is listed in the *Success build?* column. See xref:preview-of-changes[Where can I view the changes I made?] and xref:failed-jenkins-build[What do I do when Jenkins fails to build the document after I have added my changes?] for details.
 
@@ -66,7 +66,7 @@ NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerber
 
 [NOTE]
 ====
-This procedure requires `git` and `ccutil` installed. See https://pantheon-ccstools.itos.redhat.com/help/user-guide/#ccutil-install[Installing ccutil] for details.
+This procedure requires `git` and `ccutil` to be installed. See https://pantheon-ccstools.itos.redhat.com/help/user-guide/#ccutil-install[Installing ccutil] for details.
 ====
 
 . If you do not have a local copy of the `glossary-of-terms-and-conventions-for-product-documentation` git repository, clone it.
@@ -87,7 +87,7 @@ $ cd glossary-of-terms-and-conventions-for-product-documentation
 $ git pull --rebase
 ----
 
-. Create a new branch. When adding a new entry, use _wip-<name-of-the-entry>_ as the branch name, for example _wip-host-name_. When updating an existing entry, use _wip-<name-of-the-entry-edits>_ as the branch name, for example _wip-host-name-edits_.
+. Create a new branch. When adding a new entry, use _wip-<name-of-the-entry>_ as the branch name, for example _wip-host-name_. When updating an existing entry, use _wip-<name-of-the-entry>-edits_ as the branch name, for example _wip-host-name-edits_.
 +
 ----
 $ git checkout -b <name-of-the-branch>
@@ -150,6 +150,6 @@ $ git push --set-upstream origin <name-of-the-branch>
 
 . Optionally, write a description of your change.
 
-. Select the correct label; _General Conventions_ or _Product-Specific Conventions_.
+. Select the correct label; _General Conventions_ or _Product-specific Conventions_.
 
 . Click *Submit merge request*.

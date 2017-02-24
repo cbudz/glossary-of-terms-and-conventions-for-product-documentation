@@ -1,7 +1,7 @@
 [discrete]
 ==== terminal emulation (noun)
 [[terminal-emulation]]
-*Description*: Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer. 
+*Description*: Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer.
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== text mode (noun)
 [[text-mode]]
-*Description*: A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode. 
+*Description*: A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== text-based (adjective)
 [[text-based]]
-*Description*: Refers to text-based operating system or interface. 
+*Description*: Refers to text-based operating system or interface.
 
 *Use it*: yes
 
@@ -34,7 +34,7 @@
 [discrete]
 ==== third-party (adjective)
 [[third-party-adj]]
-*Description*: Use "third-party" as the adjectival form. Consult a dictionary for more examples. 
+*Description*: Use "third-party" as the adjectival form. Consult a dictionary for more examples.
 
 *Use it*: yes
 
@@ -45,7 +45,7 @@
 [discrete]
 ==== third party (noun)
 [[third-party-n]]
-*Description*: Use "third party" as the nominal form. Consult a dictionary for more examples. 
+*Description*: Use "third party" as the nominal form. Consult a dictionary for more examples.
 
 *Use it*: yes
 
@@ -56,7 +56,7 @@
 [discrete]
 ==== through (preposition)
 [[through]]
-*Description*: Do not use the hyphen or any other type of dash. 
+*Description*: Do not use the hyphen or any other type of dash.
 
 *Use it*: yes
 
@@ -78,7 +78,7 @@
 [discrete]
 ==== tier-1 (adjective)
 [[tier-1]]
-*Description*: Always hyphenate and indicate the number is numerals. Follow standard capitalization guidelines. 
+*Description*: Always hyphenate and indicate the number is numerals. Follow standard capitalization guidelines.
 
 *Use it*: yes
 
@@ -100,7 +100,7 @@
 [discrete]
 ==== time zone (noun)
 [[time-zone]]
-*Description*: It is most commonly styled as two words with no hyphen in between.  
+*Description*: It is most commonly styled as two words with no hyphen in between.
 
 *Use it*: yes
 
@@ -122,7 +122,7 @@
 [discrete]
 ==== TTL (noun)
 [[ttl]]
-*Description*: Initialism for "time to live" (noun) and "time-to-live" (adjective). The initialism is always uppercase. 
+*Description*: Initialism for "time to live" (noun) and "time-to-live" (adjective). The initialism is always uppercase.
 
 *Use it*: yes
 
@@ -133,7 +133,7 @@
 [discrete]
 ==== time to live (noun)
 [[time-to-live-n]]
-*Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. 
+*Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable.
 
 *Use it*: yes
 
@@ -144,7 +144,7 @@
 [discrete]
 ==== time-to-live (adjective)
 [[time-to-live-adj]]
-*Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. 
+*Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable.
 
 *Use it*: yes
 
@@ -155,7 +155,7 @@
 [discrete]
 ==== type (noun)
 [[type-n]]
-*Description*: Type can be used as anoun. You can write "Print the data type of init." 
+*Description*: Type can be used as a noun. You can write "Print the data type of init." 
 
 *Use it*: yes
 
@@ -166,7 +166,7 @@
 [discrete]
 ==== type (verb)
 [[type-v]]
-*Description*: Type can be used as a verb. For example, "To start Source-Navigator, type `snavigator`." 
+*Description*: Type can be used as a verb. For example, "To start Source-Navigator, type `snavigator`."
 
 *Use it*: yes
 
