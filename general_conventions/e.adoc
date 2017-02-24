@@ -93,7 +93,7 @@ One ingredient of an environment, therefore, is the operating system. But operat
 [discrete]
 ==== Exif (noun)
 [[exif]]
-*Description*: Correct. Do not use "EXIF." Exif is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF and RIFF files. Sometimes to referred to as "Exif Print."
+*Description*: Correct. Do not use "EXIF." Exif is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF and RIFF files. Sometimes referred to as "Exif Print."
 
 *Use it*: yes
 
