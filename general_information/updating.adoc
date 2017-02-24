@@ -15,8 +15,12 @@ If you want to suggest an update for this document, have a general question, or 
 [discrete]
 ==== Web UI: Adding and Editing Entries
 
-NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerberos credentials or the *Red Hat SAML Login* to log in to GitLab.
+[NOTE] 
+====
+Before you start, ensure that you are logged in to GitLab. Use your Kerberos credentials or the *Red Hat SAML Login* to log in to GitLab. 
 
+In addition, make sure that you have at least *Developer* permissions for the https://gitlab.cee.redhat.com/ccs-internal-documentation[CCS Internal GitLab group]. To check your access, see the https://gitlab.cee.redhat.com/groups/ccs-internal-documentation/group_members[Members] page. If you do not have the permissions, request them by clicking *Request Access*.
+====
 . Create a new branch.
 
     .. On the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/tree/master[main repository page] click the plus button and select *New branch*.
@@ -67,6 +71,8 @@ NOTE: Before you start, ensure that you are logged in to GitLab. Use your Kerber
 [NOTE]
 ====
 This procedure requires `git` and `ccutil` installed. See https://pantheon-ccstools.itos.redhat.com/help/user-guide/#ccutil-install[Installing ccutil] for details.
+
+In addition, make sure that you have at least *Developer* permissions for the https://gitlab.cee.redhat.com/ccs-internal-documentation[CCS Internal GitLab group]. To check your access, see the https://gitlab.cee.redhat.com/groups/ccs-internal-documentation/group_members[Members] page. If you do not have the permissions, request them by clicking *Request Access*.
 ====
 
 . If you do not have a local copy of the `glossary-of-terms-and-conventions-for-product-documentation` git repository, clone it.
