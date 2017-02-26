@@ -142,6 +142,17 @@
 *See also*:
 
 [discrete]
+==== OpEx (noun)
+[[opex]]
+*Description*: Stands for "operating expenses." 
+
+*Use it*: yes
+
+*Incorrect forms*: Opex, Opex, OPEX, opEx
+
+*See also*:
+
+[discrete]
 ==== operating system (noun)
 [[operating-system]]
 *Description*: From https://en.wikipedia.org/wiki/Operating_system[Wikipedia]: An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs. All computer programs, excluding firmware, require an operating system to function.
