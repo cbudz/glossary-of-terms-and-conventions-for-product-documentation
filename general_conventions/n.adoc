@@ -70,18 +70,6 @@
 *See also*:
 
 [discrete]
-==== nonsecure (adjective)
-[[nonsecure]]
-
-*Description*: Do not use "nonsecure." The correct term is "insecure."
-
-*Use it*: no
-
-*Incorrect forms*: nonsecure
-
-*See also*: xref:insecure[insecure]
-
-[discrete]
 ==== now (adverb)
 [[now]]
 *Description*: "Now" means at the present time, immediately, or at once.
