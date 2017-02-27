@@ -7,19 +7,7 @@
 
 *Incorrect forms*: desire, wish
 
-*See also*:
-
-[discrete]
-==== needs (verb)
-[[needs]]
-
-*Description*: Avoid using "needs" as a variant of "need." Also avoid using "needs to be" and "need to." Suggested alternatives are "must," "required," and "should."
-
-*Use it*: no
-
-*Incorrect forms*: needs, needs to be, need to
-
-*See also*:
+*See also*: xref:want[want]
 
 [discrete]
 ==== neighbor (noun)
