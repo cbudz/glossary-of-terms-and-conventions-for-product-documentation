@@ -2,6 +2,10 @@
 
 This document outlines terms and conventions for technical language in Red Hat's product documentation and other technical content. These terms and conventions supplement those in _The IBM Style Guide_, which is the main reference for technical terms. 
 
+== Compiled Version
+
+http://ccs-jenkins.gsslab.brq.redhat.com:8080/job/glossary-of-terms-and-conventions-for-product-documentation-branch-master/lastSuccessfulBuild/artifact/index.html[Glossary of Terms and Conventions for Product Documentation]
+
 == Contributing
 
 See http://ccs-jenkins.gsslab.brq.redhat.com:8080/job/glossary-of-terms-and-conventions-for-product-documentation-branch-master/lastSuccessfulBuild/artifact/index.html#how_to_update_this_document[How to Update this Document] for details.
