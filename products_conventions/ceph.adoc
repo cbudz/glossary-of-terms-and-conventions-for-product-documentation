@@ -6,7 +6,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 ==== bucket (noun)
 [[bucket]]
 *Description*: 1) A bucket in the S3 API contains objects. A bucket also defines access control lists (ACLs). Unlike folders or directories, buckets cannot contain other buckets. A bucket in the S3 API is synonymous with a "container" in the Swift API. 2) The term bucket is also sometimes used in the context of a CRUSH hierarchy, but CRUSH buckets and S3 buckets are mutually exclusive concepts.
- 
+
 *Use it*: yes
 
 *Incorrect forms*:
@@ -17,12 +17,12 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 ==== bucket index (noun)
 [[bucket-index]]
 *Description*: A bucket index in the S3 API contains an index of objects within the bucket. The bucket index enables listing the bucket's contents.
- 
+
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== bucket sharding (noun)
@@ -39,7 +39,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 ==== BlueStore (noun)
 [[bluestore]]
 *Description*: BlueStore is an OSD back end that utilizes block devices directly.
- 
+
 *Use it*: yes
 
 *Incorrect forms*: bluestore, Blue Store
@@ -61,7 +61,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 ==== ceph (noun)
 [[ceph-command]]
 *Description*: The Ceph command-line utility. Always mark it properly (`ceph`).
- 
+
 *Use it*: yes
 
 *Incorrect forms*: CEPH
@@ -82,7 +82,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== CephFS (noun)
 [[cephfs]]
-*Description*: CephFS is an initialization for the Ceph File System. 
+*Description*: CephFS is an initialization for the Ceph File System.
 
 *Use it*: yes
 
@@ -121,7 +121,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 
 *Incorrect forms*: Ceph Ansible
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== ceph-mds (noun)
@@ -157,7 +157,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 
 *Incorrect forms*:
 
-*See also*: xref:osd[OSD], xref:object-storage-device[Object Storage Device], 
+*See also*: xref:osd[OSD], xref:object-storage-device[Object Storage Device],
 
 [discrete]
 ==== Ceph Object Gateway (noun)
@@ -223,13 +223,13 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 
 *Incorrect forms*: filestore, File Store
 
-*See also*: xref:bluestore[BlueStore] 
+*See also*: xref:bluestore[BlueStore]
 
 [discrete]
 ==== federated (adjective)
 [[federated]]
 *Description*: In Red Hat Ceph Storage 1.3, you can configure the Ceph Object Gateway to participate in a federated architecture with multiple regions and with multiple zones for a region.
- 
+
 *Use it*: yes
 
 *Incorrect forms*:
@@ -240,7 +240,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 ==== indexless bucket (noun)
 [[indexless-bucket]]
 *Description*: A bucket that does not maintain an index.
- 
+
 *Use it*: yes
 
 *Incorrect forms*:
@@ -340,7 +340,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== OSD (noun)
 [[osd]]
-*Description*: The `ceph-osd` daemon and the underlying data disk. 
+*Description*: The `ceph-osd` daemon and the underlying data disk.
 
 *Use it*: yes
 
@@ -351,8 +351,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== PG (noun)
 [[pg]]
-*Description*: An acronym for Placement Group. 
- 
+*Description*: An acronym for Placement Group.
+
 *Use it*: yes
 
 *Incorrect forms*:
@@ -363,7 +363,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 ==== placement group (noun)
 [[placement-group]]
 *Description*: Aggregates a series of objects into a group, and maps the group into a series of OSDs. Write "Placement Group" (both first letters in uppercase) only when explaining the PC acronym, then write "placement group" (in lowercase). See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#placement_groups_pgs[Placement Groups] section in the Red Hat Ceph Storage Architecture Guide for details.
- 
+
 *Use it*: yes
 
 *Incorrect forms*:
@@ -373,13 +373,14 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 [discrete]
 ==== placement target (noun)
 [[placement-target]]
-*Description*: A configurable rule that determines where bucket data is stored. TODO: does this have to be first letters in uppercase? 
- 
+*Description*: A configurable rule that determines where bucket data is stored.
+//TODO: does this have to be first letters in uppercase? 
+
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== pool (noun)
@@ -445,7 +446,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:RBD[RBD], xref:librbd[librbd]
 
@@ -502,7 +503,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== shard (noun)
