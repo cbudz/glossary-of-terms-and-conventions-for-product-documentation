@@ -7,25 +7,13 @@
 
 *Incorrect forms*: desire, wish
 
-*See also*:
-
-[discrete]
-==== needs, needs to be, need to (verb)
-[[needs]]
-
-*Description*: Avoid using any of these variants of need. Suggested alternatives are "must," "required," and "should."
-
-*Use it*: no
-
-*Incorrect forms*: 
-
-*See also*:
+*See also*: xref:want[want]
 
 [discrete]
 ==== neighbor (noun)
 [[neighbor]]
 
-*Description*: Neighbor is the acccepted spelling.
+*Description*: "Neighbor" is the acccepted spelling.
 
 *Use it*: yes
 
@@ -70,21 +58,9 @@
 *See also*:
 
 [discrete]
-==== nonsecure (adjective)
-[[nonsecure]]
-
-*Description*: Do not use the term nonsecure. The correct term is insecure.
-
-*Use it*: no
-
-*Incorrect forms*: nonsecure
-
-*See also*: xref:insecure[insecure]
-
-[discrete]
 ==== now (adverb)
 [[now]]
-*Description*: Now means at the present time, immediately, or at once.
+*Description*: "Now" means at the present time, immediately, or at once.
 
 *Use it*: yes
 
@@ -96,7 +72,7 @@
 ==== NULL (noun)
 [[null-value]]
 
-*Description*: Use NULL when a command or value is stated.
+*Description*: Use "NULL" when a command or value is stated.
 
 *Use it*: with caution
 
@@ -108,7 +84,7 @@
 ==== null (adjective)
 [[null-adjective]]
 
-*Description*: Use null (in all lowercase letters) when stating that something is null.
+*Description*: Use "null" (in all lowercase letters) when stating that something is null.
 
 *Use it*: with caution
 
