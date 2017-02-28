@@ -1,0 +1,133 @@
+[discrete]
+==== VAR (noun)
+[[var]]
+*Description*: VAR is an acronym for value-added reseller, which is the equivalent of OEM (original equipment manufacturer).
+
+*Use it*: yes
+
+*Incorrect forms*: var
+
+*See also*: xref:oem[OEM]
+
+[discrete]
+==== vCPU (noun)
+[[vcpu]]
+*Description*: A virtual CPU (central processing unit) represents a portion of a physical CPU that is assigned to a virtual machine.
+
+Use lowercase "v" and uppercase "CPU".
+
+*Use it*: yes
+
+*Incorrect forms*: VCPU, vcpu
+
+*See also*:
+
+[discrete]
+==== VDSM (noun)
+[[vdsm]]
+*Description*: VDSM is an initialism for Virtual Desktop Server Management. DO NOT spell out this initialism. Using the term "virtual desktop" in this context has negative marketing implications. Use VDSM without expansion.
+
+*Use it*: yes
+
+*Incorrect forms*: Virtual Desktop Server Management
+
+*See also*:
+
+[discrete]
+==== vi (noun)
+[[vi]]
+*Description*: vi is a screen-oriented text editor originally created for the Unix operating system. Do not use "VI" (all caps).
+
+*Use it*: yes
+
+*Incorrect forms*: VI
+
+*See also*: xref:vim[Vim]
+
+[discrete]
+==== video mode (noun)
+[[video-mode]]
+*Description*: Video mode is the setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
+
+*Use it*: yes
+
+*Incorrect forms*: video-mode, videomode
+
+*See also*:
+
+[discrete]
+==== Vim (noun)
+[[vim]]
+*Description*: Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIX-based operating systems in 1992.) Despite being an acronym, and despite the first word of the "About" text that is displayed when you launch the editor, the standard, proper noun-derived, mixed-case spelling has been in use since its release on the Amiga.
+
+*Use it*: yes
+
+*Incorrect forms*: VIM, vim
+
+*See also*: xref:vi[vi]
+
+[discrete]
+==== virtual console (noun)
+[[virtual-console]]
+*Description*: Virtual console can be abbreviated to "VC" as long as the term has been introduced in the same content in its full version first, such as "A virtual console (VC) is a shell prompt in a non-graphical environment. Multiple VCs can be accessed simultaneously."
+
+*Use it*: yes
+
+*Incorrect forms*: virtual-console, Virtual Console
+
+*See also*:
+
+[discrete]
+==== virtual machine (noun)
+[[virtual-machine]]
+*Description*: Virtual machine refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" unless you want to specifically emphasize the fact that it is a guest. Virtual machine can be abbreviated to "VM" as long as the term has been introduced in the same content in its full version first, and provided there is no possibility of confusion with other terms, such as "virtual memory." Author discretion is recommended.
+
+*Use it*: yes
+
+*Incorrect forms*: Use "VM" with caution (see above)
+
+*See also*:
+
+[discrete]
+==== virtual router (noun)
+[[virtual-router]]
+*Description*: A virtual router is an abstract object managed by VRRP (virtual router redundancy protocol) that acts as a default router for hosts on a shared LAN. It consists of a Virtual Router Identifier and a set of associated IP addresses across a common LAN.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
+==== virtualized guest (noun)
+[[virtualized-guest]]
+*Description*: A virtualized guest is a virtual machine (VM). The term "virtualized guest" should be used only when comparing a "fully virtualized guest" with a "paravirtualized guest."
+
+*Use it*: with caution
+
+*Incorrect forms*:
+
+*See also*: xref:guest-operating-system[guest operating system], xref:virtual-machine[virtual machine]
+
+[discrete]
+==== VNIC (noun)
+[[vnic]]
+*Description*: VNIC is an abbreviation for virtual network interface card. Use all uppercase characters for the abbreviation, but all lowercase for the expansion, except at the beginning of a sentence.
+
+*Use it*: with caution
+
+*Incorrect forms*: vnic, Virtual Network Interface Card 
+
+*See also*:
+
+[discrete]
+==== VPN (noun)
+[[vpn]]
+*Description*: VPN is an initialism for virtual private network, a network that is constructed by using public wires to connect nodes. For example, there are a number of systems that enable you to create networks using the Internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
+
+*Use it*: yes
+
+*Incorrect forms*: vpn
+
+*See also*:
