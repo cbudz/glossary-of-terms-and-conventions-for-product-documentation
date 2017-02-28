@@ -4,7 +4,11 @@
 
 == General Information
 
-This document outlines terms and conventions for technical language in Red Hat's product documentation and other technical content. These terms and conventions supplement those in _The IBM Style Guide_, which is the main reference for technical terms and conventions used at Red Hat.
+This document is the central location for terms and conventions for technical language in Red Hat's product documentation and other technical content. It was created by the Documentation Conventions project team as part of the Customer Content Services FY17 Quality Initiative, and supplements the _The IBM Style Guide_, which is the main reference for technical terms and conventions used at Red Hat.
+
+While several other resources also define technical terms and conventions, such as the link:https://mojo.redhat.com/docs/DOC-28115[Corporate Style Guide] and the link:http://www.stylepedia.net[Writing Style Guide], this document was created to be an official resource maintained by Customer Content Services that is easy to update and maintain, and that is available to all associates at Red Hat. The document has consumed all the terms in the _Writing Style Guide_ with the exception of those appear in _The IBM Style Guide_ already, and also includes terms specific to Red Hat products.
+
+Several general and product-specific terms have been added already, but this document is still a work in progress, and all associates are encouraged to make contributions at any time.
 
 === How to Update This Document
 include::{includedir}/general_information/updating.adoc[]
