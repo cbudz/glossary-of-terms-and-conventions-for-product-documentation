@@ -78,6 +78,32 @@ Use lowercase "v" and uppercase "CPU".
 *See also*:
 
 [discrete]
+==== virtual floppy disk (noun)
+[[virtual-floppy-disk]]
+*Description*: A virtual floppy disk is an alternative to the traditional floppy. It is an image file, rather than a physical disk.
+
+Although the _IBM Style Guide_ recommends using "diskette" instead of "floppy disk", this term is outdated and refers to the physical disk. In the context of virtualization, "floppy disk" is the preferred term; the file extension, for example, is ".vfd".
+
+*Use it*: yes
+
+*Incorrect forms*: virtual diskette
+
+*See also*: xref:virtual-floppy-drive[virtual floppy drive]
+
+[discrete]
+==== virtual floppy drive (noun)
+[[virtual-floppy-drive]]
+*Description*: A virtual floppy drive is the virtual hardware used to mount a floppy disk image.
+
+Although the _IBM Style Guide_ recommends using "diskette drive" instead of "floppy drive", this term is outdated and refers to the physical hardware. In the context of virtualization, "floppy drive" is the preferred term.
+
+*Use it*: yes
+
+*Incorrect forms*: virtual diskette drive
+
+*See also*: xref:virtual-floppy-disk[virtual floppy disk]
+
+[discrete]
 ==== virtual machine (noun)
 [[virtual-machine]]
 *Description*: Virtual machine refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" unless you want to specifically emphasize the fact that it is a guest. Virtual machine can be abbreviated to "VM" as long as the term has been introduced in the same content in its full version first, and provided there is no possibility of confusion with other terms, such as "virtual memory." Author discretion is recommended.
