@@ -5,7 +5,7 @@
 |=====
 
 
-|Does the entry adhere to the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/template.adoc[template] in GitLab? |&#9744;
+|Does the entry adhere to the xref:template-for-entries[tempalte]? |&#9744;
 
 |Is this entry unique, that is, not already included in Red Hat’s Glossary of Terms and Conventions for Product Documentation?|&#9744;
 
@@ -17,7 +17,7 @@
 
 |Are the IDs in the correct format?
 **ID** instructions from the template:
-<id> with the term in lowercase, if the term consists of more than one word, separate them with a hyphen ("-"). Do not use spaces, capital letters, or special characters (for example, slash ["/"]) in this name. If two entries have the same ID, see https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/template.adoc#two-entries-with-same-anchor-tag[What to do if two entries have the same ID?].|&#9744;
+<id> with the term in lowercase, if the term consists of more than one word, separate them with a hyphen ("-"). Do not use spaces, capital letters, or special characters (for example, slash ["/"]) in this name. If two entries have the same ID, see xref:two-entries-with-same-ID[What to do if two entries have the same ID?].|&#9744;
 
 |Does the **Description** field include a definition of the entry?|&#9744;
 

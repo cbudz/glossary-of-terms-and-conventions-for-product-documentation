@@ -54,7 +54,7 @@ IMPORTANT: Always make sure that Jenkins is able to build the document with the 
 [[two-entries-with-same-ID]]
 What if two entries have the same ID?::
 
-When creating IDs in accordance with the rules described in xref:template[], the resulting IDs might be the same as those for separate entries. For example, the "kernel space" and "kernel-space" entries, or the "kB" and "KB" entries would have the same anchor tag ("kernel-space" and "kb"). If the IDs are not unique, however, it will cause an error in the document.
+When creating IDs in accordance with the rules described in xref:template-for-entries[], the resulting IDs might be the same as those for separate entries. For example, the "kernel space" and "kernel-space" entries, or the "kB" and "KB" entries would have the same anchor tag ("kernel-space" and "kb"). If the IDs are not unique, however, it will cause an error in the document.
 +
 To avoid this issue, use different IDs:
 +

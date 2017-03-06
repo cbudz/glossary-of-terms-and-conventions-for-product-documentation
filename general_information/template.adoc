@@ -1,4 +1,4 @@
-[[template]]
+[[template-for-entries]]
 Use the following template to describe particular entries:
 
 The AsciiDoc source:

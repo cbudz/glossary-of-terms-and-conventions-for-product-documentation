@@ -37,7 +37,7 @@ In addition, make sure that you have at least *Developer* permissions for the ht
 
     .. Click *Edit*.
 
-    .. Make the changes. Use this xref:template[template] when adding a new entry. Entries must be added in alphabetical order.
+    .. Make the changes. Use this xref:template-for-entries[template] when adding a new entry. Entries must be added in alphabetical order.
 
     .. If you created a new file, add the file to the `master.adoc` file. Add the file in alphabetical order under the `== Product-specific Conventions` heading. For example:
 +
@@ -103,7 +103,7 @@ $ git checkout -b <name-of-the-branch>
 
     .. Navigate to the `general_conventions` or `products_conventions` directory and open the file you want to add the entry to. If a file for the product does not exist yet, create one. Use the _<product-name>.adoc_ form, for example _red-hat-virtualization.adoc_.
 
-    .. Make the changes. Use this xref:template[template] when adding a new entry. Entries must be added in alphabetical order.
+    .. Make the changes. Use this xref:template-for-entries[template] when adding a new entry. Entries must be added in alphabetical order.
 
     .. If you created a new file, add the file to the `master.adoc` file. Add the file in alphabetical order under the `== Product-specific Conventions` heading. For example:
 +
