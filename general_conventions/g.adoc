@@ -38,7 +38,7 @@ When referring to the program, use "GAS."
 *See also*: xref:gas-command[gas]
 
 [discrete]
-==== gas (noun
+==== gas (noun)
 [[gas-command]]
 *Description*: Short for "GNU Assembler," the assembler used by the GNU Project. 
 
