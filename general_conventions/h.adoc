@@ -33,7 +33,7 @@
 *See also*: xref:she[she]
 
 [discrete]
-==== ⁠healthcare (noun)
+==== healthcare (noun)
 [[healthcare]]
 *Description*: Maintaining or improving health by preventing or treating health issues.
 
@@ -44,7 +44,7 @@
 *See also*:
 
 [discrete]
-==== ⁠health check (noun)
+==== health check (noun)
 [[health-check]]
 *Description*: Two words. This term is only capitalized when part of a product name, for example: "Red Hat Enterprise Linux Server Health Check."
 
@@ -59,7 +59,7 @@ Do not capitalize when referring to those services in a general way. For example
 [discrete]
 ==== help desk (noun)
 [[help-desk]]
-*Description*:  service that provides support for computer users.
+*Description*: A service that provides support for computer users.
 
 *Use it*: yes
 
@@ -79,7 +79,7 @@ Do not capitalize when referring to those services in a general way. For example
 *See also*:
 
 [discrete]
-==== ⁠high-availability (adjective)
+==== high-availability (adjective)
 [[high-availability]]
 *Description*: An object that is continuously available. For example, "high-availability cluster."
 
@@ -90,7 +90,7 @@ Do not capitalize when referring to those services in a general way. For example
 *See also*: xref:high-availability-noun[high availability]
 
 [discrete]
-==== ⁠high availability (noun)
+==== high availability (noun)
 [[high-availability-noun]]
 *Description*: The concept of making a system or service continuously available, even if a particular component experiences a failure. For example, "Support is available 24x7 to help maintain high availability."
 
@@ -101,7 +101,7 @@ Do not capitalize when referring to those services in a general way. For example
 *See also*: xref:high-availability[high-availability]
 
 [discrete]
-==== ⁠high-performance computing (noun)
+==== high-performance computing (noun)
 [[high-performance-computing]]
 *Description*: The use of parallel processing to obtain much more efficient processing of complex programs.
 
@@ -136,7 +136,7 @@ Use standard hyphenation guidelines to maintain clarity.
 *See also*:
 
 [discrete]
-==== ⁠hot add (verb)
+==== hot add (verb)
 [[hot-add]]
 *Description*: Correct. Two words, lowercase. Capitalize only at the beginning of a sentence.
 
@@ -180,20 +180,20 @@ Use standard hyphenation guidelines to maintain clarity.
 *See also*:
 
 [discrete]
-==== ⁠HP ProLiant (noun)
+==== HP ProLiant (noun)
 [[hp-proliant]]
 *Description*: Hewlett-Packard (HP) servers. Do not use any other variations.
 
 *Use it*: yes
 
-*Incorrect forms*: ⁠HP Proliant
+*Incorrect forms*: HP Proliant
 
 *See also*:
 
 [discrete]
 ==== HTML (noun)
 [[html]]
-*Description*: HyperText Markup Language (HTML) is a markup language for web pages. When referring to the language, use "HTML," such as "To see the HTML version of this documentation...." When referring to a web page extension, use "html," such as "The main page is index.html."
+*Description*: HyperText Markup Language (HTML) is a markup language for web pages. When referring to the language, use "HTML," such as "To see the HTML version of this documentation." When referring to a web page extension, use "html," such as "The main page is index.html."
 
 *Use it*: yes
 
@@ -202,7 +202,7 @@ Use standard hyphenation guidelines to maintain clarity.
 *See also*:
 
 [discrete]
-==== ⁠huge-page (adjective)
+==== huge-page (adjective)
 [[huge-page]]
 *Description*: Correct. Normal hyphenation rules apply. See xref:huge-page-noun[huge page] for capitalization rules.
 
@@ -224,7 +224,7 @@ Use standard hyphenation guidelines to maintain clarity.
 *See also*:
 
 [discrete]
-==== ⁠Hyper-Threading (noun)
+==== Hyper-Threading (noun)
 [[hyper-threading]]
 *Description*: Hyper-Threading is Intel's implementation of simultaneous multithreading. If you are not referring specifically to Intel's implementation, use "simultaneous multithreading" or "SMT" instead.
 

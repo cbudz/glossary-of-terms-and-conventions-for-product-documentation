@@ -12,7 +12,7 @@
 [discrete]
 ==== javascript (adjective)
 [[javascript]]
-*Description*: When referring to a file written using the JavaScript language, use all lowercase; for example, "...copy the IPA javascript file to the `/temp/` directory."
+*Description*: When referring to a file written using the JavaScript language, use all lowercase; for example, "Copy the IPA javascript file to the `/temp/` directory."
 
 *Use it*: yes
 
@@ -68,7 +68,7 @@
 [discrete]
 ==== just (adverb)
 [[just]]
-*Description*: Use sparingly. In the phrase, "Just open the file...," the word "just" can be omitted.
+*Description*: Use sparingly. In the phrase, "Just open the file," the word "just" can be omitted.
 
 *Use it*: with caution
 
