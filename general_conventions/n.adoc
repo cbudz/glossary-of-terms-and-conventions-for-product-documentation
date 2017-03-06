@@ -22,7 +22,7 @@
 *See also*:
 
 [discrete]
-==== ⁠network transparency (noun)
+==== network transparency (noun)
 [[network-transparency]]
 
 *Description*: Network transparency is a condition where an operating system or other service allows the user access to a remote resource through a network without needing to know if the resource is remote or local. For example, Sun Microsystems' NFS, which has become a de facto industry standard, provides access to shared files through an interface called the Virtual File System (VFS) that runs on top of the TCP/IP stack. Users can manipulate shared files as if they were stored locally on the user's hard disk.
@@ -34,7 +34,7 @@
 *See also*:
 
 [discrete]
-==== ⁠NFS (noun)
+==== NFS (noun)
 [[nfs]]
 
 *Description*: Network File System (NFS) is a client/server application designed by Sun Microsystems that allows all network users to access shared files stored on computers of different types. NFS provides access to shared files through an interface called the Virtual File System (VFS) that runs in a layer above TCP/IP. Users can manipulate shared files as if they were stored locally on the user's own hard disk. With NFS, computers connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files. The NFS standards are publicly available and widely used. 
