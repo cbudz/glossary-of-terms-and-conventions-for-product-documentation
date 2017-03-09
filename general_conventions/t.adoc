@@ -32,6 +32,17 @@
 *See also*:
 
 [discrete]
+==== thin provisioned (adjective)
+[[thin-provisioned]]
+*Description*: Thin provisioning is a mechanism that allocates disk storage space in a flexible manner, based on the minimum space required at any given time. Thin provisioned storage is also referred to as "sparse" in some contexts.
+
+*Use it*: yes
+
+*Incorrect forms*: thin-provisioned, thinly provisioned, thinly-provisioned
+
+*See also*: 
+
+[discrete]
 ==== third-party (adjective)
 [[third-party-adj]]
 *Description*: Use "third-party" as the adjectival form. Consult a dictionary for more examples.
