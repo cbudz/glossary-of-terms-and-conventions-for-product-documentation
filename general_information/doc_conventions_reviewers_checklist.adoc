@@ -5,7 +5,7 @@
 |=====
 
 
-|Does the entry adhere to the xref:template-for-entries[tempalte]? |&#9744;
+|Does the entry adhere to the xref:template-for-entries[template]? |&#9744;
 
 |Is this entry unique, that is, not already included in Red Hat’s Glossary of Terms and Conventions for Product Documentation?|&#9744;
 
