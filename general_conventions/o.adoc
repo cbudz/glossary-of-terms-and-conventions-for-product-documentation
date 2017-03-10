@@ -154,6 +154,17 @@
 *See also*:
 
 [discrete]
+==== operating environment (noun)
+[[operating-environment]]
+*Description*: The environment in which a user can run application software. An operating environment consists of a user interface provided by an applications manager, and usually includes an application programming interface (API).
+
+*Use it*: yes
+
+*Incorrect forms*: Operating Environment
+
+*See also*: xref:control-program[control program]
+
+[discrete]
 ==== operating system (noun)
 [[operating-system]]
 *Description*: From https://en.wikipedia.org/wiki/Operating_system[Wikipedia]: An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs. All computer programs, excluding firmware, require an operating system to function.
