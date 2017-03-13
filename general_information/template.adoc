@@ -46,7 +46,7 @@ The AsciiDoc source:
 * If you want to list a term in the _Product-specific Conventions_ part that is already included in the _General Conventions_ part, add the product-specific meaning to the *Description* field of the term in _General Conventions_. Use numbers to separate the meanings. In _Product-specific Conventions_ add the following boilerplate text with the link to the entry in _General Conventions_:
 +
 ----
-==== <term>
+==== <term> (<class>)
 See xref:<id-in-general-conventions>[<term>] in the _General Conventions_ part.
 ----
 ====
