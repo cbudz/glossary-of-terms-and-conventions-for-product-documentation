@@ -193,7 +193,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *Incorrect forms*: Gnome, gnome
 
-*See also*: xref:gnome-classic[Gnome Classic]
+*See also*: xref:gnome-classic[GNOME Classic]
 
 [discrete]
 ==== GNOME Classic (noun)
@@ -204,7 +204,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *Incorrect forms*: classic mode
 
-*See also*: 
+*See also*: xref:gnome[GNOME]
 
 [discrete]
 ==== GNU (noun)

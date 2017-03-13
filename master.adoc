@@ -125,5 +125,8 @@ include::{includedir}/products_conventions/red-hat-satellite6.adoc[]
 === Red Hat OpenShift
 include::{includedir}/products_conventions/openshift.adoc[]
 
+=== Red Hat OpenStack Platform
+include::{includedir}/products_conventions/red-hat-openstack-platform.adoc[]
+
 === Red Hat Virtualization
 include::{includedir}/products_conventions/red-hat-virtualization.adoc[]
