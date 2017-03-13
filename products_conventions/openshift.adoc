@@ -316,7 +316,7 @@ preferred.
 *See also*: xref:project[project]
 
 [discrete]
-==== node
+==== node (noun)
 See xref:node[node] in the _General Conventions_ part.
 
 [discrete]
