@@ -1,7 +1,7 @@
 [discrete]
 ==== need (verb)
 [[need]]
-*Description*: Use "need" instead of "desire" and "wish." Use "want" when the reader's actions are optional (that is, they may not "need" something but may still "want" something). 
+*Description*: Use "need" instead of "desire" and "wish." Use "want" when the reader's actions are optional (that is, they may not "need" something but may still "want" something).
 
 *Use it*: yes
 
@@ -29,7 +29,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*:
 
@@ -37,11 +37,11 @@
 ==== NFS (noun)
 [[nfs]]
 
-*Description*: Network File System (NFS) is a client/server application designed by Sun Microsystems that allows all network users to access shared files stored on computers of different types. NFS provides access to shared files through an interface called the Virtual File System (VFS) that runs in a layer above TCP/IP. Users can manipulate shared files as if they were stored locally on the user's own hard disk. With NFS, computers connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files. The NFS standards are publicly available and widely used. 
+*Description*: Network File System (NFS) is a client/server application designed by Sun Microsystems that allows all network users to access shared files stored on computers of different types. NFS provides access to shared files through an interface called the Virtual File System (VFS) that runs in a layer above TCP/IP. Users can manipulate shared files as if they were stored locally on the user's own hard disk. With NFS, computers connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files. The NFS standards are publicly available and widely used.
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*:
 
@@ -49,7 +49,12 @@
 ==== node (noun)
 [[node]]
 
-*Description*: In networks, a node is a processing location. A node can be a computer or some other device, such as a printer. Every node has a unique network address, sometimes called a Data Link Control (DLC) address or Media Access Control (MAC) address. In tree structures, a node is a point where two or more lines meet.
+*Description*: 1) In networks, a node is a processing location. A node can be a
+computer or some other device, such as a printer. Every node has a unique
+network address, sometimes called a Data Link Control (DLC) address or Media
+Access Control (MAC) address. In tree structures, a node is a point where two or
+more lines meet. 2) In context of OpenShift, a node provides the runtime
+environments for containers.
 
 *Use it*: yes
 
@@ -100,6 +105,6 @@
 
 *Use it*: with caution
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
-*See also*: 
+*See also*:
