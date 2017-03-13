@@ -83,22 +83,12 @@ API object.
 *See also*: xref:build[build]
 
 [discrete]
-==== cluster
+==== cluster (noun)
 See xref:cluster[cluster] in the _General Conventions_ part.
 
 [discrete]
 ==== container (noun)
-[[container]]
-*Description*: The fundamental piece of an OpenShift application is a container.
-A container is a way to isolate and limit process interactions with minimal
-overhead and footprint. In most cases, a container will be limited to a single
-process providing a specific service (e.g. web server, database).
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*:
+See xref:container[container] in the _General Conventions_ part.
 
 [discrete]
 ==== container registry (noun)
@@ -513,6 +503,7 @@ cluster-wide DNS resolution of internal host names for services and pods.
 
 *See also*:
 
+[discrete]
 ==== Source-to-Image (S2I) (noun)
 [[source-to-image]]
 *Description*: A tool for building reproducible, Docker-formatted container

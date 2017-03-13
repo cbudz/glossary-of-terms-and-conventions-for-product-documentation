@@ -1,6 +1,6 @@
 [[red-hat-ceph-storage-conventions]]
 
-Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-docs@redhat.com)
+Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-docs@redhat.com
 
 [discrete]
 ==== bucket (noun)
@@ -183,14 +183,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact (ceph-do
 
 [discrete]
 ==== container (noun)
-[[container]]
-*Description*: A container in the Swift API contains objects. A container also defines access control lists (ACLs). Unlike folders or directories, a container cannot contain other containers. A container in the Swift API is synonymous with a "bucket" in the S3 API.
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*: xref:bucket[bucket]
+See xref:container[container] in the _General Conventions_ part.
 
 [discrete]
 ==== CRUSH (noun)
