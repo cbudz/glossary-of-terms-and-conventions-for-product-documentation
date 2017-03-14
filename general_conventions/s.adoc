@@ -335,6 +335,28 @@ For example, "To view a softcopy of the manual..." is incorrect. Use "To view th
 *See also*: xref:space[space]
 
 [discrete]
+==== sparse (adjective)
+[[sparse]]
+*Description*: A disk is sparse when its unused disk space is taken from the virtual machine and returned to the host. In the past, the term sparse has been used to describe thin provisioned storage, however, with the addition of the sparsify feature in Red Hat Virtualization 4.1, these terms should not be used interchangeably as a thin provisioned disk may not be a sparse disk.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:sparsify[sparsify], xref:thin-provisioned[thin provisioned]
+
+[discrete]
+==== sparsify (verb)
+[[sparsify]]
+*Description*: To take unused disk space from a virtual machine and return it to the host.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:sparse[sparse]
+
+[discrete]
 ==== spec file (noun)
 [[spec-file]]
 *Description*: Spec files are used as part of rebuilding RPMs. The spec file outlines how to configure and compile the RPM, as well as how to install the files later.
