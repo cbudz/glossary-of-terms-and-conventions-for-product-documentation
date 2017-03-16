@@ -291,6 +291,19 @@ For example, "To view a softcopy of the manual..." is incorrect. Use "To view th
 *See also*:
 
 [discrete]
+==== Software Collection (noun)
+[[software-collection]]
+*Description*: A Software Collection (SCL) allows for building and concurrent installation of multiple versions of the same software component on a single system.
+
+Always capitalize as shown. The abbreviation "SCL" (plural form "SCLs") is only acceptable for use in documents shared with upstream projects.
+
+*Use it*: yes
+
+*Incorrect forms*: software collection, collection, Software collection, Collection
+
+*See also*:
+
+[discrete]
 ==== sound card (noun)
 [[sound-card]]
 *Description*: A sound card is a device slotted into a computer to allow the use of audio components for multimedia applications.
