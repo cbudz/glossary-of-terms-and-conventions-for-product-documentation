@@ -221,7 +221,7 @@ Use all lower case, unless used in a title or at the beginning of a sentence.
 [discrete]
 ==== sparse (adjective)
 [[sparse]]
-*Description*: A disk is sparse when its unused disk space is taken from the virtual machine and returned to the host. In the past, the term sparse has been used to describe thin provisioned storage, however, with the addition of the sparsify feature in Red Hat Virtualization 4.1, these terms should not be used interchangeably as a thin provisioned disk may not be a sparse disk.
+*Description*: A disk is sparse when its unused disk space is taken from the virtual machine and returned to the host. In the past, the term sparse has been used to describe thin provisioned storage; however, with the addition of the sparsify feature in Red Hat Virtualization 4.1, these terms should not be used interchangeably as a thin provisioned disk may not be a sparse disk.
 
 *Use it*: yes
 
