@@ -215,7 +215,7 @@
 [discrete]
 ==== RHEL (noun)
 [[rhel]]
-*Description*: An acronym for Red Hat Enterprise Linux. Previously, we were supposed to expand this acronym every time. After latest discussion, we can use RHEL with caution.
+*Description*: An acronym for Red Hat Enterprise Linux. The conventions for using this acronym vary for different products and teams. If you are not sure whether to use the acronym (RHEL) or only the full version (Red Hat Enterprise Linux), ask your team members.
 
 *Use it*: with caution
 
