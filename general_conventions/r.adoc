@@ -110,6 +110,17 @@
 *See also*:
 
 [discrete]
+==== Red Hat Enterprise Linux
+[[red-hat-enterprise-linux]]
+*Description*: Red Hat Enterprise Linux is an operating system developed by Red Hat.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:rhel[RHEL]
+
+[discrete]
 ==== Red Hat Network Satellite Server (noun)
 [[red-hat-network-satellite-server]]
 *Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Satellite Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy" for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
@@ -200,6 +211,17 @@
 *Incorrect forms*:
 
 *See also*: xref:enter-n[enter]
+
+[discrete]
+==== RHEL (noun)
+[[rhel]]
+*Description*: An acronym for Red Hat Enterprise Linux. Previously, we were supposed to expand this acronym every time. After latest discussion, we can use RHEL with caution.
+
+*Use it*: with caution
+
+*Incorrect forms*:
+
+*See also*: xref:red-hat-enterprise-linux[Red Hat Enterprise Linux]
 
 [discrete]
 ==== ROM (noun)
