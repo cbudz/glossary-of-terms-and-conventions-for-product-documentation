@@ -2,40 +2,64 @@
 ==== Red Hat CloudForms (noun)
 [[red-hat-cloudforms]]
 *Description*: Red Hat CloudForms enables enterprises to meet insight, control and automation needs in building and managing virtual infrastructure. Use "Red Hat CloudForms" in the first instance and "CloudForms" in all subsequent instances.
+
 *Use it*: yes
+
 *Incorrect forms*: CloudForms Management Engine, CFME
+
+*See also*:
 
 [discrete]
 ==== Red Hat CloudForms Appliance (noun)
 [[red-hat-cloudforms-appliance]]
 *Description*: A virtual machine where the virtual management database (VMDB) and Red Hat CloudForms reside. Use "Red Hat CloudForms" in the first documentation instance and "the appliance" in subsequent instances.
+
 *Use it*: yes
+
 *Incorrect forms*: CloudForms Management Engine, CFME
+
+*See also*:
 
 [discrete]
 ==== Red Hat CloudForms Console (noun)
 [[red-hat-cloudforms-console]]
 *Description*: A web-based interface into the Red Hat CloudForms appliance used for set-up.
+
 *Use it*: No. Use "appliance console."
+
 *Incorrect forms*:
+
+*See also*:
 
 [discrete]
 ==== Red Hat CloudForms server (noun)
 [[red-hat-cloudforms-server]]
 *Description*: The application that runs on the Red Hat CloudForms appliance and communicates with the SmartProxy and the VMDB.
-*Use it*: Yes.
+
+*Use it*: yes
+
 *Incorrect forms*:
+
+*See also*:
 
 [discrete]
 ==== SmartState analysis (noun)
 [[smartstate-analysis]]
 *Description*: Process run by the SmartProxy which collects the details of a virtual machine or instance. Such details include accounts, drivers, network information, hardware, and security patches. This process is also run by the Red Hat CloudForms server on hosts and clusters. The data is stored in the VMDB.
-*Use it*: Yes.
+
+*Use it*: yes
+
 *Incorrect forms*: Smart State, smart state, Smart state, Smartstate, Analysis.
+
+*See also*:
 
 [discrete]
 ==== Virtual Management Database (VMDB) (noun)
 [[virtual-management-database]]
 *Description*: Database used by the Red Hat CloudForms appliance to store information about your resources, users, and anything else required to manage your virtual enterprise. Use Virtual Management Database (VMDB) in the first instance and VMDB in subsequent instances. 
-*Use it*: Yes.
+
+*Use it*: yes
+
 *Incorrect forms*:
+
+*See also*:
