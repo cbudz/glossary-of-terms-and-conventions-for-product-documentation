@@ -34,6 +34,17 @@ Use lowercase "v" and uppercase "CPU".
 *See also*:
 
 [discrete]
+==== verify (verb)
+[[verify]]
+*Description*: To check that something is correct. 
+
+*Use it*: yes
+
+*Incorrect forms*: make sure
+
+*See also*:
+
+[discrete]
 ==== vi (noun)
 [[vi]]
 *Description*: vi is a screen-oriented text editor originally created for the Unix operating system. Do not use "VI" (all caps).
