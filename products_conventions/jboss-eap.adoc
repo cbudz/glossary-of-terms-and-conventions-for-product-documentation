@@ -1,0 +1,12 @@
+[discrete]
+==== Red Hat JBoss Enterprise Application Platform  (noun)
+[[red-hat-jboss-enterprise-application-platform]]
+*Description*: Red Hat JBoss Enterprise Application Platform is an enterprise-grade Java application server. 
+
+Spell out on first use in a guide, and use the approved abbreviation "JBoss EAP" thereafter.  
+
+*Use it*: yes
+
+*Incorrect forms*: EAP, JBoss, Red Hat JBoss EAP, JBoss Enterprise Application Platform
+
+*See also*:

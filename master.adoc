@@ -119,6 +119,9 @@ include::{includedir}/products_conventions/azure-dotnet.adoc[]
 === Red Hat Ceph Storage
 include::{includedir}/products_conventions/ceph.adoc[]
 
+=== Red Hat JBoss Enterprise Application Platform
+include::{includedir}/products_conventions/jboss-eap.adoc[]
+
 === Red Hat OpenShift
 include::{includedir}/products_conventions/openshift.adoc[]
 
