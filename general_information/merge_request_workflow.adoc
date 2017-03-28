@@ -1,0 +1,77 @@
+[[merge_request_workflow]]
+= Request Workflow for Glossary of Terms and Conventions for Product Documentation
+
+This workflow describes how to request an addition, revision, or deletion to the _Glossary of Terms and Conventions for Product Documentation_. It also provides a response mechanism.
+
+
+[[prerequisites]]
+== Before You Begin
+
+The _Glossary of Terms and Conventions for Product Documentation_ is stored in a https://mojo.redhat.com/external-link.jspa?url=https%3A%2F%2Fgitlab.cee.redhat.com%2Fccs-internal-documentation%2Fdocumentation-conventions[GitLab repository] and written in AsciiDoc. You need:
+
+* a https://mojo.redhat.com/external-link.jspa?url=https%3A%2F%2Fwww.redhat.com%2Fwapps%2Fugc%2Fprotected%2Faccount.html[Red Hat] account
+* to log in to https://mojo.redhat.com/external-link.jspa?url=https%3A%2F%2Fgitlab.cee.redhat.com%2Fusers%2Fsign_in[GitLab] using your Kerberos credentials. GitLab should be accessible to any Red Hatter who has Kerberos credentials.
+** If you have not used GitLab before, go to https://gitlab.cee.redhat.com/users/sign_in[https://gitlab.cee.redhat.com/users/sign_in], enter your Kerberos credentials in the LDAP **Username** and **Password** fields, and click **Sign in**. This will initialize your GitLab account.
+** Don't use "Standard" login, as it requires manual account creation.
+** If you are kinit'd, clicking **Red Hat SAML Login** should also do the trick.
+* a working knowledge of GitLab; here is a good https://mojo.redhat.com/external-link.jspa?url=https%3A%2F%2Fgitlab.cee.redhat.com%2Fred-hat-jboss-enterprise-application-platform-documentation%2Feap-documentation%2Fblob%2Fmaster%2Finternal-resources%2Fcontributor-guide.adoc[primer]
+* access to the Glossary of Terms and Conventions for Product Documentation https://mojo.redhat.com/external-link.jspa?url=https%3A%2F%2Fgitlab.cee.redhat.com%2Fccs-internal-documentation%2Fdocumentation-conventions%2Ftree%2Fmaster[repository]
+
+
+[[submit_request]]
+== Request an Addition, Revision, or Deletion
+
+Submit your merge request to the GitLab repository following this https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/updating.adoc[procedure].
+
+
+[[mr_actions]]
+== What Happens to My Request?
+
+.Merge Request Workflow
+[width="100%",cols="50%,50%",options="header"]
+|====
+|These people or this system... |Complete(s) these tasks . . . 
+|The designated repository administrator |* Processes the merge request.
+
+* Notifies all designated reviewers via email after five merge requests have been submitted or at the end of 2 weeks, if the quota has not been reached.
+|Reviewers |Evaluate the changes. Review options include live meetings or online reviews. The reviewers reach a decision when a clear majority of reviewers agree on what to do with each merge request.
+|The designated repository administrator |Accepts, denies, or asks for changes to the merge request.
+|GitLab |Automatically notifies the requester of the outcome of the merge request, including if the reviewers need more information.
+|Requester |Makes any requested changes to the content and re-submits the request.
+|The designated repository administrator |Approves the merge request.
+|CCS associates |Ask questions by following the procedure outlined below.
+|The designated repository administrator |* Processes the merge request.
+
+* Notifies all designated reviewers via email after five issues have been submitted or at the end of 2 weeks, if the quota has not been reached.
+
+|Reviewers |Consensus is reached when a clear majority of participants agree on the issue's determination.
+|The designated repository administrator |Provides a response to the issue's author.
+|====
+
+This table provides additional information for adding, revising, or deleting product-specific terns.
+.Merge Request Workflow for Product-specific Terms
+[width="100%",cols="50%,50%",options="header"]
+|====
+|These people or this system... |Complete(s) these tasks . . . 
+|A product docs team member |For an initial set of conventions, reviews the entries and agrees that they are sound
+|A designated member of the Documentation Conventions project |Reviews the merge request for template conformity and other issues
+|A designated member of the Documentation Conventions project |Merges the request when it is ready
+|A person from the same product docs team as the submitter |For additional ad hoc entries, provides a review using the https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/doc_conventions_reviewers_checklist.adoc[Reviewers' Checklist]
+|A person from the same product docs team as the submitter |Merges the request when it is ready
+|====
+
+
+[[ask_question]]
+== Ask a Question
+
+This procedure describes how to create an issue for the _Glossary of Terms and Conventions for Product Documentation_ that requires a decision. You can create and track issues from the https://mojo.redhat.com/external-link.jspa?url=https%3A%2F%2Fgitlab.cee.redhat.com%2Fccs-internal-documentation%2Fglossary-of-terms-and-conventions-for-product-documentation%2Fissues[Issues tab].
+
+. Click **New Issue**.
+. Complete the following fields.
+
+* **Title**
+* **Description** (using the **Write** tab)
+* **Assignee**
+* **Due date**
+* **Milestone**
+. Click **Submit Issue**.
