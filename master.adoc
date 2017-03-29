@@ -25,6 +25,9 @@ include::{includedir}/general_information/submitting_issues.adoc[]
 === FAQ
 include::{includedir}/general_information/faq.adoc[]
 
+=== Merge Request Workflow
+include::{includedir}/general_information/merge_request_workflow.adoc[]
+
 [[general-conventions]]
 == General Conventions
 

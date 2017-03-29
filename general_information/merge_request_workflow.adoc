@@ -1,11 +1,11 @@
 [[merge_request_workflow]]
-= Request Workflow for Glossary of Terms and Conventions for Product Documentation
 
 This workflow describes how to request an addition, revision, or deletion to the _Glossary of Terms and Conventions for Product Documentation_. It also provides a response mechanism.
 
 
 [[prerequisites]]
-== Before You Begin
+[discrete]
+=== Before You Begin
 
 The _Glossary of Terms and Conventions for Product Documentation_ is stored in a https://mojo.redhat.com/external-link.jspa?url=https%3A%2F%2Fgitlab.cee.redhat.com%2Fccs-internal-documentation%2Fdocumentation-conventions[GitLab repository] and written in AsciiDoc. You need:
 
@@ -19,13 +19,15 @@ The _Glossary of Terms and Conventions for Product Documentation_ is stored in a
 
 
 [[submit_request]]
-== Request an Addition, Revision, or Deletion
+[discrete]
+=== Request an Addition, Revision, or Deletion
 
 Submit your merge request to the GitLab repository following this https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/blob/master/general_information/updating.adoc[procedure].
 
 
 [[mr_actions]]
-== What Happens to My Request?
+[discrete]
+=== What Happens to My Request?
 
 .Merge Request Workflow
 [width="100%",cols="50%,50%",options="header"]
@@ -62,7 +64,8 @@ This table provides additional information for adding, revising, or deleting pro
 
 
 [[ask_question]]
-== Ask a Question
+[discrete]
+=== Ask a Question
 
 This procedure describes how to create an issue for the _Glossary of Terms and Conventions for Product Documentation_ that requires a decision. You can create and track issues from the https://mojo.redhat.com/external-link.jspa?url=https%3A%2F%2Fgitlab.cee.redhat.com%2Fccs-internal-documentation%2Fglossary-of-terms-and-conventions-for-product-documentation%2Fissues[Issues tab].
 
