@@ -47,7 +47,7 @@ The AsciiDoc source:
 +
 ----
 ==== <term> (<class>)
-See xref:<id-in-general-conventions>[<term>] in the _General Conventions_ part.
+See xref:<id-in-general-conventions>[<term>] in the _General Conventions_ chapter.
 ----
 ====
 
