@@ -18,7 +18,7 @@ The AsciiDoc source:
 
 [width="40%",frame="topbot",options="header"]
 |======================
-|Replace                |with                               | Notes
+|Replace                |With                               | Notes
 |`<term>`               |The term to be described.          |
 |`<id>`                 |The term in lowercase.             |If the term consists of more than one word, separate them with a hyphen ("-"). Do not use spaces, capital letters, or special characters (for example, slash "/") in the ID. If two entries would have the same ID, see xref:two-entries-with-same-ID[What to do if two entries have the same ID?.]
 |`<description>`        |The description of the term.|Use full sentences with periods. If a term has more than one meaning, use numbers to separate them. See the xref:media[media] entry for an example. Add information why should we use the term in this form. If we should not use the term, explain why. Alternatively, explain why are the terms listed in the *Incorrect forms* field incorrect.
@@ -42,6 +42,13 @@ The AsciiDoc source:
 * If the term has the correct and incorrect form, always use the correct form instead of `<term>` and list the incorrect form in the *Incorrect forms* field. Remember to explain why the incorrect form is incorrect in the *Description* field.
 
 * If you want to add a term that we should not use and that does not have a correct form, use the incorrect version instead of `<term>` and add "no" to the *Use it* field. Explain why we should not use that term in the *Description* field.
+
+* If you want to list a term in the _Product-specific Conventions_ chapter that is already included in the _General Conventions_ chapter, add the product-specific meaning to the *Description* field of the term in _General Conventions_. Use numbers to separate the meanings. In _Product-specific Conventions_ add the following boilerplate text with the link to the entry in _General Conventions_:
++
+----
+==== <term> (<class>)
+See xref:<id-in-general-conventions>[<term>] in the _General Conventions_ chapter.
+----
 ====
 
 .Example
