@@ -91,19 +91,6 @@ See xref:cluster[cluster] in the _General Conventions_ part.
 See xref:container[container] in the _General Conventions_ part.
 
 [discrete]
-==== container registry (noun)
-[[container-registry]]
-*Description*: A service for storing and retrieving Docker-formatted container
-images. A registry contains a collection of one or more image repositories. Each
-image repository contains one or more tagged images.
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*:
-
-[discrete]
 ==== controller (noun)
 [[controller]]
 *Description*: An object that reads APIs, applies changes to other objects, and
@@ -330,6 +317,23 @@ as the client tools in OpenShift v2.
 *Incorrect forms*:
 
 *See also*:
+
+[discrete]
+==== OpenShift Container Registry (noun)
+[[openshift-container-registry]]
+*Description*: The integrated container registry that is deployed as part of an
+OpenShift Container Platform installation. This container registry adds the
+ability to easily provision new image repositories. This allows users to
+automatically have a place for their builds to push the resulting images.
+OpenShift Container Platform has an installation option that allows you to have
+the OpenShift Container Registry deployed, but with none of the other build
+options enabled.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:container-registry[container registry], xref:red-hat-container-catalog[Red Hat Container Catalog]
 
 [discrete]
 ==== OpenShift master (noun)

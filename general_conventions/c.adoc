@@ -264,6 +264,19 @@
 *See also*: xref:container-based[container-based]
 
 [discrete]
+==== container registry (noun)
+[[container-registry]]
+*Description*: A service for storing and retrieving Docker-formatted container
+images. A registry contains a collection of one or more image repositories. Each
+image repository contains one or more tagged images.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:red-hat-container-catalog[Red Hat Container Catalog], xref:openshift-container-registry[OpenShift Container Registry]
+
+[discrete]
 ==== control program (noun)
 [[control-program]]
 *Description*: A program that enhances an operating system by creating an environment in which you can run other programs.
