@@ -18,7 +18,7 @@
 
 *Incorrect forms*: Hammer, x86_64, x86-64, x64, 64-bit x86
 
-*See also*: 
+*See also*:
 
 [NOTE]
 ====
@@ -30,7 +30,7 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 [discrete]
 ==== Asynchronous Transfer Mode (noun)
 [[asynchronous-transfer-mode]]
-*Description*: Asynchronous Transfer Mode (ATM) is a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies. 
+*Description*: Asynchronous Transfer Mode (ATM) is a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies.
 
 *Use it*: yes
 
@@ -39,15 +39,15 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 *See also*:
 
 [discrete]
-==== alright (adjective) 
+==== alright (adjective)
 [[alright]]
-*Description*: The colloquial form of "correct" or "as expected." 
+*Description*: The colloquial form of "correct" or "as expected."
 
 *Use it*: no
 
 *Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== Applixware (noun)
@@ -70,4 +70,3 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 *Incorrect forms*: autodetect
 
 *See also*:
-

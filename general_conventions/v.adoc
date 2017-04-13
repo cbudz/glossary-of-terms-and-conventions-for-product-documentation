@@ -36,7 +36,7 @@ Use lowercase "v" and uppercase "CPU".
 [discrete]
 ==== verify (verb)
 [[verify]]
-*Description*: To check that something is correct. 
+*Description*: To check that something is correct.
 
 *Use it*: yes
 
@@ -121,7 +121,7 @@ Although the _IBM Style Guide_ recommends using "diskette drive" instead of "flo
 
 *Use it*: yes
 
-*Incorrect forms*: Use "VM" with caution (see above)
+*Incorrect forms*:
 
 *See also*:
 
@@ -154,7 +154,7 @@ Although the _IBM Style Guide_ recommends using "diskette drive" instead of "flo
 
 *Use it*: with caution
 
-*Incorrect forms*: vnic, Virtual Network Interface Card 
+*Incorrect forms*: vnic, Virtual Network Interface Card
 
 *See also*:
 

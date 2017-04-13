@@ -67,8 +67,7 @@
 [discrete]
 ==== segmentation fault (noun)
 [[segmentation-fault]]
-*Description*:  A segmentation fault occurs when a process tries to access a memory location that it is not allowed to access, or tries to access a memory location in a way that is not allowed (for example, if the process tries to write to a read-only location, or to overwrite part of the operating system).
-Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
+*Description*:  A segmentation fault occurs when a process tries to access a memory location that it is not allowed to access, or tries to access a memory location in a way that is not allowed (for example, if the process tries to write to a read-only location, or to overwrite part of the operating system). Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
 
 *Use it*: yes
 
@@ -90,7 +89,7 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 [discrete]
 ==== server cluster (noun)
 [[server-cluster]]
-*Description*: A server cluster is a group of networked servers housed in one location. This organization of servers streamlines internal processes by distributing the workload between the individual components of the group. It also expedites computing processes by harnessing the power of multiple servers. The clusters rely on load-balancing software that accomplishes tasks like tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the cluster fails, another can step in as a backup. 
+*Description*: A server cluster is a group of networked servers housed in one location. This organization of servers streamlines internal processes by distributing the workload between the individual components of the group. It also expedites computing processes by harnessing the power of multiple servers. The clusters rely on load-balancing software that accomplishes tasks like tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the cluster fails, another can step in as a backup.
 
 *Use it*: yes
 
@@ -101,7 +100,7 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 [discrete]
 ==== server farm (noun)
 [[server-farm]]
-*Description*: A server farm is a group of networked servers housed in one location. This organization of servers streamlines internal processes by distributing the workload between the individual components of the group. It also expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes tasks like tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the farm fails, another can step in as a backup. 
+*Description*: A server farm is a group of networked servers housed in one location. This organization of servers streamlines internal processes by distributing the workload between the individual components of the group. It also expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes tasks like tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the farm fails, another can step in as a backup.
 
 *Use it*: yes
 
@@ -116,7 +115,7 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 
 *Use it*: yes
 
-*Incorrect forms*: server-side as a noun
+*Incorrect forms*: server-side
 
 *See also*: xref:server-side-adj[server-side]
 
@@ -127,7 +126,7 @@ Only use the abbreviation "segfault" if absolutely necessary, and never use it a
 
 *Use it*: yes
 
-*Incorrect forms*: server side as an adjective
+*Incorrect forms*: server side
 
 *See also*: xref:server-side-n[server side]
 
@@ -573,7 +572,7 @@ CCS strongly discourages any other use of subpackage. *Subpackages are not the s
 [discrete]
 ==== symmetric encryption (noun)
 [[symmetric-encryption]]
-*Description*: This is a type of encryption where the same key encrypts and decrypts the message. In contrast, asymmetric (or public-key) encryption uses one key to encrypt a message and another to decrypt the message. 
+*Description*: This is a type of encryption where the same key encrypts and decrypts the message. In contrast, asymmetric (or public-key) encryption uses one key to encrypt a message and another to decrypt the message.
 
 *Use it*: yes
 
