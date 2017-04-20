@@ -110,6 +110,20 @@
 *See also*:
 
 [discrete]
+==== Red Hat Container Catalog (noun)
+[[red-hat-container-catalog]]
+*Description*: Red Hat's hosted registry for Enterprise-ready containers located
+at link:https://access.redhat.com/containers[access.redhat.com/containers]. A
+trusted source for secure, certified, and up-to-date container images. Write
+this name in full the first time that you use it in a document.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:container-registry[container registry], xref:openshift-container-registry[OpenShift Container Registry]
+
+[discrete]
 ==== Red Hat Enterprise Linux
 [[red-hat-enterprise-linux]]
 *Description*: Red Hat Enterprise Linux is an operating system developed by Red Hat.
@@ -196,9 +210,9 @@
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
-*See also*: 
+*See also*:
 
 [discrete]
 ==== return (verb)
