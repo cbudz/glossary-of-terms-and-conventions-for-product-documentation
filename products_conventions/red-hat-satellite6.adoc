@@ -112,3 +112,24 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 *See also*:
 
+[discrete]
+==== Foreman (noun)
+[[foreman]]
+*Description*: The upstream project from which Satellite Server's provisioning and life cycle management functions are drawn. Use only when required to mention the upstream project.
+
+*Use it*: with caution
+
+*Incorrect forms*: foreman
+
+*See also*:
+
+[discrete]
+==== Katello (noun)
+[[katello]]
+*Description*: The upstream project from which Satellite Server's subscription and repository management functions are drawn. Use only when required to mention the upstream project.
+
+*Use it*: with caution
+
+*Incorrect forms*: katello
+
+*See also*:
