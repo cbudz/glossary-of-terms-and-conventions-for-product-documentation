@@ -72,7 +72,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Use it*: no
 
-*Incorrect forms*: plaintext, plain-text, cleartext, clear text
+*Incorrect forms*: 
 
 *See also*:
 
