@@ -3,62 +3,7 @@
 Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 [discrete]
-==== A-MQ (noun)
-[[amq]]
-*Description*: A lightweight messaging platform that delivers information and easily integrates applications. It consists of several components (message broker, interconnect router, and clients) that support a variety of configurations. Always use the full product name (Red Hat JBoss A-MQ) or short product name (JBoss A-MQ).
-
-*Use it*: no
-
-*Incorrect forms*: A-MQ, Red Hat A-MQ
-
-*See also*:
-
-[discrete]
-==== A-MQ Broker (noun)
-[[amq-broker]]
-*Description*: A component of Red Hat JBoss A-MQ, it is a full-featured, message-oriented middleware broker. It offers specialized queueing behaviors, message persistence, and manageability. Always use the full product name (Red Hat JBoss A-MQ Broker) or short product name (JBoss A-MQ Broker).
-
-*Use it*: no
-
-*Incorrect forms*: A-MQ Broker, Red Hat Broker, JBoss Broker, Broker
-
-*See also*: xref:broker[Broker]
-
-[discrete]
-==== A-MQ Clients (noun)
-[[amq-clients]]
-*Description*: A suite of messaging libraries supporting multiple languages and platforms. The JBoss A-MQ Clients are a component of Red Hat JBoss A-MQ. Always use the full product name (Red Hat JBoss A-MQ Client) or short product name (JBoss A-MQ Client).
-
-*Use it*: no
-
-*Incorrect forms*: Clients, Red Hat Clients, JBoss Clients
-
-*See also*:
-
-[discrete]
-==== A-MQ Console (noun)
-[[amq-console]]
-*Description*: A management tool for administering Red Hat JBoss A-MQ brokers and routers in a single graphical interface. Always use the full product name (Red Hat JBoss A-MQ Console) or short product name (JBoss A-MQ Console).
-
-*Use it*: no
-
-*Incorrect forms*: Console, A-MQ Console, Red Hat Console, JBoss Console
-
-*See also*:
-
-[discrete]
-==== A-MQ Interconnect (noun)
-[[amq-interconnect]]
-*Description*: A component of Red Hat JBoss A-MQ, it is a messaging router that provides flexible routing of messages between any AMQP-enabled endpoints, whether they are clients, servers, brokers, or any other entity that can send or receive standard AMQP messages. Always use the full product name (Red Hat JBoss A-MQ Interconnect) or the short product name (JBoss A-MQ Interconnect).
-
-*Use it*: no
-
-*Incorrect forms*: Interconnect, Router, A-MQ Interconnect, Red Hat Interconnect, JBoss Interconnect
-
-*See also*: xref:router[Router]
-
-[discrete]
-==== Acceptor (noun)
+==== acceptor (noun)
 [[acceptor]]
 *Description*: The definition of an incoming network connection to a broker.
 
@@ -69,9 +14,53 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
+==== AMQ Broker (noun)
+[[amq-broker]]
+*Description*: A component of Red Hat JBoss AMQ, it is a full-featured, message-oriented middleware broker. It offers specialized queueing behaviors, message persistence, and manageability.
+
+*Use it*: yes
+
+*Incorrect forms*: A-MQ Broker, Red Hat Broker, JBoss Broker
+
+*See also*: xref:broker[Broker]
+
+[discrete]
+==== AMQ Clients (noun)
+[[amq-clients]]
+*Description*: A suite of messaging libraries supporting multiple languages and platforms, it enables users to write messaging applications that send and receive messages. The AMQ Clients are a component of Red Hat JBoss AMQ.
+
+*Use it*: yes
+
+*Incorrect forms*: A-MQ Clients, Red Hat Clients, JBoss Clients
+
+*See also*: xref:client[client]
+
+[discrete]
+==== AMQ Console (noun)
+[[amq-console]]
+*Description*: A management tool for administering AMQ brokers and routers in a single graphical interface.
+
+*Use it*: yes
+
+*Incorrect forms*: A-MQ Console, Red Hat Console, JBoss Console
+
+*See also*:
+
+[discrete]
+==== AMQ Interconnect (noun)
+[[amq-interconnect]]
+*Description*: A component of Red Hat JBoss AMQ, it is a messaging router that provides flexible routing of messages between any AMQP-enabled endpoints, whether they are clients, servers, brokers, or any other entity that can send or receive standard AMQP messages.
+
+*Use it*: yes
+
+*Incorrect forms*: Interconnect, Router, A-MQ Interconnect, Red Hat Interconnect, JBoss Interconnect
+
+*See also*: xref:router[Router]
+
+[discrete]
 ==== AMQP (noun)
 [[amqp]]
-*Description*: Advanced Message Queuing Protocol. It is an open standard for passing business messages between applications or organizations (https://www.amqp.org/about/what). JBoss A-MQ Broker supports AMQP, and JBoss A-MQ Interconnect uses AMQP to route messages and links. 
+*Description*: Advanced Message Queuing Protocol. It is an open standard for passing business messages between applications or organizations (https://www.amqp.org/about/what). AMQ Broker supports AMQP, and AMQ Interconnect uses AMQP to route messages and links. 
 
 *Use it*: yes
 
@@ -82,18 +71,18 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 [discrete]
 ==== Artemis (noun)
 [[artemis]]
-*Description*: The upstream project for JBoss A-MQ Broker (link:https://activemq.apache.org/artemis/[Apache ActiveMQ Artemis]). When referring to JBoss A-MQ Broker, always use the Red Hat product name.
+*Description*: The upstream project for AMQ Broker (link:https://activemq.apache.org/artemis/[Apache ActiveMQ Artemis]). When referring to AMQ Broker, always use the Red Hat product name.
 
 *Use it*: with caution
 
 *Incorrect forms*:
 
-*See also*: xref:amq-broker[A-MQ Broker]
+*See also*: xref:amq-broker[AMQ Broker]
 
 [discrete]
-==== Autolink (noun)
+==== autolink (noun)
 [[autolink]]
-*Description*: A JBoss A-MQ Interconnect configurable entity that defines a link between the router and a queue, topic, or service in an external broker.
+*Description*: An AMQ Interconnect configurable entity that defines a link between the router and a queue, topic, or service in an external broker.
 
 *Use it*: yes
 
@@ -102,20 +91,20 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Broker (noun)
+==== broker (noun)
 [[broker]]
-*Description*: A configurable instance of JBoss A-MQ Broker. Use this term to refer to the instance, not the product.
+*Description*: A configurable instance of AMQ Broker. Use this term to refer to the instance, not the product.
 
 *Use it*: yes
 
-*Incorrect forms*: <incorrect-form>
+*Incorrect forms*: 
 
-*See also*: xref:amq-broker[A-MQ Broker]
+*See also*: xref:amq-broker[AMQ Broker]
 
 [discrete]
-==== Broker cluster (noun)
+==== broker cluster (noun)
 [[broker-cluster]]
-*Description*: A group of brokers to be grouped together in order to share message processing load.
+*Description*: A group of brokers to be grouped together in order to share message processing load. In JBoss A-MQ 6, this was called a _network of brokers_.
 
 *Use it*: yes
 
@@ -124,40 +113,40 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Chain cluster (noun)
-[[chain-cluster]]
-*Description*: A type of broker cluster in which each node in the cluster is not connected to every node in the cluster directly. Instead, the nodes form a chain with a node on each end of the chain and all other nodes just connecting to the previous and next nodes in the chain.
+==== brokered messaging (noun)
+[[brokered-messaging]]
+*Description*: Any messaging configuration that uses a message broker to deliver messages to destinations. Brokered messaging can include brokers only, or a combination of brokers and routers.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:broker-cluster[Broker cluster]
+*See also*: 
 
 [discrete]
-==== Client (noun)
+==== client (noun)
 [[client]]
-*Description*: An application or server that connects to brokers, routers, or both to send or receive messages.
+*Description*: An application or server that connects to brokers, routers, or both to send or receive messages. This should not be confused with AMQ Clients, which is the messaging library used to create the client application.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:producer[Producer], xref:consumer[Consumer] 
+*See also*: xref:producer[producer], xref:consumer[consumer], xref:amq-clients[AMQ Clients] 
 
 [discrete]
-==== Connection (noun)
+==== connection (noun)
 [[connection]]
-*Description*: A channel for communication between two peers on a network. For JBoss A-MQ, connections can be made between clients, brokers, and routers. These are sometimes also called network connections.
+*Description*: A channel for communication between two peers on a network. For JBoss AMQ, connections can be made between containers (clients, brokers, and routers). These are sometimes also called network connections.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:acceptor[Acceptor], xref:listener[Listener], xref:connector[Connector]
+*See also*: xref:acceptor[acceptor], xref:listener[listener], xref:connector[connector], xref:container[container], xref:session[session]
 
 [discrete]
-==== Connection factory (noun)
+==== connection factory (noun)
 [[connection-factory]]
 *Description*: An object used by a JMS client to create a connection to a broker.
 
@@ -168,18 +157,18 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Connector (noun)
+==== connector (noun)
 [[connector]]
-*Description*: A configurable entity for JBoss A-MQ brokers and routers. They define an outgoing connection from either a router to another endpoint, or from a broker to another endpoint.
+*Description*: A configurable entity for JBoss AMQ brokers and routers. They define an outgoing connection from either a router to another endpoint, or from a broker to another endpoint.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:connection[Connection]
+*See also*: xref:connection[connection]
 
 [discrete]
-==== Consumer (noun)
+==== consumer (noun)
 [[consumer]]
 *Description*: A client that receives messages. 
 
@@ -187,29 +176,73 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 *Incorrect forms*: 
 
-*See also*: xref:client[Client]
+*See also*: xref:client[client]
 
 [discrete]
-==== Destination (noun)
-[[destination]]
-*Description*: A named location for messages, such as a queue or a topic. Clients use destinations to specify the queue or topic from which to send or receive messages.
+==== container (noun)
+[[container]]
+*Description*: A top-level application, such as a broker or client. Connections are established between containers.  
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:connection[connection]
+
+[discrete]
+==== delivery (noun)
+[[delivery]]
+*Description*: The process by which a message is sent to a receiver. Delivery includes the message content and metadata, and the protocol exchange required to transfer that content. When the delivery is completed, it is settled.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:message-settlement[message settlement]
 
 [discrete]
-==== Dispatch Router (noun)
-[[dispatch-router]]
-*Description*: The upstream component for JBoss A-MQ Interconnect (link:https://qpid.apache.org/components/dispatch-router/[Apache Qpid Dispatch Router]). When referring to JBoss A-MQ Interconnect, always use the Red Hat product name.
+==== destination (noun)
+[[destination]]
+*Description*: In JMS, this is a named location for messages, such as a queue or a topic. Clients use destinations to specify the queue or topic from which to send or receive messages. Only use this term in the context of JMS. In all other instances, use _address_.
 
 *Use it*: with caution
 
 *Incorrect forms*:
 
-*See also*: xref:amq-interconnect[JBoss A-MQ Interconnect]
+*See also*: xref:message-address[message address]
+
+[discrete]
+==== direct routed messaging (noun)
+[[direct-routed-messaging]]
+*Description*: A messaging configuration that uses routers only to deliver messages to destinations. This can also be called routed messaging.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== Dispatch Router (noun)
+[[dispatch-router]]
+*Description*: The upstream component for AMQ Interconnect (link:https://qpid.apache.org/components/dispatch-router/[Apache Qpid Dispatch Router]). When referring to AMQ Interconnect, always use the Red Hat product name.
+
+*Use it*: with caution
+
+*Incorrect forms*:
+
+*See also*: xref:amq-interconnect[AMQ Interconnect]
+
+[discrete]
+==== JBoss AMQ (noun)
+[[jboss-amq]]
+*Description*: The short product name for Red Hat JBoss AMQ.
+
+*Use it*: yes
+
+*Incorrect forms*: A-MQ, AMQ, Red Hat A-MQ, Red Hat AMQ
+
+*See also*: xref:red-hat-jboss-amq-term[Red Hat JBoss AMQ]
 
 [discrete]
 ==== JMS (noun)
@@ -223,7 +256,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Link (noun)
+==== link (noun)
 [[link]]
 *Description*: A message path between endpoints. Links are established over connections, and are responsible for tracking the exchange status of the messages that flow through them.
 
@@ -234,40 +267,51 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Link route (noun)
-[[link-route]]
-*Description*: A set of links that represent a private message path between a sender and receiver. Link routes can traverse multiple brokers and routers.
+==== link routing (noun)
+[[link-routing]]
+*Description*: A routing mechanism in AMQ Interconnect. A link route is a set of links that represent a private message path between a sender and receiver. Link routes can traverse multiple brokers and routers. With link routing, a router makes a routing decision when it receives link-attach frames, and it enables the sender and receiver to use the full AMQP link protocol.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:message-routing[message routing]
 
 [discrete]
-==== Listener (noun)
+==== listener (noun)
 [[listener]]
-*Description*: A configurable entity for JBoss A-MQ routers. A listener defines an incoming connection to a router from another router, broker, or client.
+*Description*: A configurable entity for JBoss AMQ routers and messaging APIs. A listener defines a context for accepting multiple, incoming connections on a particular TCP address and port.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:connection[Connection]
+*See also*: xref:connection[connection]
 
 [discrete]
-==== Live-backup group (noun)
-[[live-backup-group]]
-*Description*: A broker high availability configuration in which a live broker is linked to passive brokers. If a failover event occurs, the passive broker(s) take over the live broker's workload.
+==== master-slave group (noun)
+[[master-slave-group]]
+*Description*: A broker high availability configuration in which a master broker is linked to slave brokers. If a failover event occurs, the slave broker(s) take over the master broker's workload.
 
 *Use it*: yes
 
-*Incorrect forms*:
+*Incorrect forms*: live-backup group
 
 *See also*:
 
 [discrete]
-==== Message (noun)
+==== master broker (noun)
+[[master-broker]]
+*Description*: The broker that serves client requests in a master-slave group. 
+
+*Use it*: yes
+
+*Incorrect forms*: live broker
+
+*See also*: xref:master-slave-group[master-slave group], xref:slave-broker[slave broker]
+
+[discrete]
+==== message (noun)
 [[message]]
 *Description*: A mutable holder of application content. 
 
@@ -278,31 +322,42 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Message address (noun)
+==== message address (noun)
 [[message-address]]
-*Description*: The name of a source or destination endpoint for messages within the messaging network. Message addresses can designate entities such as queues and topics. The term _address_ is also acceptable, but should not be confused with TCP/IP addresses.
+*Description*: The name of a source or destination endpoint for messages within the messaging network. Message addresses can designate entities such as queues and topics. The term _address_ is also acceptable, but should not be confused with TCP/IP addresses. In JMS, the term _destination_ may be used.
 
 *Use it*: with caution
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:destination[destination]
 
 [discrete]
-==== Message route (noun)
-[[message-route]]
-*Description*: The message distribution pattern to be used for a message address.
+==== message routing (noun)
+[[message-routing]]
+*Description*: A routing mechansim in AMQ Interconnect. A message route is the message distribution pattern to be used for a message address. With message routing, a router makes a routing decision on a per-message basis when a message arrives.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:link-routing[link routing]
 
 [discrete]
-==== Message settlement (noun)
+==== message settlement (noun)
 [[message-settlement]]
 *Description*: The process for confirming that a message delivery has been completed, and propagating that confirmation to the appropriate endpoints. The term _settlement_ is also acceptable.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:delivery[delivery]
+
+[discrete]
+==== messaging API (noun)
+[[messaging-api]]
+*Description*: 
 
 *Use it*: yes
 
@@ -313,7 +368,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 [discrete]
 ==== MQTT (noun)
 [[mqtt]]
-*Description*: MQ Telemetry Transport protocol. It is a lightweight, client-to-server, publish/subscribe messaging protocol (http://mqtt.org/). JBoss A-MQ Broker supports MQTT.
+*Description*: MQ Telemetry Transport protocol. It is a lightweight, client-to-server, publish/subscribe messaging protocol (http://mqtt.org/). JBoss AMQ Broker supports MQTT.
 
 *Use it*: yes
 
@@ -323,8 +378,8 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 [discrete]
 ==== OpenWire (noun)
-[[OpenWire]]
-*Description*: A cross language wire protocol that enables JMS clients to communicate with JBoss A-MQ Broker (http://activemq.apache.org/openwire.html).
+[[openwire]]
+*Description*: A cross-language wire protocol that enables JMS clients to communicate with JBoss AMQ Broker (http://activemq.apache.org/openwire.html).
 
 *Use it*: yes
 
@@ -333,42 +388,53 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Producer (noun)
-[[producer]]
-*Description*: A client that sends messages.
+==== peer-to-peer messaging (noun)
+[[peer-to-peer-messaging]]
+*Description*: A messaging operation in which a client sends messages directly to another client without using a broker or router. This term should only be used to refer to client-to-client communication, not direct routed messaging.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:client[Client]
+*See also*: xref:direct-routed-messaging[direct routed messaging]
+
+[discrete]
+==== producer (noun)
+[[producer]]
+*Description*: A client that sends messages. 
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:client[client]
 
 [discrete]
 ==== qdmanage (noun)
 [[qdmanage]]
-*Description*: A generic AMQP management client used for managing JBoss A-MQ Interconnect.
+*Description*: A generic AMQP management client used for managing JBoss AMQ Interconnect.
 
 *Use it*: yes
 
-*Incorrect forms*: Qdmanage
+*Incorrect forms*: Qdmanage, QDMANAGE
 
 *See also*:
 
 [discrete]
 ==== qdstat (noun)
 [[qdstat]]
-*Description*: A management client used for monitoring the status of a JBoss A-MQ Interconnect router network.
+*Description*: A management client used for monitoring the status of a JBoss AMQ Interconnect router network.
 
 *Use it*: yes
 
-*Incorrect forms*: Qdstat
+*Incorrect forms*: Qdstat, QDSTAT
 
 *See also*:
 
 [discrete]
-==== Queue (noun)
+==== queue (noun)
 [[queue]]
-*Description*: A stored sequence of messages. In JBoss A-MQ, queues are hosted on brokers.
+*Description*: A stored sequence of messages. In JBoss AMQ, queues are hosted on brokers.
 
 *Use it*: yes
 
@@ -377,18 +443,40 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Router (noun)
-[[router]]
-*Description*: A configurable instance of JBoss A-MQ Interconnect. Routers are application layer programs that route AMQP messages between message producers and consumers. Routers are typically deployed in networks of multiple routers with redundant paths. When using this term, be careful not to confuse it with network device routers.
+==== receiver (noun)
+[[receiver]]
+*Description*: A channel for receiving messages from a source.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:amq-interconnect[A-MQ Interconnect]
+*See also*: xref:consumer[consumer], xref:source[source], xref:sender[sender]
 
 [discrete]
-==== Routing mechanism (noun)
+==== Red Hat JBoss AMQ (noun)
+[[red-hat-jboss-amq-term]]
+*Description*: A lightweight messaging platform that delivers information and easily integrates applications. It consists of several components (message broker, interconnect router, and clients) that support a variety of configurations. Always use the full product name (Red Hat JBoss AMQ) or short product name (JBoss AMQ).
+
+*Use it*: yes
+
+*Incorrect forms*: A-MQ, AMQ, Red Hat A-MQ, Red Hat AMQ
+
+*See also*: xref:jboss-amq[JBoss AMQ]
+
+[discrete]
+==== router (noun)
+[[router]]
+*Description*: A configurable instance of AMQ Interconnect. Routers are application layer programs that route AMQP messages between message producers and consumers. Routers are typically deployed in networks of multiple routers with redundant paths. When using this term, be careful not to confuse it with network device routers.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:amq-interconnect[AMQ Interconnect]
+
+[discrete]
+==== routing mechanism (noun)
 [[routing-mechanism]]
 *Description*: The type of routing to be used for an address. Routing mechanisms include message routing and link routing.
 
@@ -399,7 +487,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Routing pattern (noun)
+==== routing pattern (noun)
 [[routing-pattern]]
 *Description*: The path messages sent to a particular address can take across the network. Messages can be distributed in balanced, closest, and multicast routing patterns.
 
@@ -410,31 +498,75 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Session (noun)
+==== sender (noun)
+[[sender]]
+*Description*: A channel for sending messages to a target.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:producer[producer], xref:target[target], xref:receiver[receiver]
+
+[discrete]
+==== session (noun)
 [[session]]
-*Description*: A serialized context for producing and consuming messages. Sessions are established between JBoss A-MQ peers over connections. Sending and receiving links are established over sessions. Use this term with caution, as users typically do not need to understand it to use JBoss A-MQ.
+*Description*: A serialized context for producing and consuming messages. Sessions are established between JBoss AMQ peers over connections. Sending and receiving links are established over sessions. Use this term with caution, as users typically do not need to understand it to use JBoss AMQ.
 
 *Use it*: with caution
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:connection[connection]
 
 [discrete]
-==== Sharded queue (noun)
+==== sharded queue (noun)
 [[sharded-queue]]
-*Description*: A distributed queue in which a single queue is hosted on multiple brokers. Routers are typically used with sharded queues to enable clients to access the entire sharded queue instead of only a single shard of the queue.
+*Description*: A distributed queue in which a single logical queue is hosted on multiple brokers. Routers are typically used with sharded queues to enable clients to access the entire sharded queue instead of only a single shard of the queue.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*: xref:queue[Queue]
+*See also*: xref:queue[queue]
+
+[discrete]
+==== slave broker (noun)
+[[slave-broker]]
+*Description*: In a master-slave group, this is the broker (or brokers) that takes over for the master broker to which it is linked. 
+
+*Use it*: yes
+
+*Incorrect forms*: passive broker
+
+*See also*: xref:master-slave-group[master-slave group], xref:master-broker[master broker]
+
+[discrete]
+==== source (noun)
+[[source]]
+*Description*: A message's named point of origin.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:target[target]
+
+[discrete]
+==== SSL/TLS (noun)
+[[brokerless]]
+*Description*: The Secure Socket Layer protocol (SSL) and its successor, the Transport Layer Security protocol (TLS). As both of these protocols are frequently called "SSL", always use "SSl/TLS" to avoid confusion.
+
+*Use it*: yes
+
+*Incorrect forms*: SSL, TLS, TLS/SSL
+
+*See also*: 
 
 [discrete]
 ==== STOMP (noun)
 [[stomp]]
-*Description*: Simple (or Streaming) Text Oriented Message Protocol. It is a text-oriented wire protocol that enables STOMP clients to communicate with STOMP brokers. JBoss A-MQ Broker can accept connections from STOMP clients.
+*Description*: Simple (or Streaming) Text Oriented Message Protocol. It is a text-oriented wire protocol that enables STOMP clients to communicate with STOMP brokers. JBoss AMQ Broker can accept connections from STOMP clients.
 
 *Use it*: yes
 
@@ -443,34 +575,23 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== Symmetric cluster (noun)
-[[symmetric-cluster]]
-*Description*: A type of broker cluster in which each node in the cluster is connected to every other node in the cluster such that any node is no more than one hop away from every other node.
+==== target (noun)
+[[target]]
+*Description*: A message's destination. This is usually a queue or topic.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:source[source]
 
 [discrete]
-==== Topic (noun)
+==== topic (noun)
 [[topic]]
 *Description*: A stored sequence of messages for read-only distribution.
 
 *Use it*: yes
 
 *Incorrect forms*:
-
-*See also*:
-
-[discrete]
-==== Waypoint (noun)
-[[waypoint]]
-*Description*: A JBoss A-MQ Interconnect attribute that configures a router to route messages sent to a particular address prefix to a queue on a broker. Waypoints are typically used with autolinks. 
-
-*Use it*: yes
-
-*Incorrect forms*: WayPoint, Way Point
 
 *See also*:
