@@ -116,7 +116,6 @@ include::{includedir}/general_conventions/symbols.adoc[]
 == Product-specific Conventions
 include::{includedir}/products_conventions/products_conventions_overview.adoc[]
 
-<<<<<<< f9038628cbe04cc09cc6341c9181774cf198ac93
 === Azure and .NET Core
 include::{includedir}/products_conventions/azure-dotnet.adoc[]
 
