@@ -43,6 +43,17 @@
 *See also*: 
 
 [discrete]
+==== data path (noun)
+[[data-path-n]]
+*Description*: A data path is a collection of functional units (such as arithmetic logic units or multipliers that perform data processing operations), registers, and buses. Along with the control unit, it composes the central processing unit (CPU).
+
+*Use it*: yes
+
+*Incorrect forms*: datapath
+
+*See also*: 
+
+[discrete]
 ==== debug (adjective)
 [[debug-adj]]
 *Description*: A type of command or script that is used to find and remove errors from a program or design. For example, a "debug script."
