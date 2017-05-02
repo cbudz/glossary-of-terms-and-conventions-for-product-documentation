@@ -12,6 +12,36 @@ See http://ccs-jenkins.gsslab.brq.redhat.com:8080/job/glossary-of-terms-and-conv
 
 == Project Members
 
+=== Ongoing Project Contributors and Repository Maintainers
+
+These project members continue to work on project team, and maintain the repository on an ongoing basis via the *Documentation Conventions Repository Administration Roster*:
+
+<iframe src="https://calendar.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=redhat.com_gnjpmdsmror0bai9p0sdgfn8bc%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=Australia%2FBrisbane" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+These project members can be contacted with questions about and suggestions for the project or the repository.
+
+Andrea Hoffer (ahoffer@redhat.com)
+
+Andrew Dahms (adamhs@redhat.com)
+
+Bára Ančincová (bara@redhat.com)
+
+Chris Budzilowicz (cbudzilo@redhat.com)
+
+Ingrid Towey (itowey@redhat.com)
+
+Jennifer Malloy (jmalloy@redhat.com)
+
+Les Williams (lwilliam@redhat.com)
+
+Lucy Bopf (lbopf@redhat.com)
+
+Tahlia Richardson (trichard@redhat.com)
+
+=== Initial Project Contributors
+
+These project members contributed to the setup phase of the project, and the original content of the _Glossary_.
+
 Andrea Hoffer (ahoffer@redhat.com)
 
 Andrew Dahms (adamhs@redhat.com)
