@@ -1,0 +1,37 @@
+[[mr_actions]]
+[discrete]
+= What Happens to My Merge Request?
+
+.What happens to my merge request?
+[width="100%",cols="50a,50a",options="header"]
+|====
+|These people or this system... |Complete(s) these tasks . . . 
+|The designated repository administrator |* Processes the merge request.
+
+* Notifies all designated reviewers by using email after five merge requests have been submitted or at the end of 2 weeks, if the quota has not been reached.
+|Reviewers |Evaluate the changes. Review options include live meetings or online reviews. The reviewers reach a decision when a clear majority of reviewers agree on what to do with each merge request.
+|The designated repository administrator |Accepts, denies, or asks for changes to the merge request.
+|GitLab |Automatically notifies the requester of the outcome of the merge request, including if the reviewers need more information.
+|Requester |Makes any requested changes to the content and re-submits the request.
+|The designated repository administrator |Approves the merge request.
+|CCS associates |Ask questions by following the procedure outlined below.
+|The designated repository administrator |* Processes the merge request.
+
+* Notifies all designated reviewers via email after five issues have been submitted or at the end of 2 weeks, if the quota has not been reached.
+
+|Reviewers |Consensus is reached when a clear majority of participants agree on the issue's determination.
+|The designated repository administrator |Provides a response to the issue's author.
+|====
+
+This table provides additional information for adding, revising, or deleting product-specific terms.
+.What happens to my product-specific merge request?
+[width="100%",cols="50%,50%",options="header"]
+|====
+|These people or this system... |Complete(s) these tasks . . . 
+|A product docs team member |For an initial set of conventions, reviews the entries and agrees that they are sound
+|A designated member of the Documentation Conventions project |Reviews the merge request for template conformity and other issues
+|A designated member of the Documentation Conventions project |Merges the request when it is ready
+|A person from the same product docs team as the submitter |For additional ad hoc entries, provides a review using the xref:reviewer_checklist[reviewer_checklist]
+|A person from the same product docs team as the submitter |Merges the request when it is ready
+|====
+
