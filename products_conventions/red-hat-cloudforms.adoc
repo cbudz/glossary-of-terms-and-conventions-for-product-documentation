@@ -21,11 +21,11 @@
 *See also*:
 
 [discrete]
-==== Red Hat CloudForms Console (noun)
-[[red-hat-cloudforms-console]]
+==== Appliance Console (noun)
+[[appliance-console]]
 *Description*: A web-based interface into the Red Hat CloudForms appliance used for set-up.
 
-*Use it*: No. Use "appliance console."
+*Use it*: Yes. 
 
 *Incorrect forms*:
 
