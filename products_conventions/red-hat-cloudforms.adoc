@@ -25,7 +25,7 @@
 [[appliance-console]]
 *Description*: A web-based interface into the Red Hat CloudForms appliance used for set-up.
 
-*Use it*: Yes. 
+*Use it*: yes 
 
 *Incorrect forms*:
 
