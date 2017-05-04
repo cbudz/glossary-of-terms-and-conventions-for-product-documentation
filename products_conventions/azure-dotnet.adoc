@@ -9,7 +9,6 @@
 
 *See also*: xref:asm[Azure Service Management]
 
-
 [discrete]
 ==== Azure Service Management (noun)
 [[asm]]
@@ -21,6 +20,16 @@
 
 *See also*: xref:arm[Azure Resource Manager]
 
+[discrete]
+==== Hyper-V (noun)
+[[hyperv]]
+*Description*: Hyper-V is a native hypervisor. Hyper-V can create virtual machines (VMs) on x86-64 systems running the Microsoft Windows operating system. Hyper-V drivers are required on all Red Hat Enterprise Linux (RHEL) VMs running in Microsoft Azure.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:hypervisor[hypervisor]
 
 [discrete]
 ==== Microsoft Azure (noun)
@@ -55,7 +64,6 @@
 
 *See also*: 
 
-
 [discrete]
 ==== Microsoft Azure portal (noun)
 [[azure-portal]]
@@ -66,7 +74,6 @@
 *Incorrect forms*: Microsoft Azure Portal
 
 *See also*: xref:arm[Azure Resource Manager]
-
 
 [discrete]
 ==== .NET Core (noun)
