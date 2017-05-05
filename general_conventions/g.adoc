@@ -279,7 +279,7 @@ Do not use "gray-scale" or "gray scale." Only the noun form is currently recogni
 [discrete]
 ==== Guestfish (noun)
 [[guestfish]]
-*Description*: Guestfish is an interactive shell that supports commands for accessing and modifying virtual disk images used in platform virtualization. The tools can be used for viewing and editing virtual machines (VMs) managed by libvirt.
+*Description*: Guestfish is an interactive shell that supports commands for accessing and modifying virtual disk images used in platform virtualization. You can use Guestfish for viewing and editing virtual machines (VMs) managed by libvirt.
 
 *Use it*: yes
 
