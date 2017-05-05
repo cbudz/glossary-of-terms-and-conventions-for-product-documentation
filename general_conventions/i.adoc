@@ -241,7 +241,7 @@ Because IPMASQ is a generic technology, the server can be connected to other com
 [discrete]
 ==== ISO image (noun)
 [[iso-image]]
-*Description*: An ISO Image is a type of disk image comprising the data contents from every written sector on a media disk. ISO image files use the .iso file extension. According to Wikipedia, the ISO name comes from the ISO 9660 file system used with CD-ROM media, but what is known as an ISO image might also contain a UDF (ISO/IEC 13346) file system, which is often used by DVDs and Blu-ray discs.
+*Description*: An ISO image is a type of disk image comprising the data contents from every written sector on a media disk. ISO image files use the .iso file extension. According to Wikipedia, the ISO name comes from the ISO 9660 file system used with CD-ROM media, but what is known as an ISO image might also contain a UDF (ISO/IEC 13346) file system, which is often used by DVDs and Blu-ray discs.
 
 *Use it*: yes
 
