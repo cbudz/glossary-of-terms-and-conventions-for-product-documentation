@@ -23,7 +23,7 @@
 [discrete]
 ==== Hyper-V (noun)
 [[hyperv]]
-*Description*: Hyper-V is a native hypervisor. Hyper-V can create virtual machines (VMs) on x86-64 systems running the Microsoft Windows operating system. Hyper-V drivers are required on all Red Hat Enterprise Linux (RHEL) VMs running in Microsoft Azure.
+*Description*: Hyper-V is a native hypervisor. Hyper-V can create virtual machines (VMs) on AMD64 systems running the Microsoft Windows operating system. Hyper-V drivers are required on all Red Hat Enterprise Linux (RHEL) VMs running in Microsoft Azure.
 
 *Use it*: yes
 
