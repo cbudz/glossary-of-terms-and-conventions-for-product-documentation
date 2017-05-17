@@ -5,7 +5,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 [discrete]
 ==== acceptor (noun)
 [[acceptor]]
-*Description*: The definition of an incoming network connection to a broker.
+*Description*: An acceptor defines the way a client can connect to a broker instance.
 
 *Use it*: yes
 
@@ -22,18 +22,18 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 *Incorrect forms*: A-MQ Broker, Red Hat Broker, JBoss Broker
 
-*See also*: xref:broker[Broker]
+*See also*: xref:broker-distribution[broker distribution], xref:broker-instance[broker instance]
 
 [discrete]
 ==== AMQ Clients (noun)
 [[amq-clients]]
-*Description*: A suite of messaging libraries supporting multiple languages and platforms, it enables users to write messaging applications that send and receive messages. The AMQ Clients are a component of Red Hat JBoss AMQ.
+*Description*: A suite of messaging libraries supporting multiple languages and platforms. It enables users to write messaging applications that send and receive messages. AMQ Clients is a component of Red Hat JBoss AMQ.
 
 *Use it*: yes
 
 *Incorrect forms*: A-MQ Clients, Red Hat Clients, JBoss Clients
 
-*See also*: xref:client[client]
+*See also*: xref:client-application[client application], xref:messaging-api[messaging API]
 
 [discrete]
 ==== AMQ Console (noun)
@@ -55,7 +55,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 *Incorrect forms*: Interconnect, Router, A-MQ Interconnect, Red Hat Interconnect, JBoss Interconnect
 
-*See also*: xref:router[Router]
+*See also*: xref:router[router]
 
 [discrete]
 ==== AMQP (noun)
@@ -91,15 +91,26 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*:
 
 [discrete]
-==== broker (noun)
-[[broker]]
-*Description*: A configurable instance of AMQ Broker. Use this term to refer to the instance, not the product.
+==== broker distribution (noun)
+[[broker-distribution]]
+*Description*: The platform-independent AMQ Broker archive containing the product binaries and libraries.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:amq-broker[AMQ Broker]
+*See also*: xref:amq-broker[AMQ Broker], xref:broker-instance[broker instance]
+
+[discrete]
+==== broker instance (noun)
+[[broker-instance]]
+*Description*: A configurable instance of AMQ Broker. Each broker instance is a separate directory containing its own runtime and configuration data. Use this term to refer to the instance, not the product.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:amq-broker[AMQ Broker], xref:broker-distribution[broker distribution]
 
 [discrete]
 ==== broker cluster (noun)
@@ -124,15 +135,15 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*: 
 
 [discrete]
-==== client (noun)
+==== client application (noun)
 [[client]]
-*Description*: An application or server that connects to brokers, routers, or both to send or receive messages. This should not be confused with AMQ Clients, which is the messaging library used to create the client application.
+*Description*: An application or server that connects to broker instances, routers, or both to send or receive messages. This should not be confused with AMQ Clients, which is the messaging library used to create the client application.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:producer[producer], xref:consumer[consumer], xref:amq-clients[AMQ Clients] 
+*See also*: xref:producer[producer], xref:consumer[consumer], xref:amq-clients[AMQ Clients], xref:messaging-api[messaging API] 
 
 [discrete]
 ==== connection (noun)
@@ -143,7 +154,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 *Incorrect forms*: 
 
-*See also*: xref:acceptor[acceptor], xref:listener[listener], xref:connector[connector], xref:container[container], xref:session[session]
+*See also*: xref:acceptor[acceptor], xref:listener[listener], xref:connector[connector], xref:container[amq-container], xref:session[session]
 
 [discrete]
 ==== connection factory (noun)
@@ -176,11 +187,11 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 *Incorrect forms*: 
 
-*See also*: xref:client[client]
+*See also*: xref:client-application[client application]
 
 [discrete]
 ==== container (noun)
-[[container]]
+[[amq-container]]
 *Description*: A top-level application, such as a broker or client. Connections are established between containers.  
 
 *Use it*: yes
@@ -357,13 +368,13 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 [discrete]
 ==== messaging API (noun)
 [[messaging-api]]
-*Description*: 
+*Description*: The client libraries and APIs used to create client applications. These libraries are provided by AMQ Clients.
 
 *Use it*: yes
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:amq-clients[AMQ Clients], xref:client-application[client application]
 
 [discrete]
 ==== MQTT (noun)
@@ -407,7 +418,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 *Incorrect forms*: 
 
-*See also*: xref:client[client]
+*See also*: xref:client-application[client application]
 
 [discrete]
 ==== qdmanage (noun)
