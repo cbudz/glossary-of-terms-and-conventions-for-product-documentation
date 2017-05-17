@@ -136,7 +136,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 [discrete]
 ==== client application (noun)
-[[client]]
+[[client-application]]
 *Description*: An application or server that connects to broker instances, routers, or both to send or receive messages. This should not be confused with AMQ Clients, which is the messaging library used to create the client application.
 
 *Use it*: yes
