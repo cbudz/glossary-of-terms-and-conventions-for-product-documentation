@@ -122,6 +122,9 @@ include::{includedir}/products_conventions/azure-dotnet.adoc[]
 === Red Hat Ceph Storage
 include::{includedir}/products_conventions/ceph.adoc[]
 
+=== Red Hat CloudForms
+include::{includedir}/products_conventions/red-hat-cloudforms.adoc[]
+
 === Red Hat JBoss AMQ
 include::{includedir}/products_conventions/amq7.adoc[]
 
