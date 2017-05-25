@@ -163,6 +163,19 @@
 
 *See also*: xref:ttl[TTL], xref:time-to-live-n[time to live]
 
+
+[discrete]
+==== trusted Certificate Authority (noun)
+[[trusted-certificate-authority]]
+*Description*: A third party that creates SSL certificates (CA certificates) used for authentication. Not to be confused with self-signed certificates. Note the capitalization of Certificate Authority, commonly abbreviated as CA.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:<another-term-id>[<another-term>]
+
+
 [discrete]
 ==== type (noun)
 [[type-n]]
