@@ -22,6 +22,18 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 *See also*:
 
 [discrete]
+==== Performance Counter (noun)
+[[performance-counter]]
+*Description*: A performance counter is a utility for collecting and analyzing performance data. Always use "performance counter" unless referring to a code element named "perfcounter" and as such, mark it up appropriately (`perfcounter`).
+
+*Use it*: yes
+
+*Incorrect forms*: perfcounter
+
+*See also*:
+
+
+[discrete]
 ==== PHP (noun)
 [[php]]
 *Description*: Use PHP when referring to the language in general. Use `php` when referring to the specific command or some other literal use. See http://www.php.net/ for specific PHP language information. See http://en.wikipedia.org/wiki/PHP for more general information.
@@ -72,7 +84,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 
 *Use it*: no
 
-*Incorrect forms*: plaintext, plain-text, cleartext, clear text
+*Incorrect forms*: 
 
 *See also*:
 

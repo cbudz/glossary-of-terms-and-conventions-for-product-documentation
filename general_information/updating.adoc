@@ -11,6 +11,20 @@ Once you are done with the edits, create a merge request. See xref:creating-merg
 
 If you want to suggest an update for this document, have a general question, or want to start a discussion, open a new issue. For details, see xref:submitting-issues[].
 
+[[prerequisites]]
+[discrete]
+=== Before You Begin
+
+The _Glossary of Terms and Conventions for Product Documentation_ is stored in a https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation[GitLab repository] and written in AsciiDoc. You need:
+
+* a https://www.redhat.com/wapps/ugc/protected/account.html[Red Hat] account
+* to log in to https://gitlab.cee.redhat.com/users/sign_in[GitLab] using your https://mojo.redhat.com/docs/DOC-87898-using-kerberos-authentication[Kerberos credentials]. GitLab is accessible to any Red Hatter who has Kerberos credentials.
+** If you have not used GitLab before, go to https://gitlab.cee.redhat.com/users/sign_in[https://gitlab.cee.redhat.com/users/sign_in], enter your Kerberos credentials in the LDAP **Username** and **Password** fields, and click **Sign in**. This will initialize your GitLab account.
+** Do not use "Standard" login, as it requires manual account creation.
+** If you have a valid `kinit` ticket, you can use the **Red Hat SAML Login**.
+* a working knowledge of GitLab; here is a good https://gitlab.cee.redhat.com/red-hat-jboss-enterprise-application-platform-documentation/eap-documentation/blob/master/internal-resources/contributor-guide.adoc[primer]
+* access to the Glossary of Terms and Conventions for Product Documentation https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation[repository]
+
 [[web-ui-adding-or-editing-entries]]
 [discrete]
 ==== Web UI: Adding and Editing Entries

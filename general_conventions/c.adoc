@@ -156,14 +156,7 @@
 [discrete]
 ==== cluster (noun)
 [[cluster]]
-*Description*: 1) A collection of interconnected computers working together as an
-integrated computing resource. Clusters are referred to as the "High
-Availability Add-On" in Red Hat Enterprise Linux 6 and later.
-2) In OpenShift context, a cluster is the collection of controllers, pods, and
-services and related DNS and networking routing configuration that are defined
-on the system. Typically, a cluster is made up of multiple OpenShift hosts
-(masters, nodes, etc.) working together, across which the aforementioned
-components are distributed or running.
+*Description*: 1) A collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later. 2) In OpenShift context, a cluster is the collection of controllers, pods, and services and related DNS and networking routing configuration that are defined on the system. Typically, a cluster is made up of multiple OpenShift hosts (masters, nodes, etc.) working together, across which the aforementioned components are distributed or running.
 
 *Use it*: yes
 
@@ -269,6 +262,19 @@ components are distributed or running.
 *Incorrect forms*: containerised
 
 *See also*: xref:container-based[container-based]
+
+[discrete]
+==== container registry (noun)
+[[container-registry]]
+*Description*: A service for storing and retrieving Docker-formatted container
+images. A registry contains a collection of one or more image repositories. Each
+image repository contains one or more tagged images.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:red-hat-container-catalog[Red Hat Container Catalog], xref:openshift-container-registry[OpenShift Container Registry]
 
 [discrete]
 ==== control program (noun)

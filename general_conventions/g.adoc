@@ -193,7 +193,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *Incorrect forms*: Gnome, gnome
 
-*See also*: xref:gnome-classic[Gnome Classic]
+*See also*: xref:gnome-classic[GNOME Classic]
 
 [discrete]
 ==== GNOME Classic (noun)
@@ -204,7 +204,7 @@ When referring to the command, use `gdb`, marked up appropriately.
 
 *Incorrect forms*: classic mode
 
-*See also*: 
+*See also*: xref:gnome[GNOME]
 
 [discrete]
 ==== GNU (noun)
@@ -268,13 +268,26 @@ Do not use "gray-scale" or "gray scale." Only the noun form is currently recogni
 [discrete]
 ==== GTK+ (noun)
 [[gtkplus]]
-*Description*: Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk." 
+*Description*: GTK+ is an initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk." 
 
 *Use it*: yes
 
 *Incorrect forms*: GTK, Gtk, gtk
 
 *See also*:
+
+[discrete]
+==== Guestfish (noun)
+[[guestfish]]
+*Description*: Guestfish is an interactive shell that supports commands for accessing and modifying virtual disk images used in platform virtualization. You can use Guestfish for viewing and editing virtual machines (VMs) managed by libvirt.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:libvirt[libvirt]
+
+
 
 [discrete]
 ==== guest operating system (noun)

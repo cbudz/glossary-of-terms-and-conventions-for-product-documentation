@@ -98,3 +98,14 @@ WCAs are also called "query applications."
 *Incorrect forms*: Window-Maker, WindowMaker
 
 *See also*:
+
+[discrete]
+==== write (verb)
+[[write]]
+*Description*: Use "write" instead of "code" as a verb.  
+
+*Use it*: yes
+
+*Incorrect forms*: code
+
+*See also*:

@@ -313,6 +313,17 @@ Use "Storage Pool Manager (SPM)" for the first instance in a section, and "SPM" 
 *See also*:
 
 [discrete]
+==== sub-version (noun)
+[[sub-version]]
+*Description*: A template sub-version is new template version created from an existing template. 
+
+*Use it*: yes
+
+*Incorrect forms*: sub version, subversion
+
+*See also*:
+
+[discrete]
 ==== User Portal (noun)
 [[user-portal]]
 *Description*: The User Portal is a graphical user interface provided by the Red Hat (Enterprise) Virtualization Manager. It has limited permissions for managing virtual machine resources and is targeted at end users.
