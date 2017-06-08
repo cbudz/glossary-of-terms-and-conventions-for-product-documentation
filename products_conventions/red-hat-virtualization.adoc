@@ -44,6 +44,34 @@ Always spell out in full and capitalize as shown here, unless part of a command.
 *See also*: 
 
 [discrete]
+==== details pane (noun)
+[[details-pane]]
+*Description*: The details pane shows detailed information about a selected item in the results list. If no items are selected, this pane is hidden. If multiple items are selected, the details pane displays information on the first selected item only. 
+
+Tabs in the details pane are always referred to as, for example, "the General tab in the details pane".
+
+For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/[Graphical User Interface Elements] in the _Administration Guide_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:results-list[results list]
+
+[discrete]
+==== header bar (noun)
+[[header-bar]]
+*Description*: The header bar contains the name of the currently logged in user, the Sign Out button, the About button, the Configure button, and the Guide button. 
+
+For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/[Graphical User Interface Elements] in the _Administration Guide_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+
+*Use it*: yes
+
+*Incorrect forms*: title bar
+
+*See also*: 
+
+[discrete]
 ==== host (noun)
 [[host-rhv]]
 *Description*: Hosts are servers that provide the processing capabilities and memory resources used to run virtual machines. There are two types of hosts: Red Hat Enterprise Linux hosts, and Red Hat Enterprise Virtualization Hypervisor (in version 3.x) or Red Hat Virtualization Host (in version 4.x).
@@ -193,6 +221,32 @@ Use "Red Hat Virtualization Manager" for version 4.x. Always spell out in full f
 *See also*: xref:red-hat-enterprise-virtualization-manager[Red Hat Enterprise Virtualization Manager]
 
 [discrete]
+==== resource tab (noun)
+[[resource-tab]]
+*Description*: Hosts, virtual machines, storage, and other resources in Red Hat Virtualization can be managed using their associated tab. You can refer to these tabs as just, for example, "the *Storage* tab", unlike the tabs in the details pane, which are always specified as such.
+
+For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/[Graphical User Interface Elements] in the _Administration Guide_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:details-pane[details pane]
+
+[discrete]
+==== results list (noun)
+[[results-list]]
+*Description*: The results list shows the resources managed under each resource tab. For example, the results list for the *Hosts* tab shows all hosts attached to the Red Hat Virtualization Manager. 
+
+For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/[Graphical User Interface Elements] in the _Administration Guide_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:resource-tab[resource tab]
+
+[discrete]
 ==== self-hosted engine (noun)
 [[self-hosted-engine]]
 *Description*: A self-hosted engine is a virtualized environment in which the Manager, or engine, runs on a virtual machine on the hosts managed by that Manager. The virtual machine is created as part of the host configuration, and the Manager is installed and configured in parallel to the host configuration process. 
@@ -269,7 +323,7 @@ Use "Storage Pool Manager (SPM)" for the first instance in a section, and "SPM" 
 [discrete]
 ==== sub-version (noun)
 [[sub-version]]
-*Description*: A template sub-version is new template version created from an existing template. 
+*Description*: A template sub-version is a new template version created from an existing template. 
 
 *Use it*: yes
 
