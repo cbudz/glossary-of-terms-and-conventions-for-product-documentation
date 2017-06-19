@@ -2,3 +2,5 @@
 
 The following sections contain conventions specific to particular Red Hat
 products. Product documentation teams are responsible for these sections.
+
+Each product portfolio and product has an official name and an approved abbreviated name. It is important to use these names when referring to products in the documentation. Information about valid product names in the _Red Hat JBoss Middleware_ product suite is maintained in a Mojo document entitled https://mojo.redhat.com/docs/DOC-962110[Red Hat Product Naming].
