@@ -80,11 +80,11 @@ Use lowercase "v" and uppercase "CPU".
 [discrete]
 ==== virtual (adjective)
 [[virtual]]
-*Description*: Virtual is an adjective describing computer systems with hardware functions partially carried out in the software layer. It is generally sufficient in copy and preferred (for example, instead of virtualized), as it is simple, direct, and unambiguous.
+*Description*: Virtual is an adjective describing computer systems with hardware functions partially carried out in the software layer. It is preferred over virtualized, as it is simple, direct, and unambiguous.
 
 *Use it*: yes
 
-*Incorrect forms*: virtualized
+*Incorrect forms*: 
 
 *See also*: xref:virtualized[virtualized]
 
