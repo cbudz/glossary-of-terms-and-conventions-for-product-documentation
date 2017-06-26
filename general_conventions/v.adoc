@@ -80,25 +80,13 @@ Use lowercase "v" and uppercase "CPU".
 [discrete]
 ==== virtual (adjective)
 [[virtual]]
-*Description*: Virtual is an adjective describing computer systems with hardware functions partially carried out in the software layer. It is generally sufficient in copy and preferred (instead of virtualized, e.g.), as it is simple, direct, and unambiguous.
+*Description*: Virtual is an adjective describing computer systems with hardware functions partially carried out in the software layer. It is generally sufficient in copy and preferred (for example, instead of virtualized), as it is simple, direct, and unambiguous.
 
 *Use it*: yes
 
 *Incorrect forms*: virtualized
 
 *See also*: xref:virtualized[virtualized]
-
-[discrete]
-==== virtualized (adjective)
-[[virtualized]]
-*Description*: Virtualized is an adjective and a past-tense verb. It implies having undergone or been produced by a process. The distinction implies the possibility of a real (i.e., not virtual) counterpart.
-
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*: xref:virtual[virtual]
 
 [discrete]
 ==== virtual console (noun)
@@ -110,6 +98,17 @@ Use lowercase "v" and uppercase "CPU".
 *Incorrect forms*: virtual-console, Virtual Console
 
 *See also*:
+
+[discrete]
+==== virtualized (adjective)
+[[virtualized]]
+*Description*: Virtualized is an adjective and a past-tense verb. It implies having undergone or been produced by a process. The distinction implies the possibility of a real (that is, not virtual) counterpart.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:virtual[virtual]
 
 [discrete]
 ==== virtual floppy disk (noun)
