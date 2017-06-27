@@ -1,0 +1,12 @@
+Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@redhat.com. 
+
+[discrete]
+==== FUSE_HOME 
+[[FUSE_HOME]]
+*Description*: Fuse installation directory
+
+*Use it*: yes
+
+*Incorrect forms*: INSTALL_DIR, installDir
+
+*See also*: 
