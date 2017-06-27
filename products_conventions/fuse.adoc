@@ -3,7 +3,7 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 [discrete]
 ==== FUSE_HOME 
 [[FUSE_HOME]]
-*Description*: Fuse installation directory
+*Description*: Fuse installation directory. Use this when describing which directory to use. 
 
 *Use it*: yes
 
