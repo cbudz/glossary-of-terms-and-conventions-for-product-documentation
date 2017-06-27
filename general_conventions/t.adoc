@@ -173,7 +173,7 @@
 
 *Incorrect forms*: 
 
-*See also*: xref:<another-term-id>[<another-term>]
+*See also*: 
 
 
 [discrete]
