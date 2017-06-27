@@ -50,7 +50,7 @@ Always spell out in full and capitalize as shown here, unless part of a command.
 
 Tabs in the details pane are always referred to as, for example, "the General tab in the details pane".
 
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Administration Guide_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
 
 *Use it*: yes
 
@@ -63,7 +63,7 @@ For a visual example, see link:https://access.redhat.com/documentation/en-us/red
 [[header-bar]]
 *Description*: The header bar contains the name of the currently logged in user, the Sign Out button, the About button, the Configure button, and the Guide button. 
 
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Administration Guide_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
 
 *Use it*: yes
 
@@ -225,7 +225,7 @@ Use "Red Hat Virtualization Manager" for version 4.x. Always spell out in full f
 [[resource-tab]]
 *Description*: Hosts, virtual machines, storage, and other resources in Red Hat Virtualization can be managed using their associated tab. You can refer to these tabs as just, for example, "the *Storage* tab", unlike the tabs in the details pane, which are always specified as such.
 
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Administration Guide_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
 
 *Use it*: yes
 
@@ -238,7 +238,7 @@ For a visual example, see link:https://access.redhat.com/documentation/en-us/red
 [[results-list]]
 *Description*: The results list shows the resources managed under each resource tab. For example, the results list for the *Hosts* tab shows all hosts attached to the Red Hat Virtualization Manager. 
 
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Administration Guide_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
 
 *Use it*: yes
 
@@ -336,7 +336,7 @@ Use "Storage Pool Manager (SPM)" for the first instance in a section, and "SPM" 
 [[tree-pane]]
 *Description*: The collapsible hierarchy of resources under *System* on the left-hand side of the UI. 
 
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Administration Guide_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
 
 *Use it*: yes
 
