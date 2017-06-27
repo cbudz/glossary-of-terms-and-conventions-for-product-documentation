@@ -100,17 +100,6 @@ Use lowercase "v" and uppercase "CPU".
 *See also*:
 
 [discrete]
-==== virtualized (adjective)
-[[virtualized]]
-*Description*: Virtualized is an adjective and a past-tense verb. It implies having undergone or been produced by a process. The distinction implies the possibility of a real (that is, not virtual) counterpart.
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*: xref:virtual[virtual]
-
-[discrete]
 ==== virtual floppy disk (noun)
 [[virtual-floppy-disk]]
 *Description*: A virtual floppy disk is an alternative to the traditional floppy. It is an image file, rather than a physical disk.
@@ -157,6 +146,17 @@ Although the _IBM Style Guide_ recommends using "diskette drive" instead of "flo
 *Incorrect forms*:
 
 *See also*:
+
+[discrete]
+==== virtualized (adjective)
+[[virtualized]]
+*Description*: Virtualized is an adjective and a past-tense verb. It implies having undergone or been produced by a process. The distinction implies the possibility of a real (that is, not virtual) counterpart.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:virtual[virtual]
 
 [discrete]
 ==== virtualized guest (noun)
