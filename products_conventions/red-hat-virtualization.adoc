@@ -334,7 +334,7 @@ Use "Storage Pool Manager (SPM)" for the first instance in a section, and "SPM" 
 [discrete]
 ==== tree pane (noun)
 [[tree-pane]]
-*Description*: The collapsible hierarchy of resources under *System* on the left-hand side of the UI. 
+*Description*: The collapsible hierarchy of resources under *System* on the left-hand side of the Administration Portal. 
 
 For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
 
