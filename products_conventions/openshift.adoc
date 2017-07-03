@@ -353,7 +353,7 @@ SkyDNS.
 *See also*: xref:endpoint[endpoint], xref:api-server[API server], xref:scheduler[scheduler]
 
 [discrete]
-==== OpenShift Origin
+==== OpenShift Origin (noun)
 [[openshift-origin]]
 *Description*: OpenShift's open source, upstream project.
 
