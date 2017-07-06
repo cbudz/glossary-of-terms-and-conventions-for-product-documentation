@@ -138,18 +138,18 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== hot add (verb)
 [[hot-add]]
-*Description*: Correct. Two words, lowercase. Capitalize only at the beginning of a sentence.
+*Description*: The ability to add physical or virtual hardware to a running system without the need for downtime.
 
 *Use it*: yes
 
 *Incorrect forms*: hotadd, hot-add
 
-*See also*:
+*See also*: xref:hot-plug[], xref:hot-swap[]
 
 [discrete]
 ==== hotline (noun)
 [[hotline]]
-*Description*: Correct. One word, lowercase. Capitalize only at the beginning of a sentence.
+*Description*: A direct communications link between two points in which communications are automatically directed to a specific destination without the need for additional routing.
 
 *Use it*: yes
 
@@ -160,24 +160,24 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== hot plug (verb)
 [[hot-plug]]
-*Description*: Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only.
+*Description*: The ability to add or remove physical or virtual hardware to or from a running system without the need for downtime.
 
 *Use it*: yes
 
 *Incorrect forms*: hotplug, hot-plug
 
-*See also*:
+*See also*: xref:hot-add[], xref:hot-swap[]
 
 [discrete]
 ==== hot swap (verb)
 [[hot-swap]]
-*Description*: Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only.
+*Description*: The ability to remove and replace physical or virtual hardware on a running system without the need for downtime.
 
 *Use it*: yes
 
 *Incorrect forms*: hotswap, hot-swap
 
-*See also*:
+*See also*: xref:hot-add[], xref:hot-plug[]
 
 [discrete]
 ==== HP ProLiant (noun)
@@ -204,7 +204,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== huge-page (adjective)
 [[huge-page]]
-*Description*: Correct. Normal hyphenation rules apply. See xref:huge-page-noun[huge page] for capitalization rules.
+*Description*: Page sizes on Linux-based systems larger than the default size of 4096 bytes. Normal hyphenation rules apply. See xref:huge-page-noun[huge page] for capitalization rules.
 
 *Use it*: yes
 
@@ -215,11 +215,11 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== huge page (noun)
 [[huge-page-noun]]
-*Description*: Correct. Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
+*Description*: Page sizes on Linux-based systems larger than the default size of 4096 bytes. Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
 
 *Use it*: yes
 
-*Incorrect forms*:
+*Incorrect forms*: large page, super page
 
 *See also*:
 
