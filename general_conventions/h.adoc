@@ -144,7 +144,7 @@ Use standard hyphenation guidelines to maintain clarity.
 
 *Incorrect forms*: hotadd, hot-add
 
-*See also*: xref:hot-plug[], xref:hot-swap[]
+*See also*: xref:hot-plug[hot plug], xref:hot-swap[hot swap]
 
 [discrete]
 ==== hotline (noun)
@@ -166,7 +166,7 @@ Use standard hyphenation guidelines to maintain clarity.
 
 *Incorrect forms*: hotplug, hot-plug
 
-*See also*: xref:hot-add[], xref:hot-swap[]
+*See also*: xref:hot-add[hot add], xref:hot-swap[hot swap]
 
 [discrete]
 ==== hot swap (verb)
@@ -177,7 +177,7 @@ Use standard hyphenation guidelines to maintain clarity.
 
 *Incorrect forms*: hotswap, hot-swap
 
-*See also*: xref:hot-add[], xref:hot-plug[]
+*See also*: xref:hot-add[hot add], xref:hot-plug[hot plug]
 
 [discrete]
 ==== HP ProLiant (noun)
@@ -210,7 +210,7 @@ Use standard hyphenation guidelines to maintain clarity.
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:huge-page-noun[huge page (noun)]
 
 [discrete]
 ==== huge page (noun)
@@ -221,7 +221,7 @@ Use standard hyphenation guidelines to maintain clarity.
 
 *Incorrect forms*: large page, super page
 
-*See also*:
+*See also*: xref:huge-page[huge-page (adjective)]
 
 [discrete]
 ==== Hyper-Threading (noun)
