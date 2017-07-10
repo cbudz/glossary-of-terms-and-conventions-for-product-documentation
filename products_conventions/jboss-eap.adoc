@@ -20,7 +20,7 @@ Spell out on first use in a guide, and use the approved abbreviation "JBoss EAP"
 
 *Incorrect forms*: Active MQ, Active-MQ
 
-*See also*: xref:activemq-artemis[ActiveMQ Artemis] and xref:jboss-eap-messaging[JBoss EAP messaging]
+*See also*: xref:activemq-artemis[ActiveMQ Artemis], xref:jboss-eap-messaging[JBoss EAP messaging]
 
 [discrete]
 ==== ActiveMQ Artemis (noun)
@@ -31,7 +31,7 @@ Spell out on first use in a guide, and use the approved abbreviation "JBoss EAP"
 
 *Incorrect forms*: Active MQ Artemis, Active-MQ Artemis
 
-*See also*: xref:activemq[ActiveMQ] and xref:jboss-eap-messaging[JBoss EAP messaging]
+*See also*: xref:activemq[ActiveMQ], xref:jboss-eap-messaging[JBoss EAP messaging]
 
 [discrete]
 ==== domain mode (noun)
@@ -64,7 +64,7 @@ Spell out on first use in a guide, and use the approved abbreviation "JBoss EAP"
 
 *Incorrect forms*: 
 
-*See also*: xref:activemq[ActiveMQ] and xref:activemq-artemis[ActiveMQ Artemis]
+*See also*: xref:activemq[ActiveMQ], xref:activemq-artemis[ActiveMQ Artemis]
 
 [discrete]
 ==== management CLI (noun)
