@@ -176,6 +176,17 @@
 *See also*:
 
 [discrete]
+==== colocate (verb)
+[[colocate]]
+*Description*: To place two or more items in the same space. Do not hyphenate.
+
+*Use it*: yes
+
+*Incorrect forms*: co-locate, collocate
+
+*See also*:
+
+[discrete]
 ==== comma-delimited (adjective)
 [[comma-delimited]]
 *Description*: A data format in which each piece of data is separated by a comma.
