@@ -10,6 +10,17 @@
 *See also*:
 
 [discrete]
+==== fail (verb)
+[[fail]]
+*Description*: When a program fails, it means that it stops working.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:terminate[terminate]
+
+[discrete]
 ==== fault tolerance (noun)
 [[fault-tolerance-n]]
 *Description*: The ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations; that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over. 
