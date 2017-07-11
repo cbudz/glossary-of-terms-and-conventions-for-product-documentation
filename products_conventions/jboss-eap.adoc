@@ -1,9 +1,9 @@
 [discrete]
 ==== Red Hat JBoss Enterprise Application Platform (noun)
 [[red-hat-jboss-enterprise-application-platform]]
-*Description*: Red Hat JBoss Enterprise Application Platform is an enterprise-grade Java application server. 
+*Description*: Red Hat JBoss Enterprise Application Platform is an enterprise-grade Java application server.
 
-Spell out on first use in a guide, and use the approved abbreviation "JBoss EAP" thereafter.  
+Spell out on first use in a guide, and use the approved abbreviation "JBoss EAP" thereafter.
 
 *Use it*: yes
 
@@ -40,20 +40,9 @@ Spell out on first use in a guide, and use the approved abbreviation "JBoss EAP"
 
 *Use it*: no
 
-*Incorrect forms*: 
-
-*See also*: xref:managed-domain[managed domain]
-
-[discrete]
-==== JBoss AMQ (noun)
-[[jboss-amq]]
-*Description*: This should be used when referring to the Red Hat JBoss AMQ product. For example, the JBoss AMQ resource adapter for JBoss EAP.
-
-*Use it*: yes
-
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:managed-domain[managed domain]
 
 [discrete]
 ==== JBoss EAP messaging (noun)
@@ -62,7 +51,7 @@ Spell out on first use in a guide, and use the approved abbreviation "JBoss EAP"
 
 *Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*:
 
 *See also*: xref:activemq[ActiveMQ], xref:activemq-artemis[ActiveMQ Artemis]
 
