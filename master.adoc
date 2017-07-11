@@ -131,6 +131,9 @@ include::{includedir}/products_conventions/amq7.adoc[]
 === Red Hat JBoss Enterprise Application Platform
 include::{includedir}/products_conventions/jboss-eap.adoc[]
 
+=== Red Hat JBoss Fuse
+include::{includedir}/products_conventions/fuse.adoc[]
+
 === Red Hat OpenShift
 include::{includedir}/products_conventions/openshift.adoc[]
 

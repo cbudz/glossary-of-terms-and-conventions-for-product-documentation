@@ -1,3 +1,5 @@
+[[red-hat-jboss-fuse-conventions]]
+
 Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@redhat.com. 
 
 [discrete]
