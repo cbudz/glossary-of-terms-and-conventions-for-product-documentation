@@ -1,4 +1,15 @@
 [discrete]
+==== fail (verb)
+[[fail]]
+*Description*: When a program fails, it means that it stops working.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:terminate[terminate]
+
+[discrete]
 ==== FAQ (noun)
 [[faq]]
 *Description*: When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F-A-Q") not "a FAQ." The plural form is "FAQs." 

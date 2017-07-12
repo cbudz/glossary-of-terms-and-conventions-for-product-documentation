@@ -10,6 +10,17 @@
 *See also*:
 
 [discrete]
+==== terminate (verb)
+[[terminate]]
+*Description*: To terminate means to stop or end a program.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*: xref:fail[fail]
+
+[discrete]
 ==== text mode (noun)
 [[text-mode]]
 *Description*: A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.
