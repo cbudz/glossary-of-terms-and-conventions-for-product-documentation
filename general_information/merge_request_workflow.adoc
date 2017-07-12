@@ -24,6 +24,7 @@
 |====
 
 This table provides additional information for adding, revising, or deleting product-specific terms.
+
 .What happens to my product-specific merge request?
 [width="100%",cols="50%,50%",options="header"]
 |====
