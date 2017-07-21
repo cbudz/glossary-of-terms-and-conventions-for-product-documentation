@@ -29,9 +29,9 @@ The _Glossary of Terms and Conventions for Product Documentation_ is stored in a
 [discrete]
 ==== Web UI: Adding and Editing Entries
 
-[NOTE] 
+[NOTE]
 ====
-Before you start, ensure that you are logged in to GitLab. Use your Kerberos credentials or the *Red Hat SAML Login* to log in to GitLab. 
+Before you start, ensure that you are logged in to GitLab. Use your Kerberos credentials or the *Red Hat SAML Login* to log in to GitLab.
 
 In addition, make sure that you have at least *Developer* permissions for the https://gitlab.cee.redhat.com/ccs-internal-documentation[CCS Internal GitLab group]. To check your access, see the https://gitlab.cee.redhat.com/groups/ccs-internal-documentation/group_members[Members] page. If you do not have the permissions, request them by clicking *Request Access*.
 ====
@@ -121,18 +121,20 @@ $ git checkout -b <name-of-the-branch>
 
     .. If you created a new file, add the file to the `master.adoc` file. Add the file in alphabetical order under the `== Product-specific Conventions` heading. For example:
 +
-[source]
+[source,subs="+macros"]
 ----
- include::{includedir}/products_conventions/red-hat-virtualization.adoc[]
+pass:quotes[include::{includedir}/products_conventions/red-hat-virtualization.adoc[]]
 ----
 
-. Verify that you are able to build the document locally. Run the following command from the main repository directory (the one where the `master.adoc` file is).
+. Verify that you are able to build the document locally. Run the following script, which is provided in the main repository directory. This builds the document using the `ccutil` command.
 +
 ----
-$ ccutil compile --format html-single --lang en-US --open
+$ ./build_guide.sh
 ----
 +
-If `ccutil` fails to build the document, fix the reported errors. See xref:failed-jenkins-build[What do I do when Jenkins fails to build the document after I have added my changes?] for additional hints.
+Review the built document to make sure that your changes render properly.
++
+If `ccutil` fails to build the document, fix the reported errors and try again. See xref:failed-jenkins-build[What do I do when Jenkins fails to build the document after I have added my changes?] for additional hints.
 
 . Stage the changes.
 +
