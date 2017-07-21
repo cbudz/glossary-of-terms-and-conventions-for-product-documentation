@@ -4,11 +4,11 @@ This document outlines terms and conventions for technical language in Red Hat's
 
 == Compiled Version
 
-http://ccs-jenkins.gsslab.brq.redhat.com:8080/job/glossary-of-terms-and-conventions-for-product-documentation-branch-master/lastSuccessfulBuild/artifact/index.html[Glossary of Terms and Conventions for Product Documentation]
+https://doc-stage.usersys.redhat.com/documentation/en-us/ccs_internal_documentation/1.0/html-single/glossary_of_terms_and_conventions_for_product_documentation/[Glossary of Terms and Conventions for Product Documentation]
 
 == Contributing
 
-See http://ccs-jenkins.gsslab.brq.redhat.com:8080/job/glossary-of-terms-and-conventions-for-product-documentation-branch-master/lastSuccessfulBuild/artifact/index.html#how_to_update_this_document[How to Update this Document] for details.
+See https://doc-stage.usersys.redhat.com/documentation/en-us/ccs_internal_documentation/1.0/html-single/glossary_of_terms_and_conventions_for_product_documentation/#how_to_update_this_document[How to Update this Document] for details.
 
 == Project Members
 
