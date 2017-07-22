@@ -1,7 +1,7 @@
 [discrete]
 ==== daisy chain (noun)
 [[daisy-chain-n]]
-*Description*: A hardware configuration in which devices are connected to each other in a series.
+*Description*: When used as a noun, a "daisy chain" is a hardware configuration in which devices are connected to each other in series.
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== daisy chain (verb)
 [[daisy-chain-v]]
-*Description*: To connect devices in a daisy chain pattern.
+*Description*: When used as a verb "daisy chain" means to connect devices in a daisy chain pattern, that is, in series.
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== data center (noun)
 [[data-center]]
-*Description*: A large group of networked computer servers used for the remote storage, processing, or distribution of large amounts of data. Note that marketing publications use the one-word form.
+*Description*: A "data center" is a group of networked computer servers used for the remote storage, processing, or distribution of large amounts of data. Note that marketing publications use the one-word form, "datacenter."
 
 *Use it*: yes
 
@@ -34,7 +34,7 @@
 [discrete]
 ==== data mirroring (noun)
 [[data-mirroring]]
-*Description*: The act of copying data from one location to a storage device in real time.
+*Description*: "Data mirroring" is the act of copying data from one location to a storage device in real time.
 
 *Use it*: yes
 
@@ -45,7 +45,7 @@
 [discrete]
 ==== data path (noun)
 [[data-path-n]]
-*Description*: A data path is a collection of functional units (such as arithmetic logic units or multipliers that perform data processing operations), registers, and buses. Along with the control unit, it composes the central processing unit (CPU).
+*Description*: A "data path" is a collection of functional units (such as arithmetic logic units or multipliers that perform data processing operations), registers, and buses. Along with the control unit, a "data path" comprises the central processing unit (CPU).
 
 *Use it*: yes
 
@@ -56,7 +56,7 @@
 [discrete]
 ==== debug (adjective)
 [[debug-adj]]
-*Description*: A type of command or script that is used to find and remove errors from a program or design. For example, a "debug script."
+*Description*: Use "debug" as an adjective to describe a type of command or script that is used to find and remove errors from a program or design, for example, a "debug script."
 
 *Use it*: yes
 
@@ -67,7 +67,7 @@
 [discrete]
 ==== debug (verb)
 [[debug-v]]
-*Description*: To find and remove errors from a program or design.
+*Description*: When used as a verb, "debug" means to find and remove errors from a program or design.
 
 *Use it*: yes
 
@@ -78,7 +78,7 @@
 [discrete]
 ==== denial of service (noun)
 [[denial-of-service]]
-*Description*: An interruption in a user's access to a computer network, usually caused deliberately and with malicious intent. Use "denial of service (DoS)" on first use, and "DoS" thereafter.
+*Description*: "Denial of service" is an interruption in a user's access to a computer network, usually caused deliberately and with malicious intent. Use "denial of service (DoS)" on first use and "DoS" thereafter.
 
 *Use it*: yes
 
@@ -89,7 +89,7 @@
 [discrete]
 ==== desktop (adjective)
 [[desktop-adj]]
-*Description*: A type of computer.
+*Description*: Use "desktop" as an adjective when describing a type of computer, for example, "desktop computer."
 
 *Use it*: yes
 
@@ -100,7 +100,7 @@
 [discrete]
 ==== desktop (noun)
 [[desktop-n]]
-*Description*: A type of computer, or the working area of a computer screen.
+*Description*: When used as a noun, "desktop" can refer to a type of computer or the working area of a computer screen.
 
 *Use it*: yes
 
@@ -111,7 +111,7 @@
 [discrete]
 ==== device (noun)
 [[device]]
-*Description*: Any machine or component that attaches to a computer.
+*Description*: A "device" is any machine or component that attaches to a computer.
 
 *Use it*: yes
 
@@ -122,7 +122,7 @@
 [discrete]
 ==== DevOps (noun)
 [[devops-n]]
-*Description*: A combination of "development" and "operations." A specific method or organizational approach where developers and IT operations work together to create the applications that run the business. 
+*Description*: "DevOps" is a combination of "Development" and "Operations." It refers to a specific method or organizational approach where developers and IT operations staff work together to create the applications that run the business. 
 
 *Use it*: yes
 
@@ -133,7 +133,7 @@
 [discrete]
 ==== different from (preposition)
 [[different]]
-*Description*: Used when comparing two things. Use when the next part of the sentence is a noun or pronoun.
+*Description*: Use "different from" when comparing two things. Use "different from" when the next part of the sentence is a noun or pronoun.
 
 *Use it*: yes
 
@@ -144,7 +144,7 @@
 [discrete]
 ==== Disk Druid (noun)
 [[disk-druid]]
-*Description*: A partitioning tool incorporated into Red Hat Enterprise Linux.
+*Description*: A "Disk Druid" is a partitioning tool incorporated into Red Hat Enterprise Linux.
 
 *Use it*: yes
 
@@ -155,7 +155,7 @@
 [discrete]
 ==== disk label (noun)
 [[disk-label]]
-*Description*: A record that contains information about the location of the partitions on a disk.
+*Description*: A "disk label" is a record that contains information about the location of the partitions on a disk.
 
 *Use it*: yes
 
@@ -166,7 +166,7 @@
 [discrete]
 ==== DNS (noun)
 [[dns]]
-*Description*: Initialism of "Domain Name System" or "Domain Name Service," a service that translates domain names into IP addresses and vice versa.
+*Description*: "DNS" is an Initialism for "Domain Name System" or "Domain Name Service," a service that translates domain names into IP addresses and vice versa.
 
 *Use it*: yes
 
@@ -177,7 +177,7 @@
 [discrete]
 ==== domain name (noun)
 [[domain-name]]
-*Description*: A name that identifies one or more IP addresses. For example, "redhat.com."
+*Description*: A "domain name" is a name that identifies one or more IP addresses, for example, "redhat.com."
 
 *Use it*: yes
 
@@ -188,7 +188,7 @@
 [discrete]
 ==== downstream (adjective)
 [[downstream]]
-*Description*: Data sent from a network service provider to a customer.
+*Description*: "Downstream" is an adjective that refers to data sent from a network service provider to a customer.
 
 *Use it*: yes
 
@@ -199,7 +199,7 @@
 [discrete]
 ==== download (noun)
 [[download-n]]
-*Description*: The act or process of downloading data.
+*Description*: Use "download" as a noun when referring to software, data, and so on that is being retrieved from another computer.
 
 *Use it*: yes
 
@@ -210,7 +210,7 @@
 [discrete]
 ==== download (verb)
 [[download-v]]
-*Description*: To copy data from one computer system to another.
+*Description*: Use "download" as a verb when referring to the act or process of downloading data.
 
 *Use it*: yes
 
@@ -221,7 +221,7 @@
 [discrete]
 ==== dual-boot (adjective)
 [[dual-boot]]
-*Description*: A system in which two operating systems are installed on the same hard drive.
+*Description*: A "dual-boot" system is a system in which two operating systems are installed on the same hard drive.
 
 *Use it*: yes
 
@@ -232,7 +232,7 @@
 [discrete]
 ==== DVD writer (noun)
 [[DVD-writer]]
-*Description*: A device that records data into the DVD format.
+*Description*: A "DVD writer" is adevice that records data into the DVD format.
 
 *Use it*: yes
 
