@@ -1,7 +1,7 @@
 [discrete]
 ==== manual page (noun)
 [[manual-page]]
-*Description*: A form of a software documentation tied directly with packages providing that software. It is accessible by using the `man <utility>` command from the command line. 
+*Description*: A "manual page" is a form of software documentation tied directly with packages providing that software. It is accessible by using the `man <utility>` command from the command-line interface. 
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== man page (noun)
 [[man-page]]
-*Description*: A short form for manual page. 
+*Description*: "Man page" is an abbreviation for manual page. 
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== many (noun)
 [[many]]
-*Description*: Use "many" to indicate number of objects.
+*Description*: Use "many" to indicate the number of objects.
 
 *Use it*: yes
 
@@ -34,7 +34,7 @@
 [discrete]
 ==== Master Boot Record (noun)
 [[master-boot-record]]
-*Description*: Master Boot Record (MBR) is a small program that is executed when a computer boots up. Typically, the MBR resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process.
+*Description*: "Master Boot Record" ("MBR") is a small program that is executed when a computer boots up. Typically, the "MBR" resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process.
 
 *Use it*: yes
 
@@ -45,7 +45,7 @@
 [discrete]
 ==== matrixes (noun)
 [[matrixes]]
-*Description*: In mathematics, a matrix is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns. The correct plural form from US English spelling is matrixes. Do not use "matrices."
+*Description*: In mathematics, a "matrix" is a rectangular array of numbers, symbols, or expressions arranged in rows and columns. The correct plural form from US English spelling is "matrixes."" Do not use "matrices."
 
 *Use it*: yes
 
@@ -56,7 +56,7 @@
 [discrete]
 ==== MB (noun)
 [[MB]]
-*Description*: Short for megabyte. 1,000,000 or 1,048,576 bytes, depending on the context.
+*Description*: "MB" is an Initialism for "megabyte," which is 1,000,000 bytes or 1,048,576 bytes, depending on the context.
 
 *Use it*: yes
 
@@ -67,7 +67,7 @@
 [discrete]
 ==== Mb (noun)
 [[Mb]]
-*Description*: Short for megabit. 1 megabit = 1000 kilobits or 1,000,000 bits.
+*Description*: "Mb" is an Initialism for megabit. One "megabit" equals 1000 "kilobits" or 1,000,000 "bits."
 
 *Use it*: yes
 
@@ -78,7 +78,7 @@
 [discrete]
 ==== MBps (noun)
 [[mbps]]
-*Description*: Initialism for megabytes per second, a measure of data transfer speed. Mass storage devices are generally measured in MBps.
+*Description*: "MBps" is an initialism for "megabytes per second," a measure of data transfer speed. Mass storage devices are generally measured in "MBps."
 
 *Use it*: yes
 
@@ -89,7 +89,7 @@
 [discrete]
 ==== MBR (noun)
 [[mbr]]
-*Description*: Initialism for Master Boot Record.
+*Description*: "MBR" is an initialism for "Master Boot Record."
 
 *Use it*: yes
 
@@ -100,7 +100,7 @@
 [discrete]
 ==== media (noun)
 [[media]]
-*Description*: (1) Objects on which data can be stored. These include hard disks, diskettes, CDs, and tapes. (2) In computer networks, media refers to the cables linking workstations together. There are many different types of transmission media, the most popular being twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fibre optic cable (cables made out of glass). (3) The form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media. 
+*Description*: (1) "Media" are objects on which data can be stored. These objects include hard disks, diskettes, CDs, and tapes. (2) In computer networks, "media" refer to the cables linking workstations together. There are many different types of transmission "media,"" the most popular being twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fiber optic cable (cables made out of glass). (3) "Media" can also mean the form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of "media."
 
 *Use it*: yes
 
@@ -111,7 +111,7 @@
 [discrete]
 ==== menu-driven (adjective)
 [[menu-driven]]
-*Description*: Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program.
+*Description*: Use "menu-driven" to refer to programs whose user interface employs menus. The opposite of a "menu-driven" program is a "command-driven" program.
 
 *Use it*: yes
 
@@ -122,7 +122,7 @@
 [discrete]
 ==== Microsoft (noun)
 [[microsoft]]
-*Description*: A technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics and personal computers and services.
+*Description*: "Microsoft" is a technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and services.
 
 *Use it*: yes
 
@@ -133,7 +133,7 @@
 [discrete]
 ==== misconfigure (verb)
 [[misconfigure]]
-*Description*: To configure something incorrectly. This term is in common use and does appear in some dictionaries, but try to avoid it if possible. Do not hyphenate.
+*Description*: "Misconfigure" means to configure something incorrectly. Even though "misconfigure" is used commonly and appears in some dictionaries, avoid using it if possible. Do not hyphenate "misconfigure".
 
 *Use it*: with caution
 
@@ -144,7 +144,7 @@
 [discrete]
 ==== mount (verb)
 [[mount]]
-*Description*: (1) To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy. (2) To install a device, such as a disk drive or expansion board.
+*Description*: (1) "Mount" means to make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called "mounting" the floppy. (2) "Mount" also means to install a device, such as a disk drive or expansion board.
 
 *Use it*: yes
 
@@ -155,7 +155,7 @@
 [discrete]
 ==== mouse button (noun)
 [[mouse-button]]
-*Description*: Two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which mouse button, use "right," "left," or "center," such as "right mouse button." Do not hyphenate.
+*Description*: Use "mouse button" as two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which "mouse button" to use, use "right," "left," or "center," such as "right mouse button." Do not hyphenate "mouse button."
 
 *Use it*: yes
 
@@ -166,7 +166,7 @@
 [discrete]
 ==== Mozilla Firefox (noun)
 [[mozilla-firefox]]
-*Description*: An open-source web browser. First reference must be "Mozilla Firefox." Subsequent references can be "Firefox." Do not use "firefox" unless you referring to the `firefox` command and as such, mark it properly
+*Description*: "Mozilla Firefox" is an open source web browser. The first reference must be "Mozilla Firefox." Subsequent references can be "Firefox." Do not use "firefox" unless you are referring to the `firefox` command; as such, mark it properly
 
 *Use it*: yes
 
@@ -177,7 +177,7 @@
 [discrete]
 ==== Mozilla Thunderbird (noun)
 [[mozilla-thunderbird]]
-*Description*: Mozilla Thunderbird is a free, open-source, cross-platform email, news, RSS, and chat client. First reference must be "Mozilla Thunderbird." Subsequent references can be "Thunderbird." Do not use "thunderbird" unless you referring to the `thuderbird` command and as such, mark it properly.
+*Description*: "Mozilla Thunderbird" is a free, open source, cross-platform email, news, RSS, and chat client. The first reference must be "Mozilla Thunderbird." Subsequent references can be "Thunderbird." Do not use "thunderbird" unless you are referring to the `thunderbird` command; as such, mark it properly.
 
 *Use it*: yes
 
@@ -188,7 +188,7 @@
 [discrete]
 ==== MS-DOS (noun)
 [[ms-dos]]
-*Description*: MS-DOS is a operating system, mostly developed by Microsoft. Correct spelling is "MS-DOS," do not use "ms-dos," "MSDOS," or "msdos."
+*Description*: "MS-DOS" is an operating system, mostly developed by Microsoft. The correct spelling is "MS-DOS"; do not use "ms-dos," "MSDOS," or "msdos."
 
 *Use it*: yes
 
@@ -199,7 +199,7 @@
 [discrete]
 ==== multiprocessing (noun)
 [[multiprocessing]]
-*Description*: Multiprocessing is the use of two or more central processing units within a single computer system. Correct spelling is "multiprocessing," do not use "multi-processing."
+*Description*: "Multiprocessing" is the use of two or more central processing units within a single computer system. The correct spelling is "multiprocessing"; do not use "multi-processing."
 
 *Use it*: yes
 
@@ -210,7 +210,7 @@
 [discrete]
 ==== mutual exclusion (noun)
 [[mutual-exclusion]]
-*Description*: In computer science, mutual exclusion is a property of concurrency control, which is instituted for the purpose of preventing race conditions; it is the requirement that one thread of execution never enter its critical section at the same time that another concurrent thread of execution enters its own critical section.
+*Description*: In computer science, "mutual exclusion" is a property of concurrency control, which is instituted for the purpose of preventing race conditions. It is the requirement that one thread of execution never enter its critical section at the same time that another concurrent thread of execution enters its own critical section.
 
 *Use it*: yes
 
@@ -232,7 +232,7 @@
 [discrete]
 ==== mutexes (noun)
 [[mutexes]]
-*Description*: Plural form of "mutex."
+*Description*: "Mutexes" is the plural form of "mutex."
 
 *Use it*: yes
 
@@ -243,10 +243,11 @@
 [discrete]
 ==== MySQL (noun)
 [[mysql]]
-*Description*: Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with a ® to denote a registered trademark. 
+*Description*: "MySQL" is the common open source database server and client package from Microsoft. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an "r-ball" (®) to denote that it is a registered trademark. 
 
 *Use it*: yes
 
 *Incorrect forms*: MYSQL, mySQL
 
 *See also*: xref:sql[SQL]
+
