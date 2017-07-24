@@ -1,7 +1,7 @@
 [discrete]
 ==== JavaScript (noun)
 [[JavaScript]]
-*Description*: "JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase "javascript."
+*Description*: "JavaScript" is a trademark of Oracle Corporation and should be used when referring to the scripting language. When referring to a file written using this language, use "javascript."
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== javascript (adjective)
 [[javascript]]
-*Description*: When referring to a file written using the JavaScript language, use all lowercase; for example, "Copy the IPA javascript file to the `/temp/` directory."
+*Description*: When referring to a file written using the "JavaScript" language, use all lowercase letters, for example, "Copy the IPA "javascript" file to the `/temp/` directory."
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== JBoss Community (noun)
 [[jboss-community]]
-*Description*: Use when referring to the community of users and contributors. No longer referred to as "JBoss.org."
+*Description*: Use "JBoss Community" when referring to the community of users and contributors. Do not refer to the community as "JBoss.org."
 
 *Use it*: yes
 
@@ -34,7 +34,7 @@
 [discrete]
 ==== JBoss Way (noun)
 [[jboss-way]]
-*Description*: When referring specifically to the JBoss cultural and business climate or practices as the subject of your sentence, capitalize "JBoss Way" as a formal, branded concept. However, if the reference is generic or the "way" is further specified, do not capitalize.
+*Description*: When referring specifically to the JBoss cultural and business climate or practices as the subject of your sentence, capitalize "JBoss Way" as a formal, branded concept. If the reference is generic or the "way" is further specified, do not capitalize "way."
 
 *Use it*: yes
 
@@ -46,7 +46,7 @@
 [discrete]
 ==== job (noun)
 [[job]]
-*Description*: A task performed by a computer system. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
+*Description*: A "job" is a task performed by a computer system, for example, printing a file is a "job." "Jobs" can be performed by a single program or by a collection of programs.
 
 *Use it*: yes
 
@@ -57,7 +57,7 @@
 [discrete]
 ==== jsvc (noun)
 [[jsvc]]
-*Description*: The Apache Commons Daemon `jsvc` is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc," otherwise use all lowercase.
+*Description*: The Apache Commons Daemon "jsvc" is a set of libraries and applications for making Java applications run on Unix more easily. Capitalize the initial "J" only at the beginning of a sentence.
 
 *Use it*: yes
 
@@ -68,7 +68,7 @@
 [discrete]
 ==== just (adverb)
 [[just]]
-*Description*: Use sparingly. In the phrase, "Just open the file," the word "just" can be omitted.
+*Description*: Use "just" sparingly. In the phrase "Just open the file," "just" can be omitted.
 
 *Use it*: with caution
 
@@ -79,7 +79,7 @@
 [discrete]
 ==== JVM (noun)
 [[jvm]]
-*Description*: Acronym for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)."
+*Description*: "JVM" is an initialism for "Java Virtual Machine" and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine" or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity because most people know it as such, for example, "Java Virtual Machine (JVM)."
 
 *Use it*: yes
 
