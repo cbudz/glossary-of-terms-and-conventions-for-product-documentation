@@ -1,7 +1,7 @@
 [discrete]
 ==== hard code (verb)
 [[hard-code]]
-*Description*: To configure values in source code such that it cannot be altered without modifying the code.
+*Description*: "Hard code" means to configure values in source code such that it cannot be altered without modifying the code.
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== hard-coded (adjective)
 [[hard-coded]]
-*Description*: A value that is configured in the source code such that it cannot be altered without modifying the code.
+*Description*: A "hard-coded" value is a value that is configured in the source code such that it cannot be altered without modifying the code.
 
 *Use it*: yes
 
@@ -35,7 +35,7 @@
 [discrete]
 ==== healthcare (noun)
 [[healthcare]]
-*Description*: Maintaining or improving health by preventing or treating health issues.
+*Description*: "Healthcare" refers to maintaining or improving health by preventing or treating health issues.
 
 *Use it*: yes
 
@@ -46,9 +46,7 @@
 [discrete]
 ==== health check (noun)
 [[health-check]]
-*Description*: Two words. This term is only capitalized when part of a product name, for example: "Red Hat Enterprise Linux Server Health Check."
-
-Do not capitalize when referring to those services in a general way. For example: "A health check ensures your systems perform at their best."
+*Description*: A "health check" identifies inefficiencies in your IT systems, applications, and maintenance. "Health check" is only capitalized when it is part of a product name, for example, "Red Hat Enterprise Linux Server Health Check." Do not capitalize "health check" when referring to those services in a general way, for example, "A health check ensures your systems perform at their best." Use two words when referring to "health check".
 
 *Use it*: yes
 
@@ -59,7 +57,7 @@ Do not capitalize when referring to those services in a general way. For example
 [discrete]
 ==== help desk (noun)
 [[help-desk]]
-*Description*: A service that provides support for computer users.
+*Description*: A "help desk" is a service that provides support for computer users.
 
 *Use it*: yes
 
@@ -70,7 +68,7 @@ Do not capitalize when referring to those services in a general way. For example
 [discrete]
 ==== hertz (noun)
 [[hertz]]
-*Description*: A unit of frequency. Capitalize the initial "H" only at the beginning of a sentence. The correct abbreviation is "Hz."
+*Description*: A "hertz" is a unit of frequency. Capitalize the initial "H" only at the beginning of a sentence. The correct abbreviation is "Hz."
 
 *Use it*: yes
 
@@ -81,7 +79,7 @@ Do not capitalize when referring to those services in a general way. For example
 [discrete]
 ==== high-availability (adjective)
 [[high-availability]]
-*Description*: An object that is continuously available. For example, "high-availability cluster."
+*Description*: Use "high-availability" to describe an object that is continuously available, for example, "high-availability cluster."
 
 *Use it*: yes
 
@@ -92,7 +90,7 @@ Do not capitalize when referring to those services in a general way. For example
 [discrete]
 ==== high availability (noun)
 [[high-availability-noun]]
-*Description*: The concept of making a system or service continuously available, even if a particular component experiences a failure. For example, "Support is available 24x7 to help maintain high availability."
+*Description*: "High availability" is the concept of making a system or service continuously available, even if a particular component experiences a failure. An example is, "Support is available 24x7 to help maintain high availability."
 
 *Use it*: yes
 
@@ -103,9 +101,7 @@ Do not capitalize when referring to those services in a general way. For example
 [discrete]
 ==== high-performance computing (noun)
 [[high-performance-computing]]
-*Description*: The use of parallel processing to obtain much more efficient processing of complex programs.
-
-Use standard hyphenation guidelines to maintain clarity.
+*Description*: "High-performance computing" is the use of parallel processing to obtain much more efficient processing of complex programs. Use standard hyphenation guidelines to maintain clarity.
 
 *Use it*: yes
 
@@ -116,7 +112,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== host group (noun)
 [[host-group]]
-*Description*: A group of one or more hosts. Two words, and only capitalize the initial "H" at the beginning of a sentence.
+*Description*: A "host group" is a group of one or more hosts. Use "host group" as two words, and only capitalize the initial "H" at the beginning of a sentence.
 
 *Use it*: yes
 
@@ -127,7 +123,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== host name (noun)
 [[host-name]]
-*Description*: Preferred spelling is "host name." Do not use "hostname." Only capitalize the initial "H" at the beginning of a sentence. See The IBM Style Guide for more information.
+*Description*: "Host name" is preferred spelling; do not use "hostname." Only capitalize the initial "H" at the beginning of a sentence. See The IBM Style Guide for more information.
 
 *Use it*: yes
 
@@ -138,7 +134,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== hot add (verb)
 [[hot-add]]
-*Description*: The ability to add physical or virtual hardware to a running system without the need for downtime.
+*Description*: "Hot add" is the ability to add physical or virtual hardware to a running system without the need for downtime.
 
 *Use it*: yes
 
@@ -149,7 +145,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== hotline (noun)
 [[hotline]]
-*Description*: A direct communications link between two points in which communications are automatically directed to a specific destination without the need for additional routing.
+*Description*: A "hotline" is a direct communications link between two points in which communications are automatically directed to a specific destination without the need for additional routing.
 
 *Use it*: yes
 
@@ -160,7 +156,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== hot plug (verb)
 [[hot-plug]]
-*Description*: The ability to add or remove physical or virtual hardware to or from a running system without the need for downtime.
+*Description*: "Hot plug" is the ability to add or remove physical or virtual hardware to or from a running system without the need for downtime.
 
 *Use it*: yes
 
@@ -171,7 +167,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== hot swap (verb)
 [[hot-swap]]
-*Description*: The ability to remove and replace physical or virtual hardware on a running system without the need for downtime.
+*Description*: "Hot swap" is the ability to remove and replace physical or virtual hardware on a running system without the need for downtime.
 
 *Use it*: yes
 
@@ -182,7 +178,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== HP ProLiant (noun)
 [[hp-proliant]]
-*Description*: Hewlett-Packard (HP) servers. Do not use any other variations.
+*Description*: "HP ProLiant" is a Hewlett-Packard (HP) server. Do not use any other variations.
 
 *Use it*: yes
 
@@ -193,7 +189,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== HTML (noun)
 [[html]]
-*Description*: HyperText Markup Language (HTML) is a markup language for web pages. When referring to the language, use "HTML," such as "To see the HTML version of this documentation." When referring to a web page extension, use "html," such as "The main page is index.html."
+*Description*: "HyperText Markup Language" ("HTML") is a markup language for web pages. When referring to the language, use "HTML," such as "To see the HTML version of this documentation." When referring to a web page extension, use "html," such as "The main page is index.html."
 
 *Use it*: yes
 
@@ -204,7 +200,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== huge-page (adjective)
 [[huge-page]]
-*Description*: Page sizes on Linux-based systems larger than the default size of 4096 bytes. Normal hyphenation rules apply. See xref:huge-page-noun[huge page] for capitalization rules.
+*Description*: Use "huge-page" when referring to page sizes on Linux-based systems larger than the default size of 4096 bytes. Normal hyphenation rules apply. See xref:huge-page-noun[huge page] for capitalization rules.
 
 *Use it*: yes
 
@@ -215,7 +211,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== huge page (noun)
 [[huge-page-noun]]
-*Description*: Page sizes on Linux-based systems larger than the default size of 4096 bytes. Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
+*Description*: Use "huge page" when referring to page sizes on Linux-based systems larger than the default size of 4096 bytes. Use the two-word version in uppercase and lowercase. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
 
 *Use it*: yes
 
@@ -226,7 +222,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== Hyper-Threading (noun)
 [[hyper-threading]]
-*Description*: Hyper-Threading is Intel's implementation of simultaneous multithreading. If you are not referring specifically to Intel's implementation, use "simultaneous multithreading" or "SMT" instead.
+*Description*: "Hyper-Threading" is Intel's implementation of simultaneous multithreading. If you are not referring specifically to Intel's implementation, use "simultaneous multithreading" or "SMT."
 
 *Use it*: yes
 
@@ -237,7 +233,7 @@ Use standard hyphenation guidelines to maintain clarity.
 [discrete]
 ==== hypervisor (noun)
 [[hypervisor]]
-*Description*: Software that runs virtual machines. Capitalize only at the beginning of a sentence or as part of Red Hat Enterprise Virtualization Hypervisor.
+*Description*: A "hypervisor" is software that runs virtual machines. Only capitalize the initial "H" at the beginning of a sentence or as part of Red Hat Enterprise Virtualization Hypervisor.
 
 *Use it*: yes
 
