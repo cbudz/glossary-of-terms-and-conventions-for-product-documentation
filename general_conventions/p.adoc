@@ -1,8 +1,7 @@
 [discrete]
 ==== PaaS (noun)
 [[paas]]
-*Description*: This is the correct abbreviation for Platform-as-a-Service. In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Software-as-a-Service), hyphens are always used.
-Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as banners, use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same abbreviation is used across all groups.
+*Description*: "PaaS" is an initialism for Platform-as-a-Service. In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Software-as-a-Service), hyphens are always used. Note for Marketing, Brand, or Customer Portal usage: For all-uppercase text, such as banners, use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same initialism is used across all groups.
 
 *Use it*: yes
 
@@ -13,7 +12,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== PC (noun)
 [[pc]]
-*Description*: Use to refer to a personal computer. See _The IBM Style Guide_ for further information.
+*Description*: "PC" is an initialism for personal computer. See _The IBM Style Guide_ for further information.
 
 *Use it*: yes
 
@@ -24,7 +23,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== Performance Counter (noun)
 [[performance-counter]]
-*Description*: A performance counter is a utility for collecting and analyzing performance data. Always use "performance counter" unless referring to a code element named "perfcounter" and as such, mark it up appropriately (`perfcounter`).
+*Description*: A "performance counter" is a utility for collecting and analyzing performance data. Always use "performance counter" unless referring to a code element named "perfcounter" and as such, mark it up appropriately (`perfcounter`).
 
 *Use it*: yes
 
@@ -36,7 +35,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== PHP (noun)
 [[php]]
-*Description*: Use PHP when referring to the language in general. Use `php` when referring to the specific command or some other literal use. See http://www.php.net/ for specific PHP language information. See http://en.wikipedia.org/wiki/PHP for more general information.
+*Description*: Use "PHP" when referring to the programming language in general. Use `php` when referring to the specific command or some other literal use. See http://www.php.net/ for specific PHP language information. See http://en.wikipedia.org/wiki/PHP for more general information.
 
 *Use it*: yes
 
@@ -47,7 +46,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== Pico (noun)
 [[pico]]
-*Description*: Capitalize when referring to the text editor or to the programming language. Do not capitalize when referring to the SI prefix.
+*Description*: Capitalize "Pico" when referring to the text editor or to the programming language. Do not capitalize "pico" when referring to the SI prefix.
 
 *Use it*: yes
 
@@ -58,7 +57,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== physical topology (noun)
 [[physical-topology]]
-*Description*: Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The physical topology is the way that the workstations are connected to the network through the actual cables that transmit data.
+*Description*: Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The "physical topology" is the way that the workstations are connected to the network through the actual cables that transmit data.
 
 *Use it*: yes
 
@@ -69,7 +68,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== plain text (adjective)
 [[plain-text]]
-*Description*: Correct in almost all cases. We use "plain text" as a plain English denotation of all unencrypted information, whether it is sitting about just being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext." Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm).
+*Description*: "Plain text" is correct in almost all cases. We use "plain text" as a plain English denotation of all unencrypted information, whether it is sitting about just being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext." Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm).
 
 *Use it*: yes
 
@@ -91,7 +90,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== pluggable (noun)
 [[pluggable]]
-*Description*: Something that is capable of being plugged in, especially in terms of (for example) software modules. "Hot-pluggable" is also widely used with respect to hardware to indicate that it can be connected and recognized without powering down the system.
+*Description*: "Pluggable" refers to something that is capable of being plugged in, especially in terms of (for example) software modules. "Hot-pluggable" is also widely used with respect to hardware to indicate that it can be connected and recognized without powering down the system.
 
 *Use it*: yes
 
@@ -102,7 +101,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== plug-in (noun)
 [[plugin]]
-*Description*: A hardware or software module that adds a specific feature or service to a larger system. For example, a number of plug-ins are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator plug-ins are based on MIME file types.
+*Description*: A "plug-in" is a hardware or software module that adds a specific feature or service to a larger system. For example, a number of "plug-ins" are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator "plug-ins" are based on MIME file types.
 
 *Use it*: yes
 
@@ -113,7 +112,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== pop-up (noun)
 [[popup]]
-*Description*: A pop-up is a graphical user interface (GUI) display area, usually a small window, that suddenly appears ("pops up") in the foreground of the visual interface. Pop-ups can be initiated by a single or double mouse click or rollover (sometimes called a mouseover). A pop-up window must be smaller than the background window or interface; otherwise, it's a replacement interface.
+*Description*: A "pop-up" is a graphical user interface (GUI) display area, usually a small window, that suddenly appears ("pops up") in the foreground of the visual interface. "Pop-ups" can be initiated by a single or double mouse click or rollover (sometimes called a mouseover). A "pop-up" window must be smaller than the background window or interface; otherwise, it's a replacement interface.
 
 *Use it*: yes
 
@@ -124,7 +123,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== PostScript (noun)
 [[postscript]]
-*Description*: This is a registered trademark of Adobe.
+*Description*: "PostScript" is a registered trademark of Adobe.
 
 *Use it*: yes
 
@@ -135,7 +134,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== PowerPC (noun)
 [[powerpc]]
-*Description*: Depending on context, either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM POWER Series" (which covers the IBM POWER2 and IBM POWER8 series) is correct. The PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM POWER series hardware in almost all cases.
+*Description*: Depending on context, either "64-bit PowerPC" (which covers most 64-bit "PowerPC" implementations) or "64-bit IBM POWER Series" (which covers the IBM POWER2 and IBM POWER8 series) is correct. The "PowerPC" version of Red Hat Enterprise Linux runs on 64-bit IBM POWER series hardware in almost all cases.
 
 *Use it*: yes
 
@@ -146,7 +145,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== POSIX (noun)
 [[posix]]
-*Description*: POSIX is an acronym for Portable Operating System Interface for UNIX.
+*Description*: "POSIX" is an acronym for Portable Operating System Interface for Unix.
 
 *Use it*: yes
 
@@ -157,7 +156,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== PPP (noun)
 [[ppp]]
-*Description*: Point-to-Point Protocol is a data link (layer 2) protocol used to establish a direct connection between two nodes. It can provide connection authentication, transmission encryption (using ECP, RFC 1968), and compression.
+*Description*: "Point-to-Point Protocol" ("PPP") is a data link (layer 2) protocol used to establish a direct connection between two nodes. It can provide connection authentication, transmission encryption (using ECP, RFC 1968), and compression.
 
 *Use it*: yes
 
@@ -168,7 +167,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== press (verb)
 [[press]]
-*Description*: Use for keyboard instructions. For example, "Press the **Enter** key.
+*Description*: Use "presse" for keyboard instructions, for example, "'Press' the **Enter** key."
 
 *Use it*: yes
 
@@ -179,7 +178,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== PROM (noun)
 [[prom]]
-*Description*: PROM (programmable read-only memory) is a variation of ROM. PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer.
+*Description*: "PROM" (programmable read-only memory) is a variation of "ROM." "PROMs" are manufactured as blank chips on which data can be written with a device called a "PROM" programmer.
 
 *Use it*: yes
 
@@ -190,9 +189,9 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== proof of concept (noun)
 [[proof-of-concept]]
-*Description*: Use the following rules to form the plural of this phrase:
+*Description*: Use the following rules to form the plural of this phrase.
 
-* Use "proofs of concept" when there are multiple proofs, only one concept.
+* Use "proofs of concept" when there are multiple proofs but only one concept.
 * Use "proofs of concepts" when there are multiple proofs and multiple concepts.
 
 *Use it*: yes
@@ -204,7 +203,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== pseudo-ops (noun)
 [[pseudoops]]
-*Description*: Pseudo op stands for pseudo operation and is sometimes called assembler directive. These are keywords that do not directly translate to a machine instruction.
+*Description*: "Pseudo-ops" stands for "pseudo operations" and is sometimes called assembler directive. These are keywords that do not directly translate to a machine instruction.
 
 *Use it*: yes
 
@@ -215,7 +214,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== pSeries (noun)
 [[pseries]]
-*Description*: IBM eServer System p is correct for the first reference in a manual; use IBM System p or System p for subsequent references.
+*Description*: "IBM eServer System p" is correct for the first reference in a manual. Use "IBM System p" or "System p" for subsequent references.
 
 *Use it*: no
 
@@ -226,7 +225,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== pulldown (adjective)
 [[pulldown]]
-*Description*: The common type of menu used with a graphical user interface (GUI). Clicking a menu title causes the menu items to appear to drop down from that position and display. Options are selected either by clicking the menu item or by continuing to hold the mouse button down and letting go when the item is highlighted.
+*Description*: A "pulldown" is the common type of menu used with a graphical user interface (GUI). Clicking a menu title causes the menu items to appear to drop down from that position and display. Options are selected either by clicking the menu item or by continuing to hold the mouse button down and letting go when the item is highlighted.
 
 *Use it*: yes
 
@@ -237,7 +236,7 @@ Note for Marketing, Brand, or Customer Portal usage: For all-caps text, such as 
 [discrete]
 ==== PXE (noun)
 [[pxe]]
-*Description*: PXE is an acronym for Pre-Boot Execution Environment. Pronounced "pixie," PXE is one of the components of Intel's Wired for Management (WfM) specification. It allows a workstation to boot from a server on a network in preference to booting the operating system on the local hard drive. PXE is a mandatory element of the WfM specification. To be considered compliant, PXE must be supported by the computer's BIOS and its NIC.
+*Description*: "PXE" is an acronym for "Pre-Boot Execution Environment."" Pronounced "pixie," "PXE" is one of the components of Intel's Wired for Management (WfM) specification. It allows a workstation to boot from a server on a network in preference to booting the operating system on the local hard drive. "PXE" is a mandatory element of the WfM specification. To be considered compliant, "PXE" must be supported by the computer's BIOS and its NIC.
 
 *Use it*: yes
 
