@@ -311,7 +311,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 
 [discrete]
 ==== project (noun)
-[[project]]
+[[bpms-project]]
 *Description*: A container that comprises packages of assets (business processes, rules, work definitions, decision tables, fact models, data models, and DSLs) and is located in the knowledge repository. This container that defines the properties of the KIE base and KIE session that are applied to its content. You can edit these entities in the project editor in Business Central.
 
 *Use it*: yes
