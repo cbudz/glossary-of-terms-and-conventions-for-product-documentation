@@ -128,6 +128,9 @@ include::{includedir}/products_conventions/red-hat-cloudforms.adoc[]
 === Red Hat JBoss AMQ
 include::{includedir}/products_conventions/amq7.adoc[]
 
+=== Red Hat JBoss BRMS and Red Hat JBoss BPM Suite
+include::{includedir}/products_conventions/bxms.adoc[]
+
 === Red Hat JBoss Enterprise Application Platform
 include::{includedir}/products_conventions/jboss-eap.adoc[]
 
