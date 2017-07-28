@@ -12,7 +12,7 @@
 [discrete]
 ==== OEM (noun)
 [[oem]]
-*Description*: "OEM" is an initialism for "original equipment manufacturer," which is a misleading term for a company that has a special relationship with computer producers. "OEMs" buy computers in bulk and customize them for a particular application. They then sell the customized computer under their own name. The term "OEM" is a misnomer because "OEMs" are not the original manufacturers; they are the customizers.
+*Description*: "OEM" is an acronym for "original equipment manufacturer," which is a misleading term for a company that has a special relationship with computer producers. OEMs buy computers in bulk and customize them for a particular application. They then sell the customized computer under their own name. OEMs are not the original manufacturers; they are the customizers.
 
 *Use it*: yes
 
@@ -100,7 +100,7 @@
 [discrete]
 ==== on-the-fly
 [[on-the-fly]]
-*Description*: "On-the-fly" is an Idiom meaning "as you go" or "in real time." Do not use it as it is not universally understood.
+*Description*: "On-the-fly" is an idiom meaning "as you go" or "in real time." Do not use it as it is not universally understood.
 
 *Use it*: no
 
@@ -156,7 +156,7 @@
 [discrete]
 ==== operating environment (noun)
 [[operating-environment]]
-*Description*: An "operating environment" is the environment in which a user can run application software. An "operating environment" consists of a user interface provided by an applications manager and usually includes an application programming interface (API).
+*Description*: An "operating environment" is the environment in which a user can run application software. An operating environment consists of a user interface provided by an applications manager and usually includes an application programming interface (API).
 
 *Use it*: yes
 
@@ -167,7 +167,7 @@
 [discrete]
 ==== operating system (noun)
 [[operating-system]]
-*Description*: From https://en.wikipedia.org/wiki/Operating_system[Wikipedia]: An "operating system" ("OS") is system software that manages computer hardware and software resources and provides common services for computer programs. All computer programs, excluding firmware, require an "operating system" to function.
+*Description*: From https://en.wikipedia.org/wiki/Operating_system[Wikipedia]: An "operating system" is system software that manages computer hardware and software resources and provides common services for computer programs. All computer programs, excluding firmware, require an operating system to function.
 
 *Use it*: yes
 
@@ -189,7 +189,7 @@
 [discrete]
 ==== override (verb)
 [[override]]
-*Description*: In computing, "override" means to force the use of a specific setting or value instead of the one that would otherwise be used. for example, "apply a setting from a configuration file to 'override' the default ones."
+*Description*: In computing, "override" means to force the use of a specific setting or value instead of the one that would otherwise be used. for example, "apply a setting from a configuration file to override the default ones."
 
 *Use it*: yes
 
