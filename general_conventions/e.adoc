@@ -1,7 +1,7 @@
 [discrete]
 ==== Emacs (noun)
 [[emacs]]
-*Description*: "Emacs" is a text editor available in Unix. Like "vi," "Emacs" is a screen editor. Unlike "vi," "Emacs" is not an insertion mode editor, meaning that any character typed in "Emacs" is automatically inserted into the file, unless it includes a command prefix.
+*Description*: "Emacs" is a text editor available in Unix. Like vi, Emacs is a screen editor. Unlike vi, Emacs is not an insertion mode editor, meaning that any character typed in Emacs is automatically inserted into the file, unless it includes a command prefix.
 
 If referring to the program, use "Emacs," for example, "Source-Navigator supports Emacs or vi commands." If referring to the shell prompt command, use `emacs`. The command should always be properly marked up, for example, "At the prompt, type `emacs`." The complete and correct name is "GNU Emacs."
 
@@ -38,7 +38,7 @@ If referring to the program, use "Emacs," for example, "Source-Navigator support
 [[environment]]
 *Description*: In IT, "environment" refers to the state of a computer, usually determined by which programs are running and basic hardware and software characteristics. For example, when one speaks of running a program in a Unix "environment," it means running a program on a computer that has the Unix operating system.
 
-One ingredient of an "environment" is the operating system, but operating systems include a number of different parameters. For example, many operating systems allow you to choose your command prompt or a default command path. All these parameters taken together comprise the "environment."
+One ingredient of an environment is the operating system, but operating systems include a number of different parameters. For example, many operating systems allow you to choose your command prompt or a default command path. All these parameters taken together comprise the environment.
 
 *Use it*: yes
 
@@ -60,7 +60,7 @@ One ingredient of an "environment" is the operating system, but operating system
 [discrete]
 ==== event (noun)
 [[event]]
-*Description*: An "event" is an action or occurrence detected by a program. "Events" can be user actions, such as clicking a mouse button or pressing a key, or system occurrences, such as running out of memory. 
+*Description*: An "event" is an action or occurrence detected by a program. Events can be user actions, such as clicking a mouse button or pressing a key, or system occurrences, such as running out of memory.
 
 *Use it*: yes
 
@@ -82,7 +82,7 @@ One ingredient of an "environment" is the operating system, but operating system
 [discrete]
 ==== Exec-Shield (noun)
 [[exec-shield]]
-*Description*: "Exec-Shield" is a security-enhancing modification to the Linux kernel that makes large parts of specially marked programs including their stack not executable. 
+*Description*: "Exec-Shield" is a security-enhancing modification to the Linux kernel that makes large parts of specially marked programs including their stack not executable.
 
 *Use it*: yes
 
@@ -104,7 +104,7 @@ One ingredient of an "environment" is the operating system, but operating system
 [discrete]
 ==== extranet (noun)
 [[extranet]]
-*Description*: "Extranet" refers to an intranet that is partially accessible to authorized outsiders. Whereas an intranet resides behind a firewall and is accessible only to people who are members of the same company or organization, an "extranet" provides various levels of accessibility to outsiders. You can access an "extranet" only if you have a valid user name and password, and your identity determines which parts of the "extranet" you can view.
+*Description*: "Extranet" refers to an "intranet" that is partially accessible to authorized outsiders. Whereas an intranet resides behind a firewall and is accessible only to people who are members of the same company or organization, an extranet provides various levels of accessibility to outsiders. You can access an extranet only if you have a valid user name and password. Your identity determines which parts of the extranet you can view.
 
 Capitalize "extranet" only at the beginning of a sentence. 
 
