@@ -23,7 +23,7 @@
 [discrete]
 ==== GAS (noun)
 [[gas]]
-*Description*: "GAS" is an initialism for "GNU Assembler," the assembler used by the GNU Project. When referring to the program, use "GAS."
+*Description*: "GAS" is an acronym for "GNU Assembler," the assembler used by the GNU Project. When referring to the program, use "GAS."
 
 *Use it*: yes
 
@@ -34,7 +34,7 @@
 [discrete]
 ==== gas (noun)
 [[gas-command]]
-*Description*: "GAS" is an initialism for "GNU Assembler," the assembler used by the GNU Project. When referring to the command, use `gas`, marked up appropriately.
+*Description*: "GAS" is an acronym for "GNU Assembler," the assembler used by the GNU Project. When referring to the command, use `gas`, marked up appropriately.
 
 *Use it*: yes
 
@@ -45,7 +45,7 @@
 [discrete]
 ==== GB (noun)
 [[gb]]
-*Description*: "GB" is an initialism of gigabyte. Use a space between the value and the abbreviation, for example, "a 2 GB file."
+*Description*: "GB" is an acronym for gigabyte. Use a space between the value and the abbreviation, for example, "a 2 GB file."
 
 *Use it*: yes
 
@@ -56,7 +56,7 @@
 [discrete]
 ==== Gbps (noun)
 [[gbps]]
-*Description*: "Gbps" is an initialism for Gigabits per second, a data transfer speed measurement for high-speed networks such as Gigabit Ethernet. When used to describe data transfer rates, a gigabit equals 1,000,000,000 bits.
+*Description*: "Gbps" is an acronym for Gigabits per second, a data transfer speed measurement for high-speed networks such as Gigabit Ethernet. When used to describe data transfer rates, a gigabit equals 1,000,000,000 bits.
 
 *Use it*: yes
 
@@ -67,7 +67,7 @@
 [discrete]
 ==== GCC (noun)
 [[gcc]]
-*Description*: The GNU Compiler Collection ("GCC") is a compiler system produced by the GNU Project supporting various programming languages. When referring to the program, use "GCC."
+*Description*: "GCC" is an acronym for the "GNU Compiler Collection." GCC is a compiler system produced by the GNU Project supporting various programming languages. When referring to the program, use "GCC."
 
 *Use it*: yes
 
@@ -78,7 +78,7 @@
 [discrete]
 ==== gcc (noun)
 [[gcc-command]]
-*Description*: The GNU Compiler Collection (GCC) is a compiler system produced by the GNU Project supporting various programming languages. When referring to the command, use `gcc`, marked up appropriately. 
+*Description*: "GCC" is an acronym for the "GNU Compiler Collection." GCC is a compiler system produced by the GNU Project supporting various programming languages. When referring to the command, use `gcc`, marked up appropriately.
 
 *Use it*: yes
 
@@ -89,7 +89,7 @@
 [discrete]
 ==== GCJ (noun)
 [[gcj]]
-*Description*: The GNU Compiler for Java ("GCJ") was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from "GCJ."" In 2016, "GCJ" was removed from "GCC." When referring to the program, use "GCJ." 
+*Description*: "GCJ" is an acronym for the "GNU Compiler for Java." GCJ was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from GCJ. In 2016, GCJ was removed from GCC. When referring to the program, use "GCJ."
 
 *Use it*: yes
 
@@ -101,7 +101,7 @@
 ==== gcj (noun)
 [[gcj-command]]
 
-*Description*: The GNU Compiler for Java ("GCJ") was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from "GCJ." In 2016, "GCJ" was removed from "GCC." When referring to the command, use `gcj`, marked up appropriately.
+*Description*: "GCJ" is an acronym for the "GNU Compiler for Java." GCJ was a free compiler for the Java programming language and part of the GNU Compiler Collection. As of 2015, there were no new developments announced from GCJ. In 2016, GCJ was removed from GCC. When referring to the command, use `gcj`, marked up appropriately.
 
 *Use it*: yes
 
@@ -112,7 +112,7 @@
 [discrete]
 ==== GDB (noun)
 [[gdb]]
-*Description*: The GNU Debugger ("GDB"), is the standard debugger for the GNU operating system. It is a portable debugger that runs on many Unix-like systems and works for many programming languages. When referring to the program, use "GDB."
+*Description*: "GDB" is an acronym for "GNU Debugger," the standard debugger for the GNU operating system. It is a portable debugger that runs on many Unix-like systems and works for many programming languages. When referring to the program, use "GDB."
 
 *Use it*: yes
 
@@ -123,7 +123,7 @@
 [discrete]
 ==== gdb (noun)
 [[gdb-command]]
-*Description*: The GNU Debugger ("GDB"), is the standard debugger for the GNU operating system. It is a portable debugger that runs on many Unix-like systems and works for many programming languages. When referring to the command, use `gdb`, marked up appropriately.
+*Description*: "GDB" is an acronym for "GNU Debugger," the standard debugger for the GNU operating system. It is a portable debugger that runs on many Unix-like systems and works for many programming languages. When referring to the command, use `gdb`, marked up appropriately.
 
 *Use it*: yes
 
@@ -134,7 +134,7 @@
 [discrete]
 ==== GID (noun)
 [[gid]]
-*Description*: "GID" is an acronym for Group ID. Do not use "gid."
+*Description*: "GID" is an acronym for "Group ID." Do not use "gid."
 
 *Use it*: yes
 
@@ -145,7 +145,7 @@
 [discrete]
 ==== gigabyte (noun)
 [[gigabyte]]
-*Description*: A "gigabyte" is 2 to the 30th power (1,073,741,824) bytes. One "gigabyte" is equal to 1,024 "megabytes." When abbreviating "gigabyte," use "GB." 
+*Description*: A "gigabyte" is 2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating gigabyte, use "GB."
 
 *Use it*: yes
 
@@ -156,7 +156,7 @@
 [discrete]
 ==== GIMP (noun)
 [[gimp]]
-*Description*: "GIMP" is an acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp." 
+*Description*: "GIMP" is an acronym for "GNU Image Manipulation Program." Do not use "Gimp" or "gimp." 
 
 *Use it*: yes
 
@@ -178,7 +178,7 @@
 [discrete]
 ==== GNOME Classic (noun)
 [[gnome-classic]]
-*Description*: Although the desktop team tends to refer to "GNOME Classic" (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GNOME Display Manager (GDM) login screen, that is, "GNOME Classic." The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere). 
+*Description*: Although the desktop team tends to refer to "GNOME Classic" (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GNOME Display Manager (GDM) login screen, that is, "GNOME Classic." The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere).
 
 *Use it*: yes
 
@@ -189,7 +189,7 @@
 [discrete]
 ==== GNU (noun)
 [[gnu]]
-*Description*: GNU is a recursive initialism for "GNU's Not Unix." "GNU" is a Unix-like, open source operating system. Do not use "Gnu" or "gnu."
+*Description*: "GNU" is a recursive acronym for "GNU's Not Unix." GNU is a Unix-like, open source operating system. Do not use "Gnu" or "gnu."
 
 *Use it*: yes
 
@@ -211,7 +211,7 @@
 [discrete]
 ==== GPL (noun)
 [[gpl]]
-*Description*: GPL is an initialism for General Public License. Do not use "Gpl" or "gpl."
+*Description*: "GPL" is an acronym for "General Public License." Do not use "Gpl" or "gpl."
 
 *Use it*: yes
 
@@ -222,7 +222,7 @@
 [discrete]
 ==== grayscale (noun)
 [[grayscale]]
-*Description*: "Grayscale" is a range of gray shades from white to black, as used in a monochrome display or printout. Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized. 
+*Description*: "Grayscale" is a range of gray shades from white to black, as used in a monochrome display or printout. Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized.
 
 *Use it*: yes
 
@@ -233,7 +233,7 @@
 [discrete]
 ==== GRUB (noun)
 [[grub]]
-*Description*: "GRUB" is a Linux boot loader and is an acronym for "GRand Unified Bootloader."
+*Description*: "GRUB" is an acronym for "GRand Unified Bootloader," which is a Linux boot loader.
 
 *Use it*: yes
 
@@ -244,7 +244,7 @@
 [discrete]
 ==== GTK+ (noun)
 [[gtkplus]]
-*Description*: "GTK+" is an initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk." 
+*Description*: "GTK+" is an acronym for "GIMP Tool Kit." Do not use "GTK," "Gtk," or "gtk." 
 
 *Use it*: yes
 
@@ -255,7 +255,7 @@
 [discrete]
 ==== Guestfish (noun)
 [[guestfish]]
-*Description*: "Guestfish" is an interactive shell that supports commands for accessing and modifying virtual disk images used in platform virtualization. You can use "Guestfish" for viewing and editing virtual machines (VMs) managed by libvirt.
+*Description*: "Guestfish" is an interactive shell that supports commands for accessing and modifying virtual disk images used in platform virtualization. You can use Guestfish for viewing and editing virtual machines (VMs) managed by libvirt.
 
 *Use it*: yes
 
