@@ -12,7 +12,7 @@
 [discrete]
 ==== man page (noun)
 [[man-page]]
-*Description*: "Man page" is an abbreviation for manual page. 
+*Description*: "Man page" is an abbreviation for "manual page."
 
 *Use it*: yes
 
@@ -34,7 +34,7 @@
 [discrete]
 ==== Master Boot Record (noun)
 [[master-boot-record]]
-*Description*: "Master Boot Record" ("MBR") is a small program that is executed when a computer boots up. Typically, the "MBR" resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process.
+*Description*: "Master Boot Record" (MBR) is a small program that is executed when a computer boots up. Typically, the MBR resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process.
 
 *Use it*: yes
 
@@ -45,7 +45,7 @@
 [discrete]
 ==== matrixes (noun)
 [[matrixes]]
-*Description*: In mathematics, a "matrix" is a rectangular array of numbers, symbols, or expressions arranged in rows and columns. The correct plural form from US English spelling is "matrixes."" Do not use "matrices."
+*Description*: In mathematics, a "matrix" is a rectangular array of numbers, symbols, or expressions arranged in rows and columns. The correct plural form for US English spelling is "matrixes."
 
 *Use it*: yes
 
@@ -56,7 +56,7 @@
 [discrete]
 ==== MB (noun)
 [[MB]]
-*Description*: "MB" is an Initialism for "megabyte," which is 1,000,000 bytes or 1,048,576 bytes, depending on the context.
+*Description*: "MB" is an acronym for "megabyte," which is 1,000,000 bytes or 1,048,576 bytes, depending on the context.
 
 *Use it*: yes
 
@@ -67,7 +67,7 @@
 [discrete]
 ==== Mb (noun)
 [[Mb]]
-*Description*: "Mb" is an Initialism for megabit. One "megabit" equals 1000 "kilobits" or 1,000,000 "bits."
+*Description*: "Mb" is an acronym for "megabit." One megabit equals 1000 kilobits or 1,000,000 bits.
 
 *Use it*: yes
 
@@ -78,7 +78,7 @@
 [discrete]
 ==== MBps (noun)
 [[mbps]]
-*Description*: "MBps" is an initialism for "megabytes per second," a measure of data transfer speed. Mass storage devices are generally measured in "MBps."
+*Description*: "MBps" is an acronym for "megabytes per second," a measure of data transfer speed. Mass storage devices are generally measured in MBps.
 
 *Use it*: yes
 
@@ -89,7 +89,7 @@
 [discrete]
 ==== MBR (noun)
 [[mbr]]
-*Description*: "MBR" is an initialism for "Master Boot Record."
+*Description*: "MBR" is an acronym for "Master Boot Record."
 
 *Use it*: yes
 
@@ -100,7 +100,7 @@
 [discrete]
 ==== media (noun)
 [[media]]
-*Description*: (1) "Media" are objects on which data can be stored. These objects include hard disks, diskettes, CDs, and tapes. (2) In computer networks, "media" refer to the cables linking workstations together. There are many different types of transmission "media,"" the most popular being twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fiber optic cable (cables made out of glass). (3) "Media" can also mean the form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of "media."
+*Description*: (1) "Media" are objects on which data can be stored. These objects include hard disks, diskettes, CDs, and tapes. (2) In computer networks, "media" refer to the cables linking workstations together. There are many different types of transmission media, the most popular being twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fiber optic cable (cables made out of glass). (3) "Media" can also mean the form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media.
 
 *Use it*: yes
 
@@ -111,7 +111,7 @@
 [discrete]
 ==== menu-driven (adjective)
 [[menu-driven]]
-*Description*: Use "menu-driven" to refer to programs whose user interface employs menus. The opposite of a "menu-driven" program is a "command-driven" program.
+*Description*: Use "menu-driven" to refer to programs whose user interface employs menus rather than command-line interface commands.
 
 *Use it*: yes
 
@@ -133,7 +133,7 @@
 [discrete]
 ==== misconfigure (verb)
 [[misconfigure]]
-*Description*: "Misconfigure" means to configure something incorrectly. Even though "misconfigure" is used commonly and appears in some dictionaries, avoid using it if possible. Do not hyphenate "misconfigure".
+*Description*: "Misconfigure" means to configure something incorrectly. Avoid using it if possible.
 
 *Use it*: with caution
 
@@ -155,7 +155,7 @@
 [discrete]
 ==== mouse button (noun)
 [[mouse-button]]
-*Description*: Use "mouse button" as two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which "mouse button" to use, use "right," "left," or "center," such as "right mouse button." Do not hyphenate "mouse button."
+*Description*: Use "mouse button" as two words. If you need to indicate which mouse button to use, use "right," "left," or "center," such as "right mouse button."
 
 *Use it*: yes
 
@@ -188,7 +188,7 @@
 [discrete]
 ==== MS-DOS (noun)
 [[ms-dos]]
-*Description*: "MS-DOS" is an operating system, mostly developed by Microsoft. The correct spelling is "MS-DOS"; do not use "ms-dos," "MSDOS," or "msdos."
+*Description*: "MS-DOS" is an operating system, mostly developed by Microsoft.
 
 *Use it*: yes
 
@@ -199,7 +199,7 @@
 [discrete]
 ==== multiprocessing (noun)
 [[multiprocessing]]
-*Description*: "Multiprocessing" is the use of two or more central processing units within a single computer system. The correct spelling is "multiprocessing"; do not use "multi-processing."
+*Description*: "Multiprocessing" is the use of two or more central processing units within a single computer system.
 
 *Use it*: yes
 
@@ -221,7 +221,7 @@
 [discrete]
 ==== mutex (noun)
 [[mutex]]
-*Description*: "Mutex" is an abbreviation of "mutual exclusion."
+*Description*: "Mutex" is an abbreviation for "mutual exclusion."
 
 *Use it*: yes
 
@@ -243,7 +243,7 @@
 [discrete]
 ==== MySQL (noun)
 [[mysql]]
-*Description*: "MySQL" is the common open source database server and client package from Microsoft. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an "r-ball" (®) to denote that it is a registered trademark. 
+*Description*: "MySQL" is the common open source database server and client package from Microsoft. Mark the first mention of MySQL in body text with an r-ball (®) to denote that it is a registered trademark. 
 
 *Use it*: yes
 
