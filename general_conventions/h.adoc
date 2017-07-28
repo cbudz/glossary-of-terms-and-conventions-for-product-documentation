@@ -23,7 +23,7 @@
 [discrete]
 ==== he (pronoun)
 [[he]]
-*Description*: Reword to avoid "he" or "she."
+*Description*: Reword the sentence to avoid using "he" or "she."
 
 *Use it*: no
 
@@ -46,7 +46,7 @@
 [discrete]
 ==== health check (noun)
 [[health-check]]
-*Description*: A "health check" identifies inefficiencies in your IT systems, applications, and maintenance. "Health check" is only capitalized when it is part of a product name, for example, "Red Hat Enterprise Linux Server Health Check." Do not capitalize "health check" when referring to those services in a general way, for example, "A health check ensures your systems perform at their best." Use two words when referring to "health check".
+*Description*: A "health check" identifies inefficiencies in your IT systems, applications, and maintenance. "Health check" is only capitalized when it is part of a product name, for example, "Red Hat Enterprise Linux Server Health Check." Do not capitalize "health check" when referring to those services in a general way, for example, "A health check ensures your systems perform at their best."
 
 *Use it*: yes
 
@@ -112,7 +112,7 @@
 [discrete]
 ==== host group (noun)
 [[host-group]]
-*Description*: A "host group" is a group of one or more hosts. Use "host group" as two words, and only capitalize the initial "H" at the beginning of a sentence.
+*Description*: A "host group" is a group of one or more hosts. Only capitalize the initial "H" at the beginning of a sentence.
 
 *Use it*: yes
 
@@ -189,7 +189,7 @@
 [discrete]
 ==== HTML (noun)
 [[html]]
-*Description*: "HyperText Markup Language" ("HTML") is a markup language for web pages. When referring to the language, use "HTML," such as "To see the HTML version of this documentation." When referring to a web page extension, use "html," such as "The main page is index.html."
+*Description*: "HTML" is an acronym for "HyperText Markup Language," a markup language for web pages. When referring to the language, use "HTML," such as "To see the HTML version of this documentation." When referring to a web page extension, use "html," such as "The main page is index.html."
 
 *Use it*: yes
 
