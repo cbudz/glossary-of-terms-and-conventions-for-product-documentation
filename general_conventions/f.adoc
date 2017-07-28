@@ -1,7 +1,7 @@
 [discrete]
 ==== fail (verb)
 [[fail]]
-*Description*: When a program "fails,"" it means that it stops working.
+*Description*: When a program "fails," it means that it stops working.
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== FAQ (noun)
 [[faq]]
-*Description*: When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F-A-Q") not "a FAQ." The plural form is "FAQs." 
+*Description*: When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F-A-Q"), not "a FAQ." The plural form is "FAQs."
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== fault tolerance (noun)
 [[fault-tolerance-n]]
-*Description*: "Fault tolerance is the ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of "fault tolerance," the lowest being the ability to continue operation in the event of a power failure. 
+*Description*: "Fault tolerance" is the ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. 
 
 Use the two-word "fault tolerance" when using it as a noun.
 
@@ -36,7 +36,7 @@ Use the two-word "fault tolerance" when using it as a noun.
 [discrete]
 ==== fault-tolerant (adjective)
 [[fault-tolerant-adj]]
-*Description*: Use "fault-tolerant" as an adjective when describing a system that can respond gracefully to an unexpected hardware or software failure. Many "fault-tolerant" computer systems mirror all operations, that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over. 
+*Description*: Use "fault-tolerant" as an adjective when describing a system that can respond gracefully to an unexpected hardware or software failure. Many fault-tolerant computer systems mirror all operations, that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over. 
 
 Use the hyphenated "fault-tolerant" when using it as an adjective.
 
@@ -49,7 +49,7 @@ Use the hyphenated "fault-tolerant" when using it as an adjective.
 [discrete]
 ==== Fedora™ Project (noun)
 [[fedora-project]]
-*Description*: The "Fedora Project" is a global partnership of free software community members, sponsored by Red Hat. Red Hat Enterprise Linux is based on the "Fedora" operating system.
+*Description*: The "Fedora Project" is a global partnership of free software community members, sponsored by Red Hat. Red Hat Enterprise Linux is based on the Fedora operating system.
 
 *Use it*: yes
 
@@ -62,7 +62,7 @@ Use the hyphenated "fault-tolerant" when using it as an adjective.
 [[firewire]]
 *Description*: "FireWire" is Apple's name for the IEEE 1394 High Speed Serial Bus, a serial bus architecture for high-speed data transfer.
 
-Do not use "Firewire" or "firewire." Although "FireWire" is a trademark of Apple Computer, it does not need to be listed with a trademark symbol when mentioned. Only use the trademark symbol when talking about Apple's "FireWire" software license or specific logos. See http://developer.apple.com/softwarelicensing/agreements/firewire.html for full details.
+Do not use "Firewire" or "firewire." Although FireWire is a trademark of Apple Computer, it does not need to be listed with a trademark symbol when mentioned. Only use the trademark symbol when talking about Apple's FireWire software license or specific logos. See http://developer.apple.com/softwarelicensing/agreements/firewire.html for full details.
 
 *Use it*: yes
 
@@ -73,7 +73,7 @@ Do not use "Firewire" or "firewire." Although "FireWire" is a trademark of Apple
 [discrete]
 ==== firmware (noun)
 [[firmware]]
-*Description*: "Firmware" is software (programs or data) that has been written onto read-only memory (ROM). "Firmware" is a combination of software and hardware. ROMs, PROMs (programmable ROMs), and EPROMs (erasable PROMs) that have data or programs recorded on them are "firmware."
+*Description*: "Firmware" is software (programs or data) that has been written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs (programmable ROMs), and EPROMs (erasable PROMs) that have data or programs recorded on them are firmware.
 
 *Use it*: yes
 
@@ -95,9 +95,9 @@ Do not use "Firewire" or "firewire." Although "FireWire" is a trademark of Apple
 [discrete]
 ==== foreground (noun)
 [[foreground]]
-*Description*: In multiprocessing systems, the process that is currently accepting input from the keyboard or other input device is sometimes called the "foreground" process.
+*Description*: In multiprocessing systems, "foreground" sometimes refers to the process that is currently accepting input from the keyboard or other input device.
 
-On display screens, the "foreground" consists of the characters and pictures that appear on the screen. The "background" is the uniform canvas behind the characters and pictures.
+On display screens, the foreground consists of the characters and pictures that appear on the screen. The background is the uniform canvas behind the characters and pictures.
 
 *Use it*: yes
 
@@ -119,9 +119,9 @@ On display screens, the "foreground" consists of the characters and pictures tha
 [discrete]
 ==== FQDN (noun)
 [[fqdn]]
-*Description*: "FQND" is an initialism for fully qualified domain name. A "FQDN" consists of a host and domain name, including top-level domain. For example, www.redhat.com is a fully qualified domain name. www is the host, redhat is the second-level domain, and .com is the top level domain.
+*Description*: "FQND" is an acronym for fully qualified domain name. A FQDN consists of a host and domain name, including top-level domain. For example, www.redhat.com is a fully qualified domain name. www is the host, redhat is the second-level domain, and .com is the top level domain.
 
-A "FQDN" always starts with a host name and continues all the way up to the top-level domain name, so www.parc.xerox.com is also a "FQDN."
+A FQDN always starts with a host name and continues all the way up to the top-level domain name, so www.parc.xerox.com is also a FQDN.
 
 *Use it*: yes
 
@@ -169,7 +169,7 @@ Do not use "frontend" as noun or adjective.
 [discrete]
 ==== futexes (noun)
 [[futexes]]
-*Description*: "Futex" is an abbreviation of "fast user-space mutex." Consequently, "futexes" is the correct plural form.
+*Description*: "Futex" is an abbreviation of "fast user-space mutex." "Futexes" is the correct plural form.
 
 *Use it*: yes
 
