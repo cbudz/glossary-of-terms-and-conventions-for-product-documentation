@@ -123,7 +123,7 @@
 [discrete]
 ==== host name (noun)
 [[host-name]]
-*Description*: "Host name" is preferred spelling; do not use "hostname." Only capitalize the initial "H" at the beginning of a sentence. See The IBM Style Guide for more information.
+*Description*: "Host name" is preferred spelling; do not use "hostname." Only capitalize the initial "H" at the beginning of a sentence. See _The IBM Style Guide_ for more information.
 
 *Use it*: yes
 
