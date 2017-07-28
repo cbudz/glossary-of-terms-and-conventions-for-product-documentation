@@ -1,7 +1,7 @@
 [discrete]
 ==== KB (noun)
 [[KB]]
-*Description*: "KB" is the initialism of kilobyte. One "KB" equals 1024 bytes.
+*Description*: "KB" is acromyn for "kilobyte." One KB equals 1024 bytes.
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== kB (noun)
 [[kB]]
-*Description*: "kB" is the initialism of kilobyte. One "kB" equals 1000 bytes.
+*Description*: "kB" is an acronym for "kilobyte." One kB equals 1000 bytes.
 
 *Use it*: yes
 
@@ -45,7 +45,7 @@
 [discrete]
 ==== kernel (noun)
 [[kernel]]
-*Description*: The "kernel" is the central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the "kernel" to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the "kernel" is responsible for memory management, process and task management, and disk management. Do not capitalize the first letter.
+*Description*: The "kernel" is the central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management. Do not capitalize the first letter.
 
 *Use it*: yes
 
@@ -56,7 +56,7 @@
 [discrete]
 ==== Kernel-based Virtual Machine (noun)
 [[kernel-based-virtual-machine]]
-*Description*: "Kernel-based Virtual Machine" is a loadable kernel module that converts the Linux kernel into a bare metal hypervisor. Spell out "Kernel-based Virtual Machine" on first occurrence, and use the initialism "KVM" thereafter. It is an industry standard and a proper noun.
+*Description*: "Kernel-based Virtual Machine" is a loadable kernel module that converts the Linux kernel into a bare metal hypervisor. Spell out "Kernel-based Virtual Machine" on first occurrence, and use "KVM" thereafter. It is an industry standard and a proper noun.
 
 *Use it*: yes
 
@@ -78,7 +78,7 @@
 [discrete]
 ==== kernel panic (noun)
 [[kernel-panic]]
-*Description*: Numerous circumstances can cause a "kernel panic." Unlike a "kernel oops," when confronted with a "kernel panic," the operating system shuts down to prevent the possibility of further damage or security breaches.
+*Description*: Numerous circumstances can cause a "kernel panic." Unlike a "kernel oops," when confronted with a kernel panic, the operating system shuts down to prevent the possibility of further damage or security breaches.
 
 *Use it*: yes
 
@@ -111,7 +111,7 @@
 [discrete]
 ==== Kickstart (noun)
 [[kickstart]]
-*Description*: "Kickstart" is a tool for Red Hat Enterprise Linux and Fedora-based distributions that allows you to control various aspects of a system install process using commands in a text file. You can use "Kickstart" to change defaults or even do a fully automatic installation. Always capitalize the first letter.
+*Description*: "Kickstart" is a tool for Red Hat Enterprise Linux and Fedora-based distributions that allows you to control various aspects of a system install process using commands in a text file. You can use Kickstart to change defaults or even do a fully automatic installation. Capitalize the first letter.
 
 *Use it*: yes
 
@@ -122,7 +122,7 @@
 [discrete]
 ==== kill (verb)
 [[kill]]
-*Description*: If terminating a Unix process, use "kill," for example, "To terminate the process, type 'kill' -9 <PID>`."
+*Description*: If terminating a Unix process, use "kill," for example, "To terminate the process, type `kill -9 <PID>`."
 
 *Use it*: yes
 
@@ -155,7 +155,7 @@
 [discrete]
 ==== KVM (noun)
 [[kvm]]
-*Description*: "KVM" is the initialism for "Kernel-based Virtual Machine."
+*Description*: "KVM" is an acronym for "Kernel-based Virtual Machine."
 
 *Use it*: yes
 
