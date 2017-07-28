@@ -1,7 +1,7 @@
 [discrete]
 ==== IaaS (noun)
 [[iaas]]
-*Description*: "Iaas" is an initialism for "Infrastructure-as-a-Service." Always use hyphen when spelling out the initialism.
+*Description*: "Iaas" is an acronym for "Infrastructure-as-a-Service." Always use hyphens when spelling out the acronym.
 
 *Use it*: yes
 
@@ -101,7 +101,7 @@
 [discrete]
 ==== Intel Virtualization Technology (noun)
 [[intel-virtualization-technology]]
-*Description*: The first and all prominent uses of "Intel Virtualization Technology" should be spelled out, immediately followed by the initialism, for example, "Intel Virtualization Technology (Intel VT) for Intel 64 or Itanium architecture (Intel VT-i)." Subsequent uses can be abbreviated to "Intel VT-i." Always write the initialism in uppercase, accompanied by the "Intel" mark. Do not use the initialism in any prominent places, such as in titles or paragraph headings, nor include any trademark symbols, such as (TM) or "\(TM)."
+*Description*: The first and all prominent uses of "Intel Virtualization Technology" should be spelled out, immediately followed by the acronym, for example, "Intel Virtualization Technology (Intel VT) for Intel 64 or Itanium architecture (Intel VT-i)." Subsequent uses can be abbreviated to "Intel VT-i." Always write the acronym in uppercase letters, accompanied by the Intel mark. Do not use the acronym in any prominent places, such as in titles or paragraph headings. Do not include any trademark symbols, such as (TM) or "\(TM).
 
 *Use it*: yes
 
@@ -123,7 +123,7 @@
 [discrete]
 ==== interesting (adjective)
 [[interesting]]
-*Description*: Avoid using "interesting", as this term is a substitute for showing the reader why something is of interest. Instead of writing, "It is interesting to note...," consider using a "Note" admonition.
+*Description*: Avoid using "interesting," as this term is a substitute for showing the reader why something is of interest. Instead of writing, "It is interesting to note...," consider using a "Note" admonition.
 
 *Use it*: no
 
@@ -134,7 +134,7 @@
 [discrete]
 ==== Internet of Things (noun)
 [[internet-of-things]]
-*Description*: The "Internet of Things" ("IoT") refers to uniquely identifiable objects and their virtual representations in an Internet-like structure. See the link:https://en.wikipedia.org/wiki/Internet_of_things[Internet of Things Wikipedia page] for more information. Capitalize "Internet of Things" ("IoT") as shown. Spell it out on the first occurrence, and use the initialism thereafter.
+*Description*: The "Internet of Things" ("IoT") refers to uniquely identifiable objects and their virtual representations in an Internet-like structure. See the link:https://en.wikipedia.org/wiki/Internet_of_things[Internet of Things Wikipedia page] for more information. Capitalize "Internet of Things" (IoT) as shown. Spell out "Internet of Things" on the first occurrence, and use the acronym thereafter.
 
 *Use it*: yes
 
@@ -145,9 +145,9 @@
 [discrete]
 ==== I/O (noun)
 [[i-o]]
-*Description*: "I/O" stands for input/output (pronounced "eye-oh"). The term "I/O" is used to describe any program, operation, or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mice are input-only devices, while devices such as printers are output-only. A writable CD is both an input and an output device.
+*Description*: "I/O" is an acronym for "input/output" (pronounced "eye-oh"). The term I/O is used to describe any program, operation, or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mice are input-only devices, while devices such as printers are output-only. A writable CD is both an input and an output device.
 
-The term "I/O" is a non-countable noun, meaning that it cannot be expressed in plural form. Append "operations" to refer to multiple units of "I/O," for example, "'I/O' operations could not be recovered in situations where 'I/O' should have been temporarily queued, such as when paths were unavailable."
+The term I/O is a non-countable noun, meaning that it cannot be expressed in plural form. Append "operations" to refer to multiple units of I/O, for example, "I/O operations could not be recovered in situations where I/O should have been temporarily queued, such as when paths were unavailable."
 
 *Use it*: yes
 
@@ -158,18 +158,18 @@ The term "I/O" is a non-countable noun, meaning that it cannot be expressed in p
 [discrete]
 ==== IOPS (noun)
 [[iops]]
-*Description*: "IOPS" stands for "input/output operations per second." Capitalize "IOPS" as shown.
+*Description*: "IOPS" is an acronym for "input/output operations per second."
 
 *Use it*: yes
 
-*Incorrect forms*:
+*Incorrect forms*: Iops, IOPs
 
 *See also*:
 
 [discrete]
 ==== Insight (noun)
 [[insight]]
-*Description*: "Insight" is a graphical user interface to GDB, the GNU Debugger. "Insight" is written in Tcl/Tk and was developed by associates from Red Hat and Cygnus Solutions.
+*Description*: "Insight" is a graphical user interface to the GNU Debugger (GDB). Insight is written in Tcl/Tk and was developed by associates from Red Hat and Cygnus Solutions.
 
 *Use it*: yes
 
@@ -180,20 +180,20 @@ The term "I/O" is a non-countable noun, meaning that it cannot be expressed in p
 [discrete]
 ==== IP (noun)
 [[ip]]
-*Description*: "IP" is an initialism for Internet Protocol. Capitalize both letters.
+*Description*: "IP" is an acronym for "Internet Protocol."
 
 *Use it*: yes
 
-*Incorrect forms*:
+*Incorrect forms*:Ip
 
 *See also*:
 
 [discrete]
 ==== IP Masquerade (noun)
 [[ip-masquerade]]
-*Description*: "IP Masquerade" is a Linux networking function. "IP Masquerade,"" also called "IPMASQ" or "MASQ," allows one or more computers in a network without assigned IP addresses to communicate with the Internet using the Linux server's assigned IP address. The "IPMASQ" server acts as a gateway, and the other devices are invisible behind it, so to other machines on the Internet the outgoing traffic appears to be coming from the "IPMASQ" server and not the internal PCs.
+*Description*: "IP Masquerade" is a Linux networking function. IP Masquerade, also called "IPMASQ" or "MASQ," allows one or more computers in a network without assigned IP addresses to communicate with the Internet using the Linux server's assigned IP address. The IPMASQ server acts as a gateway, and the other devices are invisible behind it. To other machines on the Internet, the outgoing traffic appears to be coming from the IPMASQ server and not the internal PCs.
 
-Because "IPMASQ" is a generic technology, the server can be connected to other computers through LAN technologies such as Ethernet, Token Ring, and FDDI, as well as dial-up connections such as PPP or SLIP.
+Because IPMASQ is a generic technology, the server can be connected to other computers through LAN technologies such as Ethernet, Token Ring, and FDDI, as well as dial-up connections such as PPP or SLIP.
 
 *Use it*: yes
 
@@ -204,7 +204,7 @@ Because "IPMASQ" is a generic technology, the server can be connected to other c
 [discrete]
 ==== IPsec (noun)
 [[ipsec]]
-*Description*: "IPsec" stands for Internet Protocol security.
+*Description*: "IPsec" is an acronym for "Internet Protocol security."
 
 *Use it*: yes
 
@@ -215,7 +215,7 @@ Because "IPMASQ" is a generic technology, the server can be connected to other c
 [discrete]
 ==== IP switching (noun)
 [[ip-switching]]
-*Description*: "IP switching" is a type of IP routing developed by Ipsilon Networks, Inc. Unlike conventional routers, "IP switching" routers use ATM hardware to speed packets through networks. Although the technology is new, it appears to be considerably faster than older router techniques.
+*Description*: "IP switching" is a type of IP routing developed by Ipsilon Networks, Inc. Unlike conventional routers, IP switching routers use ATM hardware to speed packets through networks. Although the technology is new, it appears to be considerably faster than older router techniques.
 
 *Use it*: yes
 
@@ -226,7 +226,7 @@ Because "IPMASQ" is a generic technology, the server can be connected to other c
 [discrete]
 ==== ISO (noun)
 [[iso]]
-*Description*: "ISO" is an initialism for the International Organization for Standardization, which is an international standard-setting body comprising representatives from multiple national standards organizations. Since its founding in February 1947, "ISO" has promoted worldwide proprietary, industrial, and commercial standards.
+*Description*: "ISO" is an acronym for the "International Organization for Standardization," which is an international standard-setting body made up of representatives from multiple national standards organizations. Since its founding in February 1947, ISO has promoted worldwide proprietary, industrial, and commercial standards.
 
 *Use it*: yes
 
@@ -237,7 +237,7 @@ Because "IPMASQ" is a generic technology, the server can be connected to other c
 [discrete]
 ==== ISO image (noun)
 [[iso-image]]
-*Description*: An "ISO image" is a type of disk image comprising the data contents from every written sector on a media disk. "ISO image" files use the `.iso` file extension. According to Wikipedia, the ISO name comes from the ISO 9660 file system used with CD-ROM media, but what is known as an "ISO image" might also contain a UDF (ISO/IEC 13346) file system, which is often used by DVDs and Blu-ray discs.
+*Description*: An "ISO image" is a type of disk image comprising the data contents from every written sector on a media disk. ISO image files use the `.iso` file extension. According to Wikipedia, the ISO name comes from the ISO 9660 file system used with CD-ROM media, but what is known as an ISO image might also contain a UDF (ISO/IEC 13346) file system, which is often used by DVDs and Blu-ray discs.
 
 *Use it*: yes
 
@@ -248,7 +248,7 @@ Because "IPMASQ" is a generic technology, the server can be connected to other c
 [discrete]
 ==== ISV (noun)
 [[isv]]
-*Description*: "ISV" is an initialism for independent software vendor, a company that produces software.
+*Description*: "ISV" is an acronym for "independent software vendor," a company that produces software.
 
 *Use it*: yes
 
@@ -259,7 +259,7 @@ Because "IPMASQ" is a generic technology, the server can be connected to other c
 [discrete]
 ==== IT, I.T. (noun)
 [[it]]
-*Description*: "IT" and "I.T" are initialisms for information technology. Use "I.T." (with periods) only in headlines or subheadings where all uppercase letters are used to clarify that the word is "IT" vs. "it."
+*Description*: "IT" and "I.T" are acronyms for "information technology." Use "I.T." (with periods) only in headlines or subheadings where all uppercase letters are used to clarify that the word is "IT" rather than "it."
 
 *Use it*: yes
 
@@ -270,11 +270,11 @@ Because "IPMASQ" is a generic technology, the server can be connected to other c
 [discrete]
 ==== Itanium (noun)
 [[itanium]]
-*Description*: "Itanium" is a 64-bit RISC microprocessor and a member of Intel's Merced family of processors. Based on the EPIC (Explicitly Parallel Instruction Computing) design philosophy, which states that the compiler should decide which instructions be executed together, "Itanium" has the highest FPU power available.
+*Description*: "Itanium" is a 64-bit RISC microprocessor and a member of Intel's Merced family of processors. Based on the Explicitly Parallel Instruction Computing (EPIC) design philosophy, which states that the compiler should decide which instructions be executed together, Itanium has the highest FPU power available.
 
-In 64-bit mode, "Itanium" is able to calculate two bundles of a maximum of three instructions at a time. In 32-bit mode, it is much slower. Decoders must first translate 32-bit instruction sets into 64-bit instruction sets, which results in extra-clock cycle use.
+In 64-bit mode, Itanium is able to calculate two bundles of a maximum of three instructions at a time. In 32-bit mode, it is much slower. Decoders must first translate 32-bit instruction sets into 64-bit instruction sets, which results in extra-clock cycle use.
 
-"Itanium's" primary use is driving large applications that require more than 4 GB of memory, such as databases, ERP, and future Internet applications.
+Itanium's primary use is driving large applications that require more than 4 GB of memory, such as databases, ERP, and future Internet applications.
 
 *Use it*: yes
 
