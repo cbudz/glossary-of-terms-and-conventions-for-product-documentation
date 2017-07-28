@@ -1,7 +1,7 @@
 [discrete]
 ==== PaaS (noun)
 [[paas]]
-*Description*: "PaaS" is an initialism for Platform-as-a-Service. In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Software-as-a-Service), hyphens are always used. Note for Marketing, Brand, or Customer Portal usage: For all-uppercase text, such as banners, use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same initialism is used across all groups.
+*Description*: "PaaS" is an acronym for "Platform-as-a-Service." In the spelled-out version of this term and its variants (for example, "Infrastructure-as-a-Service" and "Software-as-a-Service"), hyphens are always used. Note for Marketing, Brand, or Customer Portal usage: For all-uppercase text, such as banners, use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same acronym is used across all groups.
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== PC (noun)
 [[pc]]
-*Description*: "PC" is an initialism for personal computer. See _The IBM Style Guide_ for further information.
+*Description*: "PC" is an acronym for personal computer. See _The IBM Style Guide_ for further information.
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== Performance Counter (noun)
 [[performance-counter]]
-*Description*: A "performance counter" is a utility for collecting and analyzing performance data. Always use "performance counter" unless referring to a code element named "perfcounter" and as such, mark it up appropriately (`perfcounter`).
+*Description*: A "performance counter" is a utility for collecting and analyzing performance data. Always use "performance counter" unless referring to a code element named perfcounter and as such, mark it up appropriately (`perfcounter`).
 
 *Use it*: yes
 
@@ -57,7 +57,7 @@
 [discrete]
 ==== physical topology (noun)
 [[physical-topology]]
-*Description*: Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The "physical topology" is the way that the workstations are connected to the network through the actual cables that transmit data.
+*Description*: Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The physical topology is the way that the workstations are connected to the network through the actual cables that transmit data.
 
 *Use it*: yes
 
@@ -68,7 +68,7 @@
 [discrete]
 ==== plain text (adjective)
 [[plain-text]]
-*Description*: "Plain text" is correct in almost all cases. We use "plain text" as a plain English denotation of all unencrypted information, whether it is sitting about just being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext." Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm).
+*Description*: "Plain text" is correct in almost all cases. We use "plain text" as a plain English denotation of all unencrypted information, whether it is being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext." Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm).
 
 *Use it*: yes
 
@@ -101,7 +101,7 @@
 [discrete]
 ==== plug-in (noun)
 [[plugin]]
-*Description*: A "plug-in" is a hardware or software module that adds a specific feature or service to a larger system. For example, a number of "plug-ins" are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator "plug-ins" are based on MIME file types.
+*Description*: A "plug-in" is a hardware or software module that adds a specific feature or service to a larger system. For example, a number of plug-ins are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator plug-ins are based on MIME file types.
 
 *Use it*: yes
 
@@ -112,7 +112,7 @@
 [discrete]
 ==== pop-up (noun)
 [[popup]]
-*Description*: A "pop-up" is a graphical user interface (GUI) display area, usually a small window, that suddenly appears ("pops up") in the foreground of the visual interface. "Pop-ups" can be initiated by a single or double mouse click or rollover (sometimes called a mouseover). A "pop-up" window must be smaller than the background window or interface; otherwise, it's a replacement interface.
+*Description*: A "pop-up" is a graphical user interface (GUI) display area, usually a small window, that suddenly appears in the foreground of the visual interface. Pop-ups can be initiated by a single or double mouse click or rollover (sometimes called a mouseover). A pop-up window must be smaller than the background window or interface; otherwise, it's a replacement interface.
 
 *Use it*: yes
 
@@ -134,7 +134,7 @@
 [discrete]
 ==== PowerPC (noun)
 [[powerpc]]
-*Description*: Depending on context, either "64-bit PowerPC" (which covers most 64-bit "PowerPC" implementations) or "64-bit IBM POWER Series" (which covers the IBM POWER2 and IBM POWER8 series) is correct. The "PowerPC" version of Red Hat Enterprise Linux runs on 64-bit IBM POWER series hardware in almost all cases.
+*Description*: Depending on context, "PowerPC" refers to either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM POWER Series" (which covers the IBM POWER2 and IBM POWER8 series) is correct. The PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM POWER series hardware in almost all cases.
 
 *Use it*: yes
 
@@ -145,7 +145,7 @@
 [discrete]
 ==== POSIX (noun)
 [[posix]]
-*Description*: "POSIX" is an acronym for Portable Operating System Interface for Unix.
+*Description*: "POSIX" is an acronym for "Portable Operating System Interface for Unix."
 
 *Use it*: yes
 
@@ -156,7 +156,7 @@
 [discrete]
 ==== PPP (noun)
 [[ppp]]
-*Description*: "Point-to-Point Protocol" ("PPP") is a data link (layer 2) protocol used to establish a direct connection between two nodes. It can provide connection authentication, transmission encryption (using ECP, RFC 1968), and compression.
+*Description*: "PPP" is an acronym for "Point-to-Point Protocol," a data link (layer 2) protocol used to establish a direct connection between two nodes. PPP can provide connection authentication, transmission encryption (using ECP, RFC 1968), and compression.
 
 *Use it*: yes
 
@@ -167,7 +167,7 @@
 [discrete]
 ==== press (verb)
 [[press]]
-*Description*: Use "presse" for keyboard instructions, for example, "'Press' the **Enter** key."
+*Description*: Use "press" for keyboard instructions, for example, "Press the **Enter** key."
 
 *Use it*: yes
 
@@ -178,7 +178,7 @@
 [discrete]
 ==== PROM (noun)
 [[prom]]
-*Description*: "PROM" (programmable read-only memory) is a variation of "ROM." "PROMs" are manufactured as blank chips on which data can be written with a device called a "PROM" programmer.
+*Description*: "PROM" is an acronym for "programmable read-only memory" and is a variation of "ROM." PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer.
 
 *Use it*: yes
 
@@ -203,7 +203,7 @@
 [discrete]
 ==== pseudo-ops (noun)
 [[pseudoops]]
-*Description*: "Pseudo-ops" stands for "pseudo operations" and is sometimes called assembler directive. These are keywords that do not directly translate to a machine instruction.
+*Description*: "Pseudo-ops" is an abbreviation for "pseudo operations" and is sometimes called assembler directive. These are keywords that do not directly translate to a machine instruction.
 
 *Use it*: yes
 
@@ -236,7 +236,7 @@
 [discrete]
 ==== PXE (noun)
 [[pxe]]
-*Description*: "PXE" is an acronym for "Pre-Boot Execution Environment."" Pronounced "pixie," "PXE" is one of the components of Intel's Wired for Management (WfM) specification. It allows a workstation to boot from a server on a network in preference to booting the operating system on the local hard drive. "PXE" is a mandatory element of the WfM specification. To be considered compliant, "PXE" must be supported by the computer's BIOS and its NIC.
+*Description*: "PXE" is an acronym for "Pre-Boot Execution Environment." Pronounced "pixie," PXE is one of the components of Intel's Wired for Management (WfM) specification. It allows a workstation to boot from a server on a network in preference to booting the operating system on the local hard drive. PXE is a mandatory element of the WfM specification. To be considered compliant, PXE must be supported by the computer's BIOS and its NIC.
 
 *Use it*: yes
 
