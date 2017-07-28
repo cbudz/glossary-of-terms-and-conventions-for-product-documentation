@@ -12,7 +12,7 @@
 [discrete]
 ==== QCOW2 (noun)
 [[qcow2]]
-*Description*: "QCOW2" is an acronym for "QEMU Copy On Write version 2." "QCOW2" is a file format for disk image files used by QEMU, a hosted virtual machine monitor. Always write this term in uppercase. Do not use "qcow2" or "Qcow2."
+*Description*: "QCOW2" is an acronym for "QEMU Copy On Write version 2." QCOW2 is a file format for disk image files used by QEMU, a hosted virtual machine monitor. Always write this term in uppercase letters.
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== qeth (adjective)
 [[qeth]]
-*Description*: Messages with a prefix "qeth" are issued by the "qeth" device driver. The "qeth" device driver supports a multitude of network connections, for example, connections through Open Systems Adapters (OSA), HiperSockets™, guest LANs, and virtual switches.
+*Description*: Messages with a prefix "qeth" are issued by the qeth device driver. The qeth device driver supports a multitude of network connections, for example, connections through Open Systems Adapters (OSA), HiperSockets™, guest LANs, and virtual switches.
 
 *Use it*: yes
 
