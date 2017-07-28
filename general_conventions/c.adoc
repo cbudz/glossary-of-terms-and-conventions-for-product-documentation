@@ -68,7 +68,7 @@
 [discrete]
 ==== cgroup (noun)
 [[cgroup]]
-*Description*: The term "cgroup" is a contraction of "control group." "Cgroups" allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
+*Description*: The term "cgroup" is a contraction of "control group." Cgroups allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
 
 *Use it*: yes
 
@@ -156,7 +156,7 @@
 [discrete]
 ==== cluster (noun)
 [[cluster]]
-*Description*: 1) A "cluster" is a collection of interconnected computers working together as an integrated computing resource. "Clusters" are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later. 2) In OpenShift context, a "cluster" is the collection of controllers, pods, and services and related DNS and networking routing configuration that are defined on the system. Typically, a "cluster" is made up of multiple OpenShift hosts (masters, nodes, etc.) working together, across which the aforementioned components are distributed or running.
+*Description*: 1) A "cluster" is a collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later. 2) In OpenShift context, a "cluster" is the collection of controllers, pods, and services and related DNS and networking routing configuration that are defined on the system. Typically, a cluster is made up of multiple OpenShift hosts (masters, nodes, etc.) working together, across which the aforementioned components are distributed or running.
 
 *Use it*: yes
 
@@ -244,7 +244,7 @@
 [discrete]
 ==== container (noun)
 [[container]]
-*Description*: 1) A "container" is the fundamental piece of an OpenShift application. A "container" is a way to isolate and limit process interactions with minimal overhead and footprint. In most cases, a "container" will be limited to a single process providing a specific service (for example web server, database). 2) A "container" in the Swift API contains objects. A "container" also defines access control lists (ACLs). Unlike folders or directories, a "container" cannot contain other containers. A "container" in the Swift API is synonymous with a "bucket" in the S3 API.
+*Description*: 1) A "container" is the fundamental piece of an OpenShift application. A container is a way to isolate and limit process interactions with minimal overhead and footprint. In most cases, a container will be limited to a single process providing a specific service (for example web server, database). 2) A "container" in the Swift API contains objects. A container also defines access control lists (ACLs). Unlike folders or directories, a container cannot contain other containers. A "container" in the Swift API is synonymous with a "bucket" in the S3 API.
 
 *Use it*: yes
 
@@ -345,7 +345,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== cross-site scripting (adjective)
 [[cross-site-scripting]]
-*Description*: Use "cross-site scripting" as an adjective when referring to "cross-site-scripting" attacks. Another acceptable use is "cross-site scripting (XSS) attack."
+*Description*: Use "cross-site scripting" as an adjective when referring to "cross-site scripting" attacks. Another acceptable use is "cross-site scripting" (XSS) attack.
 
 *Use it*: yes
 
@@ -356,7 +356,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== CSV (noun)
 [[csv]]
-*Description*: "CSV" is a set of values in which each value is separated by a comma. Spell out "CSV" on first occurrence; use "CSV" thereafter.
+*Description*: CSV is an acronymn for "comma-separated values," which is a set of values in which each value is separated by a comma. Spell out "comma-separated values" on first occurrence; use "CSV" thereafter.
 
 *Use it*: yes
 
