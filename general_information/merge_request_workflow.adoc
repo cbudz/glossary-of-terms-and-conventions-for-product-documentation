@@ -5,7 +5,7 @@
 .What happens to my merge request?
 [width="100%",cols="50a,50a",options="header"]
 |====
-|These people or this system... |Complete(s) these tasks . . . 
+|These people or this system... |Complete(s) these tasks . . .
 |The designated repository administrator |* Processes the merge request.
 
 * Notifies all designated reviewers by using email after five merge requests have been submitted or at the end of 2 weeks, if the quota has not been reached.
@@ -28,11 +28,8 @@ This table provides additional information for adding, revising, or deleting pro
 .What happens to my product-specific merge request?
 [width="100%",cols="50%,50%",options="header"]
 |====
-|These people or this system... |Complete(s) these tasks . . . 
-|A product docs team member |For an initial set of conventions, reviews the entries and agrees that they are sound
-|A designated member of the Documentation Conventions project |Reviews the merge request for template conformity and other issues
-|A designated member of the Documentation Conventions project |Merges the request when it is ready
-|A person from the same product docs team as the submitter |For additional ad hoc entries, provides a review using the xref:reviewer_checklist[reviewer_checklist]
-|A person from the same product docs team as the submitter |Merges the request when it is ready
+|These people or this system... |Complete(s) these tasks . . .
+|A product docs team member |For an initial set of conventions, reviews the entries and agrees that they are sound.
+|A designated member of the Documentation Conventions project |Reviews the merge request for template conformity and other issues.
+|A designated member of the Documentation Conventions project |Merges the request when it is ready.
 |====
-
