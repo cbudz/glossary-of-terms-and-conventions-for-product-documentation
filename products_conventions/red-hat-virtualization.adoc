@@ -199,7 +199,7 @@ Use "Red Hat Virtualization" for version 4.x. Always spell out in full, except a
 [[red-hat-virtualization-host]]
 *Description*: Red Hat Virtualization Host is one of the types of host in Red Hat Virtualization (4.x). It is a minimal operating system based on Red Hat Enterprise Linux, is distributed as an ISO file from the Customer Portal, and contains only the packages required for the machine to act as a host. It is an improved version of Red Hat Enterprise Virtualization Hypervisor. 
 
-Use "Red Hat Virtualization Host (RHVH)" for the first instance in a section. "RHVH" can be used in subsequent instances. Do not use "the Host", even with a capital H. Do not use in Red Hat Enterprise Virtualization 3.x; see xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor].
+Use "Red Hat Virtualization Host (RHVH)" for the first instance in a section. "RHVH" can be used in subsequent instances. Do not use "the Host" with a capital H. Do not use in Red Hat Enterprise Virtualization 3.x; see xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor].
 
 *Use it*: yes
 
