@@ -3,6 +3,126 @@
 Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@redhat.com. 
 
 [discrete]
+==== CAMEL CONTEXT (noun)
+[[camelcontext]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== CHANNEL (noun)
+[[channel]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+[discrete]
+==== COMPONENT (noun)
+[[component]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== CONFIGURATION TAB (noun)
+[[configuration-tab]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== CONNECTION (noun)
+[[connection]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== CONNECTOR (noun)
+[[connector]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== CONSUMER (noun)
+[[consumer]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== DESIGN TAB (noun)
+[[design-tab]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== EIP (noun)
+[[eip]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== ENDPOINT (noun)
+[[endpoint]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
+==== EXCHANGE (noun)
+[[exchange]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
 ==== FUSE_HOME (noun)
 [[fuse-home]]
 *Description*: Fuse installation directory. Use this when describing which directory to use. 
@@ -12,3 +132,201 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 *Incorrect forms*: INSTALL_DIR, installDir
 
 *See also*: 
+
+[discrete]
+==== FUSE IGNITE (noun)
+[[fuse-ignite]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== INTEGRATION (noun)
+[[integration]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== MEP (noun)
+[[mep]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== MESSAGE (noun)
+[[message]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== NODE (noun)
+[[node]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== PID (noun)
+[[pid]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== PROCESSOR (noun)
+[[processor]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== PRODUCER (noun)
+[[producer]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== PROPERTIES VIEW (noun)
+[[properties-view]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== ROUTE (noun)
+[[route]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== ROUTE EDITOR (noun)
+[[route-editor]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== ROUTING CONTEXT (noun)
+[[routing-context]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== SOURCE TAB (noun)
+[[source-tab]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== SYNDESIS (noun)
+[[syndesis]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== TRANSPORT (noun)
+[[transport]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== URI (noun)
+[[uri]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== URL (noun)
+[[url]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== URN (noun)
+[[urn]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
