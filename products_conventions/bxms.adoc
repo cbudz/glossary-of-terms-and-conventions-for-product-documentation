@@ -5,7 +5,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== asset (noun)
 [[asset]]
-*Description*: An asset is anything that can be stored as a version in the artifact repository. Assets can be business rules, packages, business processes, decision tables, fact models, or domain specific language (DSL) files.
+*Description*: An "asset" is anything that can be stored as a version in the artifact repository. Assets can be business rules, packages, business processes, decision tables, fact models, or domain-specific language (DSL) files.
 
 *Use it*: yes
 
@@ -17,7 +17,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== backward chaining (verb)
 [[backward-chaining]]
-*Description*: Backward chaining is a feature of the rule engine. The backward chaining process is often referred to as derivation queries. It is not as common compared to reactive systems because Red Hat JBoss BRMS is primarily reactive forward chaining. That is, it responds to changes in your data. The backward chaining added to the rule engine is for product-like derivations.
+*Description*: "Backward chaining" is a feature of the rule engine. The backward chaining process is often referred to as derivation queries. It is not as common compared to reactive systems because Red Hat JBoss BRMS is primarily reactive forward chaining, that is, it responds to changes in your data. The backward chaining added to the rule engine is for product-like derivations.
 
 *Use it*: yes
 
@@ -29,7 +29,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== Business Central (noun)
 [[business-central]]
-*Description*: The Business Central is a web-based user interface used for both Red Hat JBoss BRMS and Red Hat JBoss BPM Suite. It is the user interface for the business rules manager and has been combined with the core Drools engine and other tools. It enables a business user to manage rules in a multi-user environment and implement changes in a controlled fashion.
+*Description*: The "Business Central" is a web-based user interface used for both Red Hat JBoss BRMS and Red Hat JBoss BPM Suite. It is the user interface for the business rules manager and has been combined with the core Drools engine and other tools. It enables a business user to manage rules in a multi-user environment and implement changes in a controlled fashion.
 
 *Use it*: yes
 
@@ -41,7 +41,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== Business Resource Planner (noun)
 [[business-resource-planner]]
-*Description*: The Business Resource Planner is a lightweight, embeddable, planning engine that optimizes planning problems. It helps Java TM programmers solve planning problems efficiently, and it combines optimization heuristics and metaheuristics with very efficient score calculations.
+*Description*: The "Business Resource Planner" is a lightweight, embeddable, planning engine that optimizes planning problems. It helps Java TM programmers solve planning problems efficiently, and it combines optimization heuristics and metaheuristics with very efficient score calculations.
 
 *Use it*: yes
 
@@ -52,7 +52,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== business process (noun)
 [[business-process]]
-*Description*: A business process is a flowchart that describes the steps necessary to achieve business goals.
+*Description*: A "business process" is a collection of related, structured tasks that results in achieving a specific target. It is presented as as a flowchart comprising a sequence steps necessary to achieve business goals.
 
 *Use it*: yes
 
@@ -66,7 +66,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== business rule (noun)
 [[business-rule]]
-*Description*: A business rule defines a particular aspect of a business that is intended to assert business structure or influence the behaviour of a business. Business rules often focus on access control issues, pertain to business calculations and policies of an organization. 
+*Description*: A "business rule" defines a particular aspect of a business that is intended to assert business structure or influence the behaviour of a business. Business rules often focus on access control issues and pertain to business calculations and policies of an organization.
 
 *Use it*: yes
 
@@ -79,7 +79,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== data enumeration (noun)
 [[data-enumeration]]
-*Description*: Data enumeration is an optional type of asset that can be configured to provide drop-down lists for the guided decision table editor.
+*Description*: "Data enumeration" is an optional type of asset that can be configured to provide drop-down lists for the guided decision table editor.
 
 *Use it*: yes
 
@@ -91,7 +91,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== data model (noun)
 [[data-model]]
-*Description*: Data model is a model of a data object. A data object is a custom complex data type, such as a `Person` object with data fields `Name`, `Address`, and `Date of Birth`.
+*Description*: "Data model" is a model of a data object. A data object is a custom complex data type, such as a `Person` object with data fields `Name`, `Address`, and `Date of Birth`.
 
 *Use it*: yes
 
@@ -103,7 +103,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== Data Modeler (noun)
 [[data-modeler]]
-*Description*: The Data Modeler is a built-in editor for creating facts or data objects as part of a project data model from Business Central. Data objects are custom data types implemented as Java objects. These custom data types can be then used in any resource (such as a guided decision table) after they have been imported.
+*Description*: The "Data Modeler" is a built-in editor for creating facts or data objects as part of a project data model from Business Central. Data objects are custom data types implemented as Java objects. These custom data types can be used in any resource (such as a guided decision table) after they have been imported.
 
 *Use it*: yes
 
@@ -115,7 +115,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== decision table (noun)
 [[decision-table]]
-*Description*: A decision table is a collection of rules stored in either a spreadsheet or in the Red Hat JBoss BRMS user interface.
+*Description*: A "decision table" is a collection of rules stored in either a spreadsheet or in the Red Hat JBoss BRMS user interface.
 
 *Use it*: yes
 
@@ -127,7 +127,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== decision tree (noun)
 [[decision-tree]]
-*Description*: A decision tree is a graphical representation of a decision model in a tree-like manner.
+*Description*: A "decision tree" is a graphical representation of a decision model in a tree-like manner.
 
 *Use it*: yes
 
@@ -139,7 +139,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== DRL (noun)
 [[drl]]
-*Description*: DRL is a file with `.drl` extension, in which technical rules are stored as text and can be managed in the Red Hat Red Hat JBoss BRMS user interface. DRL is an acronym for the DocObject Resource Locator. A DRL file contains one or more rules.
+*Description*: "DRL" is an acronym for the DocObject Resource Locator, which is a file with the .drl extension. A DRL file stores technical rules as text and can be managed in the Red Hat Red Hat JBoss BRMS user interface. A DRL file contains one or more rules.
 
 *Use it*: yes
 
@@ -152,7 +152,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== DSL (noun)
 [[dsl]]
-*Description*: DSL is used to create a rule language that is dedicated to your problem domain. DSL is an acronym for domain specific language. A set of DSL definitions consists of transformations from DSL sentences to DRL constructs, which lets you use of all the underlying rule language and engine features. You can write rules in DSL rule (DSLR) files, which are translated into DRL files.
+*Description*: "DSL" is an acronym for domain-specific language. DSL is used to create a rule language that is dedicated to your problem domain. A set of DSL definitions consists of transformations from DSL sentences to DRL constructs. These constructs let you use all of the underlying rule language and engine features. You can write rules in DSL rule (DSLR) files, which are translated into DRL files.
 
 *Use it*: yes
 
@@ -164,7 +164,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== Drools Expert (noun)
 [[drools-expert]]
-*Description*: The Drools Expert is a pattern matching based rule engine that runs on Java EE application servers, Red Hat JBoss BRMS platform, or bundled with Java applications. It comprises an inference engine, a production memory, and a working memory. Rules are stored in the production memory and the facts that the inference engine matches the rules against are stored in the working memory.
+*Description*: The "Drools Expert" is a pattern matching-based rule engine that runs on Java EE application servers, Red Hat JBoss BRMS platform, or bundled with Java applications. It comprises an inference engine, a production memory, and a working memory. Rules are stored in the production memory, and the facts that the inference engine matches the rules against are stored in the working memory.
 
 *Use it*: yes
 
@@ -176,7 +176,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== guided editor (noun)
 [[guided-editor]]
-*Description*: The guided editor is an editor for creating and editing business rules. Rules edited in the guided editor use the Business Rules Language (BRL) format. The guided editor prompts users for input based on the object model of the rule being edited.
+*Description*: The "guided editor" is an editor for creating and editing business rules. Rules edited in the guided editor use the Business Rules Language (BRL) format. The guided editor prompts users for input based on the object model of the rule being edited.
 
 *Use it*: yes
 
@@ -188,7 +188,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== inference engine (noun)
 [[inference-engine]]
-*Description*: The inference engine is a part of the Red Hat JBoss BRMS engine, which matches production facts and data to rules. It is often called the brain of a production rules system because it is able to scale to a large number of rules and facts. It makes inferences based on its existing knowledge and performs the actions based on what it infers from the information.
+*Description*: The "inference engine" is a part of the Red Hat JBoss BRMS engine, which matches production facts and data to rules. It is often called the brain of a production rules system because it is able to scale to a large number of rules and facts. It makes inferences based on its existing knowledge and performs the actions based on what it infers from the information.
 
 *Use it*: yes
 
@@ -200,7 +200,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== Intelligent Process Server (noun)
 [[intelligent-process-server]]
-*Description*: The Intelligent Process Server is a standalone, out-of-the-box component that can be used to instantiate and execute rules and processes. The Intelligent Process Server is created as a WAR file that can be deployed on any web container.
+*Description*: The "Intelligent Process Server" is a standalone, out-of-the-box component that can be used to instantiate and execute rules and processes. The Intelligent Process Server is created as a WAR file that can be deployed on any web container.
 
 *Use it*: yes
 
@@ -212,7 +212,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== KJAR (noun)
 [[kjar]]
-*Description*: Red Hat JBoss BPM Suite provides a simplified and complete deployment mechanism that is based entirely on Apache Maven artifacts. These artifacts, also known as KJARs, are simple jar files that include a descriptor for the KIE system to produce KieBase and KieSession. The KJAR descriptor is represented as the `kmodule.xml` file.
+*Description*: Red Hat JBoss BPM Suite provides a simplified and complete deployment mechanism that is based entirely on Apache Maven artifacts. These artifacts, also known as "KJARs", are simple jar files that include a descriptor for the KIE system to produce KieBase and KieSession. The KJAR descriptor is represented as the `kmodule.xml` file.
 
 *Use it*: yes
 
@@ -225,7 +225,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== KIE (noun)
 [[kie]]
-*Description*: KIE is a knowledge solution for Red Hat JBoss BRMS and JBoss BPM Suite. KIE is an acronym for Knowledge Is Everything. KIE is also used for the generic parts of a unified API such as building, deploying, and loading.
+*Description*: "KIE" is an acronym for Knowledge Is Everything. KIE is a knowledge solution for Red Hat JBoss BRMS and JBoss BPM Suite and is used for the generic parts of a unified API, such as building, deploying, and loading.
 
 *Use it*: yes
 
@@ -238,7 +238,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== KIE API (noun)
 [[kie-api]]
-*Description*: The KIE API is a knowledge-centric API, where rules and processes are first class citizens. KIE is used for the generic parts of unified API such as building, deploying, and loading.
+*Description*: The "KIE API" is a knowledge-centric API, where rules and processes are first class citizens. KIE is used for the generic parts of unified API, such as building, deploying, and loading.
 
 *Use it*: yes
 
@@ -250,7 +250,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== KIE base (noun)
 [[kie-base]]
-*Description*: The KIE base is a repository of the application’s knowledge definitions. The name of the Java object is `KieBase`. It contains rules, processes, functions, and type models. A KIE base does not contain runtime data, instead KIE sessions are created from the `KieBase` into which data can be inserted and process instances started. 
+*Description*: The "KIE base" is a repository of the application’s knowledge definitions. The name of the Java object is `KieBase`. It contains rules, processes, functions, and type models. A KIE base does not contain runtime data; instead KIE sessions are created from the `KieBase` into which data can be inserted and process instances started. 
 
 *Use it*: yes
 
@@ -262,7 +262,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== KIE session (noun)
 [[kie-session]]
-*Description*: A KIE session stores runtime data created from a KIE base. The name of the Java object is `KieSession`. After the KIE base is loaded, a session can be created to interact with the engine. The session can then be used to start new processes and signal events.
+*Description*: A "KIE session" stores runtime data created from a KIE base. The name of the Java object is `KieSession`. After the KIE base is loaded, a session can be created to interact with the engine. The session can then be used to start new processes and signal events.
 
 *Use it*: yes
 
@@ -275,7 +275,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== knowledge store (noun)
 [[knowledge-store]]
-*Description*: Knowledge store is a centralized repository for your business knowledge. The knowledge store connects to the Git repository to store various knowledge assets and artifacts at a single location.
+*Description*: "Knowledge store" is a centralized repository for your business knowledge. The knowledge store connects to the Git repository to store various knowledge assets and artifacts at a single location.
 
 *Use it*: yes
 
@@ -287,7 +287,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== organizational unit (noun)
 [[organizational-unit]]
-*Description*: An organizational unit is a directory comprising repositories that store business assets.
+*Description*: An "organizational unit" is a directory comprising repositories that store business assets.
 
 *Use it*: yes
 
@@ -299,7 +299,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== package (noun)
 [[package]]
-*Description*: A package is a deployable collection of assets. Rules and other assets must be collected into a package before they can be deployed. When a package is built, the assets contained in the package are validated and compiled into a deployable package.
+*Description*: A "package" is a deployable collection of assets. Rules and other assets must be collected into a package before they can be deployed. When a package is built, the assets contained in the package are validated and compiled into a deployable package.
 
 *Use it*: yes
 
@@ -312,7 +312,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== project (noun)
 [[bpms-project]]
-*Description*: A project is a container that comprises packages of assets (business processes, rules, work definitions, decision tables, fact models, data models, and DSLs) and is located in the knowledge repository. This container that defines the properties of the KIE base and KIE session that are applied to its content. You can edit these entities in the project editor in Business Central.
+*Description*: A "project" is a container that comprises packages of assets (business processes, rules, work definitions, decision tables, fact models, data models, and DSLs) and is located in the knowledge repository. This container defines the properties of the KIE base and KIE session that are applied to its content. You can edit these entities in the project editor in Business Central.
 
 *Use it*: yes
 
@@ -325,7 +325,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== Realtime Decision Server (noun)
 [[realtime-decision-server]]
-*Description*: The Realtime Decision Server is a standalone, built-in component that can be used to instantiate and execute rules through interfaces available for REST, JMS, or a Java client side applications. Created as a web deployable WAR file, this server can be deployed on any web container. The current version of the Realtime Decision Server is included with default extensions for both Red Hat JBoss BRMS and Red Hat JBoss BPM Suite.
+*Description*: The "Realtime Decision Server" is a standalone, built-in component that can be used to instantiate and execute rules through interfaces available for REST, JMS, or a Java client-side applications. Created as a web deployable WAR file, this server can be deployed on any web container. The current version of the Realtime Decision Server is included with default extensions for both Red Hat JBoss BRMS and Red Hat JBoss BPM Suite.
 
 *Use it*: yes
 
@@ -337,7 +337,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== Red Hat JBoss BRMS (noun)
 [[brms]]
-*Description*: Red Hat JBoss BRMS is a comprehensive platform for business rules management, business resource optimization, and complex event processing (CEP). BRMS stands for Business Rules Management System (BRMS). Organizations can use Red Hat JBoss BRMS to  incorporate sophisticated decision logic into line-of-business applications and quickly update underlying business rules as market conditions change.
+*Description*: "Red Hat JBoss BRMS" is a comprehensive platform for business rules management, business resource optimization, and complex event processing (CEP). BRMS stands for Business Rules Management System. Organizations can use Red Hat JBoss BRMS to incorporate sophisticated decision logic into line-of-business applications and quickly update underlying business rules as market conditions change.
 
 *Use it*: yes
 
@@ -349,7 +349,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== Red Hat JBoss BPM Suite (noun)
 [[bpms]]
-*Description*: Red Hat JBoss BPM Suite is the JBoss platform for Business Process Management (BPM). It enables enterprise business and IT users to document, simulate, manage, automate, and monitor business processes and policies. It is designed to empower business and IT users to collaborate more effectively, so business applications can be changed more easily and quickly.
+*Description*: "Red Hat JBoss BPM Suite" is the JBoss platform for Business Process Management (BPM). It enables enterprise business and IT users to document, simulate, manage, automate, and monitor business processes and policies. It is designed to empower business and IT users to collaborate more effectively, so business applications can be changed more easily and quickly.
 
 *Use it*: yes
 
@@ -361,7 +361,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== rule (noun)
 [[rule]]
-*Description*: A rule provides the logic for the rule engine to execute against. A rule includes a name, attributes, a “when” statement on the left hand side of the rule, and a “then” statement on the right hand side of the rule.
+*Description*: A "rule" provides the logic for the rule engine to execute against. A rule includes a name, attributes, a “when” statement on the left side of the rule, and a “then” statement on the right side of the rule.
 
 *Use it*: yes
 
@@ -373,7 +373,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== rule template (noun)
 [[rule-template]]
-*Description*: A rule template enables the user to define a rule structure. They provide a placeholder for values and data, and they populate templates to generate many rules.
+*Description*: A "rule template" enables the user to define a rule structure. Rule templates provide a placeholder for values and data, and they populate templates to generate many rules.
 
 *Use it*: yes
 
@@ -385,7 +385,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== runtime manager (noun)
 [[runtime-manager]]
-*Description*: The runtime manager is an interface that enables and simplifies the usage of a KIE API within the processes. The name of the interface is `RuntimeManager`. It provides configurable strategies that control actual runtime execution.The strategies are singleton, per request, and per process instance.
+*Description*: The "runtime manager" is an interface that enables and simplifies the usage of a KIE API within the processes. The name of the interface is `RuntimeManager`. It provides configurable strategies that control actual runtime execution.The strategies are singleton, per request, and per process instance.
 
 *Use it*: yes
 
@@ -397,7 +397,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== Scorecard (noun)
 [[scorecard]]
-*Description*: Scorecard is a risk management tool which is a graphical representation of a formula used to calculate an overall score. It is mostly used by financial institutions or banks to calculate the risk they can take to sell a product in market. Thus, it can predict the likelihood or probability of a certain outcome. Red Hat JBoss BRMS supports additive scorecards that calculates an overall score by adding all partial scores assigned to individual rule conditions.
+*Description*: "Scorecard" is a risk management tool that is a graphical representation of a formula used to calculate an overall score. It is mostly used by financial institutions or banks to calculate the risk they can take to sell a product in the market. It can predict the likelihood or probability of a certain outcome. Red Hat JBoss BRMS supports additive scorecards that calculates an overall score by adding all partial scores assigned to individual rule conditions.
 
 *Use it*: yes
 
@@ -409,7 +409,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== truth maintenance system (noun)
 [[truth-maintenance-system]]
-*Description*: The truth maintenance system uses the mechanism of truth maintenance to efficiently handle the inferred information from rules. A truth maintenance system (TMS) refers to the ability of the inference engine to enforce truthfulness when applying rules. It provides justified reasoning for each and every action taken by the inference engine and validates the conclusions of the engine. If the inference engine asserts data as a result of firing a rule, the engine uses the truth maintenance to justify the assertion.
+*Description*: A "truth maintenance system" (TMS) refers to the ability of the inference engine to enforce truthfulness when applying rules. The truth maintenance system uses the mechanism of truth maintenance to efficiently handle the inferred information from rules. It provides justified reasoning for each and every action taken by the inference engine and validates the conclusions of the engine. If the inference engine asserts data as a result of firing a rule, the engine uses the truth maintenance to justify the assertion.
 
 *Use it*: yes
 
@@ -421,7 +421,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== working memory (noun)
 [[working-memory]]
-*Description*: Working memory is a stateful object that provides temporary storage and enables manipulation of facts. The working memory includes an API that contains methods which enable access to the working memory from rule files.
+*Description*: "Working memory" is a stateful object that provides temporary storage and enables manipulation of facts. The working memory includes an API that contains methods that enable access to the working memory from rule files.
 
 *Use it*: yes
 
