@@ -1,7 +1,7 @@
 [discrete]
 ==== G++ (noun)
 [[gplusplus]]
-*Description*: "G++" is a "C ++" compiler usually operated via the command line. When referring to the program, use "G++."
+*Description*: "G++" is a C++ compiler usually operated via the command line. When referring to the program, use "G++."
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== g++ (noun)
 [[gplusplus-command]]
-*Description*: "G++" is a "C++" compiler usually operated through the command line. When referring to the command, use "g++," marked up appropriately.
+*Description*: "G++" is a C++ compiler usually operated through the command line. When referring to the command, use "g++," marked up appropriately.
 
 *Use it*: yes
 
