@@ -166,7 +166,7 @@
 [discrete]
 ==== Mozilla Firefox (noun)
 [[mozilla-firefox]]
-*Description*: "Mozilla Firefox" is an open source web browser. The first reference must be "Mozilla Firefox." Subsequent references can be "Firefox." Do not use "firefox" unless you are referring to the `firefox` command; as such, mark it properly
+*Description*: "Mozilla Firefox" is an open source web browser. The first reference must be "Mozilla Firefox." Subsequent references can be "Firefox." Do not use "firefox" unless you are referring to the `firefox` command; as such, mark it properly.
 
 *Use it*: yes
 
