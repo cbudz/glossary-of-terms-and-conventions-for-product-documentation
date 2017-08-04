@@ -14,6 +14,17 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 *See also*: 
 
 [discrete]
+==== CANVAS (noun)
+[[canvas]]
+*Description*:  
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*: 
+
+[discrete]
 ==== CHANNEL (noun)
 [[channel]]
 *Description*:  
@@ -26,31 +37,36 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 [discrete]
 ==== COMPONENT (noun)
 [[component]]
-*Description*:  
+*Description*: A component is a factory for creating endpoints in a Camel route. For example, you would use the Twitter component to create Twitter endpoints.
+In Developer Studio with Fuse Tooling installed, the Palette's Components drawer contains the Camel components (and user-created components if any) that you 
+can add to your route in the route editor. Each component represents a connection to a specific service or application, such as Atom, CXF, Bean, File, and so on.
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:endpoint [ENDPOINT], xref:connection [CONNECTION]
 
 [discrete]
-==== CONFIGURATION TAB (noun)
-[[configuration-tab]]
-*Description*:  
+==== CONFIGURATIONS TAB (noun)
+[[configurations-tab]]
+*Description*: In Developer Studio with Fuse Tooling installed, the route editor's Configurations tab enables you to add configuration shared globally by all 
+routes in a multiroute routing context. You can select existing endpoints, data formats, 
+or beans from the list or create and add new ones.   
 
-*Use it*: 
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: Configurations view
 
 *See also*: 
 
 [discrete]
 ==== CONNECTION (noun)
 [[connection]]
-*Description*:  
+*Description*: In Fuse Ignite, you create a connection using a Fuse Ignite connector. You can then use the connection in a Fuse Ignite integration. 
+For example, using the Twitter connector, you can create multiple connections to Twitter, each of which requires unique login credentials.
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
@@ -59,9 +75,11 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 [discrete]
 ==== CONNECTOR (noun)
 [[connector]]
-*Description*:  
+*Description*: In Fuse Ignite, a connector provides a template for creating any number of connections to a particular application or service, 
+each of which can perform a different operation. A Camel component provides the foundation for a connector. For example, the Twitter connector, 
+built on the Camel Twitter component, enables you to create multiple connections to Twitter.
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
@@ -81,11 +99,11 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 [discrete]
 ==== DESIGN TAB (noun)
 [[design-tab]]
-*Description*:  
+*Description*: In Developer Studio with Fuse Tooling installed, the route editor's Design tab displays a graphical representation of the route.
 
-*Use it*: 
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: Design view
 
 *See also*: 
 
@@ -191,9 +209,11 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 [discrete]
 ==== PID (noun)
 [[pid]]
-*Description*:  
+*Description*: The persistent identifier (PID) of a registered OSGi service is used to identify the service across container restarts. In Fuse (Karaf), PIDs map
+to .cfg configuration files located in the FUSE_HOME/etc/ directory. A .cfg file contains a list of attribute/value pairs that configure a service. 
+You can edit any .cfg file to configure/reconfigure the corresponding OSGi service.
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
