@@ -21,7 +21,7 @@
 *See also*:
 
 [discrete]
-==== Performance Counter (noun)
+==== performance counter (noun)
 [[performance-counter]]
 *Description*: A "performance counter" is a utility for collecting and analyzing performance data. Always use "performance counter" unless referring to a code element named perfcounter and as such, mark it up appropriately (`perfcounter`).
 
