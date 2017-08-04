@@ -259,7 +259,7 @@ Because IPMASQ is a generic technology, the server can be connected to other com
 [discrete]
 ==== IT, I.T. (noun)
 [[it]]
-*Description*: "IT" and "I.T" are acronyms for "information technology." Use "I.T." (with periods) only in headlines or subheadings where all uppercase letters are used to clarify that the word is "IT" rather than "it."
+*Description*: "IT" and "I.T." are acronyms for "information technology." Use "I.T." (with periods) only in headlines or subheadings where all uppercase letters are used to clarify that the word is "IT" rather than "it."
 
 *Use it*: yes
 
