@@ -16,13 +16,14 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 [discrete]
 ==== CANVAS (noun)
 [[canvas]]
-*Description*:  
+*Description*: In Fuse tooling, the route editor provides a canvas (Design tab) on which to build routes graphically, using
+components and EIPs available in the Palette. 
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:design-tab [DESIGN TAB], xref:eip [EIP], xref:node [NODE]
 
 [discrete]
 ==== CHANNEL (noun)
@@ -45,7 +46,7 @@ can add to your route in the route editor. Each component represents a connectio
 
 *Incorrect forms*: 
 
-*See also*: xref:endpoint [ENDPOINT], xref:connection [CONNECTION]
+*See also*: xref:connection [CONNECTION], xref:endpoint [ENDPOINT]
 
 [discrete]
 ==== CONFIGURATIONS TAB (noun)
@@ -58,7 +59,7 @@ or beans from the list or create and add new ones.
 
 *Incorrect forms*: Configurations view
 
-*See also*: 
+*See also*: xref:design-tab [DESIGN TAB], xref:routing-context [ROUTING CONTEXT], xref:source-tab [SOURCE TAB]
 
 [discrete]
 ==== CONNECTION (noun)
@@ -70,7 +71,7 @@ For example, using the Twitter connector, you can create multiple connections to
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:connector [CONNECTOR]
 
 [discrete]
 ==== CONNECTOR (noun)
@@ -83,7 +84,7 @@ built on the Camel Twitter component, enables you to create multiple connections
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:connectION [CONNECTION]
 
 [discrete]
 ==== CONSUMER (noun)
@@ -105,40 +106,32 @@ built on the Camel Twitter component, enables you to create multiple connections
 
 *Incorrect forms*: Design view
 
-*See also*: 
+*See also*:  xref:configurations-tab [CONFIGURATIONS TAB], xref:routing-context [ROUTING CONTEXT], xref:source-tab [SOURCE TAB]
 
 [discrete]
 ==== EIP (noun)
 [[eip]]
-*Description*:  
+*Description*: Enterprise Integration Pattern. A pattern language providing a technology-independent vocabulary and visual notation for designing and 
+documenting enterprise integration solutions. Each pattern proivdes a proven solution for a reoccuring problem in integrating disparate applications 
+and services across different enterprises. Camel implements numerous patterns for asynchronous messaging. In Fuse tooling, these patterns are located 
+in the Palette and filed in separate drawers according to function (Routing, Control Flow, Transformation, an Miscellaneous).  
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:component [COMPONENT], xref:node [NODE]
 
 [discrete]
 ==== ENDPOINT (noun)
 [[endpoint]]
 *Description*:  
 
-*Use it*: 
+*Use it*: with caution
 
 *Incorrect forms*: 
 
 *See also*: 
-
-[discrete]
-==== EXCHANGE (noun)
-[[exchange]]
-*Description*:  
-
-*Use it*: 
-
-*Incorrect forms*: 
-
-*See also*:
 
 [discrete]
 ==== FUSE_HOME (noun)
@@ -174,8 +167,8 @@ built on the Camel Twitter component, enables you to create multiple connections
 *See also*:
 
 [discrete]
-==== MEP (noun)
-[[mep]]
+==== MESSAGE EXCHANGE (noun)
+[[message-exchange]]
 *Description*:  
 
 *Use it*: 
@@ -183,28 +176,43 @@ built on the Camel Twitter component, enables you to create multiple connections
 *Incorrect forms*: 
 
 *See also*:
+
+
+[discrete]
+==== MEP (noun)
+[[mep]]
+*Description*: Message Exchange Pattern. In Camel, the MEP is part of the message exhange and used to differentiate between one-way (InOnly) and 
+request-reply (InOut) messaging style.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:message-exchange[MESSAGE EXCHANGE]
 
 [discrete]
 ==== MESSAGE (noun)
 [[message]]
-*Description*:  
+*Description*: In Camel, the message is the fundamental entity that contains the data to be routed. It contains a body (also known as payload), 
+headers, and optionally attachemnts (typically used with web service and email components).  
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:message-exchange[MESSAGE EXCHANGE]
 
 [discrete]
 ==== NODE (noun)
 [[node]]
-*Description*:  
+*Description*: In Fuse tooling, a node is a component or EIP that has been dragged from the Palette and dropped on the route editor's canvas. Selecting a node on the canvas
+displays its properties in Properties view for editing.
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:canvas [CANVAS], xref:component [COMPONENT], xref:eip [EIP],  
 
 [discrete]
 ==== PID (noun)
@@ -222,13 +230,14 @@ You can edit any .cfg file to configure/reconfigure the corresponding OSGi servi
 [discrete]
 ==== PROCESSOR (noun)
 [[processor]]
-*Description*:  
+*Description*: In Camel, a processor is a node in a route that is capable of creating or modifying an incoming message exchange. Processors are 
+typically implementations of EIPs, but can be custom made.
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:route[ROUTE], xref:eip[EIP]
 
 [discrete]
 ==== PRODUCER (noun)
@@ -294,7 +303,7 @@ You can edit any .cfg file to configure/reconfigure the corresponding OSGi servi
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:configurations-tab [CONFIGURATIONS TAB], xref:design-tab [DESIGN TAB]
 
 [discrete]
 ==== SYNDESIS (noun)
