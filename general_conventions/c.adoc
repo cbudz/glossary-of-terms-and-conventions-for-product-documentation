@@ -1,7 +1,7 @@
 [discrete]
 ==== CapEx (noun)
 [[cap-ex]]
-*Description*: Stands for "capital expenditures."
+*Description*: "CapEx" is an acronym for "capital expenditures."
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== cd (noun)
 [[cd-command]]
-*Description*: The "change directory" command.
+*Description*: The "change directory" command is "cd."
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== CD (noun)
 [[compact-disk]]
-*Description*: Stands for "compact disk."
+*Description*: "CD" is an acronym for "compact disc."
 
 *Use it*: yes
 
@@ -46,7 +46,7 @@
 [discrete]
 ==== CD writer (noun)
 [[cd-writer]]
-*Description*: A device that records data into the CD format.
+*Description*: A "CD writer" is a device that records data into the CD format.
 
 *Use it*: yes
 
@@ -57,7 +57,7 @@
 [discrete]
 ==== CDs (noun)
 [[cds]]
-*Description*: The plural form of "CD." Use this to describe multiple compact disks.
+*Description*: "CDs" is the plural form of "CD." Use "CDs" to describe multiple compact discs.
 
 *Use it*: yes
 
@@ -68,7 +68,7 @@
 [discrete]
 ==== cgroup (noun)
 [[cgroup]]
-*Description*: This term is a contraction of "control group." Cgroups allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
+*Description*: The term "cgroup" is a contraction of "control group." Cgroups allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
 
 *Use it*: yes
 
@@ -79,7 +79,7 @@
 [discrete]
 ==== ciphertext (noun)
 [[ciphertext]]
-*Description*: In cryptography, ciphertext is the result of encryption performed on plain text using an algorithm, called a cipher.
+*Description*: In cryptography, "ciphertext" is the result of encryption performed on plain text using an algorithm, called a cipher.
 
 *Use it*: yes
 
@@ -90,7 +90,7 @@
 [discrete]
 ==== client side (noun)
 [[client-side-n]]
-*Description*: The client side in a client-server relationship. Use the two-word form as a noun. For example, "This happens on the client side of the relationship."
+*Description*: Use the two-word form of "client side" as a noun when referring to the client side in a client-server relationship, for example, "This happens on the client side of the relationship."
 
 *Use it*: yes
 
@@ -101,7 +101,7 @@
 [discrete]
 ==== client-side (adjective)
 [[client-side-adj]]
-*Description*: Operations that are performed by the client in a client-server relationship. Use the one-word form as an adjective. For example, "This is a client-side service."
+*Description*: Use the one-word form "client-side" as an adjective when referring to operations that are performed by the client in a client-server relationship, for example, "This is a client-side service."
 
 *Use it*: yes
 
@@ -112,7 +112,7 @@
 [discrete]
 ==== cloud (adjective)
 [[cloud-adj]]
-*Description*: Use a lowercase "c" when referring to cloud computing in a general sense.
+*Description*: Use "cloud" with a lowercase "c" when referring to cloud computing in a general sense.
 
 *Use it*: yes
 
@@ -123,7 +123,7 @@
 [discrete]
 ==== cloud (noun)
 [[cloud-n]]
-*Description*: Use a lowercase "c" when referring to cloud computing in a general sense.
+*Description*: Use "cloud" with a lowercase "c" when referring to cloud computing in a general sense.
 
 *Use it*: yes
 
@@ -134,7 +134,7 @@
 [discrete]
 ==== cloudbursting (verb)
 [[cloudbursting]]
-*Description*: The event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources.
+*Description*: "Cloudbursting" is an event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources.
 
 *Use it*: yes
 
@@ -145,7 +145,7 @@
 [discrete]
 ==== cloudwashing (verb)
 [[cloudwashing]]
-*Description*: The process of rebranding legacy products to include the term "cloud" to increase their appeal to the cloud market.
+*Description*: "Cloudwashing" is the process of rebranding legacy products to include the term "cloud" to increase their appeal to the cloud market.
 
 *Use it*: yes
 
@@ -156,7 +156,7 @@
 [discrete]
 ==== cluster (noun)
 [[cluster]]
-*Description*: 1) A collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later. 2) In OpenShift context, a cluster is the collection of controllers, pods, and services and related DNS and networking routing configuration that are defined on the system. Typically, a cluster is made up of multiple OpenShift hosts (masters, nodes, etc.) working together, across which the aforementioned components are distributed or running.
+*Description*: 1) A "cluster" is a collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later. 2) In OpenShift context, a "cluster" is the collection of controllers, pods, and services and related DNS and networking routing configuration that are defined on the system. Typically, a cluster is made up of multiple OpenShift hosts (masters, nodes, etc.) working together, across which the aforementioned components are distributed or running.
 
 *Use it*: yes
 
@@ -167,7 +167,7 @@
 [discrete]
 ==== code (noun)
 [[code]]
-*Description*: Programming statements and a set of instructions for a computer. Do not use the "code" as a verb.
+*Description*: "Code" refers to programming statements and a set of instructions for a computer. Do not use "code" as a verb.
 
 *Use it*: yes
 
@@ -178,7 +178,7 @@
 [discrete]
 ==== colocate (verb)
 [[colocate]]
-*Description*: To place two or more items in the same space. Do not hyphenate.
+*Description*: "Colocate" means to place two or more items in the same space. Do not hyphenate "colocate."
 
 *Use it*: yes
 
@@ -189,7 +189,7 @@
 [discrete]
 ==== comma-delimited (adjective)
 [[comma-delimited]]
-*Description*: A data format in which each piece of data is separated by a comma.
+*Description*: "Comma-delimited" is an adjective that refers to a data format in which each piece of data is separated by a comma.
 
 *Use it*: yes
 
@@ -200,7 +200,7 @@
 [discrete]
 ==== comma-separated values (noun)
 [[comma-separated-values]]
-*Description*: A set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
+*Description*: "Comma-separated values" are a set of values in which each value is separated by a comma. Spell out "comma-separated values" on first use; use "CSV" thereafter.
 
 *Use it*: yes
 
@@ -211,7 +211,7 @@
 [discrete]
 ==== command-driven (adjective)
 [[command-driven]]
-*Description*: Programs and operating systems that accept commands in the form of special words or letters.
+*Description*: "Command-driven" is an adjective that refers to programs and operating systems that accept commands in the form of special words or letters.
 
 *Use it*: yes
 
@@ -222,7 +222,7 @@
 [discrete]
 ==== command language (noun)
 [[command-language]]
-*Description*: The programming language through which a user communicates with an operating system or an application.
+*Description*: "Command language" is the programming language through which a user communicates with an operating system or an application.
 
 *Use it*: yes
 
@@ -233,7 +233,7 @@
 [discrete]
 ==== connectivity (noun)
 [[connectivity]]
-*Description*: The ability of a program or device to link with other programs and devices.
+*Description*: "Connectivity" is the ability of a program or device to link with other programs and devices.
 
 *Use it*: yes
 
@@ -244,7 +244,7 @@
 [discrete]
 ==== container (noun)
 [[container]]
-*Description*: 1) The fundamental piece of an OpenShift application is a container. A container is a way to isolate and limit process interactions with minimal overhead and footprint. In most cases, a container will be limited to a single process providing a specific service (for example web server, database). 2) A container in the Swift API contains objects. A container also defines access control lists (ACLs). Unlike folders or directories, a container cannot contain other containers. A container in the Swift API is synonymous with a "bucket" in the S3 API.
+*Description*: 1) A "container" is the fundamental piece of an OpenShift application. A container is a way to isolate and limit process interactions with minimal overhead and footprint. In most cases, a container will be limited to a single process providing a specific service (for example web server, database). 2) A "container" in the Swift API contains objects. A container also defines access control lists (ACLs). Unlike folders or directories, a container cannot contain other containers. A "container" in the Swift API is synonymous with a "bucket" in the S3 API.
 
 *Use it*: yes
 
@@ -255,7 +255,7 @@
 [discrete]
 ==== container-based (adjective)
 [[container-based]]
-*Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "containerized."
+*Description*: Use "container-based" as an adjective when referring to applications made up of multiple services that are distributed in containers. "Container-based" can be used interchangeably with "containerized."
 
 *Use it*: yes
 
@@ -266,7 +266,7 @@
 [discrete]
 ==== containerized (adjective)
 [[containerized]]
-*Description*: Applications made up of multiple services that are distributed in containers. Can be used interchangeably with "container-based."
+*Description*: Use "containerized" as an adjective when referring to applications made up of multiple services that are distributed in containers. "Containerized" can be used interchangeably with "container-based."
 
 *Use it*: yes
 
@@ -277,8 +277,8 @@
 [discrete]
 ==== container registry (noun)
 [[container-registry]]
-*Description*: A service for storing and retrieving Docker-formatted container
-images. A registry contains a collection of one or more image repositories. Each
+*Description*: A "container registry" refers to a service that stores and retrieves Docker-formatted container
+images. A "container registry" is also a registry that contains a collection of one or more image repositories. Each
 image repository contains one or more tagged images.
 
 *Use it*: yes
@@ -290,7 +290,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== control program (noun)
 [[control-program]]
-*Description*: A program that enhances an operating system by creating an environment in which you can run other programs.
+*Description*: A "control program" refers to a program that enhances an operating system by creating an environment in which you can run other programs.
 
 *Use it*: yes
 
@@ -301,7 +301,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== convert (verb)
 [[convert]]
-*Description*: To change data from one format to another.
+*Description*: Use "convert" when referring to changing data from one format to another.
 
 *Use it*: yes
 
@@ -312,7 +312,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== cooked (adjective)
 [[cooked]]
-*Description*: Data that is processed before being passed to the I/O device.
+*Description*: "Cooked" is an adjective that refers to data that is processed before being passed to the I/O device.
 
 *Use it*: yes
 
@@ -323,7 +323,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== cookie (noun)
 [[cookie]]
-*Description*: A message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
+*Description*: A "cookie" is a message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
 
 *Use it*: yes
 
@@ -334,7 +334,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== cross-platform (adjective)
 [[cross-platform]]
-*Description*: The capability of software or hardware to run identically on different platforms.
+*Description*: Use "cross-platform" as an adjective when referring to the capability of software or hardware to run identically on different platforms.
 
 *Use it*: yes
 
@@ -345,7 +345,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== cross-site scripting (adjective)
 [[cross-site-scripting]]
-*Description*: Cross-site scripting attacks. Acceptable use is also "cross-site scripting (XSS) attack."
+*Description*: Use "cross-site scripting" as an adjective when referring to "cross-site scripting" attacks. Another acceptable use is "cross-site scripting" (XSS) attack.
 
 *Use it*: yes
 
@@ -356,7 +356,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== CSV (noun)
 [[csv]]
-*Description*: A set of values in which each value is separated by a comma. Spell out on first use, and use "CSV" thereafter.
+*Description*: CSV is an acronymn for "comma-separated values," which is a set of values in which each value is separated by a comma. Spell out "comma-separated values" on first occurrence; use "CSV" thereafter.
 
 *Use it*: yes
 
@@ -367,7 +367,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== Ctrl (noun)
 [[ctrl]]
-*Description*: The `Ctrl` key on a keyboard.
+*Description*: "Ctrl" refers to the `Ctrl` key on a keyboard.
 
 *Use it*: yes
 
@@ -378,7 +378,7 @@ image repository contains one or more tagged images.
 [discrete]
 ==== Cygmon (noun)
 [[cygmon]]
-*Description*: A type of ROM monitor.
+*Description*: "Cygmon" is a type of ROM monitor.
 
 *Use it*: yes
 

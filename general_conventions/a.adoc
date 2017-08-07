@@ -1,7 +1,7 @@
 [discrete]
 ==== air gap (noun)
 [[air-gap]]
-*Description*: Air gap is the physical segregation and isolation of a system as a security measure.
+*Description*: "Air gap" is the physical segregation and isolation of a system as a security measure.
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== AMD64 (noun)
 [[AMD64]]
-*Description*: AMD64 is the AMD implementation of the x86 architecture.
+*Description*: "AMD64" is the AMD implementation of the x86 architecture.
 
 *Use it*: yes
 
@@ -30,7 +30,7 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 [discrete]
 ==== Asynchronous Transfer Mode (noun)
 [[asynchronous-transfer-mode]]
-*Description*: Asynchronous Transfer Mode (ATM) is a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies.
+*Description*: "Asynchronous Transfer Mode" (ATM) is a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies.
 
 *Use it*: yes
 
@@ -41,7 +41,7 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 [discrete]
 ==== alright (adjective)
 [[alright]]
-*Description*: Alright is the colloquial form of "correct" or "as expected."
+*Description*: "Alright" is the colloquial form of "correct" or "as expected."
 
 *Use it*: no
 
@@ -52,7 +52,7 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 [discrete]
 ==== Applixware (noun)
 [[applixware]]
-*Description*: Applixware is a suite of proprietary modular applications for Linux.
+*Description*: "Applixware" is a suite of proprietary modular applications for Linux.
 
 *Use it*: yes
 
@@ -63,7 +63,7 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 [discrete]
 ==== auto-detect (verb)
 [[auto-detect]]
-*Description*: Auto-detect means to automatically detect threats, new hardware, software updates, etc.
+*Description*: "Auto-detect" means to automatically detect threats, new hardware, software updates, and so on.
 
 *Use it*: yes
 

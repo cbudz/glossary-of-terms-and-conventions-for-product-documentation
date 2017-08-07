@@ -1,7 +1,7 @@
 [discrete]
 ==== RAM (noun)
 [[ram]]
-*Description*: This is an acronym for "random access memory."
+*Description*: "RAM" is an acronym for "random access memory."
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== RAM disk (noun)
 [[ram-disk]]
-*Description*: RAM disk refers to RAM that has been configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful for applications that require frequent disk accesses.
+*Description*: "RAM disk" refers to "RAM" that has been configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a physical disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful for applications that require frequent disk accesses.
 
 *Use it*: yes
 
@@ -23,7 +23,7 @@
 [discrete]
 ==== raw (adjective)
 [[raw]]
-*Description*: In computing terms, raw means unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device. The term comes from UNIX, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device.
+*Description*: In computing terms, "raw" means unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, "cooked" refers to data that is processed before being passed to the I/O device. The term comes from Unix, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device.
 
 *Use it*: yes
 
@@ -35,7 +35,7 @@
 ==== raw data (noun)
 [[raw-data]]
 
-*Description*: Raw data is information that has not been organized, formatted, or analyzed.
+*Description*: "Raw data" is information that has not been organized, formatted, or analyzed.
 
 *Use it*: yes
 
@@ -46,7 +46,7 @@
 [discrete]
 ==== read (verb)
 [[read-v]]
-*Description*: To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. It is also used to refer to the act of determining the contents of a variable or parameter. (n.) The act of reading. For example, a fast disk drive performs 100 reads per second.
+*Description*: To "read" means to copy data to a place where it can be used by a program. Read is commonly used to describe copying data from a storage medium, such as a disk, to main memory. It is also used to refer to the act of determining the contents of a variable or parameter.
 
 *Use it*: yes
 
@@ -57,7 +57,7 @@
 [discrete]
 ==== read (noun)
 [[read-n]]
-*Description*: The act of reading. For example, a fast disk drive performs 100 reads per second.
+*Description*: When used as a noun, "read" refers to the act of reading, for example, "A fast disk drive performs 100 'reads' per second."
 
 *Use it*: yes
 
@@ -68,7 +68,7 @@
 [discrete]
 ==== real time (noun)
 [[real-time-n]]
-*Description*: If used as a noun, it is the actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
+*Description*: If used as a noun, "real time" is the actual time during which something takes place, for example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
 
 *Use it*: yes
 
@@ -79,7 +79,7 @@
 [discrete]
 ==== real-time (adjective)
 [[real-time-adj]]
-*Description*: If used as an adjective, "real-time" is appropriate. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
+*Description*: If used as an adjective, "real-time" is appropriate, for example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
 
 *Use it*: yes
 
@@ -90,7 +90,7 @@
 [discrete]
 ==== reboot (verb)
 [[reboot]]
-*Description*: Reboot means to turn off a computer's operating system and then turn it on.
+*Description*: "Reboot" means to turn off a computer's operating system and then turn it on.
 
 *Use it*: yes
 
@@ -101,7 +101,7 @@
 [discrete]
 ==== RedBoot (noun)
 [[redboot]]
-*Description*: RedBoot is an acronym for Red Hat Embedded Debug and Bootstrap firmware. RedBoot is a complete bootstrap environment for embedded systems. Based on the eCos Hardware Abstraction Layer, RedBoot inherits the eCos qualities of reliability, compactness, configurability, and portability.
+*Description*: "RedBoot" is an acronym for "Red Hat Embedded Debug and Bootstrap" firmware. RedBoot is a complete bootstrap environment for embedded systems. Based on the eCos Hardware Abstraction Layer, RedBoot inherits the eCos qualities of reliability, compactness, configurability, and portability.
 
 *Use it*: yes
 
@@ -112,10 +112,7 @@
 [discrete]
 ==== Red Hat Container Catalog (noun)
 [[red-hat-container-catalog]]
-*Description*: Red Hat's hosted registry for Enterprise-ready containers located
-at link:https://access.redhat.com/containers[access.redhat.com/containers]. A
-trusted source for secure, certified, and up-to-date container images. Write
-this name in full the first time that you use it in a document.
+*Description*: "Red Hat Container Catalog" is Red Hat's hosted registry for Enterprise-ready containers located at link:https://access.redhat.com/containers[access.redhat.com/containers]. Red Hat Container Catalog is a trusted source for secure, certified, and up-to-date container images. Write this name in full the first time that you use it in a document.
 
 *Use it*: yes
 
@@ -126,7 +123,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== Red Hat Enterprise Linux
 [[red-hat-enterprise-linux]]
-*Description*: Red Hat Enterprise Linux is an operating system developed by Red Hat.
+*Description*: "Red Hat Enterprise Linux" is an open source operating system based on Fedora and developed by Red Hat.
 
 *Use it*: yes
 
@@ -137,7 +134,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== Red Hat Network Satellite Server (noun)
 [[red-hat-network-satellite-server]]
-*Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Satellite Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy" for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
+*Description*: Write "Red Hat Network Satellite Server" in full the first time that you use it in a document. Subsequently, you can write "RHN Satellite Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
 
 *Use it*: yes
 
@@ -148,7 +145,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== Red Hat Network Proxy Server (noun)
 [[red-hat-network-proxy-server]]
-*Description*: Write this name in full the first time that you use it in a document. Subsequently, you can write "RHN Proxy Server," or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
+*Description*: Write "Red Hat Network Proxy Server" in full the first time that you use it in a document. Subsequently, you can write "RHN Proxy Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
 
 *Use it*: yes
 
@@ -160,7 +157,7 @@ this name in full the first time that you use it in a document.
 ==== Red Hat Way (noun)
 [[red-hat-way]]
 
-*Description*: Red Hat Way refers to the culture valued and maintained by Red Hat associates.
+*Description*: "Red Hat Way" refers to the culture valued and maintained by Red Hat associates.
 
 *Use it*: yes
 
@@ -171,7 +168,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== remote access (noun)
 [[remote-access]]
-*Description*: Remote access is the ability to log on to a network from a distant location. Generally, this implies a computer, a modem, and some remote access software to connect to the network. Remote control refers to taking control of another computer, while remote access means that the remote computer actually becomes a full-fledged host on the network. The remote access software dials in directly to the network server. The only difference between a remote host and workstations connected directly to the network is slower data transfer speeds.
+*Description*: "Remote access" is the ability to log on to a network from a distant location. Generally, this implies a computer, a modem, and some remote access software to connect to the network. "Remote control" refers to taking control of another computer, while "remote access" means that the remote computer actually becomes a full-fledged host on the network. The remote access software dials in directly to the network server. The only difference between a remote host and workstations connected directly to the network is slower data transfer speeds.
 
 *Use it*: yes
 
@@ -182,7 +179,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== remote access server (noun)
 [[remote-access-server]]
-*Description*: A remote access server is a server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials in to a network from home using an analog modem or an ISDN connection will dial in to a remote access server. Once the user is authenticated, they can access shared drives and printers as if they were physically connected to the office LAN.
+*Description*: A "remote access server" is a server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials in to a network from home using an analog modem or an ISDN connection will dial in to a remote access server. Once the user is authenticated, they can access shared drives and printers as if they were physically connected to the office LAN.
 
 *Use it*: yes
 
@@ -194,7 +191,7 @@ this name in full the first time that you use it in a document.
 ==== required (adjective)
 [[required]]
 
-*Description*: Required can mean needed, essential, or obligatory. Example 1: "The module is missing essential parts." Example 2: "Filling in the Class field is obligatory."
+*Description*: "Required" can mean needed, essential, or obligatory. Example 1: "The module is missing essential parts." Example 2: "Filling in the Class field is obligatory."
 
 *Use it*: yes
 
@@ -206,7 +203,7 @@ this name in full the first time that you use it in a document.
 === Resilient Storage Add-On (noun)
 [[resilient-storage-add-on]]
 
-*Description*: An add-on to Red Hat Enterprise Linux that allows a shared storage or clustered file system to access the same storage device over a network. The Resilient Storage Add-On creates a pool of data that is available to each server in a group by creating consistent storage across a cluster of servers that is protected if any one server fails.
+*Description*: "Resilient Storage Add-On" is an add-on to Red Hat Enterprise Linux that allows a shared storage or clustered file system to access the same storage device over a network. The Resilient Storage Add-On creates a pool of data that is available to each server in a group by creating consistent storage across a cluster of servers that is protected if any one server fails.
 
 *Use it*: yes
 
@@ -229,7 +226,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== RHEL (noun)
 [[rhel]]
-*Description*: An acronym for Red Hat Enterprise Linux. The conventions for using this acronym vary for different products and teams. If you are not sure whether to use the acronym (RHEL) or only the full version (Red Hat Enterprise Linux), ask your team members.
+*Description*: "RHEL" is an acronym for "Red Hat Enterprise Linux." The conventions for using this acronym vary for different products and teams. If you are not sure whether to use the acronym or only the full version, ask your team members.
 
 *Use it*: with caution
 
@@ -240,7 +237,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== ROM (noun)
 [[rom]]
-*Description*: ROM is an acronym for read-only memory, that is, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read.
+*Description*: "ROM" is an acronym for "read-only memory," that is, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read.
 
 *Use it*: yes
 
@@ -275,7 +272,7 @@ this name in full the first time that you use it in a document.
 ==== routine (noun)
 [[routine]]
 
-*Description*: A routine is a set of programming instructions designed to perform a specific limited task.
+*Description*: A "routine" is a set of programming instructions designed to perform a specific limited task.
 
 *Use it*: yes
 
@@ -286,7 +283,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== RPM (noun)
 [[rpm]]
-*Description*: RPM is the recursive initialism for the RPM Package Manager. RPM manages files in the RPM format, known as RPM packages. RPM packages are known informally as rpm files, but this informal usage is not used in Red Hat documentation to avoid confusion with the command name. Files in RPM format are referred to as "RPM packages."
+*Description*: "RPM" is the recursive initialism for the "RPM Package Manager." RPM manages files in the RPM format, known as RPM packages. RPM packages are known informally as rpm files, but this informal usage is not used in Red Hat documentation to avoid confusion with the command name. Files in RPM format are referred to as RPM packages.
 
 *Use it*: yes
 
@@ -297,7 +294,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== runlevel (noun)
 [[runlevel]]
-*Description*: A runlevel is a preset operating state on a UNIX-like operating system. A system can be booted in to (that is, started up in to) any of several runlevels, each of which is represented by a single digit integer. Each runlevel designates a different system configuration and allows access to a different combination of processes (that is, instances of executing programs). There are differences in the runlevels according to the operating system. Seven runlevels are supported in the standard Linux kernel.
+*Description*: A "runlevel" is a preset operating state on a Unix-like operating system. A system can be booted in to (that is, started up in to) any of several runlevels, each of which is represented by a single digit integer. Each runlevel designates a different system configuration and allows access to a different combination of processes (that is, instances of executing programs). There are differences in the runlevels according to the operating system. Seven runlevels are supported in the standard Linux kernel.
 
 *Use it*: yes
 
@@ -308,7 +305,7 @@ this name in full the first time that you use it in a document.
 [discrete]
 ==== runtime (noun)
 [[runtime]]
-*Description*: Runtime is when a program is running (or being executable), that is, when you start a program running in a computer, it is runtime for that program. In some programming languages, certain reusable programs or "routines" are built and packaged as a "runtime library."
+*Description*: "Runtime" is when a program is running (or being executable), that is, when you start a program running in a computer, it is runtime for that program. In some programming languages, certain reusable programs or routines are built and packaged as a runtime library.
 
 *Use it*: yes
 
