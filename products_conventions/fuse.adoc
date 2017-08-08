@@ -26,16 +26,6 @@ components and EIPs available in the Palette.
 *See also*: xref:design-tab [DESIGN TAB], xref:eip [EIP], xref:node [NODE]
 
 [discrete]
-==== CHANNEL (noun)
-[[channel]]
-*Description*:  
-
-*Use it*: 
-
-*Incorrect forms*: 
-
-*See also*:
-[discrete]
 ==== COMPONENT (noun)
 [[component]]
 *Description*: A component is a factory for creating endpoints in a Camel route. For example, you would use the Twitter component to create Twitter endpoints.
@@ -89,13 +79,14 @@ built on the Camel Twitter component, enables you to create multiple connections
 [discrete]
 ==== CONSUMER (noun)
 [[consumer]]
-*Description*:  
+*Description*: In Camel, the consumer is the source of message exchanges entering a route. It wraps received messages in an exchange and 
+then sends the exchange to the next node in the route. A route can have only one consumer.
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:message-exchange[MESSAGE EXCHANGE], xref:node[NODE], xref:proucer[PRODUCER] 
 
 [discrete]
 ==== DESIGN TAB (noun)
@@ -125,7 +116,8 @@ in the Palette and filed in separate drawers according to function (Routing, Con
 [discrete]
 ==== ENDPOINT (noun)
 [[endpoint]]
-*Description*:  
+*Description*: In Camel, an endpoint is the end of a Camel message channel through which a system or service can send or receive messages. 
+Endpoints are created and configured using components.
 
 *Use it*: with caution
 
@@ -147,48 +139,25 @@ in the Palette and filed in separate drawers according to function (Routing, Con
 [discrete]
 ==== FUSE IGNITE (noun)
 [[fuse-ignite]]
-*Description*:  
+*Description*: Fuse Ignite is the name of the new integration as a service (iPaaS) offering. When writing documentation for Fuse Ignite, do not use common 
+Camel terms such as endpoint, consumer, producer. It is assumed that Fuse Ignite users do not know anything about Camel.
 
-*Use it*: 
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: Ignite
 
-*See also*:
+*See also*: xref:syndesis[SYNDESIS]
 
 [discrete]
 ==== INTEGRATION (noun)
 [[integration]]
-*Description*:  
-
-*Use it*: 
-
-*Incorrect forms*: 
-
-*See also*:
-
-[discrete]
-==== MESSAGE EXCHANGE (noun)
-[[message-exchange]]
-*Description*:  
-
-*Use it*: 
-
-*Incorrect forms*: 
-
-*See also*:
-
-
-[discrete]
-==== MEP (noun)
-[[mep]]
-*Description*: Message Exchange Pattern. In Camel, the MEP is part of the message exhange and used to differentiate between one-way (InOnly) and 
-request-reply (InOut) messaging style.
+*Description*:  (1) An integration is a Camel route created in Fuse Ignite.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:message-exchange[MESSAGE EXCHANGE]
+*See also*:
 
 [discrete]
 ==== MESSAGE (noun)
@@ -203,10 +172,47 @@ headers, and optionally attachemnts (typically used with web service and email c
 *See also*: xref:message-exchange[MESSAGE EXCHANGE]
 
 [discrete]
+==== MESSAGE CHANNEL (noun)
+[[message-channel]]
+*Description*: In Camel
+
+*Use it*: 
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
+==== MESSAGE EXCHANGE (noun)
+[[message-exchange]]
+*Description*:  In Camel, a message exchange is a container for the message during its transit through a routing context. A message exchange also has a 
+exchange ID, a MEP setting to indicate whether the exchange is one-way or a request-reply, a Exception filed that is set whenever an error occurs uring routing, 
+global-level properties that users can store/retrieve at any time during the lifecycle of the exchange.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:message[MESSAGE], xref:mep[MEP]
+
+[discrete]
+==== MEP (noun)
+[[mep]]
+*Description*: Message Exchange Pattern. In Camel, the MEP is part of the message exhange and used to differentiate between one-way (InOnly) and 
+request-reply (InOut) messaging style.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*: xref:message-exchange[MESSAGE EXCHANGE]
+
+
+[discrete]
 ==== NODE (noun)
 [[node]]
-*Description*: In Fuse tooling, a node is a component or EIP that has been dragged from the Palette and dropped on the route editor's canvas. Selecting a node on the canvas
-displays its properties in Properties view for editing.
+*Description*: In Fuse tooling, a node is a component or EIP that has been dragged from the Palette and dropped on the route editor's canvas. Selecting a node on 
+the canvas displays its properties in Properties view for editing.
 
 *Use it*: yes
 
@@ -230,7 +236,7 @@ You can edit any .cfg file to configure/reconfigure the corresponding OSGi servi
 [discrete]
 ==== PROCESSOR (noun)
 [[processor]]
-*Description*: In Camel, a processor is a node in a route that is capable of creating or modifying an incoming message exchange. Processors are 
+*Description*: In Camel, a processor is a node in a route that is capable of using, creating, or modifying an incoming message exchange. Processors are 
 typically implementations of EIPs, but can be custom made.
 
 *Use it*: yes
@@ -242,13 +248,14 @@ typically implementations of EIPs, but can be custom made.
 [discrete]
 ==== PRODUCER (noun)
 [[producer]]
-*Description*:  
+*Description*: In Camel, a producer is an entity capable of creating and sending a message to an output endpoint. The message it creates is populated with data 
+compatible with the target output endpoint. A route can have multiple producers.
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:consumer[CONSUMER]
 
 [discrete]
 ==== PROPERTIES VIEW (noun)
@@ -308,13 +315,13 @@ typically implementations of EIPs, but can be custom made.
 [discrete]
 ==== SYNDESIS (noun)
 [[syndesis]]
-*Description*:  
+*Description*: The community name for Fuse Ignite.
 
 *Use it*: 
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:fuse-ignite[FUSE IGNITE]
 
 [discrete]
 ==== TRANSPORT (noun)
@@ -330,32 +337,39 @@ typically implementations of EIPs, but can be custom made.
 [discrete]
 ==== URI (noun)
 [[uri]]
-*Description*:  
+*Description*: Uniform Resource Identifier. A string of characters that indentifies a resource, it enables interaction with representations of the resource over a 
+network using schemes with specific syntax and associated protocols. In Camel, URIs are used to create and configure endpoints. Camel URIs have a specific syntax: 
+*scheme:context_path?options*. *scheme* specifies the component to use to create and handle endpoints of its type; *context_path* specifies the location of the 
+input data; and *options*, in the form of property=value pairs, configure the behavior of the created enpoints. For example, the URI *file:data/orders?delay=5000* 
+in the routing rule *<from uri="file:data/orders?delay=5000" />* employs the File component to create a file endpoint, whose input source, the *data/orders* directory, will be polled 
+for files at 5 second intervals.
 
-*Use it*: 
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: uri
 
-*See also*:
+*See also*: xref:endpoint[ENDPOINT] xref:url[URL], xref:urn[URN]
 
 [discrete]
 ==== URL (noun)
 [[url]]
-*Description*:  
+*Description*: Unform  Resource Locator. A URL is a special URI used to reference to a web resource, specifying its location on a computer network and the mechanism 
+for retrieving it. URLs are commonlly used to reference web pages (http), but also for file transfers (ftp), email (mailto), database access (JDBC), and so on.
 
-*Use it*: 
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: url
 
-*See also*:
+*See also*: xref:uri[URI], xref:urn[URN]
 
 [discrete]
 ==== URN (noun)
 [[urn]]
-*Description*:  
+*Description*: Uniform Resource Name. A URN is a special URI that identifies, by name, a resource located in a specific namespace. A URN can be used to talk about a
+resource without implying its location or access details.
 
-*Use it*: 
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: urn
 
-*See also*:
+*See also*: xref:url[URL], xref:uri[URI]
