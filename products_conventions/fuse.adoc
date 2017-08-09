@@ -5,13 +5,16 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 [discrete]
 ==== CAMEL CONTEXT (noun)
 [[camelcontext]]
-*Description*:  
+*Description*: Every Camel application is based on a CamelContext, which is Camel's runtime. The CamelContext keeps track of and provides access to all 
+services loaded in it (e.g. components, endpoints, routes, data formats, languages, the registry, and so on). In the routing context .xml file, it is 
+represented by the <camelContext> element, which encloses all <route> elements and their routing rules. In Camel DSL, CamelContext instatiates a new 
+DefaultCamelContext in which to add and configure routes and their routing rules. 
 
-*Use it*: 
+*Use it*: with caution
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:routing-context[ROUTING CONTEXT]
 
 [discrete]
 ==== CANVAS (noun)
@@ -41,7 +44,7 @@ can add to your route in the route editor. Each component represents a connectio
 [discrete]
 ==== CONFIGURATIONS TAB (noun)
 [[configurations-tab]]
-*Description*: In Developer Studio with Fuse Tooling installed, the route editor's Configurations tab enables you to add configuration shared globally by all 
+*Description*: In Fuse tooling, the route editor's Configurations tab enables you to add configuration shared globally by all 
 routes in a multiroute routing context. You can select existing endpoints, data formats, 
 or beans from the list or create and add new ones.   
 
@@ -55,7 +58,7 @@ or beans from the list or create and add new ones.
 ==== CONNECTION (noun)
 [[connection]]
 *Description*: In Fuse Ignite, you create a connection using a Fuse Ignite connector. You can then use the connection in a Fuse Ignite integration. 
-For example, using the Twitter connector, you can create multiple connections to Twitter, each of which requires unique login credentials.
+For example, using the Twitter connector, you can create multiple connections to Twitter, each of which could require unique login credentials.
 
 *Use it*: yes
 
@@ -91,13 +94,13 @@ then sends the exchange to the next node in the route. A route can have only one
 [discrete]
 ==== DESIGN TAB (noun)
 [[design-tab]]
-*Description*: In Developer Studio with Fuse Tooling installed, the route editor's Design tab displays a graphical representation of the route.
+*Description*: In Fuse tooling, the route editor's Design tab displays a graphical representation of the routing context.
 
 *Use it*: yes
 
 *Incorrect forms*: Design view
 
-*See also*:  xref:configurations-tab [CONFIGURATIONS TAB], xref:routing-context [ROUTING CONTEXT], xref:source-tab [SOURCE TAB]
+*See also*: xref:configurations-tab [CONFIGURATIONS TAB], xref:routing-context [ROUTING CONTEXT], xref:source-tab [SOURCE TAB]
 
 [discrete]
 ==== EIP (noun)
@@ -105,7 +108,7 @@ then sends the exchange to the next node in the route. A route can have only one
 *Description*: Enterprise Integration Pattern. A pattern language providing a technology-independent vocabulary and visual notation for designing and 
 documenting enterprise integration solutions. Each pattern proivdes a proven solution for a reoccuring problem in integrating disparate applications 
 and services across different enterprises. Camel implements numerous patterns for asynchronous messaging. In Fuse tooling, these patterns are located 
-in the Palette and filed in separate drawers according to function (Routing, Control Flow, Transformation, an Miscellaneous).  
+in the Palette and filed in separate drawers according to function (Routing, Control Flow, Transformation, and Miscellaneous).  
 
 *Use it*: yes
 
@@ -140,7 +143,7 @@ Endpoints are created and configured using components.
 ==== FUSE IGNITE (noun)
 [[fuse-ignite]]
 *Description*: Fuse Ignite is the name of the new integration as a service (iPaaS) offering. When writing documentation for Fuse Ignite, do not use common 
-Camel terms such as endpoint, consumer, producer. It is assumed that Fuse Ignite users do not know anything about Camel.
+Camel terms such as endpoint, consumer, producer. It is assumed that Fuse Ignite users know nothing about Camel.
 
 *Use it*: yes
 
@@ -186,8 +189,8 @@ headers, and optionally attachemnts (typically used with web service and email c
 ==== MESSAGE EXCHANGE (noun)
 [[message-exchange]]
 *Description*:  In Camel, a message exchange is a container for the message during its transit through a routing context. A message exchange also has a 
-exchange ID, a MEP setting to indicate whether the exchange is one-way or a request-reply, a Exception filed that is set whenever an error occurs uring routing, 
-global-level properties that users can store/retrieve at any time during the lifecycle of the exchange.
+exchange ID, a MEP setting to indicate whether the exchange is one- or two-way (request-reply), an Exception field that is set whenever an error occurs 
+during routing, and global-level properties that users can store/retrieve at any time during the lifecycle of the exchange.
 
 *Use it*: yes
 
@@ -211,14 +214,14 @@ request-reply (InOut) messaging style.
 [discrete]
 ==== NODE (noun)
 [[node]]
-*Description*: In Fuse tooling, a node is a component or EIP that has been dragged from the Palette and dropped on the route editor's canvas. Selecting a node on 
-the canvas displays its properties in Properties view for editing.
+*Description*: In Fuse tooling, a node is a component or EIP that has been dragged from the Palette and dropped on the route editor's canvas displayed on the 
+Design tab. Selecting a node on the canvas displays its properties in Properties view for editing.
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:canvas [CANVAS], xref:component [COMPONENT], xref:eip [EIP],  
+*See also*: xref:canvas[CANVAS], xref:component[COMPONENT], xref:eip[EIP], xref:properties-view[PROPERTIES VIEW]  
 
 [discrete]
 ==== PID (noun)
@@ -260,24 +263,25 @@ compatible with the target output endpoint. A route can have multiple producers.
 [discrete]
 ==== PROPERTIES VIEW (noun)
 [[properties-view]]
-*Description*:  
+*Description*: In Fuse tooling, Properties view displays the properties of a node selected on the canvas, which you can edit. 
 
 *Use it*: 
 
-*Incorrect forms*: 
+*Incorrect forms*: Properties editor
 
 *See also*:
 
 [discrete]
 ==== ROUTE (noun)
 [[route]]
-*Description*:  
+*Description*: In Camel, a route is basically a chain of processors connected to a consumer endpoint and one or more producer endpoints. A routing context 
+can contain multiple routes.
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:consumer[CONSUMER], xref:endpoint[ENDPOINT], xref:processor[PROCESSOR], xref:producer[PRODUCER], xref:routing-context[ROUTING CONTEXT]
 
 [discrete]
 ==== ROUTE EDITOR (noun)
@@ -304,7 +308,8 @@ compatible with the target output endpoint. A route can have multiple producers.
 [discrete]
 ==== SOURCE TAB (noun)
 [[source-tab]]
-*Description*:  
+*Description*: In Fuse tooling, the route editor's Source tab displays the XML code of the graphical representation of the routing context displayed on 
+the Design tab. You can edit and save changes to the routing context on both tabs. 
 
 *Use it*: 
 
