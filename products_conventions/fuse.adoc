@@ -5,10 +5,10 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 [discrete]
 ==== CAMEL CONTEXT (noun)
 [[camelcontext]]
-*Description*: Every Camel application is based on a CamelContext, which is Camel's runtime. The CamelContext keeps track of and provides access to all 
-services loaded in it (e.g. components, endpoints, routes, data formats, languages, the registry, and so on). In the routing context .xml file, it is 
-represented by the <camelContext> element, which encloses all <route> elements and their routing rules. In Camel DSL, CamelContext instatiates a new 
-DefaultCamelContext in which to add and configure routes and their routing rules. 
+*Description*: Every Camel application is based on a `CamelContext`, which is Camel's runtime. The `CamelContext` keeps track of and provides access to all 
+services loaded in it (e.g. components, endpoints, routes, data formats, languages, the registry, and so on). In the routing context `.xml` file, it is 
+represented by the `<camelContext>` element, which encloses all `<route>` elements and their routing rules. In Camel DSL, `CamelContext` instantiates a new 
+`DefaultCamelContext` in which to add and configure routes and their routing rules. 
 
 *Use it*: with caution
 
@@ -32,8 +32,8 @@ components and EIPs available in the Palette.
 ==== COMPONENT (noun)
 [[component]]
 *Description*: A component is a factory for creating endpoints in a Camel route. For example, you would use the Twitter component to create Twitter endpoints.
-In Developer Studio with Fuse Tooling installed, the Palette's Components drawer contains the Camel components (and user-created components if any) that you 
-can add to your route in the route editor. Each component represents a connection to a specific service or application, such as Atom, CXF, Bean, File, and so on.
+In Fuse tooling, the Palette's Components drawer contains the Camel components (and user-created components if any) that you can add to your route in the 
+route editor. Each component represents a connection to a specific service or application, such as Atom, CXF, Bean, File, and so on.
 
 *Use it*: yes
 
@@ -152,6 +152,18 @@ Camel terms such as endpoint, consumer, producer. It is assumed that Fuse Ignite
 *See also*: xref:syndesis[SYNDESIS]
 
 [discrete]
+==== FUSE TOOLING (noun)
+[[fuse-tooling]]
+*Description*: Fuse tooling is a plugin to Developer Studio that enables rapid design, developement, debugging, testing, and publishing of Camel applications 
+for a variety of servers, such as Fuse, EAP, Wilfly, and OpenShift.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*:
+
+[discrete]
 ==== INTEGRATION (noun)
 [[integration]]
 *Description*:  (1) An integration is a Camel route created in Fuse Ignite.
@@ -173,17 +185,6 @@ headers, and optionally attachemnts (typically used with web service and email c
 *Incorrect forms*: 
 
 *See also*: xref:message-exchange[MESSAGE EXCHANGE]
-
-[discrete]
-==== MESSAGE CHANNEL (noun)
-[[message-channel]]
-*Description*: In Camel
-
-*Use it*: 
-
-*Incorrect forms*: 
-
-*See also*:
 
 [discrete]
 ==== MESSAGE EXCHANGE (noun)
@@ -227,8 +228,8 @@ Design tab. Selecting a node on the canvas displays its properties in Properties
 ==== PID (noun)
 [[pid]]
 *Description*: The persistent identifier (PID) of a registered OSGi service is used to identify the service across container restarts. In Fuse (Karaf), PIDs map
-to .cfg configuration files located in the FUSE_HOME/etc/ directory. A .cfg file contains a list of attribute/value pairs that configure a service. 
-You can edit any .cfg file to configure/reconfigure the corresponding OSGi service.
+to `.cfg` configuration files located in the `FUSE_HOME/etc/` directory. A `.cfg` file contains a list of attribute/value pairs that configure a service. 
+You can edit any `.cfg` file to configure/reconfigure the corresponding OSGi service.
 
 *Use it*: yes
 
@@ -286,34 +287,38 @@ can contain multiple routes.
 [discrete]
 ==== ROUTE EDITOR (noun)
 [[route-editor]]
-*Description*:  
+*Description*:  In Fuse tooling, the route editor is the tool you use to construct the route or routes in your routing context. It provides two methods 
+that can be used interchangeably. You build a context graphcally using the Design tab. You code a context in XML using the Source tab. 
 
-*Use it*: 
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: Camel editor
 
-*See also*:
+*See also*: xref:design-tab[DESIGN TAB], xref:source-tab[SOURCE TAB]
 
 [discrete]
 ==== ROUTING CONTEXT (noun)
 [[routing-context]]
-*Description*:  
+*Description*: A routing context specifies the routing rules for a Camel application. Among other things, routing rules specify the source and type of input, 
+how to process it, and where to send it when processing is done. In Fuse tooling, the routing context is provided in a `.xml` file, the name of which depends on the 
+configuration framework used. For Spring-based projects, the default name of the routing context file is `camelContext.xml`. For Blueprint-based projects, the 
+default name of the routing context file is `blueprint.xml`. 
 
-*Use it*: 
+*Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*:
+*See also*: xref:camelcontext[CAMEL CONTEXT]
 
 [discrete]
 ==== SOURCE TAB (noun)
 [[source-tab]]
-*Description*: In Fuse tooling, the route editor's Source tab displays the XML code of the graphical representation of the routing context displayed on 
-the Design tab. You can edit and save changes to the routing context on both tabs. 
+*Description*: In Fuse tooling, the route editor's Source tab displays the XML code that corresponds to the graphical representation of the routing context 
+displayed on the Design tab. You can edit and save changes to the routing context on both tabs. 
 
-*Use it*: 
+*Use it*: yes
 
-*Incorrect forms*: 
+*Incorrect forms*: Source view
 
 *See also*: xref:configurations-tab [CONFIGURATIONS TAB], xref:design-tab [DESIGN TAB]
 
@@ -329,24 +334,13 @@ the Design tab. You can edit and save changes to the routing context on both tab
 *See also*: xref:fuse-ignite[FUSE IGNITE]
 
 [discrete]
-==== TRANSPORT (noun)
-[[transport]]
-*Description*:  
-
-*Use it*: 
-
-*Incorrect forms*: 
-
-*See also*:
-
-[discrete]
 ==== URI (noun)
 [[uri]]
 *Description*: Uniform Resource Identifier. A string of characters that indentifies a resource, it enables interaction with representations of the resource over a 
 network using schemes with specific syntax and associated protocols. In Camel, URIs are used to create and configure endpoints. Camel URIs have a specific syntax: 
 *scheme:context_path?options*. *scheme* specifies the component to use to create and handle endpoints of its type; *context_path* specifies the location of the 
-input data; and *options*, in the form of property=value pairs, configure the behavior of the created enpoints. For example, the URI *file:data/orders?delay=5000* 
-in the routing rule *<from uri="file:data/orders?delay=5000" />* employs the File component to create a file endpoint, whose input source, the *data/orders* directory, will be polled 
+input data; and *options*, in the form of property=value pairs, configure the behavior of the created enpoints. For example, the URI `file:data/orders?delay=5000` 
+in the routing rule `<from uri="file:data/orders?delay=5000" />` employs the File component to create a file endpoint, whose input source, the `data/orders` directory, will be polled 
 for files at 5 second intervals.
 
 *Use it*: yes
