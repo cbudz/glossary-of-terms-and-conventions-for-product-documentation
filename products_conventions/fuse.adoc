@@ -26,7 +26,7 @@ components and EIPs available in the Palette.
 
 *Incorrect forms*: 
 
-*See also*: xref:design-tab [DESIGN TAB], xref:eip [EIP], xref:node [NODE]
+*See also*: xref:design-tab[DESIGN TAB], xref:eip[EIP], xref:node[NODE]
 
 [discrete]
 ==== COMPONENT (noun)
@@ -39,7 +39,7 @@ route editor. Each component represents a connection to a specific service or ap
 
 *Incorrect forms*: 
 
-*See also*: xref:connection [CONNECTION], xref:endpoint [ENDPOINT]
+*See also*: xref:connection[CONNECTION], xref:endpoint[ENDPOINT]
 
 [discrete]
 ==== CONFIGURATIONS TAB (noun)
@@ -52,7 +52,7 @@ or beans from the list or create and add new ones.
 
 *Incorrect forms*: Configurations view
 
-*See also*: xref:design-tab [DESIGN TAB], xref:routing-context [ROUTING CONTEXT], xref:source-tab [SOURCE TAB]
+*See also*: xref:design-tab[DESIGN TAB], xref:routing-context[ROUTING CONTEXT], xref:source-tab[SOURCE TAB]
 
 [discrete]
 ==== CONNECTION (noun)
