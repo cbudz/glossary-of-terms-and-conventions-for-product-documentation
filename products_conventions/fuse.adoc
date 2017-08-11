@@ -4,7 +4,7 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 
 [discrete]
 ==== CAMEL CONTEXT (noun)
-[[camelcontext]]
+[[camel-context]]
 *Description*: Every Camel application is based on a `CamelContext`, which is Camel's runtime. The `CamelContext` keeps track of and provides access to all 
 services loaded in it (e.g. components, endpoints, routes, data formats, languages, the registry, and so on). In the routing context `.xml` file, it is 
 represented by the `<camelContext>` element, which encloses all `<route>` elements and their routing rules. In Camel DSL, `CamelContext` instantiates a new 
@@ -89,7 +89,7 @@ then sends the exchange to the next node in the route. A route can have only one
 
 *Incorrect forms*: 
 
-*See also*: xref:message-exchange[MESSAGE EXCHANGE], xref:node[NODE], xref:proucer[PRODUCER] 
+*See also*: xref:message-exchange[MESSAGE EXCHANGE], xref:node[NODE], xref:producer[PRODUCER] 
 
 [discrete]
 ==== DESIGN TAB (noun)
@@ -310,7 +310,7 @@ default name of the routing context file is `blueprint.xml`.
 
 *Incorrect forms*: 
 
-*See also*: xref:camelcontext[CAMEL CONTEXT], xref:rouing-rules[ROUTING RULES]
+*See also*: xref:camel-context[CAMEL CONTEXT], xref:routing-rules[ROUTING RULES]
 
 [discrete]
 ==== ROUTING RULES (noun)
