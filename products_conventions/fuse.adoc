@@ -64,7 +64,7 @@ For example, using the Twitter connector, you can create multiple connections to
 
 *Incorrect forms*: 
 
-*See also*: xref:connector [CONNECTOR]
+*See also*: xref:connector[CONNECTOR]
 
 [discrete]
 ==== CONNECTOR (noun)
@@ -77,7 +77,7 @@ built on the Camel Twitter component, enables you to create multiple connections
 
 *Incorrect forms*: 
 
-*See also*: xref:connectION [CONNECTION]
+*See also*: xref:connection[CONNECTION]
 
 [discrete]
 ==== CONSUMER (noun)
@@ -100,7 +100,7 @@ then sends the exchange to the next node in the route. A route can have only one
 
 *Incorrect forms*: Design view
 
-*See also*: xref:configurations-tab [CONFIGURATIONS TAB], xref:routing-context [ROUTING CONTEXT], xref:source-tab [SOURCE TAB]
+*See also*: xref:configurations-tab[CONFIGURATIONS TAB], xref:routing-context[ROUTING CONTEXT], xref:source-tab[SOURCE TAB]
 
 [discrete]
 ==== EIP (noun)
@@ -114,7 +114,7 @@ in the Palette and filed in separate drawers according to function (Routing, Con
 
 *Incorrect forms*: 
 
-*See also*: xref:component [COMPONENT], xref:node [NODE]
+*See also*: xref:component[COMPONENT], xref:node[NODE]
 
 [discrete]
 ==== ENDPOINT (noun)
@@ -320,7 +320,7 @@ displayed on the Design tab. You can edit and save changes to the routing contex
 
 *Incorrect forms*: Source view
 
-*See also*: xref:configurations-tab [CONFIGURATIONS TAB], xref:design-tab [DESIGN TAB]
+*See also*: xref:configurations-tab[CONFIGURATIONS TAB], xref:design-tab[DESIGN TAB]
 
 [discrete]
 ==== SYNDESIS (noun)
