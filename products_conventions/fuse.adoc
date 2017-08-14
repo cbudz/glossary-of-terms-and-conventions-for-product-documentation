@@ -126,7 +126,7 @@ Endpoints are created and configured using components.
 
 *Incorrect forms*: 
 
-*See also*: 
+*See also*: xref:component[COMPONENT]
 
 [discrete]
 ==== FUSE_HOME (noun)
@@ -155,7 +155,7 @@ Camel terms such as endpoint, consumer, producer. It is assumed that Fuse Ignite
 ==== FUSE TOOLING (noun)
 [[fuse-tooling]]
 *Description*: Fuse tooling is a plugin to Developer Studio that enables rapid design, developement, debugging, testing, and publishing of Camel applications 
-for a variety of servers, such as Fuse, EAP, Wilfly, and OpenShift.
+on a variety of servers, such as Fuse, EAP, Wilfly, and OpenShift.
 
 *Use it*: yes
 
