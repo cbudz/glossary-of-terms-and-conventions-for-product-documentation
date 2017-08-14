@@ -365,7 +365,7 @@ directory, will be polled for files at 5 second intervals.
 
 *Incorrect forms*: uri
 
-*See also*: xref:endpoint[ENDPOINT] xref:url[URL], xref:urn[URN]
+*See also*: xref:endpoint[ENDPOINT], xref:url[URL], xref:urn[URN]
 
 [discrete]
 ==== URL (noun)
