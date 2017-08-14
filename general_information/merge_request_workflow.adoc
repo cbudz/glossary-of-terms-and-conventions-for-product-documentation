@@ -10,7 +10,7 @@
 
 * Notifies all designated reviewers by using email after five merge requests have been submitted or at the end of 2 weeks, if the quota has not been reached.
 |Reviewers |Evaluate the changes. Review options include live meetings or online reviews. The reviewers reach a decision when a clear majority of reviewers agree on what to do with each merge request.
-|The designated repository administrator |Accepts, denies, or asks for changes to the merge request.
+|The designated repository administrator |Accepts, denies, or asks for changes to the merge request. The administrator may make small changes, for example, for template conformity, before accepting the merge request.
 |GitLab |Automatically notifies the requester of the outcome of the merge request, including if the reviewers need more information.
 |Requester |Makes any requested changes to the content and re-submits the request.
 |The designated repository administrator |Approves the merge request.
@@ -20,7 +20,7 @@
 * Notifies all designated reviewers via email after five issues have been submitted or at the end of 2 weeks, if the quota has not been reached.
 
 |Reviewers |Consensus is reached when a clear majority of participants agree on the issue's determination.
-|The designated repository administrator |Provides a response to the issue's author.
+|The designated repository administrator |Provides a response to the issue's author, if applicable.
 |====
 
 This table provides additional information for adding, revising, or deleting product-specific terms.
@@ -31,5 +31,5 @@ This table provides additional information for adding, revising, or deleting pro
 |These people or this system... |Complete(s) these tasks . . .
 |A product docs team member |For an initial set of conventions, reviews the entries and agrees that they are sound.
 |A designated member of the Documentation Conventions project |Reviews the merge request for template conformity and other issues.
-|A designated member of the Documentation Conventions project |Merges the request when it is ready.
+|A designated member of the Documentation Conventions project |Merges the request when it is ready. The administrator may make small changes, for example, for template conformity, before accepting the merge request.
 |====
