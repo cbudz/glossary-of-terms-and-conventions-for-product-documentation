@@ -3,21 +3,22 @@
 Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@redhat.com. 
 
 [discrete]
-==== CAMEL CONTEXT (noun)
+==== Camel context (noun)
 [[camel-context]]
 *Description*: Every Camel application is based on a `CamelContext`, which is Camel's runtime. The `CamelContext` keeps track of and provides access to all 
 services loaded in it (e.g. components, endpoints, routes, data formats, languages, the registry, and so on). In the routing context `.xml` file, it is 
 represented by the `<camelContext>` element, which encloses all `<route>` elements and their routing rules. In Camel DSL, `CamelContext` instantiates a new 
-`DefaultCamelContext` in which to add and configure routes and their routing rules. 
+`DefaultCamelContext` in which to add and configure routes and their routing rules. Use only when referencing code (element or method), otherwise use the generic 
+term *routing context* when talking about the application's .xml/DSL file or the file's routing rules.
 
 *Use it*: with caution
 
 *Incorrect forms*: 
 
-*See also*: xref:routing-context[ROUTING CONTEXT]
+*See also*: xref:routing-context[routing context]
 
 [discrete]
-==== CANVAS (noun)
+==== canvas (noun)
 [[canvas]]
 *Description*: In Fuse tooling, the route editor provides a canvas (Design tab) on which to build routes graphically, using
 components and EIPs available in the Palette. 
@@ -26,10 +27,10 @@ components and EIPs available in the Palette.
 
 *Incorrect forms*: 
 
-*See also*: xref:design-tab[DESIGN TAB], xref:eip[EIP], xref:node[NODE]
+*See also*: xref:design-tab[Design tab], xref:eip[EIP], xref:node-fuse[node]
 
 [discrete]
-==== COMPONENT (noun)
+==== component (noun)
 [[component]]
 *Description*: A component is a factory for creating endpoints in a Camel route. For example, you would use the Twitter component to create Twitter endpoints.
 In Fuse tooling, the Palette's Components drawer contains the Camel components (and user-created components if any) that you can add to your route in the 
@@ -39,10 +40,10 @@ route editor. Each component represents a connection to a specific service or ap
 
 *Incorrect forms*: 
 
-*See also*: xref:connection[CONNECTION], xref:endpoint[ENDPOINT]
+*See also*: xref:connection-fuse[connection], xref:endpoint-fuse[endpoint]
 
 [discrete]
-==== CONFIGURATIONS TAB (noun)
+==== Configurations tab (noun)
 [[configurations-tab]]
 *Description*: In Fuse tooling, the route editor's Configurations tab enables you to add configuration shared globally by all 
 routes in a multiroute routing context. You can select existing endpoints, data formats, 
@@ -52,11 +53,11 @@ or beans from the list or create and add new ones.
 
 *Incorrect forms*: Configurations view
 
-*See also*: xref:design-tab[DESIGN TAB], xref:routing-context[ROUTING CONTEXT], xref:source-tab[SOURCE TAB]
+*See also*: xref:design-tab[Design tab], xref:routing-context[routing context], xref:source-tab[Source tab]
 
 [discrete]
-==== CONNECTION (noun)
-[[connection]]
+==== connection (noun)
+[[connection-fuse]]
 *Description*: In Fuse Ignite, you create a connection using a Fuse Ignite connector. You can then use the connection in a Fuse Ignite integration. 
 For example, using the Twitter connector, you can create multiple connections to Twitter, each of which could require unique login credentials.
 
@@ -64,11 +65,11 @@ For example, using the Twitter connector, you can create multiple connections to
 
 *Incorrect forms*: 
 
-*See also*: xref:connector[CONNECTOR]
+*See also*: xref:connector-fuse[connector]
 
 [discrete]
-==== CONNECTOR (noun)
-[[connector]]
+==== connector (noun)
+[[connector-fuse]]
 *Description*: In Fuse Ignite, a connector provides a template for creating any number of connections to a particular application or service, 
 each of which can perform a different operation. A Camel component provides the foundation for a connector. For example, the Twitter connector, 
 built on the Camel Twitter component, enables you to create multiple connections to Twitter.
@@ -77,11 +78,11 @@ built on the Camel Twitter component, enables you to create multiple connections
 
 *Incorrect forms*: 
 
-*See also*: xref:connection[CONNECTION]
+*See also*: xref:connection-fuse[connection]
 
 [discrete]
-==== CONSUMER (noun)
-[[consumer]]
+==== consumer (noun)
+[[consumer-fuse]]
 *Description*: In Camel, the consumer is the source of message exchanges entering a route. It wraps received messages in an exchange and 
 then sends the exchange to the next node in the route. A route can have only one consumer.
 
@@ -89,10 +90,10 @@ then sends the exchange to the next node in the route. A route can have only one
 
 *Incorrect forms*: 
 
-*See also*: xref:message-exchange[MESSAGE EXCHANGE], xref:node[NODE], xref:producer[PRODUCER] 
+*See also*: xref:message-exchange[message exchange], xref:node-fuse[node], xref:producer-fuse[producer] 
 
 [discrete]
-==== DESIGN TAB (noun)
+==== Design tab (noun)
 [[design-tab]]
 *Description*: In Fuse tooling, the route editor's Design tab displays a graphical representation of the routing context.
 
@@ -100,7 +101,7 @@ then sends the exchange to the next node in the route. A route can have only one
 
 *Incorrect forms*: Design view
 
-*See also*: xref:configurations-tab[CONFIGURATIONS TAB], xref:routing-context[ROUTING CONTEXT], xref:source-tab[SOURCE TAB]
+*See also*: xref:configurations-tab[Configurations tab], xref:routing-context[routing context], xref:source-tab[Source tab]
 
 [discrete]
 ==== EIP (noun)
@@ -114,11 +115,11 @@ in the Palette and filed in separate drawers according to function (Routing, Con
 
 *Incorrect forms*: 
 
-*See also*: xref:component[COMPONENT], xref:node[NODE]
+*See also*: xref:component[component], xref:node-fuse[node]
 
 [discrete]
-==== ENDPOINT (noun)
-[[endpoint]]
+==== endpoint (noun)
+[[endpoint-fuse]]
 *Description*: In Camel, an endpoint is the end of a Camel message channel through which a system or service can send or receive messages. 
 Endpoints are created and configured using components.
 
@@ -126,7 +127,7 @@ Endpoints are created and configured using components.
 
 *Incorrect forms*: 
 
-*See also*: xref:component[COMPONENT]
+*See also*: xref:component[component]
 
 [discrete]
 ==== FUSE_HOME (noun)
@@ -140,7 +141,7 @@ Endpoints are created and configured using components.
 *See also*: 
 
 [discrete]
-==== FUSE IGNITE (noun)
+==== Fuse Ignite (noun)
 [[fuse-ignite]]
 *Description*: Fuse Ignite is the name of the new integration as a service (iPaaS) offering. When writing documentation for Fuse Ignite, do not use common 
 Camel terms such as endpoint, consumer, producer. It is assumed that Fuse Ignite users know nothing about Camel.
@@ -149,10 +150,10 @@ Camel terms such as endpoint, consumer, producer. It is assumed that Fuse Ignite
 
 *Incorrect forms*: Ignite
 
-*See also*: xref:syndesis[SYNDESIS]
+*See also*: xref:syndesis[Syndesis]
 
 [discrete]
-==== FUSE TOOLING (noun)
+==== Fuse tooling (noun)
 [[fuse-tooling]]
 *Description*: Fuse tooling is a plugin to Developer Studio that enables rapid design, developement, debugging, testing, and publishing of Camel applications 
 on a variety of servers, such as Fuse, EAP, Wilfly, and OpenShift.
@@ -164,7 +165,7 @@ on a variety of servers, such as Fuse, EAP, Wilfly, and OpenShift.
 *See also*:
 
 [discrete]
-==== INTEGRATION (noun)
+==== integration (noun)
 [[integration]]
 *Description*:  (1) An integration is a Camel route created in Fuse Ignite.
 
@@ -175,8 +176,8 @@ on a variety of servers, such as Fuse, EAP, Wilfly, and OpenShift.
 *See also*:
 
 [discrete]
-==== MESSAGE (noun)
-[[message]]
+==== message (noun)
+[[message-fuse]]
 *Description*: In Camel, the message is the fundamental structure for moving data through a route. A message consists of a body (also known as payload), 
 headers, and attachemnts (optional). They flow in one direction from sender to receiver. Headers contain metadata, such as sender IDs, content encoding hints, 
 and so on. Attachments can be text, image, audio, or video files and are typically used with email and web service components.  
@@ -185,10 +186,10 @@ and so on. Attachments can be text, image, audio, or video files and are typical
 
 *Incorrect forms*: 
 
-*See also*: xref:message-exchange[MESSAGE EXCHANGE]
+*See also*: xref:message-exchange[message exchange]
 
 [discrete]
-==== MESSAGE EXCHANGE (noun)
+==== message exchange (noun)
 [[message-exchange]]
 *Description*:  In Camel, message exchanges deal with conversations and can flow in both directions. They encapsulate messages in containers while the messages
 are in route to their target endpoints. A message exchange consists of an exchange ID that identifies the conversation, a MEP setting to indicate whether the 
@@ -199,7 +200,7 @@ store/retrieve at any time during the lifecycle of the exchange.
 
 *Incorrect forms*: 
 
-*See also*: xref:message[MESSAGE], xref:mep[MEP]
+*See also*: xref:message-fuse[message], xref:mep[MEP]
 
 [discrete]
 ==== MEP (noun)
@@ -211,12 +212,12 @@ request-reply (InOut) messaging style.
 
 *Incorrect forms*: 
 
-*See also*: xref:message-exchange[MESSAGE EXCHANGE]
+*See also*: xref:message-exchange[message exchange]
 
 
 [discrete]
-==== NODE (noun)
-[[node]]
+==== node (noun)
+[[node-fuse]]
 *Description*: In Fuse tooling, a node is a component or EIP that has been dragged from the Palette and dropped on the route editor's canvas displayed on the 
 Design tab. Selecting a node on the canvas displays its properties in Properties view for editing.
 
@@ -224,7 +225,7 @@ Design tab. Selecting a node on the canvas displays its properties in Properties
 
 *Incorrect forms*: 
 
-*See also*: xref:canvas[CANVAS], xref:component[COMPONENT], xref:eip[EIP], xref:properties-view[PROPERTIES VIEW]  
+*See also*: xref:canvas[canvas], xref:component[component], xref:eip[EIP], xref:properties-view[Properties view]  
 
 [discrete]
 ==== PID (noun)
@@ -240,7 +241,7 @@ You can edit any `.cfg` file to configure/reconfigure the corresponding OSGi ser
 *See also*:
 
 [discrete]
-==== PROCESSOR (noun)
+==== processor (noun)
 [[processor]]
 *Description*: In Camel, a processor is a node in a route that is capable of using, creating, or modifying an incoming message exchange. Processors are 
 typically implementations of EIPs, but can be custom made.
@@ -249,11 +250,11 @@ typically implementations of EIPs, but can be custom made.
 
 *Incorrect forms*: 
 
-*See also*: xref:route[ROUTE], xref:eip[EIP]
+*See also*: xref:route-fuse[route], xref:eip[EIP]
 
 [discrete]
-==== PRODUCER (noun)
-[[producer]]
+==== producer (noun)
+[[producer-fuse]]
 *Description*: In Camel, a producer is an entity capable of creating and sending a message to an output endpoint. The message it creates is populated with data 
 compatible with the target output endpoint. A route can have multiple producers.
 
@@ -261,10 +262,10 @@ compatible with the target output endpoint. A route can have multiple producers.
 
 *Incorrect forms*: 
 
-*See also*: xref:consumer[CONSUMER]
+*See also*: xref:consumer-fuse[consumer]
 
 [discrete]
-==== PROPERTIES VIEW (noun)
+==== Properties View (noun)
 [[properties-view]]
 *Description*: In Fuse tooling, Properties view displays the properties of a node selected on the canvas, which you can edit. 
 
@@ -275,8 +276,8 @@ compatible with the target output endpoint. A route can have multiple producers.
 *See also*:
 
 [discrete]
-==== ROUTE (noun)
-[[route]]
+==== route (noun)
+[[route-fuse]]
 *Description*: In Camel, routes specify paths through which messages move. A route is basically a chain of processors that execute actions on messages as they 
 move between the route's consumer and producer endpoints. A routing context can contain multiple routes.
 
@@ -284,10 +285,10 @@ move between the route's consumer and producer endpoints. A routing context can 
 
 *Incorrect forms*: 
 
-*See also*: xref:consumer[CONSUMER], xref:endpoint[ENDPOINT], xref:processor[PROCESSOR], xref:producer[PRODUCER], xref:routing-context[ROUTING CONTEXT]
+*See also*: xref:consumer-fuse[consumer], xref:endpoint-fuse[endpoint], xref:processor[processor], xref:producer-fuse[producer], xref:routing-context[routing context]
 
 [discrete]
-==== ROUTE EDITOR (noun)
+==== route editor (noun)
 [[route-editor]]
 *Description*:  In Fuse tooling, the route editor is the tool you use to construct the route or routes in your routing context. It provides two methods 
 that can be used interchangeably. You build a context graphcally using the Design tab. You code a context in XML using the Source tab. 
@@ -296,10 +297,10 @@ that can be used interchangeably. You build a context graphcally using the Desig
 
 *Incorrect forms*: Camel editor
 
-*See also*: xref:design-tab[DESIGN TAB], xref:source-tab[SOURCE TAB]
+*See also*: xref:design-tab[Design tab], xref:source-tab[Source tab]
 
 [discrete]
-==== ROUTING CONTEXT (noun)
+==== routing context (noun)
 [[routing-context]]
 *Description*: A routing context specifies the routing rules for a Camel application. Among other things, routing rules specify the source and type of input, 
 how to process it, and where to send it when processing is done. In Fuse tooling, the routing context is provided in a `.xml` file, the name of which depends on the 
@@ -310,10 +311,10 @@ default name of the routing context file is `blueprint.xml`.
 
 *Incorrect forms*: 
 
-*See also*: xref:camel-context[CAMEL CONTEXT], xref:routing-rules[ROUTING RULES]
+*See also*: xref:camel-context[Camel context], xref:routing-rules[routing rules]
 
 [discrete]
-==== ROUTING RULES (noun)
+==== routing rules (noun)
 [[routing-rules]]
 *Description*: Routing rules are declarative statements (written in Java or XML DSL) that define the paths which messages take from their origin (source) to their 
 target destination (sink). Routing rules start with a consumer endpoint (`from`) and typically end with one or more producer endpoints (`to`). Between consumer and 
@@ -325,11 +326,11 @@ graphically.
 
 *Incorrect forms*: 
 
-*See also*: xref:routing-context[ROUTING CONTEXT], xref:source-tab[SOURCE TAB]
+*See also*: xref:routing-context[routing context], xref:source-tab[Source tab]
 
 
 [discrete]
-==== SOURCE TAB (noun)
+==== Source tab (noun)
 [[source-tab]]
 *Description*: In Fuse tooling, the route editor's Source tab displays the XML code that corresponds to the graphical representation of the routing context 
 displayed on the Design tab. You can edit and save changes to the routing context on both tabs. 
@@ -338,10 +339,10 @@ displayed on the Design tab. You can edit and save changes to the routing contex
 
 *Incorrect forms*: Source view
 
-*See also*: xref:configurations-tab[CONFIGURATIONS TAB], xref:design-tab[DESIGN TAB]
+*See also*: xref:configurations-tab[Configurations tab], xref:design-tab[Design tab]
 
 [discrete]
-==== SYNDESIS (noun)
+==== Syndesis (noun)
 [[syndesis]]
 *Description*: The community name for Fuse Ignite.
 
@@ -349,7 +350,7 @@ displayed on the Design tab. You can edit and save changes to the routing contex
 
 *Incorrect forms*: 
 
-*See also*: xref:fuse-ignite[FUSE IGNITE]
+*See also*: xref:fuse-ignite[Fuse Ignite]
 
 [discrete]
 ==== URI (noun)
@@ -365,11 +366,11 @@ directory, will be polled for files at 5 second intervals.
 
 *Incorrect forms*: uri
 
-*See also*: xref:endpoint[ENDPOINT], xref:url[URL], xref:urn[URN]
+*See also*: xref:endpoint-fuse[endpoint], xref:url-fuse[URL], xref:urn[URN]
 
 [discrete]
 ==== URL (noun)
-[[url]]
+[[url-fuse]]
 *Description*: Unform  Resource Locator. A URL is a special URI used to reference to a web resource, specifying its location on a computer network and the mechanism 
 for retrieving it. URLs are commonlly used to reference web pages (http), but also for file transfers (ftp), email (mailto), database access (JDBC), and so on.
 
@@ -389,4 +390,4 @@ resource without implying its location or access details.
 
 *Incorrect forms*: urn
 
-*See also*: xref:url[URL], xref:uri[URI]
+*See also*: xref:url-fuse[URL], xref:uri[URI]
