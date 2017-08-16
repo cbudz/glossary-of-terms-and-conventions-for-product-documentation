@@ -1,7 +1,7 @@
 [discrete]
 ==== X (noun)
 [[x]]
-*Description*: X is an alternative reference to the "X Window System." Do not use X by itself when referring to "XEmacs."
+*Description*: "X" is an alternative reference to the "X Window System." Do not use X by itself when referring to "XEmacs."
 
 *Use it*: with caution
 
@@ -23,7 +23,8 @@
 [discrete]
 ==== Xen (adjective)
 [[xen]]
-*Description*: Xen Project is a hypervisor using a microkernel design, providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently. It was developed by the Linux Foundation and is supported by Intel. Use where it accurately refers to the original Xen version of the package. If the Xen package we distribute is for all practical purposes the same as the upstream code, we can refer to the package we distribute as "Xen" in a referential way. A referential use is one that describes another entity's goods or services, not our own, such as referring to Microsoft Windows as a technology we compete and integrate with. When referring to another entity's trademark, always use good trademark practices; that is, only use the trademark as an adjective followed by the noun, do not use a logo form of the trademark, do not make it more prominent than our own marks, and do not incorporate the trademark into our own product names. Here, the proper use would be "Xen hypervisor."
+*Description*: "Xen Project" is a hypervisor using a microkernel design, providing services that allow multiple computer operating systems to execute on the same computer hardware concurrently. It was developed by the Linux Foundation and is supported by Intel. Use Xen Project when it accurately refers to the original Xen version of the package. If the Xen package we distribute is for all practical purposes the same as the upstream code, we can refer to the package we distribute as "Xen" in a referential way. A referential use is one that describes another entity's goods or services, not our own, such as referring to Microsoft Windows as a technology we compete and integrate with. When referring to another entity's trademark, always use good trademark practices. Only use the trademark as an adjective followed by the noun; do not use a logo form of the trademark; do not make it more prominent than our own marks; and do not incorporate the trademark into our own product names. The proper use would be "Xen hypervisor."
+
 The Xen Trademark Policy is available at http://www.xenproject.org/trademark-policy.html.
 
 *Use it*: with caution
@@ -35,7 +36,7 @@ The Xen Trademark Policy is available at http://www.xenproject.org/trademark-pol
 [discrete]
 ==== xterm (noun)
 [[xterm]]
-*Description*: Xterm is the standard terminal emulator for the X Window System. Do not use "Xterm" unless the word is used at the beginning of a sentence.
+*Description*: "Xterm" is the standard terminal emulator for the X Window System. Do not use Xterm unless the word is used at the beginning of a sentence.
 
 *Use it*: yes
 
@@ -46,7 +47,7 @@ The Xen Trademark Policy is available at http://www.xenproject.org/trademark-pol
 [discrete]
 ==== X Window System (noun)
 [[x-window-system]]
-*Description*: X Window System is a windowing system for bitmap displays, common on UNIX-like computer operating systems. It is also referred to as X. When making multiple references to the X Window System, on first mention spell out, with shortened references following. For example, "Reinstalling the X Window System (X) is not necessary if... To start an X session, from the shell prompt..."
+*Description*: "X Window System" is a windowing system for bitmap displays, common on Unix-like computer operating systems. It is also referred to as X. When making multiple references to the X Window System, on first mention spell out, with shortened references following. For example, "Reinstalling the X Window System (X) is not necessary if.... To start an X session, from the shell prompt...."
 
 *Use it*: yes
 
