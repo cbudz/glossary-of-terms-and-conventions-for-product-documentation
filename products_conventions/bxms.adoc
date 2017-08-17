@@ -139,7 +139,7 @@ Responsible person: Vidya Iyengar (viyengar@redhat.com), backup contact brms-doc
 [discrete]
 ==== DRL (noun)
 [[drl]]
-*Description*: "DRL" is an acronym for the DocObject Resource Locator, which is a file with the .drl extension. A DRL file stores technical rules as text and can be managed in the Red Hat Red Hat JBoss BRMS user interface. A DRL file contains one or more rules.
+*Description*: "DRL" is an acronym for the Drools Rule Language, which is a file with the .drl extension. A DRL file stores technical rules as text and can be managed in the Red Hat Red Hat JBoss BRMS user interface. A DRL file contains one or more rules.
 
 *Use it*: yes
 
