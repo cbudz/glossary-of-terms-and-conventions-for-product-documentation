@@ -183,7 +183,7 @@ Although the _IBM Style Guide_ recommends using "diskette drive" instead of "flo
 [discrete]
 ==== vNUMA node (noun)
 [[vnuma]]
-*Description*: A virtual non-uniform memory access (vNUMA) node optimizes performance for a virtual machine(VM) by pinning vNUMA nodes on the VM to specific NUMA nodes on the host. You can optionally use virtual NUMA node instead of vNUMA node.
+*Description*: A virtual non-uniform memory access (vNUMA) node optimizes performance for a virtual machine (VM) by pinning vNUMA nodes on the VM to specific NUMA nodes on the host. You can optionally use virtual NUMA node instead of vNUMA node.
 
 *Use it*: yes
 
