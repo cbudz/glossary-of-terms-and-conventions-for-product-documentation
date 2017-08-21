@@ -1,7 +1,7 @@
 [discrete]
 ==== SaaS (noun)
 [[saas]]
-*Description*: "Saas" is acronym for Software-as-a-Service. In the spelled-out version and its variants (for example, Infrastructure-as-a-Service and Platform-as-a-Service), hyphens are always used. Note for Marketing, Brand, or Customer Portal usage: For all-uppercase text (such as banners), use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same acronym is used across all groups.
+*Description*: "Saas" is an acronym for Software-as-a-Service. In the spelled-out version and its variants (for example, Infrastructure-as-a-Service and Platform-as-a-Service), hyphens are always used. Note for Marketing, Brand, or Customer Portal usage: For all-uppercase text (such as banners), use "<VARIANT>-AS-A-SERVICE" for the spelled-out version. The same acronym is used across all groups.
 
 *Use it*: yes
 
@@ -12,7 +12,7 @@
 [discrete]
 ==== Samba (noun)
 [[samba]]
-*Description*: "Samba" is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including: Linux, most common Unix platforms, OpenVMS, and OS/2.
+*Description*: "Samba" is a freeware program that allows end users to access and use files, printers, and other commonly shared resources on a company's intranet or on the Internet. Samba can be installed on a variety of operating system platforms, including Linux, most common Unix platforms, OpenVMS, and OS/2.
 
 *Use it*: yes
 
@@ -89,7 +89,7 @@
 [discrete]
 ==== server cluster (noun)
 [[server-cluster]]
-*Description*: A "server cluster" is a group of networked servers housed in one location. This organization of servers streamlines internal processes by distributing the workload between the individual components of the group. It also expedites computing processes by harnessing the power of multiple servers. The clusters rely on load-balancing software that accomplishes tasks like tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the cluster fails, another can step in as a backup.
+*Description*: A "server cluster" is a group of networked servers housed in one location. This organization of servers streamlines internal processes by distributing the workload between the individual components of the group. It also expedites computing processes by harnessing the power of multiple servers. The clusters rely on load-balancing software that accomplishes tasks such as tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the cluster fails, another server can serve as a backup.
 
 *Use it*: yes
 
@@ -100,7 +100,7 @@
 [discrete]
 ==== server farm (noun)
 [[server-farm]]
-*Description*: A "server farm" is a group of networked servers housed in one location. This organization of servers streamlines internal processes by distributing the workload between the individual components of the group. It also expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes tasks like tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the farm fails, another can step in as a backup.
+*Description*: A "server farm" is a group of networked servers housed in one location. This organization of servers streamlines internal processes by distributing the workload between the individual components of the group. It also expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes tasks such as tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them, depending on priority and demand on the network. When one server in the farm fails, another server can serve as a backup.
 
 *Use it*: yes
 
@@ -111,7 +111,7 @@
 [discrete]
 ==== server side (noun)
 [[server-side-n]]
-*Description*: The "server side" means that the action takes place on a webs server in a client-server relationship. Use this form when "server side" is a noun, for example, "She does most of her programming on the server side, that is, directly on the web server."
+*Description*: The "server side" means that the action takes place on a web server in a client-server relationship. Use this form when "server side" is a noun, for example, "She does most of her programming on the server side, that is, directly on the web server."
 
 *Use it*: yes
 
@@ -144,7 +144,7 @@
 [discrete]
 ==== SHA-2 (noun)
 [[sha-2]]
-*Description*: "SHA" is an acronym for Secure Hash Algorithm and is a cryptographic hash function. The encryption hash used in SHA-2 is significantly stronger and not subject to the same vulnerabilities as SHA-1. SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of 2. SHA-224, SHA-256, SHA-384, and SHA-512 are all correct when referring to these specific hash functions.
+*Description*: "SHA" is an acronym for Secure Hash Algorithm and is a cryptographic hash function. The encryption hash used in SHA-2 is significantly stronger and not subject to the same vulnerabilities as SHA-1. SHA-2 variants are often specified using their digest size, in bits, as the trailing number, instead of 2. SHA-224, SHA-256, SHA-384, and SHA-512 are all correct when referring to these specific hash functions.
 
 *Use it*: yes
 
@@ -166,7 +166,7 @@
 [discrete]
 ==== shadow passwords (noun)
 [[shadow-passwords]]
-*Description*: "Shadow passwords" are a method of improving system security by moving the encrypted passwords (normally found in `/etc/passwd`) to `/etc/shadow`, which is readable only by root. This option is available during installation and is part of the shadow utilities package. Shadow passwords is not a proper noun and should only be capitalized at the beginning of a sentence.
+*Description*: "Shadow passwords" are a method of improving system security by moving the encrypted passwords (normally found in `/etc/passwd`) to `/etc/shadow`, which is readable only by root. This option is available during installation and is part of the shadow utilities package. Shadow passwords is not a proper noun and is only capitalized at the beginning of a sentence.
 
 *Use it*: yes
 
@@ -177,7 +177,7 @@
 [discrete]
 ==== shadow utilities (noun)
 [[shadow-utilities]]
-*Description*: "Shadow utilities" are the specific system programs that operate on the shadow password files. Shadow utilities is not a proper noun and should only be capitalized at the beginning of a sentence.
+*Description*: "Shadow utilities" are the specific system programs that operate on the shadow password files. Shadow utilities is not a proper noun and is only capitalized at the beginning of a sentence.
 
 *Use it*: yes
 
@@ -357,7 +357,7 @@ Do not use "command prompt," "terminal," or "shell."
 
 *Use it*: yes
 
-*Incorrect forms*: Linux specific, chip specific, etc.
+*Incorrect forms*: Linux specific, chip specific, and so on
 
 *See also*:
 
@@ -378,7 +378,7 @@ Do not use "command prompt," "terminal," or "shell."
 *Description*: "SQL" is an acronym for Structured Query Language.
 
 - The ISO-standard SQL (ISO 9075 and its descendants) is pronounced "ess queue ell" and takes "an" as its indefinite article.
-- Microsoft's proprietary product, SQL Server is pronounced as a word ("sequel") and takes "a" as its indefinite article.
+- Microsoft's proprietary product, SQL Server, is pronounced as a word ("sequel") and takes "a" as its indefinite article.
 - Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
 
 When referring to a specific Relational Database Management System (RDBMS), use the appropriate product name. For example, when discussing Microsoft SQL Server, write out the full name, "Microsoft SQL Server."
@@ -408,7 +408,7 @@ When referring to a specific Relational Database Management System (RDBMS), use 
 - For the protocol, do not use "SSH," "ssh," "Ssh," or other variants.
 - For the command, use "ssh."
 
-Do not use ssh as a verb, for example, write "Use SSH to connect to the remote server" instead of "ssh to the remote server."
+Do not use ssh as a verb; for example, write "Use SSH to connect to the remote server" instead of "ssh to the remote server."
 
 *Use it*: yes
 
@@ -463,7 +463,7 @@ Do not use ssh as a verb, for example, write "Use SSH to connect to the remote s
 [discrete]
 ==== su (noun)
 [[su]]
-*Description*: "su" (superuser, switch user, or substitute user) is a Linux command to change the local use to the root user.
+*Description*: "su" (superuser, switch user, or substitute user) is a Linux command to change the local user to the root user.
 
 *Use it*: yes
 
