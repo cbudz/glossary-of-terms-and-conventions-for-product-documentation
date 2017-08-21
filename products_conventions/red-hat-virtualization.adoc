@@ -257,18 +257,18 @@ Use all lower case, unless used in a title or at the beginning of a sentence.
 
 *Incorrect forms*: hosted engine, hosted-engine
 
-*See also*: xref:self-hosted-engine-host[self-hosted engine host]
+*See also*: xref:self-hosted-engine-node[self-hosted engine node]
 
 [discrete]
-==== self-hosted engine host (noun)
-[[self-hosted-engine-host]]
-*Description*: A self-hosted engine is a virtualized environment in which the Manager, or engine, runs on a virtual machine on the hosts managed by that Manager. A self-hosted engine host has been configured for a self-hosted engine environment, and can host the Manager virtual machine. Regular hosts can also be attached to a self-hosted engine environment, but they cannot be used to host the Manager virtual machine.
+==== self-hosted engine node (noun)
+[[self-hosted-engine-node]]
+*Description*: A self-hosted engine is a virtualized environment in which the Manager, or engine, runs on a virtual machine on the hosts managed by that Manager. A self-hosted engine node is a host that has self-hosted engine packages installed so that it can host the Manager virtual machine. Regular hosts can also be attached to a self-hosted engine environment, but cannot host the Manager virtual machine.
 
 Use all lower case, unless used in a title or at the beginning of a sentence.
 
 *Use it*: yes
 
-*Incorrect forms*: hosted engine host, hosted-engine host
+*Incorrect forms*: hosted engine host, hosted-engine host, self-hosted engine host, hosted engine node, hosted-engine node
 
 *See also*: xref:self-hosted-engine[self-hosted engine]
 
