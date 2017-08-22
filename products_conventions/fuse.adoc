@@ -5,8 +5,8 @@ Responsible person: Nichola Moore (nmoore@redhat.com), backup contact fuse-docs@
 [discrete]
 ==== Camel context (noun)
 [[camel-context]]
-*Description*: Every Camel application is based on a `CamelContext`, which is Camel's runtime. The `CamelContext` keeps track of and provides access to all 
-services loaded in it (e.g. components, endpoints, routes, data formats, languages, the registry, and so on). In the routing context `.xml` file, it is 
+*Description*: Every Camel application is based on a `CamelContext` object, which is Camel's runtime. The `CamelContext` object keeps track of and provides access to all 
+services loaded in it (for example, components, endpoints, routes, data formats, languages, the registry, and so on). In the routing context `.xml` file, it is 
 represented by the `<camelContext>` element, which encloses all `<route>` elements and their routing rules. In Camel DSL, `CamelContext` instantiates a new 
 `DefaultCamelContext` in which to add and configure routes and their routing rules. Use only when referencing code (element or method), otherwise use the generic 
 term *routing context* when talking about the application's .xml/DSL file or the file's routing rules.
@@ -21,7 +21,7 @@ term *routing context* when talking about the application's .xml/DSL file or the
 ==== canvas (noun)
 [[canvas]]
 *Description*: In Fuse tooling, the route editor provides a canvas (Design tab) on which to build routes graphically, using
-components and EIPs available in the Palette. 
+components and Enterprise Integration Patterns (EIPs) available in the Palette. 
 
 *Use it*: yes
 
@@ -83,7 +83,7 @@ built on the Camel Twitter component, enables you to create multiple connections
 [discrete]
 ==== consumer (noun)
 [[consumer-fuse]]
-*Description*: In Camel, the consumer is the source of message exchanges entering a route. It wraps received messages in an exchange and 
+*Description*: In Camel, a consumer is an endpoint that acts as the source of message exchanges entering a route. It wraps received messages in an exchange and 
 then sends the exchange to the next node in the route. A route can have only one consumer.
 
 *Use it*: yes
@@ -107,7 +107,7 @@ then sends the exchange to the next node in the route. A route can have only one
 ==== EIP (noun)
 [[eip]]
 *Description*: Enterprise Integration Pattern. A pattern language providing a technology-independent vocabulary and visual notation for designing and 
-documenting enterprise integration solutions. Each pattern proivdes a proven solution for a reoccuring problem in integrating disparate applications 
+documenting enterprise integration solutions. Each pattern provides a proven solution for a recurring problem in integrating disparate applications 
 and services across different enterprises. Camel implements numerous patterns for asynchronous messaging. In Fuse tooling, these patterns are located 
 in the Palette and filed in separate drawers according to function (Routing, Control Flow, Transformation, and Miscellaneous).  
 
