@@ -12,7 +12,7 @@
 [discrete]
 ==== you (noun)
 [[you]]
-*Description*: Do not use the first person pronoun "I" or the third person pronouns "he" or "she."
+*Description*: Do not use the first-person pronoun "I" or the third-person pronouns "he" or "she."
 
 *Use it*: yes
 
