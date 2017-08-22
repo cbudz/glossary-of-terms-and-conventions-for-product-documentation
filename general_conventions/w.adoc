@@ -34,7 +34,7 @@
 [discrete]
 ==== we suggest (verb)
 [[we-suggest]]
-*Description*: Do not use "we suggest." Use a more direct construction or use "recommend." For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk," or "Red Hat recommends that you back up your data disk."
+*Description*: Do not use "we suggest." Use a more direct construction or use "recommend." For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk," or "It is recommended that you back up your data disk."
 
 *Use it*: no
 
