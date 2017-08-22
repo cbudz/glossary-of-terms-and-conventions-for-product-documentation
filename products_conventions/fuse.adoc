@@ -120,14 +120,14 @@ in the Palette and filed in separate drawers according to function (Routing, Con
 [discrete]
 ==== endpoint (noun)
 [[endpoint-fuse]]
-*Description*: In Camel, an endpoint is the end of a Camel message channel through which a system or service can send or receive messages. 
-Endpoints are created and configured using components.
+*Description*: In Camel, an endpoint provides the starting and terminal ends of a Camel route through which an external system or service can send or 
+receive messages. You use Camel components to create and configure endpoints.
 
 *Use it*: with caution
 
 *Incorrect forms*: 
 
-*See also*: xref:component[component]
+*See also*: xref:component[component], xref:consumer-fuse[consumer], xref:producer-fuse[producer]
 
 [discrete]
 ==== FUSE_HOME (noun)
@@ -155,8 +155,8 @@ Camel terms such as endpoint, consumer, producer. It is assumed that Fuse Ignite
 [discrete]
 ==== Fuse tooling (noun)
 [[fuse-tooling]]
-*Description*: Fuse tooling is a plugin to Developer Studio that enables rapid design, developement, debugging, testing, and publishing of Camel applications 
-on a variety of servers, such as Fuse, EAP, Wilfly, and OpenShift.
+*Description*: Fuse tooling is a plugin to Developer Studio that enables rapid design, development, debugging, testing, and publishing of Camel applications 
+on a variety of servers, such as Fuse, EAP, Wildfly, and OpenShift.
 
 *Use it*: yes
 
@@ -167,7 +167,7 @@ on a variety of servers, such as Fuse, EAP, Wilfly, and OpenShift.
 [discrete]
 ==== integration (noun)
 [[integration]]
-*Description*:  (1) An integration is a Camel route created in Fuse Ignite.
+*Description*: An integration is a Camel route created in Fuse Ignite.
 
 *Use it*: yes
 
@@ -179,7 +179,7 @@ on a variety of servers, such as Fuse, EAP, Wilfly, and OpenShift.
 ==== message (noun)
 [[message-fuse]]
 *Description*: In Camel, the message is the fundamental structure for moving data through a route. A message consists of a body (also known as payload), 
-headers, and attachemnts (optional). They flow in one direction from sender to receiver. Headers contain metadata, such as sender IDs, content encoding hints, 
+headers, and attachments (optional). Messages flow in one direction from sender to receiver. Headers contain metadata, such as sender IDs, content encoding hints, 
 and so on. Attachments can be text, image, audio, or video files and are typically used with email and web service components.  
 
 *Use it*: yes
@@ -205,8 +205,8 @@ store/retrieve at any time during the lifecycle of the exchange.
 [discrete]
 ==== MEP (noun)
 [[mep]]
-*Description*: Message Exchange Pattern. In Camel, the MEP is part of the message exhange and used to differentiate between one-way (InOnly) and 
-request-reply (InOut) messaging style.
+*Description*: Message Exchange Pattern. In Camel, the MEP is the part of the message exchange that differentiates between one-way (InOnly) and 
+request-reply (InOut) messaging styles.
 
 *Use it*: yes
 
@@ -218,7 +218,7 @@ request-reply (InOut) messaging style.
 [discrete]
 ==== node (noun)
 [[node-fuse]]
-*Description*: In Fuse tooling, a node is a component or EIP that has been dragged from the Palette and dropped on the route editor's canvas displayed on the 
+*Description*: In Fuse tooling, a node is a Camel component or EIP that has been dragged from the Palette and dropped on the route editor's canvas displayed on the 
 Design tab. Selecting a node on the canvas displays its properties in Properties view for editing.
 
 *Use it*: yes
@@ -243,7 +243,7 @@ You can edit any `.cfg` file to configure/reconfigure the corresponding OSGi ser
 [discrete]
 ==== processor (noun)
 [[processor]]
-*Description*: In Camel, a processor is a node in a route that is capable of using, creating, or modifying an incoming message exchange. Processors are 
+*Description*: In a Camel route, a processor is a node that is capable of using, creating, or modifying an incoming message exchange. Processors are 
 typically implementations of EIPs, but can be custom made.
 
 *Use it*: yes
@@ -255,8 +255,8 @@ typically implementations of EIPs, but can be custom made.
 [discrete]
 ==== producer (noun)
 [[producer-fuse]]
-*Description*: In Camel, a producer is an entity capable of creating and sending a message to an output endpoint. The message it creates is populated with data 
-compatible with the target output endpoint. A route can have multiple producers.
+*Description*: In Camel, a producer is an entity that is capable of creating and sending a message to an output endpoint. The producer populates the messages it 
+creates with data that is compatible with the target output endpoint. A route can have multiple producers.
 
 *Use it*: yes
 
@@ -267,7 +267,8 @@ compatible with the target output endpoint. A route can have multiple producers.
 [discrete]
 ==== Properties View (noun)
 [[properties-view]]
-*Description*: In Fuse tooling, Properties view displays the properties of a node selected on the canvas, which you can edit. 
+*Description*: In Fuse tooling, Properties view displays, by default, the properties of the node that is selected on the canvas for editing. It also displays 
+the selected node's user documentation on the Documentation tab.
 
 *Use it*: 
 
@@ -291,7 +292,7 @@ move between the route's consumer and producer endpoints. A routing context can 
 ==== route editor (noun)
 [[route-editor]]
 *Description*:  In Fuse tooling, the route editor is the tool you use to construct the route or routes in your routing context. It provides two methods 
-that can be used interchangeably. You build a context graphcally using the Design tab. You code a context in XML using the Source tab. 
+that you can use interchangeably. You build a context graphically in the Design tab. You code a context in XML in the Source tab. 
 
 *Use it*: yes
 
@@ -303,7 +304,7 @@ that can be used interchangeably. You build a context graphcally using the Desig
 ==== routing context (noun)
 [[routing-context]]
 *Description*: A routing context specifies the routing rules for a Camel application. Among other things, routing rules specify the source and type of input, 
-how to process it, and where to send it when processing is done. In Fuse tooling, the routing context is provided in a `.xml` file, the name of which depends on the 
+how to process it, and where to send the output when processing is done. In Fuse tooling, the routing context is provided in a `.xml` file, the name of which depends on the 
 configuration framework used. For Spring-based projects, the default name of the routing context file is `camelContext.xml`. For Blueprint-based projects, the 
 default name of the routing context file is `blueprint.xml`. 
 
@@ -319,7 +320,7 @@ default name of the routing context file is `blueprint.xml`.
 *Description*: Routing rules are declarative statements (written in Java or XML DSL) that define the paths which messages take from their origin (source) to their 
 target destination (sink). Routing rules start with a consumer endpoint (`from`) and typically end with one or more producer endpoints (`to`). Between consumer and 
 producer endpoints, messages can enter various processors, which may transform them or redirect them to other processors or to specific producer endpoints. 
-In Fuse tooling, you can view and edit a project's routing rules via the route editor's Source tab. On the Design tab, you can build and view routing rules 
+In Fuse tooling, you can view and edit a project's routing rules on the route editor's Source tab. On the Design tab, you can build and view routing rules 
 graphically.
 
 *Use it*: yes
@@ -333,7 +334,8 @@ graphically.
 ==== Source tab (noun)
 [[source-tab]]
 *Description*: In Fuse tooling, the route editor's Source tab displays the XML code that corresponds to the graphical representation of the routing context 
-displayed on the Design tab. You can edit and save changes to the routing context on both tabs. 
+displayed on the Design tab. You can edit and save changes to the routing context on either tab. Changes saved on one tab are immediately propogated and 
+saved on the other tab. 
 
 *Use it*: yes
 
@@ -358,7 +360,7 @@ displayed on the Design tab. You can edit and save changes to the routing contex
 *Description*: Uniform Resource Identifier. A string of characters that indentifies a resource, it enables interaction with representations of the resource over a 
 network using schemes with specific syntax and associated protocols. In Camel, URIs are used to create and configure endpoints. Camel URIs have a specific syntax: 
 *scheme:context_path?options*. *scheme* specifies the component to use to create and handle endpoints of its type; *context_path* specifies the location of the 
-input data; and *options*, in the form of property=value pairs, configure the behavior of the created enpoints. For example, the URI `file:data/orders?delay=5000` 
+input data; and *options*, in the form of property=value pairs, configure the behavior of the created endpoints. For example, the URI `file:data/orders?delay=5000` 
 in the consumer endpoint `<from uri="file:data/orders?delay=5000" />` employs the File component to create a file endpoint, whose input source, the `data/orders` 
 directory, will be polled for files at 5 second intervals.
 
@@ -372,7 +374,7 @@ directory, will be polled for files at 5 second intervals.
 ==== URL (noun)
 [[url-fuse]]
 *Description*: Unform  Resource Locator. A URL is a special URI used to reference to a web resource, specifying its location on a computer network and the mechanism 
-for retrieving it. URLs are commonlly used to reference web pages (http), but also for file transfers (ftp), email (mailto), database access (JDBC), and so on.
+for retrieving it. URLs are commonly used to reference web pages (http), but can also reference file transfers (ftp), email (mailto), database access (JDBC), and so on.
 
 *Use it*: yes
 
