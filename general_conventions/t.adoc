@@ -100,7 +100,7 @@
 [discrete]
 ==== tier-1 (adjective)
 [[tier-1]]
-*Description*: Always hyphenate "tier-1" and indicate the number is numerals. Follow standard capitalization guidelines.
+*Description*: Always hyphenate "tier-1" and indicate the number in numeral form. Follow standard capitalization guidelines.
 
 *Use it*: yes
 
