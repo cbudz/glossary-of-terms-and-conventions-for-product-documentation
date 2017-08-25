@@ -205,8 +205,8 @@ store/retrieve at any time during the lifecycle of the exchange.
 [discrete]
 ==== MEP (noun)
 [[mep]]
-*Description*: Message Exchange Pattern. In Camel, the MEP is the part of the message exchange that differentiates between one-way (InOnly) and 
-request-reply (InOut) messaging styles.
+*Description*: Message Exchange Pattern. In Camel, the MEP is the part of the message exchange that selects between one of two messaging modes: one-way (`InOnly`) or 
+request-reply (`InOut`). The default is `InOnly`.
 
 *Use it*: yes
 
@@ -219,7 +219,8 @@ request-reply (InOut) messaging styles.
 ==== node (noun)
 [[node-fuse]]
 *Description*: In Fuse tooling, a node is a Camel component or EIP that has been dragged from the Palette and dropped on the route editor's canvas displayed on the 
-Design tab. Selecting a node on the canvas displays its properties in Properties view for editing.
+Design tab. Selecting a node on the canvas displays its properties in Properties view for editing. Selecting a node on the canvas also displays its usage details 
+on the Documentation tab in Properties view. 
 
 *Use it*: yes
 
@@ -255,8 +256,9 @@ typically implementations of EIPs, but can be custom made.
 [discrete]
 ==== producer (noun)
 [[producer-fuse]]
-*Description*: In Camel, a producer is an entity that is capable of creating and sending a message to an output endpoint. The producer populates the messages it 
-creates with data that is compatible with the target output endpoint. A route can have multiple producers.
+*Description*: In Camel, a producer is an endpoint that acts as the source of messages exiting a route. It can create and send processed messages to their target 
+destination, such as external systems or services. The producer populates the messages it creates with data that is compatible with the target destination. 
+A route can have multiple producers.
 
 *Use it*: yes
 
