@@ -123,24 +123,24 @@
 [discrete]
 ==== upstream (noun)
 [[upstream-n]]
-*Description*: Use the one-word form for the nominal form. Data sent from a customer to a network service provider.
+*Description*: Use the one-word form for the nominal form. Upstream usually refers to a community version of a Red Hat product.
 
 *Use it*: yes
 
 *Incorrect forms*: up-stream, up stream
 
-*See also*: xref:downstream[downstream]
+*See also*: xref:downstream-n[downstream (noun)], xref:downstream-adj[downstream (adjective)], xref:upstream-adj[upstream (adjective)]
 
 [discrete]
 ==== upstream (adjective)
 [[upstream-adj]]
-*Description*: Use the one-word form for the adjectival form. Data sent from a customer to a network service provider.
+*Description*: Use the one-word form for the adjectival form. Upstream usually refers to a community version of a Red Hat product.
 
 *Use it*: yes
 
 *Incorrect forms*: up-stream, up stream
 
-*See also*: xref:downstream[downstream]
+*See also*: xref:downstream-n[downstream (noun)], xref:downstream-adj[downstream (adjective)], xref:upstream-n[upstream (noun)]
 
 
 [discrete]
