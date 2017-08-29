@@ -187,14 +187,25 @@
 
 [discrete]
 ==== downstream (adjective)
-[[downstream]]
-*Description*: "Downstream" is an adjective that refers to data sent from a network service provider to a customer.
+[[downstream-adj]]
+*Description*: "Downstream" as an adjective refers to the Red Hat offerings that are based on upstream community projects.
 
 *Use it*: yes
 
 *Incorrect forms*: down-stream, down stream
 
-*See also*: xref:upstream-adj[upstream (adjective)], xref:upstream-n[upstream (noun)]
+*See also*: xref:downstream-n[downstream (noun)], xref:upstream-adj[upstream (adjective)], xref:upstream-n[upstream (noun)]
+
+[discrete]
+==== downstream (noun)
+[[downstream-n]]
+*Description*: "Downstream" as a noun refers to the Red Hat offerings that are based on upstream community projects.
+
+*Use it*: yes
+
+*Incorrect forms*: down-stream, down stream
+
+*See also*: xref:downstream-adj[downstream (adjective)], xref:upstream-adj[upstream (adjective)], xref:upstream-n[upstream (noun)]
 
 [discrete]
 ==== download (noun)
