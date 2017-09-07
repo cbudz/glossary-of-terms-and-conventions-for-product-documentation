@@ -1,5 +1,5 @@
 [discrete]
-==== air gap (noun)
+=== air gap (noun)
 [[air-gap]]
 *Description*: "Air gap" is the physical segregation and isolation of a system as a security measure.
 
