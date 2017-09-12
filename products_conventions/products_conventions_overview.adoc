@@ -1,6 +1,5 @@
 [[product-conventions-overview]]
 
-The following sections contain conventions specific to particular Red Hat
-products. Product documentation teams are responsible for these sections.
+The following sections contain conventions specific to particular Red Hat products. Product documentation teams are responsible for these sections. Product-specific terms must be defined by the individual writing team responsible for that product, and usage should be consistent within that product documentation. Terms that might be used by more than one product team should be proposed as additions to the General Conventions chapter.
 
 Each product portfolio and product has an official name and an approved abbreviated name. It is important to use these names when referring to products in the documentation. Information about valid product names in the _Red Hat JBoss Middleware_ product suite is maintained in a Mojo document entitled https://mojo.redhat.com/docs/DOC-962110[Red Hat Product Naming].
