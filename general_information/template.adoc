@@ -39,6 +39,8 @@ The AsciiDoc source:
 
 * Keep all fields, even if a field is empty. An empty field serves as a placeholder if the field is required later.
 
+* Use quotation marks on the first occurrence of a term in the *Description* field. Do not use quotation marks on the acronym if the acronym is in parantheses. For example, "Asynchronous Transfer Mode" (ATM) is a network technology based on transferring data in cells or packets of a fixed size.
+
 * If the term has the correct and incorrect form, always use the correct form instead of `<term>` and list the incorrect form in the *Incorrect forms* field. Remember to explain why the incorrect form is incorrect in the *Description* field.
 
 * If you want to add a term that we should not use and that does not have a correct form, use the incorrect version instead of `<term>` and add "no" to the *Use it* field. Explain why we should not use that term in the *Description* field.
