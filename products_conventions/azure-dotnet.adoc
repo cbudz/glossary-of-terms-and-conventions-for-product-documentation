@@ -1,7 +1,19 @@
 [discrete]
+==== Azure CLI 2.0 (noun)
+[[cli]]
+*Description*: "Azure CLI 2.0" is a set of open source commands for managing Microsoft Azure platform resources. Typing `azure` at the CLI command prompt lists each of the many Microsoft Azure subcommands. Azure CLI 2.0 is the most current command-line interface and is replacing Microsoft Azure Xplat-CLI.
+
+*Use it*: yes
+
+*Incorrect forms*: 
+
+*See also*:  xref:xplat[Microsoft Azure Cross-Platform Command-Line Interface]
+
+
+[discrete]
 ==== Azure Resource Manager (noun)
 [[arm]]
-*Description*: The "Azure Resource Manager" (ARM) is a Microsoft Azure utility that deploys, manages, and monitors resources in the Microsoft Azure portal. ARM mode commands can be enabled in the Microsoft Azure cross-platform command-line interface (Azure CLI 2.0). Microsoft Azure resources can then be managed remotely from a Red Hat Enterprise Linux server. ARM replaces Azure Service Management (ASM) as the preferred mode for managing resources in Microsoft Azure.
+*Description*: The "Azure Resource Manager" (ARM) is a Microsoft Azure utility that deploys, manages, and monitors resources in the Microsoft Azure portal. ARM mode is the default for Azure CLI 2.0. Microsoft Azure resources can be managed remotely from a Red Hat Enterprise Linux server. ARM replaces Azure Service Management (ASM) as the preferred mode for managing resources in Microsoft Azure.
 
 *Use it*: yes
 
@@ -12,7 +24,7 @@
 [discrete]
 ==== Azure Service Management (noun)
 [[asm]]
-*Description*: "Azure Service Management" (ASM) is a Microsoft Azure utility that deploys, manages, and monitors resources in the Microsoft Azure portal. The Azure Resource Manager (ARM) has replaced ASM as the preferred method for managing Azure resources.
+*Description*: "Azure Service Management" (ASM) is a Microsoft Azure management mode that deploys, manages, and monitors resources in the Microsoft Azure portal. The Azure Resource Manager (ARM) has replaced ASM as the preferred method for managing Azure resources.
 
 *Use it*: yes
 
@@ -45,7 +57,9 @@
 [discrete]
 ==== Microsoft Azure Cross-Platform Command-Line Interface (noun)
 [[xplat]]
-*Description*: The "Microsoft Azure Cross-Platform Command-Line Interface" (Xplat-CLI) is a set of open source, cross-platform commands for managing Microsoft Azure platform resources. The Xplat CLI has several top-level commands that correspond to Microsoft Azure features. Typing `azure` at the x-plat cli will list each of the many Microsoft Azure subcommands. Azure CLI 2.0 is the most current command-line interface and is replacing Xplat-CLI.
+*Description*: The "Microsoft Azure Cross-Platform Command-Line Interface" (Xplat-CLI) is a set of open source, cross-platform commands for managing Microsoft Azure platform resources. The Xplat-CLI has several top-level commands that correspond to Microsoft Azure features. Typing `azure` at the Xplat-CLI command prompt lists each of the many Microsoft Azure subcommands. When using the Xplat-CLI, a user can enable ARM mode or ASM mode.
+
+Azure CLI 2.0 is the most current command-line interface and is replacing Xplat-CLI.
 
 Do not use all uppercase letters for Xplat, and do not use any variant of Xplat-CLI.
 
@@ -53,7 +67,7 @@ Do not use all uppercase letters for Xplat, and do not use any variant of Xplat-
 
 *Incorrect forms*: xplat-cli, x-plat-cli, xplat cli, x-plat cli, X-PLAT CLI, X-PLAT-CLI, XPLAT-CLI, XPLAT CLI
 
-*See also*:
+*See also*: xref:cli[Azure CLI 2.0]
 
 [discrete]
 ==== Microsoft Azure On-Demand Marketplace (noun)
