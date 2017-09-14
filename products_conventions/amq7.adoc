@@ -49,7 +49,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 [discrete]
 ==== AMQ Core Protocol JMS (noun)
 [[amq-core-protocol-jms]]
-*Description*: An implementation of JMS using the ActiveMQ Artemis Core protocol. This is sometimes called Core JMS.
+*Description*: The "AMQ Core Protocol JMS" is an implementation of the Java Message Service (JMS) using the ActiveMQ Artemis Core protocol. This is sometimes called Core JMS.
 
 *Use it*: yes
 
@@ -214,7 +214,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 [discrete]
 ==== Core API (noun)
 [[core-api]]
-*Description*: An API for the ActiveMQ Artemis Core protocol. It is not supported by AMQ Broker.
+*Description*: The "Core API" is an API for the ActiveMQ Artemis Core protocol. It is not supported by AMQ Broker.
 
 *Use it*: yes
 
@@ -225,7 +225,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 [discrete]
 ==== Core protocol (noun)
 [[core-protocol]]
-*Description*: The native messaging protocol for ActiveMQ Artemis.
+*Description*: The "Core protocol" is the native messaging protocol for ActiveMQ Artemis.
 
 *Use it*: yes
 
