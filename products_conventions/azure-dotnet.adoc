@@ -1,7 +1,7 @@
 [discrete]
 ==== Azure CLI 2.0 (noun)
 [[cli]]
-*Description*: "Azure CLI 2.0" is a set of open source commands for managing Microsoft Azure platform resources. Typing `azure` at the CLI command prompt lists each of the many Microsoft Azure subcommands. Azure CLI 2.0 is the most current command-line interface and is replacing Microsoft Azure Xplat-CLI.
+*Description*: "Azure CLI 2.0" is a set of open source commands for managing Microsoft Azure platform resources. Typing `az` at the CLI command prompt lists each of the many Microsoft Azure subcommands. Azure CLI 2.0 is the most current command-line interface and is replacing Microsoft Azure Xplat-CLI.
 
 *Use it*: yes
 
@@ -13,7 +13,7 @@
 [discrete]
 ==== Azure Resource Manager (noun)
 [[arm]]
-*Description*: The "Azure Resource Manager" (ARM) is a Microsoft Azure utility that deploys, manages, and monitors resources in the Microsoft Azure portal. ARM mode is the default for Azure CLI 2.0. Microsoft Azure resources can be managed remotely from a Red Hat Enterprise Linux server. ARM replaces Azure Service Management (ASM) as the preferred mode for managing resources in Microsoft Azure.
+*Description*: The "Azure Resource Manager" (ARM) is a Microsoft Azure management mode that deploys, manages, and monitors resources in the Microsoft Azure portal. ARM mode is the default for Azure CLI 2.0. Microsoft Azure resources can be managed remotely from a Red Hat Enterprise Linux server. ARM replaces Azure Service Management (ASM) as the preferred mode for managing resources in Microsoft Azure.
 
 *Use it*: yes
 
