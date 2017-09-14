@@ -123,24 +123,26 @@
 [discrete]
 ==== upstream (noun)
 [[upstream-n]]
-*Description*: Upstream is data sent from a customer to a network service provider. Use the one-word form for the nominal form.
+
+*Description*: "Upstream" is data sent from a customer to a network service provider. Use the one-word form for the nominal form.
 
 *Use it*: yes
 
 *Incorrect forms*: up-stream, up stream
 
-*See also*: xref:downstream[downstream]
+*See also*: xref:downstream-n[downstream (noun)], xref:downstream-adj[downstream (adjective)], xref:upstream-adj[upstream (adjective)]
 
 [discrete]
 ==== upstream (adjective)
 [[upstream-adj]]
+
 *Description*: "Upstream" is data sent from a customer to a network service provider. Use the one-word form for the adjectival form.
 
 *Use it*: yes
 
 *Incorrect forms*: up-stream, up stream
 
-*See also*: xref:downstream[downstream]
+*See also*: xref:downstream-n[downstream (noun)], xref:downstream-adj[downstream (adjective)], xref:upstream-n[upstream (noun)]
 
 
 [discrete]
