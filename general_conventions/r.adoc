@@ -200,7 +200,7 @@
 *See also*:
 
 [discrete]
-=== Resilient Storage Add-On (noun)
+==== Resilient Storage Add-On (noun)
 [[resilient-storage-add-on]]
 
 *Description*: "Resilient Storage Add-On" is an add-on to Red Hat Enterprise Linux that allows a shared storage or clustered file system to access the same storage device over a network. The Resilient Storage Add-On creates a pool of data that is available to each server in a group by creating consistent storage across a cluster of servers that is protected if any one server fails.
