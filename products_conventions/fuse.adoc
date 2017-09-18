@@ -33,7 +33,7 @@ components and Enterprise Integration Patterns (EIPs) available in the Palette.
 ==== component (noun)
 [[component]]
 *Description*: A component is a factory for creating endpoints in a Camel route. For example, you would use the Twitter component to create Twitter endpoints.
-In Fuse tooling, the Palette's Components drawer contains the Camel components (and user-created components if any) that you can add to your route in the 
+In Fuse tooling, the Palette's Components drawer contains the Camel components that you can add to your route in the 
 route editor. Each component represents a connection to a specific service or application, such as Atom, CXF, Bean, File, and so on.
 
 *Use it*: yes
