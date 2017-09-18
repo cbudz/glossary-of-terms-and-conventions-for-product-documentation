@@ -99,8 +99,8 @@
 *See also*:
 
 [discrete]
-==== recommends (verb)
-[[recommends]]
+==== recommend (verb)
+[[recommend]]
 *Description*: In making a recommendation, use "Red Hat recommends" wherever possible. Note that for documentation that occurs in both upstream and downstream, it is acceptable to use "it is recommended", but only in this instance.
 
 *Use it*: yes
