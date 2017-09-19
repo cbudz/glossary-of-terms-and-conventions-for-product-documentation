@@ -437,7 +437,7 @@ Do not use as a verb. For example, write "Use SSH to connect to the remote serve
 [discrete]
 ==== SSL/TLS (noun)
 [[ssl-tls]]
-*Description*: The Secure Socket Layer protocol (SSL) and its successor, the Transport Layer Security protocol (TLS). As both of these protocols are frequently called "SSL", always use "SSl/TLS" to avoid confusion.
+*Description*: SSL/TLS refers to the Secure Socket Layer protocol (SSL) and its successor, the Transport Layer Security protocol (TLS). As both of these protocols are frequently called "SSL", always use "SSL/TLS" to avoid confusion.
 
 *Use it*: yes
 
