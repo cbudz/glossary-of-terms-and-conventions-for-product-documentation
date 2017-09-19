@@ -1,4 +1,15 @@
 [discrete]
+==== agnostic (adjective)
+[[agnostic]]
+*Description*: "Agnostic" denotes or relates to hardware or software that is compatible with many types of platforms or operating systems. For example, many common file formats (JPEG, MP3, etc.) are platform agnostic. Use "neutral" instead.
+
+*Use it*: no
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
 ==== air gap (noun)
 [[air-gap]]
 *Description*: "Air gap" is the physical segregation and isolation of a system as a security measure.
