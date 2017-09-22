@@ -125,7 +125,7 @@ Responsible person: Stephen Wadeley (swadeley@redhat.com), backup contact (satel
 
 [NOTE]
 ====
-In Red Hat Virtualization the UI use Foreman/Satellite. Use this only when referring directly to the UI element. A bug is open to get this element changed to Satellite. (https://bugzilla.redhat.com/show_bug.cgi?id=1428205[BZ#1428205 Change Foreman/Satellite to Satellite]) 
+In Red Hat Virtualization use Foreman/Satellite when referring directly to the UI element. Do not use Foreman or Foreman/Satellite to refer to Red Hat Satellite in other cases. A bug is open to get this element changed to Satellite. (https://bugzilla.redhat.com/show_bug.cgi?id=1428205[BZ#1428205 Change Foreman/Satellite to Satellite]) 
 ====
 
 [discrete]
