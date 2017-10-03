@@ -98,24 +98,30 @@ $ git clone git@gitlab.cee.redhat.com:ccs-internal-documentation/glossary-of-ter
 . Navigate to the cloned repository.
 +
 ----
-$ cd glossary-of-terms-and-conventions-for-product-documentation
+$ cd glossary-of-terms-and-conventions-for-product-documentation/
 ----
 
-. If you have a local copy already, pull the latest changes.
+. Set the upstream repository.
 +
 ----
-$ git pull --rebase
+$ git remote add upstream git@gitlab.cee.redhat.com:ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation.git
 ----
 
-. Create a new branch. When adding a new entry, use _wip-<name-of-the-entry>_ as the branch name, for example _wip-host-name_. When updating an existing entry, use _wip-<name-of-the-entry>-edits_ as the branch name, for example _wip-host-name-edits_.
+. Fetch the latest changes from the upstream repository.
 +
 ----
-$ git checkout -b <name-of-the-branch>
+$ git fetch upstream
+----
+
+. Create a new branch from the upstream `master` branch. When adding a new entry, use _wip-<name-of-the-entry>_ as the branch name, for example _wip-host-name_. When updating an existing entry, use _wip-<name-of-the-entry>-edits_ as the branch name, for example _wip-host-name-edits_.
++
+----
+$ git checkout -b <name-of-the-branch> upstream/master
 ----
 
 . Edit the document.
 
-    .. Navigate to the `general_conventions` or `products_conventions` directory and open the file you want to add the entry to. If a file for the product does not exist yet, create one. Use the _<product-name>.adoc_ form, for example _red-hat-virtualization.adoc_.
+    .. Navigate to the `general_conventions/` or `products_conventions/` directory and open the file you want to add the entry to. If a file for the product does not exist yet, create one. Use the _<product-name>.adoc_ form, for example _red-hat-virtualization.adoc_.
 
     .. Make the changes. Use this xref:template-for-entries[template] when adding a new entry. Entries must be added in alphabetical order.
 
@@ -141,6 +147,8 @@ If `ccutil` fails to build the document, fix the reported errors and try again. 
 ----
 $ git add <file>
 ----
++
+You can use the `git status` command to see all the files that have changed.
 
 . Commit the changes. Be descriptive enough in the commit message, "Updated the <filename> file." is not a good commit message. Use something like "Added the <entry-name> entry" or "Fixed a typo in the <entry-name> entry".
 +
@@ -151,10 +159,10 @@ $ git commit -m "<commit-message>"
 . Push the changes.
 +
 ----
-$ git push --set-upstream origin <name-of-the-branch>
+$ git push origin HEAD
 ----
 
-. Once you are done updating the document, create a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
+. Open a merge request. See xref:creating-merge-requests[Creating Merge Requests] for details.
 
 [[creating-merge-requests]]
 [discrete]

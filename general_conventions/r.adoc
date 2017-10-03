@@ -99,6 +99,17 @@
 *See also*:
 
 [discrete]
+==== recommend (verb)
+[[recommend]]
+*Description*: In making a recommendation, use "Red Hat recommends" wherever possible. Note that for documentation that occurs in both upstream and downstream, it is acceptable to use "it is recommended", but only in this instance.
+
+*Use it*: yes
+
+*Incorrect forms*: we recommend, we suggest
+
+*See also*: xref:we-suggest[we suggest]
+
+[discrete]
 ==== RedBoot (noun)
 [[redboot]]
 *Description*: "RedBoot" is an acronym for "Red Hat Embedded Debug and Bootstrap" firmware. RedBoot is a complete bootstrap environment for embedded systems. Based on the eCos Hardware Abstraction Layer, RedBoot inherits the eCos qualities of reliability, compactness, configurability, and portability.
@@ -200,7 +211,7 @@
 *See also*:
 
 [discrete]
-=== Resilient Storage Add-On (noun)
+==== Resilient Storage Add-On (noun)
 [[resilient-storage-add-on]]
 
 *Description*: "Resilient Storage Add-On" is an add-on to Red Hat Enterprise Linux that allows a shared storage or clustered file system to access the same storage device over a network. The Resilient Storage Add-On creates a pool of data that is available to each server in a group by creating consistent storage across a cluster of servers that is protected if any one server fails.

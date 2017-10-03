@@ -332,6 +332,17 @@ image repository contains one or more tagged images.
 *See also*:
 
 [discrete]
+==== crash (verb)
+[[crash]]
+*Description*: When a program "crashes", it terminates unexpectedly. _The IBM Style Guide_ suggests to use a more specific term, such as "fail". However, in Red Hat documentation, it is acceptable to use crash in certain cases: When writing errata descriptions, it is possible to use "crash" instead of "terminate unexpectedly" if "terminate unexpectedly" was used in a previous sentence. For example: A utility terminated unexpectedly because of a bug in the underlying source code. With this update, the utility no longer crashes.
+
+*Use it*: with caution
+
+*Incorrect forms*:
+
+*See also*: xref:fail[fail], xref:terminate[terminate]
+
+[discrete]
 ==== cross-platform (adjective)
 [[cross-platform]]
 *Description*: Use "cross-platform" as an adjective when referring to the capability of software or hardware to run identically on different platforms.

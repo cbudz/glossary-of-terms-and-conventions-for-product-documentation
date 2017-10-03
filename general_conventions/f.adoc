@@ -7,7 +7,7 @@
 
 *Incorrect forms*:
 
-*See also*: xref:terminate[terminate]
+*See also*: xref:terminate[terminate], xref:crash[crash]
 
 [discrete]
 ==== FAQ (noun)

@@ -40,7 +40,7 @@
 
 *Incorrect forms*:
 
-*See also*:
+*See also*: xref:recommend[recommend]
 
 [discrete]
 ==== web UI (noun)
