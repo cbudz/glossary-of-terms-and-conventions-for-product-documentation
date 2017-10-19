@@ -1,6 +1,6 @@
 [discrete]
-==== WAN (noun)
 [[wan]]
+==== WAN (noun)
 *Description*: WAN is an initialism for wide-area network, which is a computer network that spans a relatively large geographical area. Typically, a WAN consists of two or more local-area networks (LANs).
 Computers connected to a wide-area network are often connected through public networks, such as the telephone system. Connections can be through leased lines or satellites. The largest WAN in existence is the Internet.
 
@@ -11,8 +11,8 @@ Computers connected to a wide-area network are often connected through public ne
 *See also*:
 
 [discrete]
-==== WCA (noun)
 [[wca]]
+==== WCA (noun)
 *Description*: Acronym for web clipping application, which is an application that allows users to extract static information from a web server and load that data onto a web-enabled PDA.
 WCAs are also called "query applications."
 
@@ -23,8 +23,8 @@ WCAs are also called "query applications."
 *See also*:
 
 [discrete]
-==== want (verb)
 [[want]]
+==== want (verb)
 *Description*: Use "want" instead of "wish" or "would like." Better to avoid it entirely by rewriting. For example, "If you want to use the debugger..." can be rewritten as "To use the debugger..."
 
 *Use it*: yes
@@ -34,8 +34,8 @@ WCAs are also called "query applications."
 *See also*:
 
 [discrete]
-==== we suggest (verb)
 [[we-suggest]]
+==== we suggest (verb)
 *Description*: Do not use "we suggest." Use a more direct construction, or use "recommend." For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk," or "Red Hat recommends that you back up your data disk."
 
 *Use it*: no
@@ -45,8 +45,8 @@ WCAs are also called "query applications."
 *See also*: xref:recommend[recommend]
 
 [discrete]
-==== web UI (noun)
 [[web-ui]]
+==== web UI (noun)
 *Description*: Use "web UI" to refer to a browser-based interface to a software application, even if that application has no connection to the web. If necessary, spell out on first use: "web browser-based user interface." Do not hyphenate the acronym or use the one-word form.
 
 *Use it*: yes
@@ -58,6 +58,7 @@ WCAs are also called "query applications."
 [discrete]
 ==== who (pronoun)
 [[who]]
+
 *Description*: Use the pronoun "who" as a subject. For example: Who owns this? 
 
 *Use it*: yes
@@ -69,6 +70,7 @@ WCAs are also called "query applications."
 [discrete]
 ==== whom (pronoun)
 [[whom]]
+
 *Description*: Use the pronoun "whom" as a direct object, an indirect object, or the object of a preposition. For example: To whom does this belong?
 
 *Use it*: yes
@@ -78,8 +80,8 @@ WCAs are also called "query applications."
 *See also*: xref:who[who]
 
 [discrete]
-==== will (verb)
 [[will]]
+==== will (verb)
 *Description*: Do not use future tense unless it is absolutely necessary. For example, do not write "The next section will describe the process in detail." Instead, write "The next section describes the process in detail."
 
 *Use it*: with caution
@@ -89,8 +91,8 @@ WCAs are also called "query applications."
 *See also*:
 
 [discrete]
-==== Window Maker (noun)
 [[window-maker]]
+==== Window Maker (noun)
 *Description*: Window Maker is a window manager for the X Window System. Do not combine "Window Maker" into one word or hyphenate. 
 
 *Use it*: yes
@@ -100,8 +102,8 @@ WCAs are also called "query applications."
 *See also*:
 
 [discrete]
-==== write (verb)
 [[write]]
+==== write (verb)
 *Description*: Use "write" instead of "code" as a verb.  
 
 *Use it*: yes

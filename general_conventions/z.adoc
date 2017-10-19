@@ -1,6 +1,6 @@
 [discrete]
-==== zSeries (noun)
 [[z-series]]
+==== zSeries (noun)
 *Description*: "IBM System z" is correct for the first reference; use "System z" for subsequent references. Do not use "S/390x," "s390x," "IBM zSeries," or "zSeries."
 
 *Use it*: no

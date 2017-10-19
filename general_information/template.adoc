@@ -5,8 +5,8 @@ The AsciiDoc source:
 
 ----
 [discrete]
-==== <term> (<class>)
 [[<id>]]
+==== <term> (<class>)
 *Description*: <description>
 
 *Use it*: <yes/no/with caution>
@@ -19,8 +19,8 @@ The AsciiDoc source:
 [width="40%",frame="topbot",options="header"]
 |======================
 |Replace                |With                               | Notes
-|`<term>`               |The term to be described.          |
 |`<id>`                 |The term in lowercase.             |If the term consists of more than one word, separate them with a hyphen ("-"). Do not use spaces, capital letters, or special characters (for example, slash "/") in the ID. If two entries would have the same ID, see xref:two-entries-with-same-ID[What to do if two entries have the same ID?.]
+|`<term>`               |The term to be described.          |
 |`<description>`        |The description of the term.|Use full sentences with periods. If a term has more than one meaning, use numbers to separate them. See the xref:media[media] entry for an example. Add information why should we use the term in this form. If we should not use the term, explain why. Alternatively, explain why are the terms listed in the *Incorrect forms* field incorrect.
 |`<yes/no/with caution>`|"yes" if the term should be used.
 
@@ -56,8 +56,8 @@ See xref:<id-in-general-conventions>[<term>] in the _General Conventions_ chapte
 .Example
 ----
 [discrete]
-==== Ceph (noun)
 [[ceph]]
+==== Ceph (noun)
 *Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.
 
 *Use it*: yes

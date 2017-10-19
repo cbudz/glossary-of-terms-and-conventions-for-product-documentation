@@ -1,10 +1,11 @@
 [[red-hat-ceph-storage-conventions]]
 
+
 Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-docs@redhat.com
 
 [discrete]
-==== bucket (noun)
 [[bucket]]
+==== bucket (noun)
 *Description*: 1) A bucket in the S3 API contains objects. A bucket also defines access control lists (ACLs). Unlike folders or directories, buckets cannot contain other buckets. A bucket in the S3 API is synonymous with a "container" in the Swift API. 2) The term bucket is also sometimes used in the context of a CRUSH hierarchy, but CRUSH buckets and S3 buckets are mutually exclusive concepts.
 
 *Use it*: yes
@@ -14,8 +15,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:container[container]
 
 [discrete]
-==== bucket index (noun)
 [[bucket-index]]
+==== bucket index (noun)
 *Description*: A bucket index in the S3 API contains an index of objects within the bucket. The bucket index enables listing the bucket's contents.
 
 *Use it*: yes
@@ -25,8 +26,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*:
 
 [discrete]
-==== bucket sharding (noun)
 [[bucket-sharding]]
+==== bucket sharding (noun)
 *Description*: Bucket sharding is a process of breaking down a bucket index into smaller more manageable shards. Bucket sharding improves performance.
 
 *Use it*: yes
@@ -36,8 +37,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:shard-n[shard]
 
 [discrete]
-==== BlueStore (noun)
 [[bluestore]]
+==== BlueStore (noun)
 *Description*: BlueStore is an OSD back end that utilizes block devices directly.
 
 *Use it*: yes
@@ -47,8 +48,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:filestore[FileStore], xref:object-store[Object Store]
 
 [discrete]
-==== Ceph (noun)
 [[ceph]]
+==== Ceph (noun)
 *Description*: Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.
 
 *Use it*: yes
@@ -58,8 +59,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:red-hat-ceph-storage[Red Hat Ceph Storage], xref:ceph-command[ceph]
 
 [discrete]
-==== ceph (noun)
 [[ceph-command]]
+==== ceph (noun)
 *Description*: The Ceph command-line utility. Always mark it properly (`ceph`).
 
 *Use it*: yes
@@ -69,8 +70,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:ceph[Ceph], xref:red-hat-ceph-storage[Red Hat Ceph Storage]
 
 [discrete]
-==== Ceph Block Device (noun)
 [[ceph-block-device]]
+==== Ceph Block Device (noun)
 *Description*: The block storage component of Ceph. Also known as the RADOS Block Device, however prefer using the Ceph Block Device.
 
 *Use it*: yes
@@ -80,8 +81,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:rados-block-device[RADOS Block Device], xref:RBD[RBD], xref:rbd[rbd], xref:librbd[librbd]
 
 [discrete]
-==== CephFS (noun)
 [[cephfs]]
+==== CephFS (noun)
 *Description*: CephFS is an initialization for the Ceph File System.
 
 *Use it*: yes
@@ -91,8 +92,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:ceph-file-system[Ceph File System]
 
 [discrete]
-==== Ceph File System (noun)
 [[ceph-file-system]]
+==== Ceph File System (noun)
 *Description*: The POSIX file system component of Ceph.
 
 *Use it*: yes
@@ -102,8 +103,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:cephfs[Ceph File System]
 
 [discrete]
-==== Ceph Monitor (noun)
 [[ceph-monitor]]
+==== Ceph Monitor (noun)
 *Description*: A node where the `ceph-mon` daemon is running.
 
 *Use it*: yes
@@ -113,8 +114,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:ceph-mon[ceph-mon]
 
 [discrete]
-==== ceph-ansible (noun)
 [[ceph-ansible]]
+==== ceph-ansible (noun)
 *Description*: `ceph-ansible` is a utility that provides Ansible playbooks for installing, managing, and upgrading the Ceph Storage Cluster. Always mark it properly (`ceph-ansible`).
 
 *Use it*: yes
@@ -124,8 +125,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*:
 
 [discrete]
-==== ceph-mds (noun)
 [[ceph-mds]]
+==== ceph-mds (noun)
 
 *Description*: `ceph-mds` is the Metadata Server daemon. One or more instances of `ceph-mds` collectively manage the file system namespace, coordinating access to the shared OSD cluster. Always mark it properly (`ceph-mds`)
 
@@ -136,8 +137,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:metadata-server[Metadata Server], xref:mds[MDS]
 
 [discrete]
-==== ceph-mon (noun)
 [[ceph-mon]]
+==== ceph-mon (noun)
 
 *Description*: `ceph-mon` is the Ceph Monitor daemon. Always mark it properly (`ceph-mon`).
 
@@ -148,8 +149,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:ceph-monitor[Ceph Monitor]
 
 [discrete]
-==== ceph-osd (noun)
 [[ceph-osd]]
+==== ceph-osd (noun)
 
 *Description*: `ceph-osd` is the Ceph object storage daemon that is responsible for storing objects on local file system and providing access to them over network. Always mark it properly (`ceph-osd`).
 
@@ -160,8 +161,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:osd[OSD], xref:object-storage-device[Object Storage Device],
 
 [discrete]
-==== Ceph Object Gateway (noun)
 [[ceph-object-gateway]]
+==== Ceph Object Gateway (noun)
 *Description*: The S3/Swift component of Ceph. Also known as RADOS gateway. However, prefer using the Ceph Object Gateway.
 
 *Use it*: yes
@@ -171,8 +172,8 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:rados-gateway[RADOS Gateway], xref:rgw[RGW], xref:ceph-radosgw[ceph-radosgw]
 
 [discrete]
-==== ceph-radosgw (noun)
 [[ceph-radosgw]]
+==== ceph-radosgw (noun)
 *Description*: The `ceph-radosgw` daemon runs on Ceph Object Gateway nodes. Each instance provides a Civetweb web server and the object gateway functionality.
 
 *Use it*: yes
@@ -182,12 +183,11 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:ceph-object-gateway[Ceph Object Gateway], xref:rados-gateway[RADOS Gateway], xref:rgw[RGW]
 
 [discrete]
-==== container (noun)
 See xref:container[container] in the _General Conventions_ part.
 
 [discrete]
-==== CRUSH (noun)
 [[crush]]
+==== CRUSH (noun)
 *Description*: Abbreviation for Controlled Replication Under Scalable Hashing. This is the mechanism of data distribution in a Ceph cluster. Use all capital letters when referring to CRUSH. Do not expand, only when explaining what the abbreviation means. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#crush[CRUSH] section in the Red Hat Ceph Storage Architecture Guide for details.
 
 *Use it*: yes
@@ -197,8 +197,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:crush-map[CRUSH map]
 
 [discrete]
-==== CRUSH map (noun)
 [[crush-map]]
+==== CRUSH map (noun)
 *Description*: A CRUSH map contain a list of OSDs, a list of buckets for aggregating the devices into physical locations, and a list of rules that tell CRUSH how it should replicate data in a Ceph cluster’s pools. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#crush[CRUSH] section in the Red Hat Ceph Storage Architecture Guide for details.
 
 *Use it*: yes
@@ -208,8 +208,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:crush[CRUSH]
 
 [discrete]
-==== FileStore (noun)
 [[filestore]]
+==== FileStore (noun)
 *Description*: FileStore is an OSD back end responsible for the OSD data that writes objects as files on a file system.
 
 *Use it*: yes
@@ -219,8 +219,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:bluestore[BlueStore]
 
 [discrete]
-==== federated (adjective)
 [[federated]]
+==== federated (adjective)
 *Description*: In Red Hat Ceph Storage 1.3, you can configure the Ceph Object Gateway to participate in a federated architecture with multiple regions and with multiple zones for a region.
 
 *Use it*: yes
@@ -230,8 +230,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:multi-site[multi-site]
 
 [discrete]
-==== indexless bucket (noun)
 [[indexless-bucket]]
+==== indexless bucket (noun)
 *Description*: A bucket that does not maintain an index.
 
 *Use it*: yes
@@ -241,8 +241,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:bucket-index[bucket index]
 
 [discrete]
-==== librados (noun)
 [[librados]]
+==== librados (noun)
 *Description*: A shared library allowing applications to access the RADOS object store.
 
 *Use it*: yes
@@ -252,8 +252,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:rados[RADOS]
 
 [discrete]
-==== librbd (noun)
 [[librbd]]
+==== librbd (noun)
 *Description*: A shared library allowing applications to access Ceph Block Devices.
 
 *Use it*: yes
@@ -263,8 +263,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:RBD[RBD]
 
 [discrete]
-==== MDS (noun)
 [[mds]]
+==== MDS (noun)
 *Description*: MDS is an acronym for the Ceph Metadata Server.
 
 *Use it*: yes
@@ -276,8 +276,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:metadata-server[Metadata Server], xref:ceph-mds[ceph-mds]
 
 [discrete]
-==== Metadata Server (noun)
 [[metadata-server]]
+==== Metadata Server (noun)
 *Description*: Another name of the `ceph-mds` daemon.
 
 *Use it*: yes
@@ -287,8 +287,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:mds[MDS], xref:ceph-mds[ceph-mds]
 
 [discrete]
-==== multi-site (adjective)
 [[multi-site]]
+==== multi-site (adjective)
 *Description*: In Red Hat Ceph Storage 2, you can configure the Ceph Object Gateway to participate in a multi-site architecture that consists of one zone group and multiple zones each zone with one or more `ceph-radosgw` instances. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/paged/object-gateway-guide-for-ubuntu/chapter-8-multi-site[Multi-site] chapter in the Red Hat Ceph Storage 2 Object Gateway Guide for details.
 
 *Use it*: yes
@@ -298,8 +298,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:federated[federated]
 
 [discrete]
-==== Object Store (noun)
 [[object-store]]
+==== Object Store (noun)
 *Description*: A core component of the Ceph Storage Cluster. Also referred as RADOS.
 
 *Use it*: yes
@@ -309,8 +309,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:rados[RADOS]
 
 [discrete]
-==== Object Storage Device (noun)
 [[object-storage-device]]
+==== Object Storage Device (noun)
 *Description*: A storage drive in a Ceph Storage Cluster. Do not confuse Object Storage Device with the Ceph OSD, which is the `ceph-osd` daemon and the underlying data disk.
 
 *Use it*: yes
@@ -320,8 +320,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:ceph-osd[ceph-osd], xref:osd[OSD], xref:osd-daemon[OSD daemon]
 
 [discrete]
-==== OSD Daemon (noun)
 [[osd-daemon]]
+==== OSD Daemon (noun)
 *Description*: Another name of the `ceph-osd` daemon.
 
 *Use it*: yes
@@ -331,8 +331,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:ceph-osd[ceph-osd], xref:osd[OSD], xref:object-storage-device[Object Storage Device]
 
 [discrete]
-==== OSD (noun)
 [[osd]]
+==== OSD (noun)
 *Description*: The `ceph-osd` daemon and the underlying data disk.
 
 *Use it*: yes
@@ -342,8 +342,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*:
 
 [discrete]
-==== PG (noun)
 [[pg]]
+==== PG (noun)
 *Description*: An acronym for Placement Group.
 
 *Use it*: yes
@@ -353,8 +353,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:placement-group[placement group]
 
 [discrete]
-==== placement group (noun)
 [[placement-group]]
+==== placement group (noun)
 *Description*: Aggregates a series of objects into a group, and maps the group into a series of OSDs. Write "Placement Group" (both first letters in uppercase) only when explaining the PC acronym, then write "placement group" (in lowercase). See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#placement_groups_pgs[Placement Groups] section in the Red Hat Ceph Storage Architecture Guide for details.
 
 *Use it*: yes
@@ -364,8 +364,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:pc[PC]
 
 [discrete]
-==== placement target (noun)
 [[placement-target]]
+==== placement target (noun)
 *Description*: A configurable rule that determines where bucket data is stored.
 //TODO: does this have to be first letters in uppercase? 
 
@@ -376,8 +376,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*:
 
 [discrete]
-==== pool (noun)
 [[pool]]
+==== pool (noun)
 *Description*: A logical unit in which Ceph stores data. You can create pools for particular types of data, such as for Ceph Block Devices, Ceph Object Gateways, or simply just to separate one group of users from another. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#pools[Pools] chapter in the Red Hat Ceph Storage Architecture Guide for details.
 
 *Use it*: yes
@@ -387,8 +387,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*:
 
 [discrete]
-==== RADOS (noun)
 [[rados]]
+==== RADOS (noun)
 *Description*: Acronym for Reliable Autonomic Distributed Object Storage. A core component of the Ceph Storage Cluster. Do not expand, unless explaining what the acronym means. Also referred as Object Store.
 
 *Use it*: yes
@@ -400,8 +400,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:object-store[Object Store]
 
 [discrete]
-==== RADOS Block Device (noun)
 [[rados-block-device]]
+==== RADOS Block Device (noun)
 *Description*: The block storage component of Ceph. Also known as the Ceph Block Device, which is the preferred form. Use RADOS Block Device only when expanding the RBD acronym.
 
 *Use it*: with caution
@@ -411,8 +411,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:ceph-block-device[Ceph Block Device], xref:RBD[RBD], xref:rbd[rbd], xref:librbd[librbd]
 
 [discrete]
-==== RADOS Gateway (noun)
 [[rados-gateway]]
+==== RADOS Gateway (noun)
 *Description*: The S3/Swift component of Ceph. Also known as the Ceph Object Gateway, which is the preferred form. Use RADOS Gateway only when expanding the RGW acronym.
 
 *Use it*: with caution
@@ -422,8 +422,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:ceph-object-gateway[Ceph Object Gateway], xref:rgw[RGW], xref:ceph-radosgw[ceph-radosgw]
 
 [discrete]
-==== RBD (noun)
 [[RBD]]
+==== RBD (noun)
 *Description*: Acronym for RADOS Block Device.
 
 *Use it*: yes
@@ -433,8 +433,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:rbd[rbd], xref:librbd[librbd]
 
 [discrete]
-==== rbd (noun)
 [[rbd]]
+==== rbd (noun)
 *Description*: A command to create, list, introspect, and remove Ceph Block Device images. Always mark it properly (`rbd`).
 
 *Use it*: yes
@@ -444,8 +444,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:ceph-block-device[Ceph Block Device], xref:rados-block-device[RADOS Block Device], xref:RBD[RBD], xref:librbd[librbd]
 
 [discrete]
-==== realm (noun)
 [[realm]]
+==== realm (noun)
 *Description*: A realm is a namespace context for storing a multi-site configuration. The notion of a realm enables Ceph to provide multiple namespaces in the same cluster.
 
 *Use it*: yes
@@ -455,8 +455,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:zone-group[zone group]
 
 [discrete]
-==== region (noun)
 [[region]]
+==== region (noun)
 *Description*: A region is the deprecated term for referring to a zone group. Red Hat Ceph Storage 1.3 uses regions.
 
 *Use it*: yes
@@ -466,8 +466,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:zone-group[zone group]
 
 [discrete]
-==== Red Hat Ceph Storage (noun)
 [[red-hat-ceph-storage]]
+==== Red Hat Ceph Storage (noun)
 *Description*: Red Hat Ceph Storage is a Red Hat offering of the Ceph storage system.
 
 *Use it*: yes
@@ -477,8 +477,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:ceph[Ceph]
 
 [discrete]
-==== RGW (noun)
 [[rgw]]
+==== RGW (noun)
 *Description*: Acronym for RADOS Gateway.
 
 *Use it*: yes
@@ -488,8 +488,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:rados-gateway[RADOS Gateway], xref:ceph-object-gateway[Ceph Object Gateway]
 
 [discrete]
-==== scrubbing (noun)
 [[scrubbing]]
+==== scrubbing (noun)
 *Description*: Scrubbing is a process when Ceph OSD Daemons compare object metadata in one placement group with its replicas in placement groups stored on other OSD node. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/single/architecture-guide#scrubbing[Scrubbing] section in the Red Hat Ceph Architecture Guide for details.
 
 *Use it*: yes
@@ -499,8 +499,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*:
 
 [discrete]
-==== shard (noun)
 [[shard-n]]
+==== shard (noun)
 *Description*: A database shard is a horizontal partition of data in a database or search engine. Each individual partition is referred to as a shard or database shard. Each shard is held on a separate database server instance, to spread load.
 
 *Use it*: yes
@@ -510,8 +510,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:bucket-sharding[bucket sharding]
 
 [discrete]
-==== snap (noun)
 [[snap]]
+==== snap (noun)
 *Description*: A snap is the snapshot ID of an object. The only writable version of the object is called `head`. If an object is a clone, this field includes its sequential ID. Always mark it properly (`snap`).
 
 *Use it*: yes
@@ -521,8 +521,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:snapshot-set[snapshot set]
 
 [discrete]
-==== snapshot set (noun)
 [[snapshot-set]]
+==== snapshot set (noun)
 *Description*: The snapshot set stores information about a snapshot as a list of key-values pairs. The pairs are called attributes of a snapshot set.
 
 *Use it*: yes
@@ -532,8 +532,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:snap[snap]
 
 [discrete]
-==== zone (noun)
 [[zone]]
+==== zone (noun)
 *Description*: A zone represents a physical location consisting of a Ceph Storage Cluster and nodes running the Ceph Object Gateway daemons.
 
 *Use it*: yes
@@ -543,8 +543,8 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:zone-group[zone group]
 
 [discrete]
-==== zone group (noun)
 [[zone-group]]
+==== zone group (noun)
 *Description*: A zone group is a list of zones. A zone group always has one master zone, and can have multiple secondary zones. A realm has one master zone group, which manages users and metadata for the realm.
 
 *Use it*: yes
