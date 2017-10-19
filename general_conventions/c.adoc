@@ -1,6 +1,6 @@
 [discrete]
-==== CapEx (noun)
 [[cap-ex]]
+==== CapEx (noun)
 *Description*: "CapEx" is an acronym for "capital expenditures."
 
 *Use it*: yes
@@ -10,8 +10,8 @@
 *See also*:
 
 [discrete]
-==== cd (noun)
 [[cd-command]]
+==== cd (noun)
 *Description*: The "change directory" command is "cd."
 
 *Use it*: yes
@@ -21,8 +21,8 @@
 *See also*: xref:compact-disk[CD]
 
 [discrete]
-==== CD (noun)
 [[compact-disk]]
+==== CD (noun)
 *Description*: "CD" is an acronym for "compact disc."
 
 *Use it*: yes
@@ -33,8 +33,8 @@
 
 [discrete]
 
-==== CD #1 (noun)
 [[cd-one]]
+==== CD #1 (noun)
 *Description*: When referring to a specific CD in the Red Hat Enterprise Linux CD set, it is correct to refer to it as "Red Hat Enterprise Linux CD #1." Avoid using "Red Hat Enterprise Linux CD 1."
 
 *Use it*: yes
@@ -44,8 +44,8 @@
 *See also*:
 
 [discrete]
-==== CD writer (noun)
 [[cd-writer]]
+==== CD writer (noun)
 *Description*: A "CD writer" is a device that records data into the CD format.
 
 *Use it*: yes
@@ -55,8 +55,8 @@
 *See also*:
 
 [discrete]
-==== CDs (noun)
 [[cds]]
+==== CDs (noun)
 *Description*: "CDs" is the plural form of "CD." Use "CDs" to describe multiple compact discs.
 
 *Use it*: yes
@@ -66,8 +66,8 @@
 *See also*: xref:compact-disk[CD]
 
 [discrete]
-==== cgroup (noun)
 [[cgroup]]
+==== cgroup (noun)
 *Description*: The term "cgroup" is a contraction of "control group." Cgroups allow you to allocate resources, such as CPU time, system memory, network bandwidth, or combinations of these resources, among user-defined groups of processes running on a system.
 
 *Use it*: yes
@@ -77,8 +77,8 @@
 *See also*:
 
 [discrete]
-==== ciphertext (noun)
 [[ciphertext]]
+==== ciphertext (noun)
 *Description*: In cryptography, "ciphertext" is the result of encryption performed on plain text using an algorithm, called a cipher.
 
 *Use it*: yes
@@ -88,8 +88,8 @@
 *See also*:
 
 [discrete]
-==== client side (noun)
 [[client-side-n]]
+==== client side (noun)
 *Description*: Use the two-word form of "client side" as a noun when referring to the client side in a client-server relationship, for example, "This happens on the client side of the relationship."
 
 *Use it*: yes
@@ -99,8 +99,8 @@
 *See also*: xref:client-side-adj[client-side]
 
 [discrete]
-==== client-side (adjective)
 [[client-side-adj]]
+==== client-side (adjective)
 *Description*: Use the one-word form "client-side" as an adjective when referring to operations that are performed by the client in a client-server relationship, for example, "This is a client-side service."
 
 *Use it*: yes
@@ -110,8 +110,8 @@
 *See also*: xref:client-side-n[client side]
 
 [discrete]
-==== cloud (adjective)
 [[cloud-adj]]
+==== cloud (adjective)
 *Description*: Use "cloud" with a lowercase "c" when referring to cloud computing in a general sense.
 
 *Use it*: yes
@@ -121,8 +121,8 @@
 *See also*: xref:cloud-n[cloud (noun)]
 
 [discrete]
-==== cloud (noun)
 [[cloud-n]]
+==== cloud (noun)
 *Description*: Use "cloud" with a lowercase "c" when referring to cloud computing in a general sense.
 
 *Use it*: yes
@@ -132,8 +132,8 @@
 *See also*: xref:cloud-adj[cloud (adjective)]
 
 [discrete]
-==== cloudbursting (verb)
 [[cloudbursting]]
+==== cloudbursting (verb)
 *Description*: "Cloudbursting" is an event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources.
 
 *Use it*: yes
@@ -143,8 +143,8 @@
 *See also*:
 
 [discrete]
-==== cloudwashing (verb)
 [[cloudwashing]]
+==== cloudwashing (verb)
 *Description*: "Cloudwashing" is the process of rebranding legacy products to include the term "cloud" to increase their appeal to the cloud market.
 
 *Use it*: yes
@@ -154,8 +154,8 @@
 *See also*:
 
 [discrete]
-==== cluster (noun)
 [[cluster]]
+==== cluster (noun)
 *Description*: 1) A "cluster" is a collection of interconnected computers working together as an integrated computing resource. Clusters are referred to as the "High Availability Add-On" in Red Hat Enterprise Linux 6 and later. 2) In OpenShift context, a "cluster" is the collection of controllers, pods, and services and related DNS and networking routing configuration that are defined on the system. Typically, a cluster is made up of multiple OpenShift hosts (masters, nodes, etc.) working together, across which the aforementioned components are distributed or running.
 
 *Use it*: yes
@@ -165,8 +165,8 @@
 *See also*:
 
 [discrete]
-==== code (noun)
 [[code]]
+==== code (noun)
 *Description*: "Code" refers to programming statements and a set of instructions for a computer. Do not use "code" as a verb.
 
 *Use it*: yes
@@ -176,8 +176,8 @@
 *See also*:
 
 [discrete]
-==== colocate (verb)
 [[colocate]]
+==== colocate (verb)
 *Description*: "Colocate" means to place two or more items in the same space. Do not hyphenate "colocate."
 
 *Use it*: yes
@@ -187,8 +187,8 @@
 *See also*:
 
 [discrete]
-==== comma-delimited (adjective)
 [[comma-delimited]]
+==== comma-delimited (adjective)
 *Description*: "Comma-delimited" is an adjective that refers to a data format in which each piece of data is separated by a comma.
 
 *Use it*: yes
@@ -198,8 +198,8 @@
 *See also*:
 
 [discrete]
-==== comma-separated values (noun)
 [[comma-separated-values]]
+==== comma-separated values (noun)
 *Description*: "Comma-separated values" are a set of values in which each value is separated by a comma. Spell out "comma-separated values" on first use; use "CSV" thereafter.
 
 *Use it*: yes
@@ -209,8 +209,8 @@
 *See also*: xref:csv[CSV]
 
 [discrete]
-==== command-driven (adjective)
 [[command-driven]]
+==== command-driven (adjective)
 *Description*: "Command-driven" is an adjective that refers to programs and operating systems that accept commands in the form of special words or letters.
 
 *Use it*: yes
@@ -220,8 +220,8 @@
 *See also*: xref:menu-driven[menu-driven]
 
 [discrete]
-==== command language (noun)
 [[command-language]]
+==== command language (noun)
 *Description*: "Command language" is the programming language through which a user communicates with an operating system or an application.
 
 *Use it*: yes
@@ -231,8 +231,8 @@
 *See also*:
 
 [discrete]
-==== connectivity (noun)
 [[connectivity]]
+==== connectivity (noun)
 *Description*: "Connectivity" is the ability of a program or device to link with other programs and devices.
 
 *Use it*: yes
@@ -242,8 +242,8 @@
 *See also*:
 
 [discrete]
-==== container (noun)
 [[container]]
+==== container (noun)
 *Description*: 1) A "container" is the fundamental piece of an OpenShift application. A container is a way to isolate and limit process interactions with minimal overhead and footprint. In most cases, a container will be limited to a single process providing a specific service (for example web server, database). 2) A "container" in the Swift API contains objects. A container also defines access control lists (ACLs). Unlike folders or directories, a container cannot contain other containers. A "container" in the Swift API is synonymous with a "bucket" in the S3 API.
 
 *Use it*: yes
@@ -253,8 +253,8 @@
 *See also*: xref:bucket[bucket]
 
 [discrete]
-==== container-based (adjective)
 [[container-based]]
+==== container-based (adjective)
 *Description*: Use "container-based" as an adjective when referring to applications made up of multiple services that are distributed in containers. "Container-based" can be used interchangeably with "containerized."
 
 *Use it*: yes
@@ -264,8 +264,8 @@
 *See also*: xref:containerized[containerized]
 
 [discrete]
-==== containerized (adjective)
 [[containerized]]
+==== containerized (adjective)
 *Description*: Use "containerized" as an adjective when referring to applications made up of multiple services that are distributed in containers. "Containerized" can be used interchangeably with "container-based."
 
 *Use it*: yes
@@ -275,8 +275,8 @@
 *See also*: xref:container-based[container-based]
 
 [discrete]
-==== container registry (noun)
 [[container-registry]]
+==== container registry (noun)
 *Description*: A "container registry" refers to a service that stores and retrieves Docker-formatted container
 images. A "container registry" is also a registry that contains a collection of one or more image repositories. Each
 image repository contains one or more tagged images.
@@ -288,8 +288,8 @@ image repository contains one or more tagged images.
 *See also*: xref:red-hat-container-catalog[Red Hat Container Catalog], xref:openshift-container-registry[OpenShift Container Registry]
 
 [discrete]
-==== control program (noun)
 [[control-program]]
+==== control program (noun)
 *Description*: A "control program" refers to a program that enhances an operating system by creating an environment in which you can run other programs.
 
 *Use it*: yes
@@ -299,8 +299,8 @@ image repository contains one or more tagged images.
 *See also*: xref:operating-environment[operating environment]
 
 [discrete]
-==== convert (verb)
 [[convert]]
+==== convert (verb)
 *Description*: Use "convert" when referring to changing data from one format to another.
 
 *Use it*: yes
@@ -310,8 +310,8 @@ image repository contains one or more tagged images.
 *See also*:
 
 [discrete]
-==== cooked (adjective)
 [[cooked]]
+==== cooked (adjective)
 *Description*: "Cooked" is an adjective that refers to data that is processed before being passed to the I/O device.
 
 *Use it*: yes
@@ -321,8 +321,8 @@ image repository contains one or more tagged images.
 *See also*: xref:raw[raw]
 
 [discrete]
-==== cookie (noun)
 [[cookie]]
+==== cookie (noun)
 *Description*: A "cookie" is a message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
 
 *Use it*: yes
@@ -332,8 +332,8 @@ image repository contains one or more tagged images.
 *See also*:
 
 [discrete]
-==== crash (verb)
 [[crash]]
+==== crash (verb)
 *Description*: When a program "crashes", it terminates unexpectedly. _The IBM Style Guide_ suggests to use a more specific term, such as "fail". However, in Red Hat documentation, it is acceptable to use crash in certain cases: When writing errata descriptions, it is possible to use "crash" instead of "terminate unexpectedly" if "terminate unexpectedly" was used in a previous sentence. For example: A utility terminated unexpectedly because of a bug in the underlying source code. With this update, the utility no longer crashes.
 
 *Use it*: with caution
@@ -343,8 +343,8 @@ image repository contains one or more tagged images.
 *See also*: xref:fail[fail], xref:terminate[terminate]
 
 [discrete]
-==== cross-platform (adjective)
 [[cross-platform]]
+==== cross-platform (adjective)
 *Description*: Use "cross-platform" as an adjective when referring to the capability of software or hardware to run identically on different platforms.
 
 *Use it*: yes
@@ -354,8 +354,8 @@ image repository contains one or more tagged images.
 *See also*:
 
 [discrete]
-==== cross-site scripting (adjective)
 [[cross-site-scripting]]
+==== cross-site scripting (adjective)
 *Description*: Use "cross-site scripting" as an adjective when referring to "cross-site scripting" attacks. Another acceptable use is "cross-site scripting" (XSS) attack.
 
 *Use it*: yes
@@ -365,8 +365,8 @@ image repository contains one or more tagged images.
 *See also*:
 
 [discrete]
-==== CSV (noun)
 [[csv]]
+==== CSV (noun)
 *Description*: CSV is an acronymn for "comma-separated values," which is a set of values in which each value is separated by a comma. Spell out "comma-separated values" on first occurrence; use "CSV" thereafter.
 
 *Use it*: yes
@@ -376,8 +376,8 @@ image repository contains one or more tagged images.
 *See also*: xref:comma-separated-values[comma-separated values]
 
 [discrete]
-==== Ctrl (noun)
 [[ctrl]]
+==== Ctrl (noun)
 *Description*: "Ctrl" refers to the `Ctrl` key on a keyboard.
 
 *Use it*: yes
@@ -387,8 +387,8 @@ image repository contains one or more tagged images.
 *See also*:
 
 [discrete]
-==== Cygmon (noun)
 [[cygmon]]
+==== Cygmon (noun)
 *Description*: "Cygmon" is a type of ROM monitor.
 
 *Use it*: yes

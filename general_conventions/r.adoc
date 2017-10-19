@@ -1,6 +1,6 @@
 [discrete]
-==== RAM (noun)
 [[ram]]
+==== RAM (noun)
 *Description*: "RAM" is an acronym for "random access memory."
 
 *Use it*: yes
@@ -10,8 +10,8 @@
 *See also*: xref:ram-disk[RAM disk]
 
 [discrete]
-==== RAM disk (noun)
 [[ram-disk]]
+==== RAM disk (noun)
 *Description*: "RAM disk" refers to "RAM" that has been configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a physical disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful for applications that require frequent disk accesses.
 
 *Use it*: yes
@@ -21,8 +21,8 @@
 *See also*: xref:ram[RAM]
 
 [discrete]
-==== raw (adjective)
 [[raw]]
+==== raw (adjective)
 *Description*: In computing terms, "raw" means unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, "cooked" refers to data that is processed before being passed to the I/O device. The term comes from Unix, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device.
 
 *Use it*: yes
@@ -32,8 +32,8 @@
 *See also*: xref:cooked[cooked]
 
 [discrete]
-==== raw data (noun)
 [[raw-data]]
+==== raw data (noun)
 
 *Description*: "Raw data" is information that has not been organized, formatted, or analyzed.
 
@@ -44,8 +44,8 @@
 *See also*:
 
 [discrete]
-==== read (verb)
 [[read-v]]
+==== read (verb)
 *Description*: To "read" means to copy data to a place where it can be used by a program. Read is commonly used to describe copying data from a storage medium, such as a disk, to main memory. It is also used to refer to the act of determining the contents of a variable or parameter.
 
 *Use it*: yes
@@ -55,8 +55,8 @@
 *See also*: xref:read-n[read (noun)]
 
 [discrete]
-==== read (noun)
 [[read-n]]
+==== read (noun)
 *Description*: When used as a noun, "read" refers to the act of reading, for example, "A fast disk drive performs 100 'reads' per second."
 
 *Use it*: yes
@@ -66,8 +66,8 @@
 *See also*: xref:read-v[read (verb)]
 
 [discrete]
-==== real time (noun)
 [[real-time-n]]
+==== real time (noun)
 *Description*: If used as a noun, "real time" is the actual time during which something takes place, for example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
 
 *Use it*: yes
@@ -77,8 +77,8 @@
 *See also*: xref:real-time-adj[real-time]
 
 [discrete]
-==== real-time (adjective)
 [[real-time-adj]]
+==== real-time (adjective)
 *Description*: If used as an adjective, "real-time" is appropriate, for example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
 
 *Use it*: yes
@@ -88,8 +88,8 @@
 *See also*: xref:real-time-n[real time]
 
 [discrete]
-==== reboot (verb)
 [[reboot]]
+==== reboot (verb)
 *Description*: "Reboot" means to turn off a computer's operating system and then turn it on.
 
 *Use it*: yes
@@ -99,8 +99,8 @@
 *See also*:
 
 [discrete]
-==== recommend (verb)
 [[recommend]]
+==== recommend (verb)
 *Description*: In making a recommendation, use "Red Hat recommends" wherever possible. Note that for documentation that occurs in both upstream and downstream, it is acceptable to use "it is recommended", but only in this instance.
 
 *Use it*: yes
@@ -110,8 +110,8 @@
 *See also*: xref:we-suggest[we suggest]
 
 [discrete]
-==== RedBoot (noun)
 [[redboot]]
+==== RedBoot (noun)
 *Description*: "RedBoot" is an acronym for "Red Hat Embedded Debug and Bootstrap" firmware. RedBoot is a complete bootstrap environment for embedded systems. Based on the eCos Hardware Abstraction Layer, RedBoot inherits the eCos qualities of reliability, compactness, configurability, and portability.
 
 *Use it*: yes
@@ -121,8 +121,8 @@
 *See also*:
 
 [discrete]
-==== Red Hat Container Catalog (noun)
 [[red-hat-container-catalog]]
+==== Red Hat Container Catalog (noun)
 *Description*: "Red Hat Container Catalog" is Red Hat's hosted registry for Enterprise-ready containers located at link:https://access.redhat.com/containers[access.redhat.com/containers]. Red Hat Container Catalog is a trusted source for secure, certified, and up-to-date container images. Write this name in full the first time that you use it in a document.
 
 *Use it*: yes
@@ -134,6 +134,7 @@
 [discrete]
 ==== Red Hat Enterprise Linux
 [[red-hat-enterprise-linux]]
+
 *Description*: "Red Hat Enterprise Linux" is an open source operating system based on Fedora and developed by Red Hat.
 
 *Use it*: yes
@@ -143,8 +144,8 @@
 *See also*: xref:rhel[RHEL]
 
 [discrete]
-==== Red Hat Network Satellite Server (noun)
 [[red-hat-network-satellite-server]]
+==== Red Hat Network Satellite Server (noun)
 *Description*: Write "Red Hat Network Satellite Server" in full the first time that you use it in a document. Subsequently, you can write "RHN Satellite Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
 
 *Use it*: yes
@@ -154,8 +155,8 @@
 *See also*: xref:red-hat-network-proxy-server[Red Hat Network Proxy Server]
 
 [discrete]
-==== Red Hat Network Proxy Server (noun)
 [[red-hat-network-proxy-server]]
+==== Red Hat Network Proxy Server (noun)
 *Description*: Write "Red Hat Network Proxy Server" in full the first time that you use it in a document. Subsequently, you can write "RHN Proxy Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
 
 *Use it*: yes
@@ -165,8 +166,8 @@
 *See also*: xref:red-hat-network-satellite-server[Red Hat Network Satellite Server]
 
 [discrete]
-==== Red Hat Way (noun)
 [[red-hat-way]]
+==== Red Hat Way (noun)
 
 *Description*: "Red Hat Way" refers to the culture valued and maintained by Red Hat associates.
 
@@ -177,8 +178,8 @@
 *See also*:
 
 [discrete]
-==== remote access (noun)
 [[remote-access]]
+==== remote access (noun)
 *Description*: "Remote access" is the ability to log on to a network from a distant location. Generally, this implies a computer, a modem, and some remote access software to connect to the network. "Remote control" refers to taking control of another computer, while "remote access" means that the remote computer actually becomes a full-fledged host on the network. The remote access software dials in directly to the network server. The only difference between a remote host and workstations connected directly to the network is slower data transfer speeds.
 
 *Use it*: yes
@@ -188,8 +189,8 @@
 *See also*: xref:remote-access-server[remote access server]
 
 [discrete]
-==== remote access server (noun)
 [[remote-access-server]]
+==== remote access server (noun)
 *Description*: A "remote access server" is a server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials in to a network from home using an analog modem or an ISDN connection will dial in to a remote access server. Once the user is authenticated, they can access shared drives and printers as if they were physically connected to the office LAN.
 
 *Use it*: yes
@@ -199,8 +200,8 @@
 *See also*: xref:remote-access[remote access]
 
 [discrete]
-==== required (adjective)
 [[required]]
+==== required (adjective)
 
 *Description*: "Required" can mean needed, essential, or obligatory. Example 1: "The module is missing essential parts." Example 2: "Filling in the Class field is obligatory."
 
@@ -211,8 +212,8 @@
 *See also*:
 
 [discrete]
-==== Resilient Storage Add-On (noun)
 [[resilient-storage-add-on]]
+==== Resilient Storage Add-On (noun)
 
 *Description*: "Resilient Storage Add-On" is an add-on to Red Hat Enterprise Linux that allows a shared storage or clustered file system to access the same storage device over a network. The Resilient Storage Add-On creates a pool of data that is available to each server in a group by creating consistent storage across a cluster of servers that is protected if any one server fails.
 
@@ -223,8 +224,8 @@
 *See also*:
 
 [discrete]
-==== return (verb)
 [[return]]
+==== return (verb)
 
 *Description*: When referring to the keyboard key on Solaris or Mac, use "Return" or "return," respectively. See "enter" for other platforms.
 
@@ -235,8 +236,8 @@
 *See also*: xref:enter-n[enter]
 
 [discrete]
-==== RHEL (noun)
 [[rhel]]
+==== RHEL (noun)
 *Description*: "RHEL" is an acronym for "Red Hat Enterprise Linux." The conventions for using this acronym vary for different products and teams. If you are not sure whether to use the acronym or only the full version, ask your team members.
 
 *Use it*: with caution
@@ -246,8 +247,8 @@
 *See also*: xref:red-hat-enterprise-linux[Red Hat Enterprise Linux]
 
 [discrete]
-==== ROM (noun)
 [[rom]]
+==== ROM (noun)
 *Description*: "ROM" is an acronym for "read-only memory," that is, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read.
 
 *Use it*: yes
@@ -257,8 +258,8 @@
 *See also*: xref:prom[PROM]
 
 [discrete]
-==== roundtable (noun)
 [[roundtable]]
+==== roundtable (noun)
 *Description*: Use "roundtable" when referring to a type of event or gathering.
 
 *Use it*: yes
@@ -268,8 +269,8 @@
 *See also*: xref:round-table[round table]
 
 [discrete]
-==== round table (noun)
 [[round-table]]
+==== round table (noun)
 
 *Description*: Use "round table" when referring to a circular table.
 
@@ -280,8 +281,8 @@
 *See also*: xref:roundtable[roundtable]
 
 [discrete]
-==== routine (noun)
 [[routine]]
+==== routine (noun)
 
 *Description*: A "routine" is a set of programming instructions designed to perform a specific limited task.
 
@@ -292,8 +293,8 @@
 *See also*:
 
 [discrete]
-==== RPM (noun)
 [[rpm]]
+==== RPM (noun)
 *Description*: "RPM" is the recursive initialism for the "RPM Package Manager." RPM manages files in the RPM format, known as RPM packages. RPM packages are known informally as rpm files, but this informal usage is not used in Red Hat documentation to avoid confusion with the command name. Files in RPM format are referred to as RPM packages.
 
 *Use it*: yes
@@ -303,8 +304,8 @@
 *See also*:
 
 [discrete]
-==== runlevel (noun)
 [[runlevel]]
+==== runlevel (noun)
 *Description*: A "runlevel" is a preset operating state on a Unix-like operating system. A system can be booted in to (that is, started up in to) any of several runlevels, each of which is represented by a single digit integer. Each runlevel designates a different system configuration and allows access to a different combination of processes (that is, instances of executing programs). There are differences in the runlevels according to the operating system. Seven runlevels are supported in the standard Linux kernel.
 
 *Use it*: yes
@@ -314,8 +315,8 @@
 *See also*:
 
 [discrete]
-==== runtime (noun)
 [[runtime]]
+==== runtime (noun)
 *Description*: "Runtime" is when a program is running (or being executable), that is, when you start a program running in a computer, it is runtime for that program. In some programming languages, certain reusable programs or routines are built and packaged as a runtime library.
 
 *Use it*: yes

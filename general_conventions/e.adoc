@@ -1,6 +1,6 @@
 [discrete]
-==== Emacs (noun)
 [[emacs]]
+==== Emacs (noun)
 *Description*: "Emacs" is a text editor available in Unix. Like vi, Emacs is a screen editor. Unlike vi, Emacs is not an insertion mode editor, meaning that any character typed in Emacs is automatically inserted into the file, unless it includes a command prefix.
 
 If referring to the program, use "Emacs," for example, "Source-Navigator supports Emacs or vi commands." If referring to the shell prompt command, use `emacs`. The command should always be properly marked up, for example, "At the prompt, type `emacs`." The complete and correct name is "GNU Emacs."
@@ -12,8 +12,8 @@ If referring to the program, use "Emacs," for example, "Source-Navigator support
 *See also*:
 
 [discrete]
-==== emit (verb)
 [[emit]]
+==== emit (verb)
 *Description*: "Emit" means to send something out. Do not use "send out" because that is too informal and imprecise. Alternatively, use "issue."
 
 *Use it*: yes
@@ -23,8 +23,8 @@ If referring to the program, use "Emacs," for example, "Source-Navigator support
 *See also*:
 
 [discrete]
-==== Enter (noun)
 [[enter-n]]
+==== Enter (noun)
 *Description*: When referring to the keyboard key, use "Enter." If referring to the keyboard key on Solaris, use "Return."
 
 *Use it*: yes
@@ -34,8 +34,8 @@ If referring to the program, use "Emacs," for example, "Source-Navigator support
 *See also*: xref:return[return]
 
 [discrete]
-==== environment (noun)
 [[environment]]
+==== environment (noun)
 *Description*: In IT, "environment" refers to the state of a computer, usually determined by which programs are running and basic hardware and software characteristics. For example, when one speaks of running a program in a Unix "environment," it means running a program on a computer that has the Unix operating system.
 
 One ingredient of an environment is the operating system, but operating systems include a number of different parameters. For example, many operating systems allow you to choose your command prompt or a default command path. All these parameters taken together comprise the environment.
@@ -47,8 +47,8 @@ One ingredient of an environment is the operating system, but operating systems 
 *See also*: 
 
 [discrete]
-==== essentially (adverb)
 [[essentially]]
+==== essentially (adverb)
 *Description*: Do not use "essentially." It does not add anything to the sentence.
 
 *Use it*: no
@@ -58,8 +58,8 @@ One ingredient of an environment is the operating system, but operating systems 
 *See also*: 
 
 [discrete]
-==== event (noun)
 [[event]]
+==== event (noun)
 *Description*: An "event" is an action or occurrence detected by a program. Events can be user actions, such as clicking a mouse button or pressing a key, or system occurrences, such as running out of memory.
 
 *Use it*: yes
@@ -69,8 +69,8 @@ One ingredient of an environment is the operating system, but operating systems 
 *See also*:
 
 [discrete]
-==== examine (verb)
 [[examine]]
+==== examine (verb)
 *Description*: Use "examine" instead of "look at."
 
 *Use it*: yes
@@ -80,8 +80,8 @@ One ingredient of an environment is the operating system, but operating systems 
 *See also*:
 
 [discrete]
-==== Exec-Shield (noun)
 [[exec-shield]]
+==== Exec-Shield (noun)
 *Description*: "Exec-Shield" is a security-enhancing modification to the Linux kernel that makes large parts of specially marked programs including their stack not executable.
 
 *Use it*: yes
@@ -91,8 +91,8 @@ One ingredient of an environment is the operating system, but operating systems 
 *See also*:
 
 [discrete]
-==== Exif (noun)
 [[exif]]
+==== Exif (noun)
 *Description*: "Exif" is an image file format specification that enables metadata tags to be added to existing JPEG, TIFF, and RIFF files. "Exif" is sometimes referred to as "Exif Print."
 
 *Use it*: yes
@@ -102,8 +102,8 @@ One ingredient of an environment is the operating system, but operating systems 
 *See also*: 
 
 [discrete]
-==== extranet (noun)
 [[extranet]]
+==== extranet (noun)
 *Description*: "Extranet" refers to an "intranet" that is partially accessible to authorized outsiders. Whereas an intranet resides behind a firewall and is accessible only to people who are members of the same company or organization, an extranet provides various levels of accessibility to outsiders. You can access an extranet only if you have a valid user name and password. Your identity determines which parts of the extranet you can view.
 
 Capitalize "extranet" only at the beginning of a sentence. 

@@ -1,10 +1,11 @@
 [[openshift-conventions]]
 
+
 Responsible person: Ashley Hardin (ahardin@redhat.com), backup contact (openshift-docs@redhat.com)
 
 [discrete]
-==== action (noun)
 [[action]]
+==== action (noun)
 *Description*: In the context of authorization in OpenShift, an action consists
 of _project_, _verb_, and _resource_.
 
@@ -15,8 +16,8 @@ of _project_, _verb_, and _resource_.
 *See also*: xref:project[project], xref:verb[verb], xref:resource[resource]
 
 [discrete]
-==== API server (noun)
 [[api-server]]
+==== API server (noun)
 *Description*: A REST API endpoint for interacting with the system. New
 deployments and configurations can be created with this endpoint, and the state
 of the system can be interrogated through this endpoint as well. Always mark it
@@ -29,8 +30,8 @@ properly (`apiserver`).
 *See also*: xref:endpoint[endpoint]
 
 [discrete]
-==== application (noun)
 [[application]]
+==== application (noun)
 *Description*: Although the term _application_ is no longer an official noun in
 OpenShift, customers still create and host applications on OpenShift, and using
 the term within certain contexts is acceptable. For example, the term
@@ -45,8 +46,8 @@ JBoss, or something else.
 *See also*:
 
 [discrete]
-==== authorization (noun)
 [[authorization]]
+==== authorization (noun)
 *Description*: An authorization determines whether an _identity_ is allowed to
 perform any _action_. It consists of identity and action.
 
@@ -57,8 +58,8 @@ perform any _action_. It consists of identity and action.
 *See also*: xref:action[action], xref:identity[identity]
 
 [discrete]
-==== build (noun)
 [[build]]
+==== build (noun)
 *Description*: The process of transforming input parameters into a resulting
 object. Most often, the process is used to transform input parameters or source
 code into a runnable image.
@@ -70,8 +71,8 @@ code into a runnable image.
 *See also*:
 
 [discrete]
-==== build configuration (noun)
 [[build-configuration]]
+==== build configuration (noun)
 *Description*: A configuration that describes a single build definition and a set
 of triggers for when a new build should be created. `BuildConfig` is the related
 API object.
@@ -83,16 +84,14 @@ API object.
 *See also*: xref:build[build]
 
 [discrete]
-==== cluster (noun)
 See xref:cluster[cluster] in the _General Conventions_ part.
 
 [discrete]
-==== container (noun)
 See xref:container[container] in the _General Conventions_ part.
 
 [discrete]
-==== controller (noun)
 [[controller]]
+==== controller (noun)
 *Description*: An object that reads APIs, applies changes to other objects, and
 reports status or write back to the object.
 
@@ -103,8 +102,8 @@ reports status or write back to the object.
 *See also*:
 
 [discrete]
-==== deployment (noun)
 [[deployment]]
+==== deployment (noun)
 *Description*: A statement of intent by a user to roll out a new version of a
 configuration. A replication controller can be used for that and other purposes.
 All deployments are replication controllers, but all replication controllers are
@@ -118,8 +117,8 @@ installation, instance, or cluster as an "OpenShift deployment".
 *See also*:
 
 [discrete]
-==== deployment configuration (noun)
 [[deployment-configuration]]
+==== deployment configuration (noun)
 *Description*: A deployment configuration contains the details of a particular
 application deployment:
 
@@ -139,8 +138,8 @@ image is tagged or the source code in a source-to-image deployment is changed.
 *See also*:
 
 [discrete]
-==== deployment controller (noun)
 [[deployment-controller]]
+==== deployment controller (noun)
 *Description*: A Kubernetes object that creates a replication controller from a
 given pod template. If that pod template is modified, the deployment controller
 creates a new replication controller based on the modified pod template and
@@ -153,8 +152,8 @@ replaces the old replication controller with this new one.
 *See also*:
 
 [discrete]
-==== Dockerfile (noun)
 [[dockerfile]]
+==== Dockerfile (noun)
 *Description*: Docker can build images automatically by reading the instructions
 from a Dockerfile. A Dockerfile is a text document that contains all the
 commands you would normally execute manually in order to build a Docker image.
@@ -166,8 +165,8 @@ commands you would normally execute manually in order to build a Docker image.
 *See also*:
 
 [discrete]
-==== endpoint (noun)
 [[endpoint]]
+==== endpoint (noun)
 *Description*: The servers that back a service.
 
 *Use it*: yes
@@ -177,8 +176,8 @@ commands you would normally execute manually in order to build a Docker image.
 *See also*:
 
 [discrete]
-==== identity (noun)
 [[identity]]
+==== identity (noun)
 *Description*: Both the user name and list of groups the user belongs to.
 
 *Use it*: yes
@@ -188,8 +187,8 @@ commands you would normally execute manually in order to build a Docker image.
 *See also*:
 
 [discrete]
-==== image (noun)
 [[image]]
+==== image (noun)
 *Description*: An image is a pre-built, binary file that contains all of the
 necessary components to run a single container; a container is the working
 instantiation of an image. Additionally, an image defines certain information on
@@ -208,8 +207,8 @@ from source hosted in a git repository.
 *See also*:
 
 [discrete]
-==== image stream (noun)
 [[image-stream]]
+==== image stream (noun)
 *Description*: A series of Docker images identified by one or more tags. Image streams
 are capable of aggregating images from a variety of sources into a single view,
 including images stored in OpenShift’s integrated Docker repository, images from
@@ -222,8 +221,8 @@ external Docker registries, and other image streams.
 *See also*: xref:image[image]
 
 [discrete]
-==== init container (noun)
 [[init-container]]
+==== init container (noun)
 *Description*: A container that allows you to reorganize setup scripts and binding
 code. An init container differs from a regular container in that it always runs
 to completion. Each init container must complete successfully before the next
@@ -237,8 +236,8 @@ containers.
 *See also*:
 
 [discrete]
-==== kubelet (noun)
 [[kubelet]]
+==== kubelet (noun)
 *Description*: The agent that controls a Kubernetes node. Each node runs a
 kubelet, which handles starting and stopping containers on a node, based on the
 desired state defined by the master.
@@ -250,8 +249,8 @@ desired state defined by the master.
 *See also*:
 
 [discrete]
-==== Kubernetes master (noun)
 [[kubernetes-master]]
+==== Kubernetes master (noun)
 *Description*: The Kubernetes-native equivalent to the OpenShift master. An
 OpenShift system runs OpenShift masters, not Kubernetes masters, and an
 OpenShift master provides a superset of the functionality of a Kubernetes
@@ -264,8 +263,8 @@ master, so it is generally preferred to use the term OpenShift master.
 *See also*: xref:openshift-master[OpenShift master]
 
 [discrete]
-==== label (noun)
 [[label]]
+==== label (noun)
 *Description*: Objects used to organize, group, or select API objects. For
 example, pods are "tagged" with labels, and then services use label selectors to
 identify the pods they proxy to. This makes it possible for services to
@@ -280,8 +279,8 @@ containers as related entities.
 
 
 [discrete]
-==== minion (noun)
 [[minion]]
+==== minion (noun)
 *Description*: Deprecated. Use node instead.
 
 *Use it*: no
@@ -291,8 +290,8 @@ containers as related entities.
 *See also*: xref:node[node]
 
 [discrete]
-==== namespace (noun)
 [[namespace]]
+==== namespace (noun)
 *Description*: Typically synonymous with project in OpenShift parlance, which is
 preferred.
 
@@ -303,12 +302,11 @@ preferred.
 *See also*: xref:project[project]
 
 [discrete]
-==== node (noun)
 See xref:node[node] in the _General Conventions_ part.
 
 [discrete]
-==== OpenShift CLI (noun)
 [[openshift-cli]]
+==== OpenShift CLI (noun)
 *Description*: The command line interface of OpenShift v3, previously referred to
 as the client tools in OpenShift v2.
 
@@ -319,8 +317,8 @@ as the client tools in OpenShift v2.
 *See also*:
 
 [discrete]
-==== OpenShift Container Registry (noun)
 [[openshift-container-registry]]
+==== OpenShift Container Registry (noun)
 *Description*: The integrated container registry that is deployed as part of an
 OpenShift Container Platform installation. This container registry adds the
 ability to easily provision new image repositories. This allows users to
@@ -336,8 +334,8 @@ options enabled.
 *See also*: xref:container-registry[container registry], xref:red-hat-container-catalog[Red Hat Container Catalog]
 
 [discrete]
-==== OpenShift master (noun)
 [[openshift-master]]
+==== OpenShift master (noun)
 *Description*: Provides a REST endpoint for interacting with the system and
 manages the state of the system, ensuring that all containers expected to be
 running are actually running and that other requests such as builds and
@@ -353,8 +351,8 @@ SkyDNS.
 *See also*: xref:endpoint[endpoint], xref:api-server[API server], xref:scheduler[scheduler]
 
 [discrete]
-==== OpenShift Origin (noun)
 [[openshift-origin]]
+==== OpenShift Origin (noun)
 *Description*: OpenShift's open source, upstream project.
 
 *Use it*: yes
@@ -364,8 +362,8 @@ SkyDNS.
 *See also*:
 
 [discrete]
-==== pod (noun)
 [[pod]]
+==== pod (noun)
 *Description*: Pods come from the Kubernetes concept of the same name. A pod is a
 set of one or more containers deployed together to act as if they are on a
 single host, sharing an internal IP, ports, and local storage. It is important
@@ -381,8 +379,8 @@ that any state is not maintained between pods when they are recreated.
 *See also*: xref:container[container]
 
 [discrete]
-==== project (noun)
 [[project]]
+==== project (noun)
 *Description*:An OpenShift project corresponds to a Kubernetes namespace. They
 are used to organize and group objects in the system, such as services and
 deployment configurations, as well as provide security policies specific to
@@ -395,8 +393,8 @@ those resources.
 *See also*: xref:action[action]
 
 [discrete]
-==== Red Hat OpenShift Container Platform (noun)
 [[red-hat-openshift-container-platform]]
+==== Red Hat OpenShift Container Platform (noun)
 *Description*: Red Hat's private, on-premise cloud application deployment and
 *hosting platform.
 
@@ -407,8 +405,8 @@ those resources.
 *See also*:
 
 [discrete]
-==== Red Hat OpenShift Dedicated (noun)
 [[red-hat-openshift-dedicated]]
+==== Red Hat OpenShift Dedicated (noun)
 *Description*: Red Hat's managed public cloud application deployment and hosting
 *service.
 
@@ -419,8 +417,8 @@ those resources.
 *See also*:
 
 [discrete]
-==== Red Hat OpenShift Online (noun)
 [[red-hat-openshift-online]]
+==== Red Hat OpenShift Online (noun)
 *Description*: Red Hat's public cloud application deployment and hosting platform.
 
 *Use it*: yes
@@ -430,8 +428,8 @@ those resources.
 *See also*:
 
 [discrete]
-==== replication controller (noun)
 [[replication-controller]]
+==== replication controller (noun)
 *Description*: A Kubernetes object used to ensure a specified number of pods for an application
 are running at a given time. The replication controller automatically reacts to
 changes to deployed pods, both the removal of existing pods (deletion, crashing,
@@ -445,8 +443,8 @@ automatically added or removed from the service to ensure its uptime.
 *See also*:
 
 [discrete]
-==== resource (noun)
 [[resource]]
+==== resource (noun)
 *Description*: The API endpoint being accessed. This is distinct from the
 referenced resource itself, which can be a pod, deployment configuration, build,
 or other resource.
@@ -458,8 +456,8 @@ or other resource.
 *See also*: xref:endpoint[endpoint] xref:action[action], xref:project[project]
 
 [discrete]
-==== route (noun)
 [[route]]
+==== route (noun)
 *Description*: A route exposes a service at a host name, like www.example.com, so
 that external clients can reach it by name.
 
@@ -470,8 +468,8 @@ that external clients can reach it by name.
 *See also*:
 
 [discrete]
-==== service (noun)
 [[service]]
+==== service (noun)
 *Description*: A service functions as a load balancer and proxy to underlying
 pods. Services are assigned IP addresses and ports and will delegate requests
 *to an appropriate pod that can field it.
@@ -483,8 +481,8 @@ pods. Services are assigned IP addresses and ports and will delegate requests
 *See also*:
 
 [discrete]
-==== scheduler (noun)
 [[scheduler]]
+==== scheduler (noun)
 *Description*: Component of the Kubernetes master or OpenShift master that manages the state of
 the system, places pods on nodes, and ensures that all containers that are
 expected to be running are actually running.
@@ -496,8 +494,8 @@ expected to be running are actually running.
 *See also*:
 
 [discrete]
-==== SkyDNS (noun)
 [[skydns]]
+==== SkyDNS (noun)
 *Description*: A component of the Kubernetes master or OpenShift master that provides
 cluster-wide DNS resolution of internal host names for services and pods.
 
@@ -508,8 +506,8 @@ cluster-wide DNS resolution of internal host names for services and pods.
 *See also*:
 
 [discrete]
-==== Source-to-Image (S2I) (noun)
 [[source-to-image]]
+==== Source-to-Image (S2I) (noun)
 *Description*: A tool for building reproducible, Docker-formatted container
 images. It produces ready-to-run images by injecting application source into a
 container image and assembling a new image.
@@ -521,8 +519,8 @@ container image and assembling a new image.
 *See also*:
 
 [discrete]
-==== template (noun)
 [[template]]
+==== template (noun)
 *Description*: A template describes a set of objects that can be parameterized and
 processed to produce a list of objects for creation by OpenShift.
 
@@ -533,8 +531,8 @@ processed to produce a list of objects for creation by OpenShift.
 *See also*:
 
 [discrete]
-==== verb (noun)
 [[verb]]
+==== verb (noun)
 *Description*: A get, list, create, or update operation.
 
 *Use it*: yes
