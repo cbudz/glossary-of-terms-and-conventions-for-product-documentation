@@ -32,7 +32,7 @@ Refer to the menus within the interface as tabs and sub-tabs.
 [discrete]
 [[collect]]
 ==== Collect (verb)
-*Description*: Use collect when discussing the Red Hat Virtualization log collector (ovirt-log-collector). Do not use gather. Gather is reserved for discussing Red Hat Virtualization metrics.
+*Description*: Use collect when discussing the Red Hat Virtualization log collector (ovirt-log-collector). Do not use gather. Gather is reserved for discussing Red Hat Virtualization metrics. See the comments on link:https://bugzilla.redhat.com/show_bug.cgi?id=1418659[Bug 1418659 Add fluentd configuration for parsing engine.log] for the discussion regarding this decision. 
 
 *Use it*: yes
 
