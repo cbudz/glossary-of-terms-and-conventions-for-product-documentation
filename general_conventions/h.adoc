@@ -231,6 +231,17 @@
 *See also*:
 
 [discrete]
+==== hyperconverged (adjective)
+[[hyperconverged]]
+*Description*: A hyperconverged system combines compute, storage, networking, and management capabilities into a single solution, simplifying deployment and reducing the cost of acquisition and maintenance. 
+
+*Use it*: yes
+
+*Incorrect forms*: hyper-converged
+
+*See also*: 
+
+[discrete]
 ==== hypervisor (noun)
 [[hypervisor]]
 *Description*: A "hypervisor" is software that runs virtual machines. Only capitalize the initial "H" at the beginning of a sentence or as part of Red Hat Enterprise Virtualization Hypervisor.
