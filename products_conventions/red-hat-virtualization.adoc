@@ -62,7 +62,7 @@ For a visual example, see link:https://access.redhat.com/documentation/en-us/red
 [discrete]
 [[gather]]
 ==== Gather (verb)
-*Description*: Use gather when discussing Red Hat Virtualization metrics. Do not use collect. Collect is reserved for discussing Red Hat Virtualization log collector (ovirt-log-collector).
+*Description*: Use gather when discussing Red Hat Virtualization metrics. Do not use collect. Collect is reserved for discussing the Red Hat Virtualization log collector (ovirt-log-collector).
 
 *Use it*: yes
 
