@@ -60,6 +60,17 @@ For a visual example, see link:https://access.redhat.com/documentation/en-us/red
 *See also*: xref:results-list[results list]
 
 [discrete]
+[[gather]]
+==== Gather (verb)
+*Description*: Use gather when discussing Red Hat Virtualization metrics. Do not use collect. Collect is reserved for discussing Red Hat Virtualization log collector (ovirt-log-collector).
+
+*Use it*: yes
+
+*Incorrect forms*: collect
+
+*See also*: xref: collect[collect]
+
+[discrete]
 [[header-bar]]
 ==== header bar (noun)
 *Description*: The header bar contains the name of the currently logged in user, the Sign Out button, the About button, the Configure button, and the Guide button. 
