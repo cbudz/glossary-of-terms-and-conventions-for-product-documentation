@@ -1,6 +1,6 @@
 [discrete]
-==== terminal emulation (noun)
 [[terminal-emulation]]
+==== terminal emulation (noun)
 *Description*: Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer.
 
 *Use it*: yes
@@ -10,8 +10,8 @@
 *See also*:
 
 [discrete]
-==== terminate (verb)
 [[terminate]]
+==== terminate (verb)
 *Description*: To terminate means to stop or end a program.
 
 *Use it*: yes
@@ -21,8 +21,8 @@
 *See also*: xref:fail[fail], xref:crash[crash]
 
 [discrete]
-==== text mode (noun)
 [[text-mode]]
+==== text mode (noun)
 *Description*: A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.
 
 *Use it*: yes
@@ -32,8 +32,8 @@
 *See also*:
 
 [discrete]
-==== text-based (adjective)
 [[text-based]]
+==== text-based (adjective)
 *Description*: Refers to text-based operating system or interface.
 
 *Use it*: yes
@@ -43,8 +43,8 @@
 *See also*:
 
 [discrete]
-==== thin provisioned (adjective)
 [[thin-provisioned]]
+==== thin provisioned (adjective)
 *Description*: Thin provisioning is a mechanism that allocates disk storage space in a flexible manner, based on the minimum space required at any given time. Thin provisioned storage is also referred to as "sparse" in some contexts.
 
 *Use it*: yes
@@ -54,8 +54,8 @@
 *See also*: 
 
 [discrete]
-==== third-party (adjective)
 [[third-party-adj]]
+==== third-party (adjective)
 *Description*: Use "third-party" as the adjectival form. Consult a dictionary for more examples.
 
 *Use it*: yes
@@ -65,8 +65,8 @@
 *See also*:
 
 [discrete]
-==== third party (noun)
 [[third-party-n]]
+==== third party (noun)
 *Description*: Use "third party" as the nominal form. Consult a dictionary for more examples.
 
 *Use it*: yes
@@ -76,8 +76,8 @@
 *See also*:
 
 [discrete]
-==== through (preposition)
 [[through]]
+==== through (preposition)
 *Description*: Do not use the hyphen or any other type of dash.
 
 *Use it*: yes
@@ -87,8 +87,8 @@
 *See also*:
 
 [discrete]
-==== throughput (noun)
 [[throughput]]
+==== throughput (noun)
 *Description*: The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See The IBM Style Guide for more information about using measurements and abbreviations.
 
 *Use it*: yes
@@ -98,8 +98,8 @@
 *See also*:
 
 [discrete]
-==== tier-1 (adjective)
 [[tier-1]]
+==== tier-1 (adjective)
 *Description*: Always hyphenate and indicate the number is numerals. Follow standard capitalization guidelines.
 
 *Use it*: yes
@@ -109,8 +109,8 @@
 *See also*:
 
 [discrete]
-==== time frame (noun)
 [[time-frame]]
+==== time frame (noun)
 *Description*: A period of time with respect to some action or project. It is most commonly styled as two words with no hyphen in between.
 
 *Use it*: yes
@@ -120,8 +120,8 @@
 *See also*:
 
 [discrete]
-==== time zone (noun)
 [[time-zone]]
+==== time zone (noun)
 *Description*: It is most commonly styled as two words with no hyphen in between.
 
 *Use it*: yes
@@ -131,8 +131,8 @@
 *See also*:
 
 [discrete]
-==== totally (adverb)
 [[totally]]
+==== totally (adverb)
 *Description*: Do not use.
 
 *Use it*: no
@@ -142,8 +142,8 @@
 *See also*: xref:basically[basically]
 
 [discrete]
-==== TTL (noun)
 [[ttl]]
+==== TTL (noun)
 *Description*: Initialism for "time to live" (noun) and "time-to-live" (adjective). The initialism is always uppercase.
 
 *Use it*: yes
@@ -153,8 +153,8 @@
 *See also*: xref:time-to-live-adj[time-to-live], xref:time-to-live-n[time to live]
 
 [discrete]
-==== time to live (noun)
 [[time-to-live-n]]
+==== time to live (noun)
 *Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable.
 
 *Use it*: yes
@@ -164,8 +164,8 @@
 *See also*: xref:ttl[TTL], xref:time-to-live-adj[time-to-live]
 
 [discrete]
-==== time-to-live (adjective)
 [[time-to-live-adj]]
+==== time-to-live (adjective)
 *Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable.
 
 *Use it*: yes
@@ -176,8 +176,8 @@
 
 
 [discrete]
-==== trusted Certificate Authority (noun)
 [[trusted-certificate-authority]]
+==== trusted Certificate Authority (noun)
 *Description*: A third party that creates SSL certificates (CA certificates) used for authentication. Not to be confused with self-signed certificates. Note the capitalization of Certificate Authority, commonly abbreviated as CA.
 
 *Use it*: yes
@@ -188,8 +188,8 @@
 
 
 [discrete]
-==== type (noun)
 [[type-n]]
+==== type (noun)
 *Description*: Type can be used as a noun. You can write "Print the data type of init." 
 
 *Use it*: yes
@@ -199,8 +199,8 @@
 *See also*: xref:type-v[type (verb)]
 
 [discrete]
-==== type (verb)
 [[type-v]]
+==== type (verb)
 *Description*: Type can be used as a verb. For example, "To start Source-Navigator, type `snavigator`."
 
 *Use it*: yes
