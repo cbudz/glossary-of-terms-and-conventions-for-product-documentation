@@ -1,7 +1,6 @@
 [discrete]
 [[terminal-emulation]]
-==== terminal emulation (noun)
-*Description*: Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer.
+*Description*: "Terminal emulation" refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer.
 
 *Use it*: yes
 
@@ -11,8 +10,7 @@
 
 [discrete]
 [[terminate]]
-==== terminate (verb)
-*Description*: To terminate means to stop or end a program.
+*Description*: To "terminate" means to stop or end a program.
 
 *Use it*: yes
 
@@ -22,8 +20,7 @@
 
 [discrete]
 [[text-mode]]
-==== text mode (noun)
-*Description*: A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.
+*Description*: "Text mode" is a video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.
 
 *Use it*: yes
 
@@ -33,8 +30,7 @@
 
 [discrete]
 [[text-based]]
-==== text-based (adjective)
-*Description*: Refers to text-based operating system or interface.
+*Description*: Use "text-based" as an adjective when referring to a text-based operating system or interface.
 
 *Use it*: yes
 
@@ -43,9 +39,9 @@
 *See also*:
 
 [discrete]
+==== thin-provisioned (adjective)
 [[thin-provisioned]]
-==== thin provisioned (adjective)
-*Description*: Thin provisioning is a mechanism that allocates disk storage space in a flexible manner, based on the minimum space required at any given time. Thin provisioned storage is also referred to as "sparse" in some contexts.
+*Description*: "Thin-provisioning" is a mechanism that allocates disk storage space in a flexible manner, based on the minimum space required at any given time. Thin-provisioned storage is also referred to as "sparse" in some contexts.
 
 *Use it*: yes
 
@@ -77,8 +73,7 @@
 
 [discrete]
 [[through]]
-==== through (preposition)
-*Description*: Do not use the hyphen or any other type of dash.
+*Description*: Use "through" instead of a hyphen or any other type of dash when expressing a range.
 
 *Use it*: yes
 
@@ -88,8 +83,7 @@
 
 [discrete]
 [[throughput]]
-==== throughput (noun)
-*Description*: The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See The IBM Style Guide for more information about using measurements and abbreviations.
+*Description*: "Throughput" is the amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See _The IBM Style Guide_ for more information about using measurements and abbreviations.
 
 *Use it*: yes
 
@@ -99,8 +93,7 @@
 
 [discrete]
 [[tier-1]]
-==== tier-1 (adjective)
-*Description*: Always hyphenate and indicate the number is numerals. Follow standard capitalization guidelines.
+*Description*: Always hyphenate "tier-1" and indicate the number in numeral form. Follow standard capitalization guidelines.
 
 *Use it*: yes
 
@@ -110,8 +103,7 @@
 
 [discrete]
 [[time-frame]]
-==== time frame (noun)
-*Description*: A period of time with respect to some action or project. It is most commonly styled as two words with no hyphen in between.
+*Description*: "Time frame" is a period of time with respect to some action or project. It is most commonly styled as two words.
 
 *Use it*: yes
 
@@ -121,8 +113,7 @@
 
 [discrete]
 [[time-zone]]
-==== time zone (noun)
-*Description*: It is most commonly styled as two words with no hyphen in between.
+*Description*: "Time zone" is most commonly styled as two words.
 
 *Use it*: yes
 
@@ -132,8 +123,7 @@
 
 [discrete]
 [[totally]]
-==== totally (adverb)
-*Description*: Do not use.
+*Description*: Do not use "totally."
 
 *Use it*: no
 
@@ -143,8 +133,7 @@
 
 [discrete]
 [[ttl]]
-==== TTL (noun)
-*Description*: Initialism for "time to live" (noun) and "time-to-live" (adjective). The initialism is always uppercase.
+*Description*: "TTL" is an acronym for "time to live" (noun) and "time-to-live" (adjective). The acronym is always in uppercase letters.
 
 *Use it*: yes
 
@@ -154,8 +143,7 @@
 
 [discrete]
 [[time-to-live-n]]
-==== time to live (noun)
-*Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable.
+*Description*: Do not capitalize "time to live" unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable.
 
 *Use it*: yes
 
@@ -165,8 +153,7 @@
 
 [discrete]
 [[time-to-live-adj]]
-==== time-to-live (adjective)
-*Description*: Should not be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable.
+*Description*: Do not capitalize "time-to-live" unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable.
 
 *Use it*: yes
 
@@ -177,8 +164,7 @@
 
 [discrete]
 [[trusted-certificate-authority]]
-==== trusted Certificate Authority (noun)
-*Description*: A third party that creates SSL certificates (CA certificates) used for authentication. Not to be confused with self-signed certificates. Note the capitalization of Certificate Authority, commonly abbreviated as CA.
+*Description*: A "trusted Certificate Authority" is a third party that creates SSL certificates (CA certificates) used for authentication. It is not to be confused with self-signed certificates. Note the capitalization of Certificate Authority, commonly abbreviated as CA.
 
 *Use it*: yes
 
@@ -189,8 +175,7 @@
 
 [discrete]
 [[type-n]]
-==== type (noun)
-*Description*: Type can be used as a noun. You can write "Print the data type of init." 
+*Description*: "Type" can be used as a noun, for example, "Print the data type of init." 
 
 *Use it*: yes
 
@@ -200,8 +185,7 @@
 
 [discrete]
 [[type-v]]
-==== type (verb)
-*Description*: Type can be used as a verb. For example, "To start Source-Navigator, type `snavigator`."
+*Description*: "Type" can be used as a verb. for example, "To start Source-Navigator, type `snavigator`."
 
 *Use it*: yes
 
