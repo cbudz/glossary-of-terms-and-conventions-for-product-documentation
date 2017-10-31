@@ -1,7 +1,7 @@
 [[red-hat-virtualization-conventions]]
 
 
-Responsible person: Tahlia Richardson (trichard@redhat.com)
+Responsible person: Tahlia Richardson (trichard@redhat.com), backup contact rhev-docs@redhat.com
 
 [discrete]
 [[administration-portal]]
@@ -31,14 +31,14 @@ Refer to the menus within the interface as tabs and sub-tabs.
 
 [discrete]
 [[collect]]
-==== Collect (verb)
-*Description*: Use collect when discussing the Red Hat Virtualization log collector (ovirt-log-collector). Do not use gather. Gather is reserved for discussing Red Hat Virtualization metrics. See the comments on link:https://bugzilla.redhat.com/show_bug.cgi?id=1418659[Bug 1418659 Add fluentd configuration for parsing engine.log] for the discussion regarding this decision. 
+==== collect (verb)
+*Description*: Use "collect" when discussing the Red Hat Virtualization log collector (`ovirt-log-collector`). Do not use "gather", which is reserved for discussing Red Hat Virtualization metrics. See the comments in link:https://bugzilla.redhat.com/show_bug.cgi?id=1418659[BZ#1418659 Add fluentd configuration for parsing engine.log] for the discussion regarding this decision. 
 
 *Use it*: yes
 
 *Incorrect forms*: gather
 
-*See also*: xref: gather[gather]
+*See also*: xref:gather[gather]
 
 [discrete]
 [[data-warehouse]]
