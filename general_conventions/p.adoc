@@ -145,7 +145,7 @@
 [discrete]
 [[posix]]
 ==== POSIX (noun)
-*Description*: "POSIX" is an acronym for "Portable Operating System Interface for Unix."
+*Description*: "POSIX" is an acronym for "Portable Operating System Interface [for Unix]."
 
 *Use it*: yes
 
