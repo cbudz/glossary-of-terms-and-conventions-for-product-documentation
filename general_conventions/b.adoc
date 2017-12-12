@@ -78,14 +78,9 @@
 [discrete]
 [[bimodal-it]]
 ==== bimodal IT (noun)
-*Description*: "Bimodal IT" is the Gartner phrase for the combination of traditional (mode 1 or type 1) and modern (mode 2 or type 2) IT infrastructure and resources. There are many ways to talk about this combination approach. Using only the Gartner term can alienate other analysts or those not familiar with Gartner's phrasing.
+*Description*: "Bimodal IT" is the Gartner phrase for the combination of traditional (mode 1 or type 1) and modern (mode 2 or type 2) IT infrastructure and resources. There are many ways to talk about this combination approach. Using only the Gartner term can alienate other analysts or those not familiar with Gartner's phrasing. 
 
-The practice of having both modes together is often referred to as "hybrid," "agile," or "modern" IT.
-
-[NOTE]
-====
-"Hybrid IT" is a more general term; for example, it could mean "on-premise plus public cloud." "Agile" and "modern IT" can both carry an implication of "mode 2." When using those terms, be specific about the exact technology combination you mean.
-====
+The practice of having both modes together is often referred to as "hybrid," "agile," or "modern" IT. "Hybrid IT" is a more general term; for example, it could mean "on-premise plus public cloud." "Agile" and "modern IT" can both carry an implication of "mode 2." When using those terms, be specific about the exact technology combination you mean.
 
 *Use it*: with caution
 
