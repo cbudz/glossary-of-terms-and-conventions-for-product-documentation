@@ -23,6 +23,10 @@
 
 |Are there complete sentences in the **Description** field?|&#9744;
 
+|If there is more than one paragraph in the **Description** field, is the usage information in the last paragraph?|&#9744;
+
+|Is each paragraph on a single line with no breaks?|&#9744;
+
 |Is the AsciiDoc source code valid? Use http://ccs-jenkins.gsslab.brq.redhat.com/TopicBranches#glossary-of-terms-and-conventions-for-product-documentation[Glossary of Terms and Conventions for Product Documentation] page to verify. In the table, find the branch you are reviewing and check if "Success build?" equals "Yes".|&#9744;
 
 |Is the document free of typographic errors?|&#9744;

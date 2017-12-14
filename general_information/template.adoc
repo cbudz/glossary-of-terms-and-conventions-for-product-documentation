@@ -21,7 +21,7 @@ The AsciiDoc source:
 |Replace                |With                               | Notes
 |`<id>`                 |The term in lowercase.             |If the term consists of more than one word, separate them with a hyphen ("-"). Do not use spaces, capital letters, or special characters (for example, slash "/") in the ID. If two entries would have the same ID, see xref:two-entries-with-same-ID[What to do if two entries have the same ID?.]
 |`<term>`               |The term to be described.          |
-|`<description>`        |The description of the term.|Use full sentences with periods. If a term has more than one meaning, use numbers to separate them. See the xref:media[media] entry for an example. Add information why should we use the term in this form. If we should not use the term, explain why. Alternatively, explain why are the terms listed in the *Incorrect forms* field incorrect.
+|`<description>`        |The description of the term.|Use full sentences with periods. If a term has more than one meaning, use numbers to separate them. See the xref:media[media] entry for an example. Add information why should we use the term in this form. If we should not use the term, explain why. Alternatively, explain why the terms listed in the *Incorrect forms* field are incorrect.
 |`<yes/no/with caution>`|"yes" if the term should be used.
 
 "no" if the term should not be used.
@@ -40,6 +40,22 @@ The AsciiDoc source:
 * Keep all fields, even if a field is empty. An empty field serves as a placeholder if the field is required later.
 
 * Use quotation marks on the first occurrence of a term in the *Description* field. Do not use quotation marks on the acronym if the acronym is in parantheses. For example, "Asynchronous Transfer Mode" (ATM) is a network technology based on transferring data in cells or packets of a fixed size.
+
+* If there is more than one paragraph in the *Description* field, only the last paragraph will appear in the Atom linter's text. Ensure that word usage advice is all in this paragraph.
+
+* Use single lines with no breaks for each paragraph. That is, in a text editor, it looks like this:
++
+----
+1   *Description*: This text is on a single 
+*   line with no line breaks.
+----
++
+Instead of this:
++
+----
+1   *Description*: This text is broken 
+2   across multiple lines.
+----
 
 * If the term has the correct and incorrect form, always use the correct form instead of `<term>` and list the incorrect form in the *Incorrect forms* field. Remember to explain why the incorrect form is incorrect in the *Description* field.
 
