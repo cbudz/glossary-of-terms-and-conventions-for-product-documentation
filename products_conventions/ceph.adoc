@@ -183,6 +183,7 @@ Responsible person: Bára Ančincová (bara@redhat.com), backup contact ceph-doc
 *See also*: xref:ceph-object-gateway[Ceph Object Gateway], xref:rados-gateway[RADOS Gateway], xref:rgw[RGW]
 
 [discrete]
+==== container (noun)
 See xref:container[container] in the _General Conventions_ part.
 
 [discrete]
