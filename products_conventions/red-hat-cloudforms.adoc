@@ -22,12 +22,12 @@
 
 [discrete]
 [[appliance-console]]
-==== Appliance Console (noun)
-*Description*: A web-based interface into the Red Hat CloudForms appliance used for set-up.
+==== Appliance console (noun)
+*Description*: The appliance console is a command-line based interface into the Red Hat CloudForms appliance used for set-up and configuration. 
 
 *Use it*: yes 
 
-*Incorrect forms*:
+*Incorrect forms*: Appliance Console
 
 *See also*:
 
