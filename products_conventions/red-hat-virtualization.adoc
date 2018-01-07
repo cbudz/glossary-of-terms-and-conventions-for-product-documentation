@@ -19,9 +19,7 @@ Always use "Administration Portal", including the capital P. When other departme
 [discrete]
 [[cockpit-user-interface]]
 ==== Cockpit user interface (noun)
-*Description*: Cockpit is a server administrative user interface, and is not exclusive to Red Hat Virtualization. It can be used as a plug-in with either host type in Red Hat Virtualization (version 4.x). The plug-in is available by default on Red Hat Virtualization Host, but must be installed on Red Hat Enterprise Linux hosts.
-
-Refer to the menus within the interface as tabs and sub-tabs.
+*Description*: Cockpit is a server administrative user interface, and is not exclusive to Red Hat Virtualization. It can be used as a plug-in with either host type in Red Hat Virtualization (version 4.x).
 
 *Use it*: yes
 
@@ -43,7 +41,7 @@ Refer to the menus within the interface as tabs and sub-tabs.
 [discrete]
 [[data-warehouse]]
 ==== Data Warehouse (noun)
-*Description*: The Manager includes a comprehensive management history database, which can be utilized by any application to extract a range of information at the data center, cluster, and host levels. Installing Data Warehouse creates the `ovirt_engine_history` database, to which the Manager is configured to log information for reporting purposes.
+*Description*: The Manager includes a comprehensive management history database, which can be utilized by any application to extract a range of information at the data center, cluster, and host levels. Installing Data Warehouse creates the `ovirt_engine_history` database, to which the Manager is configured to log information for reporting purposes. 
 
 Data Warehouse is optional in Red Hat Enterprise Virtualization (3.x). It is mandatory in Red Hat Virtualization (4.x).
 
@@ -58,11 +56,9 @@ Always spell out in full and capitalize as shown here, unless part of a command.
 [discrete]
 [[details-pane]]
 ==== details pane (noun)
-*Description*: The details pane shows detailed information about a selected item in the results list. If no items are selected, this pane is hidden. If multiple items are selected, the details pane displays information on the first selected item only. 
+*Description*: The details pane shows detailed information about a selected item in the results list. If no items are selected, this pane is hidden. If multiple items are selected, the details pane displays information on the first selected item only. For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to Red Hat Virtualization 4.1 and earlier versions (including 3.x).
 
 Tabs in the details pane are always referred to as, for example, "the General tab in the details pane".
-
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
 
 *Use it*: yes
 
@@ -84,9 +80,7 @@ For a visual example, see link:https://access.redhat.com/documentation/en-us/red
 [discrete]
 [[header-bar]]
 ==== header bar (noun)
-*Description*: The header bar contains the name of the currently logged in user, the Sign Out button, the About button, the Configure button, and the Guide button. 
-
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+*Description*: The header bar contains the name of the currently logged in user, the Sign Out button, the About button, the Configure button, and the Guide button. For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to Red Hat Virtualization 4.1 and earlier versions (including 3.x).
 
 *Use it*: yes
 
@@ -99,9 +93,7 @@ For a visual example, see link:https://access.redhat.com/documentation/en-us/red
 ==== host (noun)
 *Description*: Hosts are servers that provide the processing capabilities and memory resources used to run virtual machines. There are two types of hosts: Red Hat Enterprise Linux hosts, and Red Hat Enterprise Virtualization Hypervisor (in version 3.x) or Red Hat Virtualization Host (in version 4.x).
 
-In 3.x, one host type has "Hypervisor" in its title, so avoid using "hypervisor" to mean either RHEV-H or hypervisors/hosts in general. In 4.x, one host type has "Host" in its title, but the UI and API also use "host" to mean hypervisors/hosts in general. Therefore, use "host" to refer to hosts in general, not "hypervisor", "hypervisor host", or "virtualization host".
-
-When referring to a specific type of host, use "Red Hat Enterprise Linux host", "Red Hat Enterprise Virtualization Hypervisor host", or "Red Hat Virtualization Host".
+Use "host" to refer to hosts in general, not "hypervisor", "hypervisor host", or "virtualization host". When referring to a specific type of host, use "Red Hat Enterprise Linux host", "Red Hat Enterprise Virtualization Hypervisor host", or "Red Hat Virtualization Host".
 
 *Use it*: yes
 
@@ -166,9 +158,7 @@ Use "Red Hat Enterprise Virtualization" for version 3.x (including references to
 ==== Red Hat Enterprise Virtualization Hypervisor (noun)
 *Description*: Red Hat Enterprise Virtualization Hypervisor is one of the types of host in Red Hat Enterprise Virtualization (3.x). It is a minimal operating system based on Red Hat Enterprise Linux, is distributed as an ISO file, and is a closed system. Filesystem access and root access are limited. Yum is disabled.
 
-Use "Red Hat Enterprise Virtualization Hypervisor (RHEV-H)" for the first instance in a section. "RHEV-H" can be used for subsequent instances. It can also be referred to as "the Hypervisor", as long as the H is capitalized to avoid confusion with hypervisors in general. 
-
-Do not use in Red Hat Virtualization 4.x; see xref:red-hat-virtualization-host[Red Hat Virtualization Host].
+Use "Red Hat Enterprise Virtualization Hypervisor (RHEV-H)" for the first instance in a section. "RHEV-H" can be used for subsequent instances. It can also be referred to as "the Hypervisor", as long as the H is capitalized to avoid confusion with hypervisors in general. Do not use in Red Hat Virtualization 4.x.
 
 *Use it*: yes
 
@@ -181,7 +171,7 @@ Do not use in Red Hat Virtualization 4.x; see xref:red-hat-virtualization-host[R
 ==== Red Hat Enterprise Virtualization Manager (noun)
 *Description*: The Red Hat Enterprise Virtualization Manager is a server that manages and provides access to the resources in the Red Hat Enterprise Virtualization environment. 
 
-Use "Red Hat Enterprise Virtualization Manager" for version 3.x. Always spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (upstream) term used by Engineering.
+Use "Red Hat Enterprise Virtualization Manager" for version 3.x. Spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (upstream) term.
 
 *Use it*: yes
 
@@ -192,7 +182,7 @@ Use "Red Hat Enterprise Virtualization Manager" for version 3.x. Always spell ou
 [discrete]
 [[red-hat-enterprise-virtualization-manager-reports]]
 ==== Red Hat Enterprise Virtualization Manager Reports (noun)
-*Description*: Red Hat Enterprise Virtualization Manager Reports is available as an optional component. It produces reports that can be built and accessed via a web user interface, and then rendered to screen, printed, or exported to a variety of formats.
+*Description*: Red Hat Enterprise Virtualization Manager Reports is available as an optional component. It produces reports that can be built and accessed via a web user interface, and then rendered to screen, printed, or exported to a variety of formats. 
 
 This component was removed from Red Hat Virtualization (4.x), but still exists in Red Hat Enterprise Virtualization (3.x). 
 
@@ -222,7 +212,7 @@ Use "Red Hat Virtualization" for version 4.x. Always spell out in full, except a
 ==== Red Hat Virtualization Host (noun)
 *Description*: Red Hat Virtualization Host is one of the types of host in Red Hat Virtualization (4.x). It is a minimal operating system based on Red Hat Enterprise Linux, is distributed as an ISO file from the Customer Portal, and contains only the packages required for the machine to act as a host. It is an improved version of Red Hat Enterprise Virtualization Hypervisor. 
 
-Use "Red Hat Virtualization Host (RHVH)" for the first instance in a section. "RHVH" can be used in subsequent instances. Do not use "the Host" with a capital H. Do not use in Red Hat Enterprise Virtualization 3.x; see xref:red-hat-enterprise-virtualization-hypervisor[Red Hat Enterprise Virtualization Hypervisor].
+Use "Red Hat Virtualization Host (RHVH)" for the first instance in a section. "RHVH" can be used in subsequent instances. Do not use "the Host" with a capital H. Do not use in Red Hat Enterprise Virtualization 3.x.
 
 *Use it*: yes
 
@@ -235,7 +225,7 @@ Use "Red Hat Virtualization Host (RHVH)" for the first instance in a section. "R
 ==== Red Hat Virtualization Manager (noun)
 *Description*: The Red Hat Virtualization Manager is a server that manages and provides access to the resources in the Red Hat Virtualization environment. 
 
-Use "Red Hat Virtualization Manager" for version 4.x. Always spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (upstream) term used by Engineering.
+Use "Red Hat Virtualization Manager" for version 4.x. Spell out in full for the first instance in a section. Use "the Manager" for subsequent instances. Do not use "the engine", which is the oVirt (upstream) term.
 
 *Use it*: yes
 
@@ -246,9 +236,9 @@ Use "Red Hat Virtualization Manager" for version 4.x. Always spell out in full f
 [discrete]
 [[resource-tab]]
 ==== resource tab (noun)
-*Description*: Hosts, virtual machines, storage, and other resources in Red Hat Virtualization can be managed using their associated tab. You can refer to these tabs as just, for example, "the *Storage* tab", unlike the tabs in the details pane, which are always specified as such.
+*Description*: Hosts, virtual machines, storage, and other resources in Red Hat Virtualization can be managed using their associated tab. For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to Red Hat Virtualization 4.1 and earlier versions (including 3.x).
 
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+You can refer to these tabs as just, for example, "the *Storage* tab", unlike the tabs in the details pane, which are always specified as such.
 
 *Use it*: yes
 
@@ -259,9 +249,7 @@ For a visual example, see link:https://access.redhat.com/documentation/en-us/red
 [discrete]
 [[results-list]]
 ==== results list (noun)
-*Description*: The results list shows the resources managed under each resource tab. For example, the results list for the *Hosts* tab shows all hosts attached to the Red Hat Virtualization Manager. 
-
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+*Description*: The results list shows the resources managed under each resource tab. For example, the results list for the *Hosts* tab shows all hosts attached to the Red Hat Virtualization Manager. For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to Red Hat Virtualization 4.1 and earlier versions (including 3.x).
 
 *Use it*: yes
 
@@ -357,9 +345,7 @@ Use "Storage Pool Manager (SPM)" for the first instance in a section, and "SPM" 
 [discrete]
 [[tree-pane]]
 ==== tree pane (noun)
-*Description*: The collapsible hierarchy of resources under *System* on the left-hand side of the Administration Portal. 
-
-For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to all supported versions up to and including Red Hat Virtualization 4.1.
+*Description*: The collapsible hierarchy of resources under *System* on the left-hand side of the Administration Portal. For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to Red Hat Virtualization 4.1 and earlier versions (including 3.x).
 
 *Use it*: yes
 
@@ -379,4 +365,3 @@ Always use "User Portal", including the capital P.
 *Incorrect forms*: userportal, user portal, User portal
 
 *See also*: xref:administration-portal[Administration Portal]
-
