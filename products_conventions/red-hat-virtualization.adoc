@@ -58,13 +58,24 @@ Always spell out in full and capitalize as shown here, unless part of a command.
 ==== details pane (noun)
 *Description*: The details pane shows detailed information about a selected item in the results list. If no items are selected, this pane is hidden. If multiple items are selected, the details pane displays information on the first selected item only. For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to Red Hat Virtualization 4.1 and earlier versions (including 3.x).
 
-Tabs in the details pane are always referred to as, for example, "the General tab in the details pane".
+Tabs in the details pane are always referred to as, for example, "the General tab in the details pane". This terminology only applies to Red Hat Virtualization 4.1 and earlier. In 4.2 and later, use "details view".
 
 *Use it*: yes
 
 *Incorrect forms*: 
 
-*See also*: xref:results-list[results list]
+*See also*: xref:results-list[results list], xref:details-view[details view]
+
+[discrete]
+[[details-view]]
+==== details view (noun)
+*Description*: The details view shows detailed information about a selected item. This terminology only applies to Red Hat Virtualization 4.2 and later, where this information is no longer in a pane, but on a separate page accessed by clicking the name of the item. In 4.1 and earlier, use "details pane".
+
+*Use it*: yes
+
+*Incorrect forms*: details pane
+
+*See also*: xref:details-pane[details pane]
 
 [discrete]
 [[gather]]
@@ -113,6 +124,17 @@ Always capitalize as shown, with the exception of UI content.
 *Incorrect forms*: Lun, lun
 
 *See also*:
+
+[discrete]
+[[manager-virtual-machine]]
+==== Manager virtual machine (noun)
+*Description*: "Manager virtual machine" refers specifically to the virtual machine created during self-hosted engine deployment. Use this term when referring to the machine (for example, "Log in to the Manager virtual machine"); the Manager itself can still be referred to as such (for example, "Add a host to the Manager").
+
+*Use it*: yes
+
+*Incorrect forms*: self-hosted engine virtual machine, engine VM
+
+*See also*: xref:self-hosted-engine[self-hosted engine]
 
 [discrete]
 [[mom]]
@@ -175,7 +197,7 @@ Use "Red Hat Enterprise Virtualization Manager" for version 3.x. Spell out in fu
 
 *Use it*: yes
 
-*Incorrect forms*: RHEVM, RHEV-M, RHEV Manager, the engine
+*Incorrect forms*: RHEVM, RHEV-M, RHEV Manager, engine
 
 *See also*: xref:red-hat-virtualization-manager[Red Hat Virtualization Manager]
 
@@ -229,7 +251,7 @@ Use "Red Hat Virtualization Manager" for version 4.x. Spell out in full for the 
 
 *Use it*: yes
 
-*Incorrect forms*: RHVM, RHV-M, RHV Manager, the engine
+*Incorrect forms*: RHVM, RHV-M, RHV Manager, engine
 
 *See also*: xref:red-hat-enterprise-virtualization-manager[Red Hat Enterprise Virtualization Manager]
 
@@ -319,6 +341,17 @@ Always capitalize as shown, except in commands, packages, or UI content.
 *See also*: 
 
 [discrete]
+[[standalone-manager]]
+==== standalone Manager (noun)
+*Description*: "Standalone Manager" is used specifically, and only, in the context of differentiating between a "regular" Red Hat Virtualization environment and a self-hosted engine environment. Use "the Red Hat Virtualization Manager" or "the Manager" in all other cases. See the link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html/product_guide/introduction#architecture[_Red Hat Virtualization Product Guide_] for details.
+
+*Use it*: yes
+
+*Incorrect forms*: standard Manager
+
+*See also*: xref:self-hosted-engine[self-hosted engine], xref:red-hat-virtualization-manager[Red Hat Virtualization Manager]
+
+[discrete]
 [[storage-pool-manager]]
 ==== Storage Pool Manager (noun)
 *Description*: The Storage Pool Manager (SPM) is a role given to one of the hosts in a data center, enabling it to manage the storage domains of the data center.
@@ -343,6 +376,19 @@ Use "Storage Pool Manager (SPM)" for the first instance in a section, and "SPM" 
 *See also*:
 
 [discrete]
+[[sysprep]]
+==== sysprep (noun)
+*Description*: Sysprep is a tool used to automate the setup of Windows virtual machines. Red Hat Virtualization enhances Sysprep by building a tailored auto-answer file for each virtual machine. 
+
+With the exception of "sysprep file", which has a specific function, use "sysprep" on its own when referring to the tool.
+
+*Use it*: yes
+
+*Incorrect forms*: sysprep tool, sysprep process, sysprep function
+
+*See also*:
+
+[discrete]
 [[tree-pane]]
 ==== tree pane (noun)
 *Description*: The collapsible hierarchy of resources under *System* on the left-hand side of the Administration Portal. For a visual example, see link:https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.1/html-single/introduction_to_the_administration_portal/#Graphical_User_Interface_elements[Graphical User Interface Elements] in the _Introduction to the Administration Portal_. The screen shot applies to Red Hat Virtualization 4.1 and earlier versions (including 3.x).
@@ -356,12 +402,25 @@ Use "Storage Pool Manager (SPM)" for the first instance in a section, and "SPM" 
 [discrete]
 [[user-portal]]
 ==== User Portal (noun)
-*Description*: The User Portal is a graphical user interface provided by the Red Hat (Enterprise) Virtualization Manager. It has limited permissions for managing virtual machine resources and is targeted at end users.
+*Description*: The User Portal is a graphical user interface provided by the Red Hat (Enterprise) Virtualization Manager in versions 4.1 and earlier. It has limited permissions for managing virtual machine resources and is targeted at end users.
 
-Always use "User Portal", including the capital P.
+Always use "User Portal", including the capital P. Do not use in Red Hat Virtualization 4.2 and later, where the User Portal was replaced by the VM Portal. 
 
 *Use it*: yes
 
-*Incorrect forms*: userportal, user portal, User portal
+*Incorrect forms*: userportal, user portal, User portal, VM Portal
 
-*See also*: xref:administration-portal[Administration Portal]
+*See also*: xref:administration-portal[Administration Portal], xref:vm-portal[VM Portal]
+
+[discrete]
+[[vm-portal]]
+==== VM Portal (noun)
+*Description*: The VM Portal is a graphical user interface provided by the Red Hat Virtualization Manager in versions 4.2 and later. It has limited permissions for managing virtual machine resources and is targeted at end users.
+
+Always use "VM Portal", including the capital P. Do not use in Red Hat Virtualization 4.1 and earlier, where it did not yet exist; use "User Portal" instead.
+
+*Use it*: yes
+
+*Incorrect forms*: VM portal, vm portal, Virtual Machine Portal, User Portal 
+
+*See also*: xref:administration-portal[Administration Portal], xref:user-portal[User Portal]
