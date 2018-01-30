@@ -70,9 +70,11 @@ Responsible person: Ashley Hardin (ahardin@redhat.com), backup contact (openshif
 *See also*: xref:build[build]
 
 [discrete]
+==== cluster (noun)
 See xref:cluster[cluster] in the _General Conventions_ part.
 
 [discrete]
+==== container (noun)
 See xref:container[container] in the _General Conventions_ part.
 
 [discrete]
@@ -242,6 +244,7 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:project[project]
 
 [discrete]
+==== node (noun)
 See xref:node[node] in the _General Conventions_ part.
 
 [discrete]
