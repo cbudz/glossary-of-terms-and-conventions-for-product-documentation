@@ -347,7 +347,7 @@ Always capitalize as shown, except in commands, packages, or UI content.
 
 *Use it*: yes
 
-*Incorrect forms*: standard Manager
+*Incorrect forms*: standard Manager, standard environment
 
 *See also*: xref:self-hosted-engine[self-hosted engine], xref:red-hat-virtualization-manager[Red Hat Virtualization Manager]
 
