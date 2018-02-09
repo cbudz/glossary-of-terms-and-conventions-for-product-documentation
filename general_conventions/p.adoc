@@ -189,10 +189,7 @@
 [discrete]
 [[proof-of-concept]]
 ==== proof of concept (noun)
-*Description*: Use the following rules to form the plural of this phrase.
-
-* Use "proofs of concept" when there are multiple proofs but only one concept.
-* Use "proofs of concepts" when there are multiple proofs and multiple concepts.
+*Description*: Use the following rules to form the plural of this phrase: Use "proofs of concept" when there are multiple proofs but only one concept. Use "proofs of concepts" when there are multiple proofs and multiple concepts.
 
 *Use it*: yes
 
