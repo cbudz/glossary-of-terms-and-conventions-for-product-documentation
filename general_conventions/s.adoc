@@ -220,8 +220,7 @@
 [discrete]
 [[shell-prompt]]
 ==== shell prompt (noun)
-*Description*:  The "shell prompt" is the character at the beginning of the command line, for example "$" or "#". It indicates that the shell is ready to accept commands.
-Do not use "command prompt," "terminal," or "shell."
+*Description*:  The "shell prompt" is the character at the beginning of the command line, for example "$" or "#". It indicates that the shell is ready to accept commands. Do not use "command prompt," "terminal," or "shell."
 
 *Use it*: yes
 
@@ -375,13 +374,7 @@ Do not use "command prompt," "terminal," or "shell."
 [discrete]
 [[sql]]
 ==== SQL (noun)
-*Description*: "SQL" is an acronym for Structured Query Language.
-
-- The ISO-standard SQL (ISO 9075 and its descendants) is pronounced "ess queue ell" and takes "an" as its indefinite article.
-- Microsoft's proprietary product, SQL Server, is pronounced as a word ("sequel") and takes "a" as its indefinite article.
-- Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
-
-When referring to a specific Relational Database Management System (RDBMS), use the appropriate product name. For example, when discussing Microsoft SQL Server, write out the full name, "Microsoft SQL Server."
+*Description*: "SQL" is an acronym for Structured Query Language. The ISO-standard SQL (ISO 9075 and its descendants) is pronounced "ess queue ell" and takes "an" as its indefinite article. Microsoft's proprietary product, SQL Server, is pronounced as a word ("sequel") and takes "a" as its indefinite article. Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel." When referring to a specific Relational Database Management System (RDBMS), use the appropriate product name. For example, when discussing Microsoft SQL Server, write out the full name, "Microsoft SQL Server."
 
 *Use it*: yes
 
@@ -403,12 +396,7 @@ When referring to a specific Relational Database Management System (RDBMS), use 
 [discrete]
 [[ssh]]
 ==== SSH (noun)
-*Description*: "SSH" is an acronym for Secure Shell, which is a network protocol that allows data exchange using a secure channel.
-
-- For the protocol, do not use "SSH," "ssh," "Ssh," or other variants.
-- For the command, use "ssh."
-
-Do not use ssh as a verb; for example, write "Use SSH to connect to the remote server" instead of "ssh to the remote server."
+*Description*: "SSH" is an acronym for Secure Shell, which is a network protocol that allows data exchange using a secure channel. For the protocol, do not use "SSH," "ssh," "Ssh," or other variants. For the command, use "ssh." Do not use ssh as a verb; for example, write "Use SSH to connect to the remote server" instead of "ssh to the remote server."
 
 *Use it*: yes
 
@@ -485,9 +473,7 @@ Do not use ssh as a verb; for example, write "Use SSH to connect to the remote s
 [discrete]
 [[subcommand]]
 ==== subcommand (noun)
-*Description*: A "subcommand" is a secondary or even tertiary command used with a primary command. Do not confuse subcommands with options or arguments; subcommands operate on ever more focused objects or entities.
-
-In the following command, "hammer" is the primary command, "import" and "organization" are subcommands, and "--help" is an option: `hammer import organization --help`.
+*Description*: A "subcommand" is a secondary or even tertiary command used with a primary command. Do not confuse subcommands with options or arguments; subcommands operate on more focused objects or entities. In the following command, "hammer" is the primary command, "import" and "organization" are subcommands, and "--help" is an option: `hammer import organization --help`.
 
 *Use it*: yes
 
