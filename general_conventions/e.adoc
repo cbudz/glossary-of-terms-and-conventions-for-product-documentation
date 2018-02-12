@@ -36,9 +36,7 @@ If referring to the program, use "Emacs," for example, "Source-Navigator support
 [discrete]
 [[environment]]
 ==== environment (noun)
-*Description*: In IT, "environment" refers to the state of a computer, usually determined by which programs are running and basic hardware and software characteristics. For example, when one speaks of running a program in a Unix "environment," it means running a program on a computer that has the Unix operating system.
-
-One ingredient of an environment is the operating system, but operating systems include a number of different parameters. For example, many operating systems allow you to choose your command prompt or a default command path. All these parameters taken together comprise the environment.
+*Description*: In IT, "environment" refers to the state of a computer, usually determined by which programs are running and basic hardware and software characteristics. For example, when one speaks of running a program in a Unix "environment," it means running a program on a computer that has the Unix operating system. One ingredient of an environment is the operating system, but operating systems include a number of different parameters. For example, many operating systems allow you to choose your command prompt or a default command path. All these parameters taken together comprise the environment.
 
 *Use it*: yes
 
