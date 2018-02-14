@@ -200,6 +200,17 @@
 *See also*: xref:remote-access[remote access]
 
 [discrete]
+[[repository]]
+==== repository (noun)
+*Description*: Repositories provide the packages required for Red Hat products. Using Red Hat Subscription Manager (RHSM), you register a system, attach a subscription, and enable repositories. Do not confuse this with Red Hat Network (RHN), where you subscribed to channels.
+
+*Use it*: yes
+
+*Incorrect forms*: channel
+
+*See also*: xref:subscription[subscription], xref:entitlement[entitlement]
+
+[discrete]
 [[required]]
 ==== required (adjective)
 
