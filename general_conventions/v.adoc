@@ -170,6 +170,17 @@ Although the _IBM Style Guide_ recommends using "diskette drive" instead of "flo
 *See also*: xref:guest-operating-system[guest operating system], xref:virtual-machine[virtual machine]
 
 [discrete]
+[[vlan]]
+==== VLAN (noun)
+*Description*: "VLAN" is an abbreviation for virtual local area network. Use uppercase for all letters. 
+
+*Use it*: yes
+
+*Incorrect forms*: vlan, vLAN
+
+*See also*:
+
+[discrete]
 [[vnic]]
 ==== vNIC (noun)
 *Description*: "vNIC" is an abbreviation for virtual network interface card. Use lowercase v and uppercase NIC for the abbreviation, but all lowercase for the expansion, except at the beginning of a sentence.
