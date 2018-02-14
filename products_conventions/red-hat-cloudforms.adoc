@@ -63,3 +63,13 @@
 *Incorrect forms*:
 
 *See also*:
+
+[discrete]
+[[worker-appliance]]
+==== Worker Appliance (noun)
+*Description*: A Red Hat CloudForms appliance dedicated to a role other than User Interface or database. 
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
