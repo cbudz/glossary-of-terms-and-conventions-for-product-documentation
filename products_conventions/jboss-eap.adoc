@@ -5,7 +5,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: EAP, JBoss, Red Hat JBoss EAP, JBoss Enterprise Application Platform
+*Incorrect forms*: Red Hat JBoss EAP, JBoss Enterprise Application Platform
 
 *See also*: xref:jboss-eap[JBoss EAP]
 
@@ -16,7 +16,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*:
+*Incorrect forms*: EAP, JBoss
 
 *See also*: xref:red-hat-jboss-enterprise-application-platform[Red Hat JBoss Enterprise Application Platform]
 
