@@ -517,7 +517,7 @@
 [discrete]
 [[subscription]]
 ==== subscription (noun)
-*Description*: Subscriptions provide access to Red Hat products. Using Red Hat Subscription Manager (RHSM), you register a system, attach a subscription, and enable repositories. Do not confuse this with Red Hat Network (RHN), where you subscribed to channels. Do not use "subscription" and "entitlement" interchangeably. See link:https://access.redhat.com/discussions/3119981[] for details.
+*Description*: Subscriptions provide access to Red Hat products. Using Red Hat Subscription Management (RHSM), you register a system, attach a subscription, and enable repositories. Do not confuse this with Red Hat Network (RHN), where you subscribed to channels. Do not use "subscription" and "entitlement" interchangeably. See link:https://access.redhat.com/discussions/3119981[] for details.
 
 *Use it*: yes
 

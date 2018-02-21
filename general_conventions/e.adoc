@@ -36,7 +36,7 @@ If referring to the program, use "Emacs," for example, "Source-Navigator support
 [discrete]
 [[entitlement]]
 ==== entitlement (noun)
-*Description*: "Entitlement" refers to the number of systems that can be attached to an individual subscription. Using Red Hat Subscription Manager (RHSM), you register a system, attach a subscription, and enable repositories. Attaching a subscription to the system consumes one of the subscription's available entitlements. Do not use "entitlement" and "subscription" interchangeably. See link:https://access.redhat.com/discussions/3119981[] for details.
+*Description*: "Entitlement" refers to the number of systems that can be attached to an individual subscription. Using Red Hat Subscription Management (RHSM), you register a system, attach a subscription, and enable repositories. Attaching a subscription to the system consumes one or more of the subscription's available entitlements. Do not use "entitlement" and "subscription" interchangeably. See link:https://access.redhat.com/discussions/3119981[] for details.
 
 *Use it*: with caution
 

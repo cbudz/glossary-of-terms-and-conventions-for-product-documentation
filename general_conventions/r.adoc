@@ -202,7 +202,7 @@
 [discrete]
 [[repository]]
 ==== repository (noun)
-*Description*: Repositories provide the packages required for Red Hat products. Using Red Hat Subscription Manager (RHSM), you register a system, attach a subscription, and enable repositories. Do not confuse this with Red Hat Network (RHN), where you subscribed to channels.
+*Description*: Repositories provide the packages required for Red Hat products. Using Red Hat Subscription Management (RHSM), you register a system, attach a subscription, and enable repositories. Do not confuse this with Red Hat Network (RHN), where you subscribed to channels.
 
 *Use it*: yes
 
