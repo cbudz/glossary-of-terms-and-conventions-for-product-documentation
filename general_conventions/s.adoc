@@ -515,6 +515,17 @@
 *See also*:
 
 [discrete]
+[[subscription]]
+==== subscription (noun)
+*Description*: Subscriptions provide access to Red Hat products. Using Red Hat Subscription Management (RHSM), you register a system, attach a subscription, and enable repositories. Do not confuse this with Red Hat Network (RHN), where you subscribed to channels. Do not use "subscription" and "entitlement" interchangeably. See link:https://access.redhat.com/discussions/3119981[] for details.
+
+*Use it*: yes
+
+*Incorrect forms*: entitlement
+
+*See also*: xref:entitlement[entitlement], xref:repository[repository]
+
+[discrete]
 [[superuser]]
 ==== superuser (noun)
 *Description*: Superuser is the same as the root user. The term is more common in Solaris documentation than Linux.
