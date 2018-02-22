@@ -187,16 +187,6 @@
 
 *See also*:
 
-[discrete]
-[[userid]]
-==== userid (noun)
-*Description*: "Userid" is an acceptable abbreviation of user identifier.
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*: xref:uid[UID]
 
 [discrete]
 [[user-space-n]]
