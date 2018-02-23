@@ -7,7 +7,7 @@
 
 *Incorrect forms*: uid
 
-*See also*: xref:userid[userid]
+*See also*: 
 
 [discrete]
 [[UltraSPARC]]
