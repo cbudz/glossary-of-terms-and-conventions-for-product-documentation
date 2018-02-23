@@ -1,7 +1,7 @@
 [discrete]
 [[uid]]
 ==== UID (noun)
-*Description*: "UID" and "User ID" are abbreviations of user identifier. UID is a unique identifier associated with a single entity within a given system.
+*Description*: "UID" is an abbreviations of user identifier. UID is a unique identifier associated with a single entity within a given system.
 
 *Use it*: yes
 
