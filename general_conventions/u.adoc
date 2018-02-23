@@ -1,13 +1,13 @@
 [discrete]
 [[uid]]
 ==== UID (noun)
-*Description*: "UID" and "User ID" are abbreviations of user identifier. UID is a unique identifier associated with a single entity within a given system.
+*Description*: "UID" is an abbreviations of user identifier. UID is a unique identifier associated with a single entity within a given system.
 
 *Use it*: yes
 
 *Incorrect forms*: uid
 
-*See also*: xref:userid[userid]
+*See also*: 
 
 [discrete]
 [[UltraSPARC]]
@@ -187,16 +187,6 @@
 
 *See also*:
 
-[discrete]
-[[userid]]
-==== userid (noun)
-*Description*: "Userid" is an acceptable abbreviation of user identifier.
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*: xref:uid[UID]
 
 [discrete]
 [[user-space-n]]
