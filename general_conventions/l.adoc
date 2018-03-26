@@ -47,7 +47,7 @@
 [discrete]
 [[license-v]]
 ==== license (verb)
-*Description*: When used as a verb, to give "license" to someone means to give them permission to do something.
+*Description*: When used as a verb, "license" means to give someone permission to do something.
 
 *Use it*: yes
 
@@ -80,7 +80,7 @@
 [discrete]
 [[load-balancing]]
 ==== load balancing (noun)
-*Description*: "Load balancing" distributes processing and communications activity evenly across a computer network so that no single device is overwhelmed. Load balancing is especially important for networks, where it is difficult to predict the number of requests that will be issued to a server. Busy websites typically employ two or more web servers in a load balancing scheme. If one server starts to get swamped, requests are forwarded to another server with more capacity. Load balancing can also refer to the communications channels themselves.
+*Description*: "Load balancing" distributes processing and communications activity evenly across a computer network so that no single device is overwhelmed. Load balancing is especially important for networks, where it is difficult to predict the number of requests that will be issued to a server. Busy websites typically employ two or more web servers in a load-balancing scheme. If one server starts to get swamped, requests are forwarded to another server with more capacity. Load balancing can also refer to the communications channels themselves.
 
 *Use it*: yes
 
@@ -113,7 +113,7 @@
 [discrete]
 [[look-up-v]]
 ==== look up (verb)
-*Description*: To "look up" means to search something. The correct verb form is "look up."
+*Description*: To "look up" means to search for something. The correct verb form is "look up."
 
 *Use it*: with caution
 
@@ -124,7 +124,7 @@
 [discrete]
 [[look-up-ad]]
 ==== look-up (adjective)
-*Description*: To "look up" means to search something. Hyphenate "look-up" when using it as a modifier.
+*Description*: Hyphenate "look-up" when using it as a modifier.
 
 *Use it*: with caution
 
@@ -146,7 +146,7 @@
 [discrete]
 [[lpar]]
 ==== LPAR (noun)
-*Description*: "LPAR" is an acronym for "logical partitioning," a system of taking a computer's total resources (processors, memory, and storage) and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions, or systems that serve multiple time zones and/or languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Because the logical partitions act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
+*Description*: "LPAR" is an acronym for "logical partitioning," a system of taking a computer's total resources (processors, memory, and storage) and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client-server actions, or systems that serve multiple time zones and languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Because the logical partitions act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
 
 *Use it*: yes
 
