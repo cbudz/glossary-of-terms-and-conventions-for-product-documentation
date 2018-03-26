@@ -12,7 +12,7 @@
 [discrete]
 [[daisy-chain-v]]
 ==== daisy chain (verb)
-*Description*: When used as a verb "daisy chain" means to connect devices in a daisy chain pattern, that is, in series.
+*Description*: When used as a verb "daisy chain" means to connect devices in a daisy-chain pattern, that is, in series.
 
 *Use it*: yes
 
