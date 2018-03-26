@@ -1,7 +1,7 @@
 [discrete]
 [[gplusplus]]
 ==== G++ (noun)
-*Description*: "G++" is a C++ compiler usually operated via the command line. When referring to the program, use "G++."
+*Description*: "G++" is a C++ compiler usually operated using the command line. When referring to the program, use "G++."
 
 *Use it*: yes
 
@@ -167,7 +167,7 @@
 [discrete]
 [[gnome]]
 ==== GNOME (noun)
-*Description*: "GNOME" is an open source desktop environment for Unix systems.
+*Description*: "GNOME" is an open-source desktop environment for Unix systems.
 
 *Use it*: yes
 
@@ -189,7 +189,7 @@
 [discrete]
 [[gnu]]
 ==== GNU (noun)
-*Description*: "GNU" is a recursive acronym for "GNU's Not Unix." GNU is a Unix-like, open source operating system. Do not use "Gnu" or "gnu."
+*Description*: "GNU" is a recursive acronym for "GNU's Not Unix." GNU is a Unix-like, open-source operating system. Do not use "Gnu" or "gnu."
 
 *Use it*: yes
 
@@ -200,7 +200,7 @@
 [discrete]
 [[gnupro]]
 ==== GNUPro (noun)
-*Description*: "GNUPro" Toolkit for Linux is designed for developing commercial and noncommercial Linux applications on native Linux platforms. It is a set of tested and certified, open source, GNU standard C, C++, and assembly language development tools. When referring to the Red Hat product, use "GNUPro."
+*Description*: "GNUPro" Toolkit for Linux is designed for developing commercial and noncommercial Linux applications on native Linux platforms. It is a set of tested and certified, open-source, GNU standard C, C++, and assembly language development tools. When referring to the Red Hat product, use "GNUPro."
 
 *Use it*: yes
 
