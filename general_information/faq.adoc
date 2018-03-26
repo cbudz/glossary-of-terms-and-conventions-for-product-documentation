@@ -27,9 +27,9 @@ How can I suggest an update to this document or start a discussion?::
 
 Open an issue. See xref:submitting-issues[].
 
-Are there any reasons a contribution may not be accepted?::
+Are there any reasons a contribution might not be accepted?::
 
-All contributions are welcome, but reviewers may decline contributions that fall under the following:
+All contributions are welcome, but reviewers might decline contributions that fall under the following:
 
 * Terms or conventions that are considered part of the general sphere of professional writing, such as basic grammar and punctuation.
 * Terms or conventions that are already included in _The IBM Style Guide_.
