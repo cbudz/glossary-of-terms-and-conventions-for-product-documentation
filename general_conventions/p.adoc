@@ -112,7 +112,7 @@
 [discrete]
 [[popup]]
 ==== pop-up (noun)
-*Description*: A "pop-up" is a graphical user interface (GUI) display area, usually a small window, that suddenly appears in the foreground of the visual interface. Pop-ups can be initiated by a single or double mouse click or rollover (sometimes called a mouseover). A pop-up window must be smaller than the background window or interface; otherwise, it's a replacement interface.
+*Description*: A "pop-up" is a graphical user interface (GUI) display area, usually a small window, that is suddenly displayed in the foreground of the visual interface. Pop-ups can be initiated by a single or double mouse click or rollover (sometimes called a mouseover). A pop-up window must be smaller than the background window or interface; otherwise, it's a replacement interface.
 
 *Use it*: yes
 
@@ -134,7 +134,7 @@
 [discrete]
 [[powerpc]]
 ==== PowerPC (noun)
-*Description*: Depending on context, "PowerPC" refers to either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM POWER Series" (which covers the IBM POWER2 and IBM POWER8 series) is correct. The PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM POWER series hardware in almost all cases.
+*Description*: Depending on context, "PowerPC" refers to either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM POWER Series" (which covers the IBM POWER2 and IBM POWER8 series). The PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM POWER series hardware in almost all cases.
 
 *Use it*: yes
 
@@ -167,7 +167,7 @@
 [discrete]
 [[press]]
 ==== press (verb)
-*Description*: Use "press" for keyboard instructions, for example, "Press the **Enter** key."
+*Description*: Use "press" for keyboard instructions, for example, "Press Enter."
 
 *Use it*: yes
 
@@ -189,7 +189,7 @@
 [discrete]
 [[proof-of-concept]]
 ==== proof of concept (noun)
-*Description*: Use the following rules to form the plural of this phrase: Use "proofs of concept" when there are multiple proofs but only one concept. Use "proofs of concepts" when there are multiple proofs and multiple concepts.
+*Description*: Use the following rules to form the plural of this phrase: Use "proofs of concept" for multiple proofs but only one concept. Use "proofs of concepts" for multiple proofs and multiple concepts.
 
 *Use it*: yes
 
@@ -200,7 +200,7 @@
 [discrete]
 [[pseudoops]]
 ==== pseudo-ops (noun)
-*Description*: "Pseudo-ops" is an abbreviation for "pseudo operations" and is sometimes called assembler directive. These are keywords that do not directly translate to a machine instruction.
+*Description*: "Pseudo-ops" is an abbreviation for "pseudo operations" and is sometimes called an assembler directive. These keywords do not directly translate to a machine instruction.
 
 *Use it*: yes
 
@@ -211,7 +211,7 @@
 [discrete]
 [[pseries]]
 ==== pSeries (noun)
-*Description*: "IBM eServer System p" is correct for the first reference in a manual. Use "IBM System p" or "System p" for subsequent references.
+*Description*: Use "IBM eServer System p" for the first reference; use "IBM System p" or "System p" for subsequent references.
 
 *Use it*: no
 
@@ -222,7 +222,7 @@
 [discrete]
 [[pulldown]]
 ==== pulldown (adjective)
-*Description*: A "pulldown" is the common type of menu used with a graphical user interface (GUI). Clicking a menu title causes the menu items to appear to drop down from that position and display. Options are selected either by clicking the menu item or by continuing to hold the mouse button down and letting go when the item is highlighted.
+*Description*: A "pulldown" is the common type of menu used with a graphical user interface (GUI). Clicking a menu title causes the menu items to drop down from that position and be displayed. Options are selected either by clicking the menu item or by continuing to hold the mouse button down and letting go when the item is highlighted.
 
 *Use it*: yes
 
