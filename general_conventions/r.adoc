@@ -68,7 +68,7 @@
 [discrete]
 [[real-time-n]]
 ==== real time (noun)
-*Description*: If used as a noun, "real time" is the actual time during which something takes place, for example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
+*Description*: As a noun, "real time" is the actual time during which something takes place, for example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
 
 *Use it*: yes
 
@@ -79,7 +79,7 @@
 [discrete]
 [[real-time-adj]]
 ==== real-time (adjective)
-*Description*: If used as an adjective, "real-time" is appropriate, for example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
+*Description*: As an adjective, use the hyphenated form, for example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
 
 *Use it*: yes
 
@@ -146,7 +146,7 @@
 [discrete]
 [[red-hat-network-satellite-server]]
 ==== Red Hat Network Satellite Server (noun)
-*Description*: Write "Red Hat Network Satellite Server" in full the first time that you use it in a document. Subsequently, you can write "RHN Satellite Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
+*Description*: Use "Red Hat Network Satellite Server" for the first occurrence; use "RHN Satellite Server" or omit the word "Server" from any of the previous constructions on subsequent mentions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
 
 *Use it*: yes
 
@@ -157,7 +157,7 @@
 [discrete]
 [[red-hat-network-proxy-server]]
 ==== Red Hat Network Proxy Server (noun)
-*Description*: Write "Red Hat Network Proxy Server" in full the first time that you use it in a document. Subsequently, you can write "RHN Proxy Server" or omit the word "Server" from any of the previous constructions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
+*Description*: Use "Red Hat Network Proxy Server" for the first occurrence; use "RHN Proxy Server" or omit the word "Server" from any of the previous constructions on subsequent mentions. With sufficient context, you can refer to "Satellite" and "Proxy," for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
 
 *Use it*: yes
 
@@ -191,7 +191,7 @@
 [discrete]
 [[remote-access-server]]
 ==== remote access server (noun)
-*Description*: A "remote access server" is a server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials in to a network from home using an analog modem or an ISDN connection will dial in to a remote access server. Once the user is authenticated, they can access shared drives and printers as if they were physically connected to the office LAN.
+*Description*: A "remote access server" is a server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials in to a network from home using an analog modem or an ISDN connection will dial in to a remote access server. Once the user is authenticated, she can access shared drives and printers as if they were physically connected to the office LAN.
 
 *Use it*: yes
 
@@ -317,7 +317,7 @@
 [discrete]
 [[runlevel]]
 ==== runlevel (noun)
-*Description*: A "runlevel" is a preset operating state on a Unix-like operating system. A system can be booted in to (that is, started up in to) any of several runlevels, each of which is represented by a single digit integer. Each runlevel designates a different system configuration and allows access to a different combination of processes (that is, instances of executing programs). There are differences in the runlevels according to the operating system. Seven runlevels are supported in the standard Linux kernel.
+*Description*: A "runlevel" is a preset operating state on a Unix-like operating system. A system can be booted in to (that is, started up in to) any of several runlevels, each of which is represented by a single-digit integer. Each runlevel designates a different system configuration and allows access to a different combination of processes (that is, instances of executing programs). There are differences in the runlevels according to the operating system. Seven runlevels are supported in the standard Linux kernel.
 
 *Use it*: yes
 
@@ -328,7 +328,7 @@
 [discrete]
 [[runtime]]
 ==== runtime (noun)
-*Description*: "Runtime" is when a program is running (or being executable), that is, when you start a program running in a computer, it is runtime for that program. In some programming languages, certain reusable programs or routines are built and packaged as a runtime library.
+*Description*: "Runtime" is when a program is running (or being executed), that is, when you start a program running in a computer, it is the runtime for that program. In some programming languages, certain reusable programs or routines are built and packaged as a runtime library.
 
 *Use it*: yes
 
