@@ -200,7 +200,7 @@
 [discrete]
 [[type-v]]
 ==== type (verb)
-*Description*: "Type" can be used as a verb. for example, "To start Source-Navigator, type `snavigator`."
+*Description*: "Type" can be used as a verb, for example, "To start Source-Navigator, type `snavigator`."
 
 *Use it*: yes
 
