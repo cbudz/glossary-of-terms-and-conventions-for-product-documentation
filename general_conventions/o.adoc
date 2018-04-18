@@ -179,7 +179,7 @@
 [discrete]
 [[output-device]]
 ==== output device (noun)
-*Description*: An "output device" is any machine capable of representing information from a computer. This includes display screens, printers, plotters, and synthesizers.
+*Description*: An "output device" is any machine capable of representing information from a computer, such as display screens, printers, plotters, and synthesizers.
 
 *Use it*: yes
 
@@ -190,7 +190,7 @@
 [discrete]
 [[override]]
 ==== override (verb)
-*Description*: In computing, "override" means to force the use of a specific setting or value instead of the one that would otherwise be used. for example, "apply a setting from a configuration file to override the default ones."
+*Description*: In computing, "override" means to force the use of a specific setting or value instead of the one that would otherwise be used, for example, "apply a setting from a configuration file to override the default ones."
 
 *Use it*: yes
 

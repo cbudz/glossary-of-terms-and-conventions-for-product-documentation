@@ -34,7 +34,7 @@
 [discrete]
 [[quiescent]]
 ==== quiescent (adjective)
-*Description*: This is a lofty-sounding word that means _at rest_, _quiet_, or _inactive_. With reference to a measurable property or system, it can also mean _not active_. A system can be quiescent, meaning it is inactive, or (by extension) in a known, unchanging state. If this is what you mean, this is what you should write. If a system is, or needs to be inactive, write _inactive_. If a system is, or needs to be safe, write _safe_.
+*Description*: This lofty-sounding word means _at rest_, _quiet_, or _inactive_. With reference to a measurable property or system, it can also mean _not active_. A system can be quiescent, meaning it is inactive, or (by extension) in a known, unchanging state. If this is what you mean, this is what you should write. If a system is, or needs to be inactive, write _inactive_. If a system is, or needs to be safe, write _safe_.
 
 *Use it*: no
 
