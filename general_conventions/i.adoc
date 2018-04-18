@@ -13,7 +13,7 @@
 [discrete]
 [[ibm-eserver-system-p]]
 ==== IBM eServer System p (noun)
-*Description*: "IBM eServer System p" is correct for the first reference in a manual; use "IBM System p" or "System p" for subsequent references.
+*Description*: Use "IBM eServer System p" for the first reference, and "IBM System p" or "System p" for subsequent references.
 
 *Use it*: yes
 
@@ -184,7 +184,7 @@ The term I/O is a non-countable noun, meaning that it cannot be expressed in plu
 
 *Use it*: yes
 
-*Incorrect forms*:Ip
+*Incorrect forms*: Ip
 
 *See also*:
 
@@ -290,7 +290,7 @@ The term I/O is a non-countable noun, meaning that it cannot be expressed in plu
 [discrete]
 [[iseries]]
 ==== ISeries (noun)
-*Description*: "IBM eServer System i" is correct for the first reference in a manual. Use "IBM System i" or "System i" for subsequent references.
+*Description*: Use "IBM eServer System i" for the first reference, and "IBM System i" or "System i" for subsequent references.
 
 *Use it*: yes
 

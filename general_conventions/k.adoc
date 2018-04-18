@@ -58,7 +58,7 @@ Do not capitalize the first letter.
 [discrete]
 [[kernel-based-virtual-machine]]
 ==== Kernel-based Virtual Machine (noun)
-*Description*: "Kernel-based Virtual Machine" is a loadable kernel module that converts the Linux kernel into a bare metal hypervisor. Spell out "Kernel-based Virtual Machine" on first occurrence, and use "KVM" thereafter. It is an industry standard and a proper noun.
+*Description*: "Kernel-based Virtual Machine" is a loadable kernel module that converts the Linux kernel into a bare-metal hypervisor. Spell out "Kernel-based Virtual Machine" on first occurrence, and use "KVM" thereafter. It is an industry standard and a proper noun.
 
 *Use it*: yes
 
@@ -86,7 +86,7 @@ Do not capitalize the first letter.
 
 *Incorrect forms*:
 
-*See also*: xref:kernel[kernel], xref:kernel-oops[kernel-oops]
+*See also*: xref:kernel[kernel], xref:kernel-oops[kernel oops]
 
 [discrete]
 [[kernel-space-n]]
