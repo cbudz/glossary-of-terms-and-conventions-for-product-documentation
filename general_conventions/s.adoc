@@ -559,17 +559,6 @@
 *See also*:
 
 [discrete]
-[[sysv]]
-==== SysV (noun)
-*Description*: The "SysV" init runlevel system provides a standard process for controlling which programs init launches or halts when initializing a runlevel.
-
-*Use it*: yes
-
-*Incorrect forms*: Sys V, System V
-
-*See also*:
-
-[discrete]
 [[symmetric-encryption]]
 ==== symmetric encryption (noun)
 *Description*: "Symmetric encryption" is a type of encryption where the same key encrypts and decrypts the message. In contrast, asymmetric (or public-key) encryption uses one key to encrypt a message and another to decrypt the message.
@@ -577,5 +566,27 @@
 *Use it*: yes
 
 *Incorrect forms*:
+
+*See also*:
+
+[discrete]
+[[systemd]]
+==== systemd (noun)
+*Description*: Systemd is a "system and service manager" that is used as the default system daemon for Red Hat Enterprise Linux 7+
+
+*Use it*: yes
+
+*Incorrect forms*: system D, system D, SystemD, system d, Systemd (unless at the start of a sentence.
+
+*See also*: 
+
+[discrete]
+[[sysv]]
+==== SysV (noun)
+*Description*: The "SysV" init runlevel system provides a standard process for controlling which programs init launches or halts when initializing a runlevel.
+
+*Use it*: yes
+
+*Incorrect forms*: Sys V, System V
 
 *See also*:
