@@ -146,7 +146,7 @@
 [discrete]
 [[lpar]]
 ==== LPAR (noun)
-*Description*: "LPAR" is an acronym for "logical partitioning," a system of taking a computer's total resources (processors, memory, and storage) and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client-server actions, or systems that serve multiple time zones and languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Because the logical partitions act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
+*Description*: "LPAR" is an acronym for "logical partitioning," a system of taking a computer's total resources (processors, memory, and storage) and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions, or systems that serve multiple time zones and/or languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Because the logical partitions act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
 
 *Use it*: yes
 
