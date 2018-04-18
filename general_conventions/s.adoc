@@ -111,7 +111,7 @@
 [discrete]
 [[server-side-n]]
 ==== server side (noun)
-*Description*: The "server side" means that the action takes place on a web server in a client-server relationship. Use this form when "server side" is a noun, for example, "She does most of her programming on the server side, that is, directly on the web server."
+*Description*: The "server side" means that the action takes place on a web server in a client/server relationship. Use this form when "server side" is a noun, for example, "She does most of her programming on the server side, that is, directly on the web server."
 
 *Use it*: yes
 
@@ -122,7 +122,7 @@
 [discrete]
 [[server-side-adj]]
 ==== server-side (adjective)
-*Description*: Use "server-side" as an adjective when referring to operations performed by the server in a client-server relationship, for example, "Her specialty is server-side programming."
+*Description*: Use "server-side" as an adjective when referring to operations performed by the server in a client/server relationship, for example, "Her specialty is server-side programming."
 
 *Use it*: yes
 
@@ -242,7 +242,7 @@
 [discrete]
 [[skill-set]]
 ==== skill set (noun)
-*Description*: Use "skills" or "knowledge" instead of "skill set" (n) or "skill-set" (adj). For example, "Do you have the right skill set to be an RHCE?" is incorrect. Use "Do you have the right skills to be an RHCE?​" instead.
+*Description*: Use "skills" or "knowledge" instead of "skill set" (n) or "skill-set" (adj). For example, "Do you have the right skill set to be an RHCE?" is incorrect. Use "Do you have the right skills to be an RHCE?" instead.
 
 *Use it*: no
 
@@ -550,7 +550,7 @@
 [discrete]
 [[sybase-adaptive-server-enterprise]]
 ==== Sybase Adaptive Server Enterprise (noun)
-*Description*: Sybase Corporation developed Sybase Adaptive Server Enterprise as a relational database management system that became part of SAP AG. Use SAP Sybase Adaptive Server Enterprise (ASE) the first time you mention it. In subsequent entries, use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
+*Description*: Sybase Corporation developed Sybase Adaptive Server Enterprise as a relational database management system that became part of SAP AG. Use SAP Sybase Adaptive Server Enterprise (ASE) on the first use; on subsequent mentions, use "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
 
 *Use it*: yes
 
