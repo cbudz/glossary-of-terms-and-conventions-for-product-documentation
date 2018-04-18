@@ -167,7 +167,7 @@
 [discrete]
 [[gnome]]
 ==== GNOME (noun)
-*Description*: "GNOME" is an open-source desktop environment for Unix systems.
+*Description*: "GNOME" is an open source desktop environment for Unix systems.
 
 *Use it*: yes
 
