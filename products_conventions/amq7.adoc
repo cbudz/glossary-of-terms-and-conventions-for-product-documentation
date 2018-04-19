@@ -334,6 +334,17 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 *See also*: xref:connection[connection]
 
 [discrete]
+[[live-only]]
+==== live-only (noun)
+*Description*: A broker high availability policy for scaling down brokers. If the broker is shut down, its messages and transaction state are copied to another live broker.
+
+*Use it*: yes
+
+*Incorrect forms*: live only
+
+*See also*:
+
+[discrete]
 [[master-slave-group]]
 ==== master-slave group (noun)
 *Description*: A broker high availability configuration in which a master broker is linked to slave brokers. If a failover event occurs, the slave broker(s) take over the master broker's workload.
