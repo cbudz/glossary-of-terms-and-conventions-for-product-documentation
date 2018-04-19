@@ -84,7 +84,7 @@ In addition, make sure that you have at least *Developer* permissions for the ht
 
 [NOTE]
 ====
-This procedure requires `git` and `ccutil` installed. See https://pantheon-ccstools.itos.redhat.com/help/user-guide/#ccutil-install[Installing ccutil] for details.
+This procedure requires `git` and `ccutil` installed. See  https://pantheon.cee.redhat.com/#/help/ccutil-install-rhel[Installing ccutil] for details.
 
 In addition, make sure that you have at least *Developer* permissions for the https://gitlab.cee.redhat.com/ccs-internal-documentation[CCS Internal GitLab group]. To check your access, see the https://gitlab.cee.redhat.com/groups/ccs-internal-documentation/group_members[Members] page. If you do not have the permissions, request them by clicking *Request Access*.
 ====
