@@ -336,7 +336,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 [discrete]
 [[live-only]]
 ==== live-only (noun)
-*Description*: A broker high availability policy for scaling down brokers. If the broker is shut down, its messages and transaction state are copied to another live broker.
+*Description*: A broker high availability policy that enables you to scale down brokers. If a live-only broker is shut down, its messages and transaction state are copied to another live broker.
 
 *Use it*: yes
 
