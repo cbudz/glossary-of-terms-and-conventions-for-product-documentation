@@ -271,7 +271,7 @@
 [discrete]
 [[rollout]]
 ==== rollout (noun)
-*Description*: In marketing "rollout" describes a series of related product announcements. When a company installs new equipment or software, this process is also called a "rollout.""
+*Description*: In marketing, "rollout" describes a series of related product announcements. When a company installs new equipment or software, this process is also called a "rollout."
 
 *Use it*: yes
 
