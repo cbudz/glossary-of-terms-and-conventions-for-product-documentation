@@ -221,7 +221,7 @@ Spell out in full for the first instance in a section, and use "Reports" (always
 ==== Red Hat Virtualization (noun)
 *Description*: Red Hat Virtualization is an enterprise-grade server and desktop virtualization platform built on Red Hat Enterprise Linux. 
 
-Use "Red Hat Virtualization" for version 4.x. Always spell out in full, except as part of "RHVH".
+Use "Red Hat Virtualization" for version 4.x. Always spell out in full, except as part of "RHVH" or when repetition in a single paragraph hampers readability.
 
 *Use it*: yes
 
