@@ -101,11 +101,13 @@
 [discrete]
 [[recommend]]
 ==== recommend (verb)
-*Description*: In making a recommendation, use "Red Hat recommends" wherever possible. Note that for documentation that occurs in both upstream and downstream, it is acceptable to use "it is recommended", but only in this instance.
+*Description*: Avoid "recommends". Instead of "Red Hat recommends", direct users to take the recommended action. This allows Red Hat to be more prescriptive in documentation and prevent any user uncertainty, and is easier for upstream/downstream coordinated efforts.
 
-*Use it*: yes
+For example, instead of "Red Hat recommends using X package because", write "Use this package because" or "Use this package when". 
 
-*Incorrect forms*: we recommend, we suggest
+*Use it*: no
+
+*Incorrect forms*: we recommend, we suggest, Red Hat recommends
 
 *See also*: xref:we-suggest[we suggest]
 
