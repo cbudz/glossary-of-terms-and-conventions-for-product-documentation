@@ -178,7 +178,7 @@ Use "Red Hat Enterprise Virtualization" for version 3.x (including references to
 [discrete]
 [[red-hat-enterprise-virtualization-hypervisor]]
 ==== Red Hat Enterprise Virtualization Hypervisor (noun)
-*Description*: Red Hat Enterprise Virtualization Hypervisor is one of the types of host in Red Hat Enterprise Virtualization (3.x). It is a minimal operating system based on Red Hat Enterprise Linux, is distributed as an ISO file, and is a closed system. Filesystem access and root access are limited. Yum is disabled.
+*Description*: Red Hat Enterprise Virtualization Hypervisor is one of the types of host in Red Hat Enterprise Virtualization (3.x). It is a minimal operating system based on Red Hat Enterprise Linux, is distributed as an ISO file, and is a closed system. File system access and root access are limited. `yum` is disabled.
 
 Use "Red Hat Enterprise Virtualization Hypervisor (RHEV-H)" for the first instance in a section. "RHEV-H" can be used for subsequent instances. It can also be referred to as "the Hypervisor", as long as the H is capitalized to avoid confusion with hypervisors in general. Do not use in Red Hat Virtualization 4.x.
 
