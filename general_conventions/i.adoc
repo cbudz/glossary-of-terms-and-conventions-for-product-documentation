@@ -22,17 +22,6 @@
 *See also*:
 
 [discrete]
-[[ibm-z-systems]]
-==== IBM z Systems (noun)
-*Description*: "IBM z Systems" is the name for the family of IBM mainframe computers.
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*:
-
-[discrete]
 [[ibm-s-390]]
 ==== IBM S/390 (noun)
 *Description*: The "IBM S/390" is IBM's large server (or mainframe) line of computer systems. Use the full description "IBM S/390."
@@ -40,6 +29,17 @@
 *Use it*: yes
 
 *Incorrect forms*: S/390, S90
+
+*See also*:
+
+[discrete]
+[[ibm-z]]
+==== IBM Z (noun)
+*Description*: "IBM Z" is the new name for the "IBM z Systems" family of IBM mainframe computers.
+
+*Use it*: yes
+
+*Incorrect forms*: IBM z Systems
 
 *See also*:
 
