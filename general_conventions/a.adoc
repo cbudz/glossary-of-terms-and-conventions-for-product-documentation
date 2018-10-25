@@ -21,6 +21,17 @@
 *See also*:
 
 [discrete]
+[[alright]]
+==== alright (adjective)
+*Description*: "Alright" is the colloquial form of "correct" or "as expected."
+
+*Use it*: no
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
 [[AMD64]]
 ==== AMD64 (noun)
 *Description*: "AMD64" is the AMD implementation of the x86 architecture.
@@ -50,28 +61,6 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 *See also*:
 
 [discrete]
-[[asynchronous-transfer-mode]]
-==== Asynchronous Transfer Mode (noun)
-*Description*: "Asynchronous Transfer Mode" (ATM) is a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies.
-
-*Use it*: yes
-
-*Incorrect forms*:
-
-*See also*:
-
-[discrete]
-[[alright]]
-==== alright (adjective)
-*Description*: "Alright" is the colloquial form of "correct" or "as expected."
-
-*Use it*: no
-
-*Incorrect forms*:
-
-*See also*:
-
-[discrete]
 [[applixware]]
 ==== Applixware (noun)
 *Description*: "Applixware" is a suite of proprietary modular applications for Linux.
@@ -79,6 +68,17 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 *Use it*: yes
 
 *Incorrect forms*: Applix, ApplixWare
+
+*See also*:
+
+[discrete]
+[[asynchronous-transfer-mode]]
+==== Asynchronous Transfer Mode (noun)
+*Description*: "Asynchronous Transfer Mode" (ATM) is a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies.
+
+*Use it*: yes
+
+*Incorrect forms*:
 
 *See also*:
 
