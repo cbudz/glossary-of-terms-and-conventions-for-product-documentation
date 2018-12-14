@@ -187,6 +187,16 @@
 
 *See also*:
 
+[discrete]
+[[user name]]
+==== user name (noun)
+*Description*: Use as shown - two words - except for instances in which the GUI uses the single word form. 
+
+*Use it*: yes, with exception for GUI. 
+
+*Incorrect forms*:
+
+*See also*:
 
 [discrete]
 [[user-space-n]]
