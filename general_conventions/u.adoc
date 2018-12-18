@@ -188,7 +188,7 @@
 *See also*:
 
 [discrete]
-[[user name]]
+[[user-name]]
 ==== user name (noun)
 *Description*: Use as shown, two words, except for instances in which the GUI uses the single word form (username). 
 
