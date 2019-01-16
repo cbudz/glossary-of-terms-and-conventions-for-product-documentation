@@ -7,7 +7,7 @@
 
 *Incorrect forms*: uid
 
-*See also*: 
+*See also*:
 
 [discrete]
 [[UltraSPARC]]
@@ -34,7 +34,7 @@
 [discrete]
 [[unix]]
 ==== UNIX (noun)
-*Description*: UNIX is a registered trademark of The Open Group. Do not use "UNIX-like"; use an expression such as "Linux, Unix, and similar operating systems" instead.
+*Description*: UNIX is a registered trademark of The Open Group. Do not use "UNIX-like"; use an expression such as "Linux, UNIX, and similar operating systems" instead.
 
 *Use it*: yes
 
@@ -150,7 +150,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: up-time, up time 
+*Incorrect forms*: up-time, up time
 
 *See also*:
 
@@ -163,7 +163,7 @@
 
 *Incorrect forms*: url
 
-*See also*: 
+*See also*:
 
 [discrete]
 [[usable]]
@@ -190,9 +190,9 @@
 [discrete]
 [[user-name]]
 ==== user name (noun)
-*Description*: Use as shown, two words, except for instances in which the GUI uses the single word form (username). 
+*Description*: Use as shown, two words, except for instances in which the GUI uses the single word form (username).
 
-*Use it*: yes, with exception for GUI. 
+*Use it*: yes, with exception for GUI.
 
 *Incorrect forms*:
 
