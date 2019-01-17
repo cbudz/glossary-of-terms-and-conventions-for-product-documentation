@@ -23,7 +23,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 *Incorrect forms*: A-MQ, JBoss AMQ, Red Hat A-MQ, Red Hat AMQ
 
-*See also*: xref:red-hat-jboss-amq-term[Red Hat JBoss AMQ]
+*See also*: xref:red-hat-jboss-amq-term[Red Hat AMQ]
 
 [discrete]
 [[amq-broker]]
@@ -518,7 +518,7 @@ Responsible person: Ben Hardesty (bhardest@redhat.com)
 
 *Incorrect forms*: A-MQ, AMQ, Red Hat A-MQ, Red Hat JBoss AMQ
 
-*See also*: xref:jboss-amq[JBoss AMQ]
+*See also*: xref:jboss-amq[AMQ]
 
 [discrete]
 [[router]]
