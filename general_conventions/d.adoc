@@ -90,6 +90,7 @@
 [[denial-of-service-adj]]
 ==== denial-of-service (adjective)
 *Description*: When used as an adjective, spell as "denial-of-service," for example, "denial-of-service attack."
+
 *Use it*: yes
 
 *Incorrect forms*: Denial-of-Service
