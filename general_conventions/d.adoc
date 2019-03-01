@@ -76,15 +76,26 @@
 *See also*: xref:debug-adj[debug (adjective)]
 
 [discrete]
-[[denial-of-service]]
+[[denial-of-service-n]]
 ==== denial of service (noun)
 *Description*: "Denial of service" is an interruption in a user's access to a computer network, usually caused deliberately and with malicious intent. Use "denial of service (DoS)" on first use and "DoS" thereafter.
 
 *Use it*: yes
 
-*Incorrect forms*: denial-of-service, Denial of Service
+*Incorrect forms*: Denial of Service
 
-*See also*:
+*See also*: xref:denial-of-service-adj[denial of service (adjective)]
+
+[discrete]
+[[denial-of-service-adj]]
+==== denial-of-service (adjective)
+*Description*: When used as an adjective, spell as "denial-of-service," for example, "denial-of-service attack."
+
+*Use it*: yes
+
+*Incorrect forms*: Denial-of-Service
+
+*See also*: xref:denial-of-service-n[denial of service (noun)]
 
 [discrete]
 [[desktop-adj]]
