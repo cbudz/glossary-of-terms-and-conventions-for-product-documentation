@@ -22,8 +22,6 @@ Andrea Hoffer (ahoffer@redhat.com)
 
 Andrew Dahms (adamhs@redhat.com)
 
-Bára Ančincová (bara@redhat.com)
-
 Chris Budzilowicz (cbudzilo@redhat.com)
 
 Ingrid Towey (itowey@redhat.com)
