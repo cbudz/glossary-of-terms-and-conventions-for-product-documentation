@@ -1,7 +1,7 @@
 [discrete]
 [[manual-page]]
 ==== manual page (noun)
-*Description*: A "manual page" is a form of software documentation tied directly with packages providing that software. It is accessible by using the `man <utility>` command from the command-line interface. 
+*Description*: A "manual page" is a form of software documentation tied directly with packages providing that software. It is accessible by using the `man <utility>` command from the command-line interface.
 
 *Use it*: yes
 
@@ -27,7 +27,7 @@
 
 *Use it*: yes
 
-*Incorrect forms*: lots of, bunches of 
+*Incorrect forms*: lots of, bunches of
 
 *See also*:
 
@@ -208,6 +208,17 @@
 *See also*:
 
 [discrete]
+[[multitenant]]
+==== multitenant (adjective)
+*Description*: "Multitenant" describes a mode where a software instance serves multiple tenants. Do not hyphenate "multitenant".
+
+*Use it*: yes
+
+*Incorrect forms*: multi-tenant
+
+*See also*:
+
+[discrete]
 [[mutual-exclusion]]
 ==== mutual exclusion (noun)
 *Description*: In computer science, "mutual exclusion" is a property of concurrency control, which is instituted for the purpose of preventing race conditions. It is the requirement that one thread of execution never enter its critical section at the same time that another concurrent thread of execution enters its own critical section.
@@ -243,11 +254,10 @@
 [discrete]
 [[mysql]]
 ==== MySQL (noun)
-*Description*: "MySQL" is the common open source database server and client package from Microsoft. Mark the first mention of MySQL in body text with an r-ball (®) to denote that it is a registered trademark. 
+*Description*: "MySQL" is the common open source database server and client package from Microsoft. Mark the first mention of MySQL in body text with an r-ball (®) to denote that it is a registered trademark.
 
 *Use it*: yes
 
 *Incorrect forms*: MYSQL, mySQL
 
 *See also*: xref:sql[SQL]
-
