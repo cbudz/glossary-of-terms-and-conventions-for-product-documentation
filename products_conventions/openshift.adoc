@@ -287,7 +287,7 @@ See xref:node[node] in the _General Conventions_ part.
 ==== OKD (noun)
 *Description*: The name of OpenShift's open source, upstream project (previously known as
 OpenShift Origin before August 3, 2018). OKD is a distribution of Kubernetes
-optimized for continuous application development and multi-tenant deployment.
+optimized for continuous application development and multitenant deployment.
 Officially, the initialism does not stand for anything.
 
 *Use it*: yes
