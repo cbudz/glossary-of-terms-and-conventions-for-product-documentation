@@ -228,7 +228,7 @@ See xref:container[container] in the _General Conventions_ part.
 
 *Incorrect forms*:
 
-*See also*: xref:multi-site[multi-site]
+*See also*: xref:multisite[multisite]
 
 [discrete]
 [[indexless-bucket]]
@@ -288,13 +288,13 @@ See xref:container[container] in the _General Conventions_ part.
 *See also*: xref:mds[MDS], xref:ceph-mds[ceph-mds]
 
 [discrete]
-[[multi-site]]
-==== multi-site (adjective)
-*Description*: In Red Hat Ceph Storage 2, you can configure the Ceph Object Gateway to participate in a multi-site architecture that consists of one zone group and multiple zones each zone with one or more `ceph-radosgw` instances. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/paged/object-gateway-guide-for-ubuntu/chapter-8-multi-site[Multi-site] chapter in the Red Hat Ceph Storage 2 Object Gateway Guide for details.
+[[multisite]]
+==== multisite (adjective)
+*Description*: You can configure the Ceph Object Gateway to participate in a multisite architecture that consists of one zone group and multiple zones each zone with one or more `ceph-radosgw` instances. See the https://access.redhat.com/documentation/en/red-hat-ceph-storage/2/paged/object-gateway-guide-for-ubuntu/chapter-8-multi-site[Multisite] chapter in the Red Hat Ceph Storage 2 Object Gateway Guide for details.
 
 *Use it*: yes
 
-*Incorrect forms*: multi site, multisite
+*Incorrect forms*: multi site, multi-site
 
 *See also*: xref:federated[federated]
 
@@ -447,7 +447,7 @@ See xref:container[container] in the _General Conventions_ part.
 [discrete]
 [[realm]]
 ==== realm (noun)
-*Description*: A realm is a namespace context for storing a multi-site configuration. The notion of a realm enables Ceph to provide multiple namespaces in the same cluster.
+*Description*: A realm is a namespace context for storing a multisite configuration. The notion of a realm enables Ceph to provide multiple namespaces in the same cluster.
 
 *Use it*: yes
 
