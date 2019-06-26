@@ -1,10 +1,14 @@
 = Glossary of Terms and Conventions for Product Documentation
 
-This document outlines terms and conventions for technical language in Red Hat's product documentation and other technical content. These terms and conventions supplement those in _The IBM Style Guide_, which is the main reference for technical terms. 
+This document (the "glossary") outlines terms and conventions for technical language in Red Hat's product documentation and other technical content. These terms and conventions supplement those in _The IBM Style Guide_, which is the main reference for technical terms.
 
 == Compiled Version
 
 https://doc-stage.usersys.redhat.com/documentation/en-us/ccs_internal_documentation/1.0/html-single/glossary_of_terms_and_conventions_for_product_documentation/[Glossary of Terms and Conventions for Product Documentation]
+
+== Looking for Guidance?
+
+If you are looking for guidance that is not in the glossary or _The IBM Style Guide_, you can submit your question as a link:https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/issues[GitLab issue] and the project team will discuss and come to a consensus. See link:https://doc-stage.usersys.redhat.com/documentation/en-us/ccs_internal_documentation/1.0/html-single/glossary_of_terms_and_conventions_for_product_documentation/#submitting_issues[Submitting Issues] for more information.
 
 == Contributing
 
@@ -36,7 +40,7 @@ Tahlia Richardson (trichard@redhat.com)
 
 === Initial Project Contributors
 
-These project members contributed to the setup phase of the project, and the original content of the _Glossary_.
+These project members contributed to the setup phase of the project, and the original content of the glossary.
 
 Andrea Hoffer (ahoffer@redhat.com)
 
