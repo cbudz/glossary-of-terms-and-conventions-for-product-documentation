@@ -8,3 +8,14 @@
 *Incorrect forms*: S/390x, s390x, IBM zSeries, zSeries
 
 *See also*: xref:ibm-z[IBM Z], xref:ibm-s-390[IBM S/390]
+
+[discrete]
+[[zstream]]
+==== zStream (noun)
+*Description*: zStream refers to the x.y._z_ product version number. 
+
+*Use it*: Use only if required for generic reference to a release and the term is in use already by the product. In all other instances refer to the specific release number.
+
+*Incorrect forms*: 
+
+*See also*: xref:micro-release[micro release]
