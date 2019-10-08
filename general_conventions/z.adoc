@@ -12,7 +12,7 @@
 [discrete]
 [[zstream]]
 ==== zStream (noun)
-*Description*: zStream refers to the x.y._z_ product version number. 
+*Description*: zStream refers to the x.y.*_z_* product version number. 
 
 *Use it*: Use only if required for generic reference to a release and the term is in use already by the product. In all other instances refer to the specific release number.
 
