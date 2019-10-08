@@ -180,6 +180,17 @@ For example, instead of "Red Hat recommends using X package because", write "Use
 *See also*:
 
 [discrete]
+[[relative-path]]
+==== relative path (noun)
+*Description*: The path related to the present working directory. Because it does not provide enough information for a program to locate a file, it must be combined with an additional path to access a file.
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
 [[remote-access]]
 ==== remote access (noun)
 *Description*: "Remote access" is the ability to log on to a network from a distant location. Generally, this implies a computer, a modem, and some remote access software to connect to the network. "Remote control" refers to taking control of another computer, while "remote access" means that the remote computer actually becomes a full-fledged host on the network. The remote access software dials in directly to the network server. The only difference between a remote host and workstations connected directly to the network is slower data transfer speeds.

@@ -1,9 +1,21 @@
 [discrete]
+[[absolute-path]]
+==== absolute path (noun)
+*Description*: The location of a file or directory from the root directory (/). Provides all information to locate a file or directory. 
+
+*Use it*: yes
+
+*Incorrect forms*:
+
+*See also*:
+
+[discrete]
 [[agnostic]]
 ==== agnostic (adjective)
 *Description*: "Agnostic" denotes or relates to hardware or software that is compatible with many types of platforms or operating systems. For example, many common file formats (JPEG, MP3, and others) are platform agnostic. Use "neutral" instead.
 
 *Use it*: no
+
 
 *Incorrect forms*:
 
@@ -64,6 +76,7 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 [[applixware]]
 ==== Applixware (noun)
 *Description*: "Applixware" is a suite of proprietary modular applications for Linux.
+
 
 *Use it*: yes
 
