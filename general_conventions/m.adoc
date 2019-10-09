@@ -128,7 +128,7 @@
 
 *Incorrect forms*: 
 
-*See also*: xref:zstream[zStream]
+*See also*: xref:z-stream[z-stream]
 
 [discrete]
 [[microsoft]]
