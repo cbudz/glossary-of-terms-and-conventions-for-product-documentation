@@ -10,11 +10,11 @@
 *See also*: xref:ibm-z[IBM Z], xref:ibm-s-390[IBM S/390]
 
 [discrete]
-[[zstream]]
-==== zStream (noun)
-*Description*: zStream refers to the x.y.*_z_* product version number. 
+[[z-stream]]
+==== z-stream (noun)
+*Description*: z-stream refers to the *_z_* in an _x.y.z_ product version numbering schema. Use only if required for generic reference to a release and the term is in use already by the product. In all other instances refer to the specific release number. 
 
-*Use it*: Use only if required for generic reference to a release and the term is in use already by the product. In all other instances refer to the specific release number.
+*Use it*: with caution 
 
 *Incorrect forms*: 
 
