@@ -122,9 +122,9 @@
 [discrete]
 [[micro-release]]
 ==== micro release (noun)
-*Description*: Micro release refers to the x.y.*_z_* product version number. 
+*Description*: Micro release refers to the *_z_* in an _x.y.z_ product version numbering schema. Use only if required for generic reference to a release and the term is in use already by the product. In all other instances refer to the specific release number.
 
-*Use it*: Use only if required for generic reference to a release and the term is in use already by the product. In all other instances refer to the specific release number.
+*Use it*: with caution
 
 *Incorrect forms*: 
 
