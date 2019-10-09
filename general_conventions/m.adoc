@@ -120,6 +120,17 @@
 *See also*: xref:command-driven[command-driven]
 
 [discrete]
+[[micro-release]]
+==== micro release (noun)
+*Description*: "Micro release" refers to the *_z_* in an _x.y.z_ product version numbering schema. Use only if required for generic reference to a release and the term is in use already by the product. In all other instances refer to the specific release number.
+
+*Use it*: with caution
+
+*Incorrect forms*: 
+
+*See also*: xref:z-stream[z-stream]
+
+[discrete]
 [[microsoft]]
 ==== Microsoft (noun)
 *Description*: "Microsoft" is a technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and services.
