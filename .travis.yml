@@ -1,0 +1,30 @@
+sudo: required
+
+branches:
+  only:
+  - master # Name of the branch from which to publish
+
+services:
+  - docker
+
+before_install:
+  - mkdir -p output/termsandconventions
+  - cp index.html output/
+  - docker pull asciidoctor/docker-asciidoctor
+
+script:
+  - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-html-termsandconventions asciidoctor/docker-asciidoctor asciidoctor --destination-dir=/documents/output/termsandconventions --out-file=index.html termsandconventions/master.adoc
+
+after_error:
+  - docker logs asciidoc-to-html-termsandconventions
+
+after_failure:
+  - docker logs asciidoc-to-html-termsandconventions
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN # Set in travis-ci.org dashboard
+  local_dir: output
+  on:
+    branch: master
