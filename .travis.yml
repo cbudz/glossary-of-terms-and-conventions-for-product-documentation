@@ -14,15 +14,12 @@ before_install:
 
 script:
   - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-html-termsandconventions-community asciidoctor/docker-asciidoctor asciidoctor --destination-dir=/documents/output/termsandconventions/community --out-file=index.html community/master.adoc
-  - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-html-termsandconventions-redhat asciidoctor/docker-asciidoctor asciidoctor --destination-dir=/documents/output/termsandconventions/redhat --out-file=index.html redhat/master.adoc
 
 after_error:
   - docker logs asciidoc-to-html-termsandconventions-community
-  - docker logs asciidoc-to-html-termsandconventions-redhat
   
 after_failure:
   - docker logs asciidoc-to-html-termsandconventions-community
-  - docker logs asciidoc-to-html-termsandconventions-redhat
 
 deploy:
   provider: pages
