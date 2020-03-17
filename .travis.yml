@@ -9,7 +9,6 @@ services:
 
 before_install:
   - mkdir -p output/termsandconventions/community
-  - mkdir -p output/termsandconventions/redhat
   - cp index.html output/
   - docker pull asciidoctor/docker-asciidoctor
 
