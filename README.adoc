@@ -4,21 +4,21 @@ This document (the "glossary") outlines terms and conventions for technical lang
 
 == Compiled Version
 
-https://doc-stage.usersys.redhat.com/documentation/en-us/ccs_internal_documentation/1.0/html-single/glossary_of_terms_and_conventions_for_product_documentation/[Glossary of Terms and Conventions for Product Documentation]
+link:https://redhat-documentation.github.io/glossary-of-terms-and-conventions-for-product-documentation/[Glossary of Terms and Conventions for Product Documentation]
 
 == Looking for Guidance?
 
-If you are looking for guidance that is not in the glossary or _The IBM Style Guide_, you can submit your question as a link:https://gitlab.cee.redhat.com/ccs-internal-documentation/glossary-of-terms-and-conventions-for-product-documentation/issues[GitLab issue] and the project team will discuss and come to a consensus. See link:https://doc-stage.usersys.redhat.com/documentation/en-us/ccs_internal_documentation/1.0/html-single/glossary_of_terms_and_conventions_for_product_documentation/#submitting_issues[Submitting Issues] for more information.
+If you are looking for guidance that is not in the glossary or _The IBM Style Guide_, you can submit your question as a link:https://github.com/redhat-documentation/glossary-of-terms-and-conventions-for-product-documentation/issues[GitHub issue] and the project team will discuss and come to a consensus. See link:https://redhat-documentation.github.io/glossary-of-terms-and-conventions-for-product-documentation/#submitting_issues[Submitting Issues] for more information.
 
 == Contributing
 
-See https://doc-stage.usersys.redhat.com/documentation/en-us/ccs_internal_documentation/1.0/html-single/glossary_of_terms_and_conventions_for_product_documentation/#how_to_update_this_document[How to Update this Document] for details.
+See link:https://redhat-documentation.github.io/glossary-of-terms-and-conventions-for-product-documentation/#how_to_update_this_document[How to Update this Document] for details.
 
 == Project Members
 
 === Ongoing Project Contributors and Repository Maintainers
 
-These project members continue to work on project team, and maintain the repository on an ongoing basis via the https://calendar.google.com/calendar/embed?src=redhat.com_gnjpmdsmror0bai9p0sdgfn8bc%40group.calendar.google.com&ctz=Australia/Brisbane[Documentation Conventions Repository Administration Roster].
+These project members continue to work on project team, and maintain the repository on an ongoing basis via the Documentation Conventions Repository Administration Roster.
 
 Feel free to contact these project members with questions about and suggestions for the project or the repository.
 
@@ -33,8 +33,6 @@ Ingrid Towey (itowey@redhat.com)
 Jennifer Malloy (jmalloy@redhat.com)
 
 Les Williams (lwilliam@redhat.com)
-
-Lucy Bopf (lbopf@redhat.com)
 
 Tahlia Richardson (trichard@redhat.com)
 
